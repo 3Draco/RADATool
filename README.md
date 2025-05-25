@@ -1,3 +1,5 @@
+RADATool V1
+
 This program connects to the RetroAchievements API to gather data on games per system that have achievements.
 
 Export Options
