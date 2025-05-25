@@ -1,0 +1,1797 @@
+[
+  {
+    "id": "19841",
+    "title": "~Homebrew~ 8bit-Slicks",
+    "hashes": [
+      {
+        "md5": "38c8b97abb1bace158e1ba4e0c117031",
+        "name": "8bit-Slicks (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30039",
+    "title": "~Homebrew~ A Bug's Trip Redux",
+    "hashes": [
+      {
+        "md5": "8e94fcf9491ef7a4669aab865c5c7a32",
+        "name": "Bug's Trip Redux, A (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25986",
+    "title": "~Homebrew~ Atari Tabletops Collection #1",
+    "hashes": [
+      {
+        "md5": "3b39c02712fbe02d47431c2f42eb1b15",
+        "name": "Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl).bll",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30040",
+    "title": "~Homebrew~ Championship Rally",
+    "hashes": [
+      {
+        "md5": "55c771c76dee5b118b9f013696f5084f",
+        "name": "Championship Rally (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25950",
+    "title": "~Homebrew~ CHIP-8 Emulator",
+    "hashes": [
+      {
+        "md5": "3d4c70cba51a5c1f0e2fc3c1acb4be50",
+        "name": "CHIP-8 Emulator (World) (Aftermarket) (Unl).lnx",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "19508",
+    "title": "~Homebrew~ Flappy Bird: Testing",
+    "hashes": [
+      {
+        "md5": "0173ec92e8e8a0359901f310c5f12bb1",
+        "name": "Flappy Bird (86) (World) (Aftermarket) (tonma).lnx",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8f05d2ffdadffdbce7a1040a9aa0f8e7",
+        "name": "Flappy Bird (EE) (World) (Aftermarket) (tonma).lnx",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "19715",
+    "title": "~Homebrew~ Game & Lynx: Critter Championship",
+    "hashes": [
+      {
+        "md5": "757852d987db4cc79a1a81eadc9dd821",
+        "name": "Critter Championship (World) (Demo) (Aftermarket) (Unl).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "29053",
+    "title": "~Homebrew~ Running Knight",
+    "hashes": [
+      {
+        "md5": "24077ab7bf46300ff02aa4ca78a81c2c",
+        "name": "Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos).lnx",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "24300",
+    "title": "~Homebrew~ Scooternia",
+    "hashes": [
+      {
+        "md5": "459aaf1e66384ea3534e3ce2149a1718",
+        "name": "Scooternia (World) (Demo) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "30041",
+    "title": "~Homebrew~ Sky Raider Redux",
+    "hashes": [
+      {
+        "md5": "4d091a303e7c3cbc2f7810200a238cdb",
+        "name": "Sky Raider Redux (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24898",
+    "title": "~Homebrew~ T-Tris",
+    "hashes": [
+      {
+        "md5": "1b6a8a0b7f80332e9c7dfecaded8683e",
+        "name": "T-Tris (World) (Pirate) (Alt).bll",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "27007",
+    "title": "~Homebrew~ Timeloop",
+    "hashes": [
+      {
+        "md5": "749f3e82357bab232731f0e56f97569c",
+        "name": "Timeloop (World) (Aftermarket) (Unl).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "30042",
+    "title": "~Homebrew~ Unnamed",
+    "hashes": [
+      {
+        "md5": "3303bf3734bb8e32a7fb7d144be07765",
+        "name": "Unnamed (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30043",
+    "title": "~Homebrew~ Vikings Saga: Protect the Love",
+    "hashes": [
+      {
+        "md5": "c2a1fd87ce91f8edb5bd19c93ac8fbb4",
+        "name": "Vikings Saga - Protect the Love (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30044",
+    "title": "~Homebrew~ Vikings Saga: Save the Love",
+    "hashes": [
+      {
+        "md5": "c5cab263eb6860582e4716f958317abd",
+        "name": "Vikings Saga - Save the Love (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30045",
+    "title": "~Homebrew~ Wyvern Tales",
+    "hashes": [
+      {
+        "md5": "d7588e5cd114ea18898d7be34426d7cb",
+        "name": "Wyvern Tales (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30046",
+    "title": "~Homebrew~ YNXA",
+    "hashes": [
+      {
+        "md5": "2de80f7d6212d5df86423b6381ecfe6f",
+        "name": "YNXA (World) (Aftermarket) (Unl).lyx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19714",
+    "title": "~Homebrew~ Z.A.P.",
+    "hashes": [
+      {
+        "md5": "d5079e2e6e1ad9c2b730e47c240a4da0",
+        "name": "Z.A.P. (World) (Aftermarket) (Unl).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "10566",
+    "title": "~Prototype~ Alien vs. Predator",
+    "hashes": [
+      {
+        "md5": "8ce6c739d30d6c5ba197fcdd73d5ead5",
+        "name": "Alien vs Predator (USA) (Proto) (1993-12-17).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11485",
+    "title": "~Prototype~ Daemonsgate",
+    "hashes": [
+      {
+        "md5": "f8b4debd68eb0d7c578242fa74e1c593",
+        "name": "Daemon's Gate (USA) (Proto 1).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9984",
+    "title": "~Prototype~ Eye of the Beholder",
+    "hashes": [
+      {
+        "md5": "858480bb97d86a52b1ca17dc390a8bdc",
+        "name": "Eye of the Beholder (USA) (Proto 1).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11492",
+    "title": "~Prototype~ Marlboro Go!",
+    "hashes": [
+      {
+        "md5": "194a3eeb876d2b74cc480f4d337d79b3",
+        "name": "Marlboro Go! (Europe) (Proto 2).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "11122",
+    "title": "~Test Kit~ Lynx Test Cart V0.02",
+    "hashes": [
+      {
+        "md5": "5d8fdfb15441cdfb8a1c66c243c486da",
+        "name": "Lynx II Production Test Program (USA).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10444",
+    "title": "A.P.B.: All Points Bulletin",
+    "hashes": [
+      {
+        "md5": "b425941149874c6371c40e85cc5b6241",
+        "name": "A.P.B. (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10858",
+    "title": "Awesome Golf",
+    "hashes": [
+      {
+        "md5": "49d6eeb3c983246ff4d7034497f7095c",
+        "name": "Awesome Golf (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11472",
+    "title": "Baseball Heroes",
+    "hashes": [
+      {
+        "md5": "8c9a72ddbb5559293862684ec67bfa92",
+        "name": "Baseball Heroes (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "11479",
+    "title": "Basketbrawl",
+    "hashes": [
+      {
+        "md5": "f19b95e4835c5fbc44b180dbd3f024fc",
+        "name": "Basketbrawl (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10597",
+    "title": "Batman Returns",
+    "hashes": [
+      {
+        "md5": "6e9bbff3c7b66d3ec0411ffbe0e41dfd",
+        "name": "Batman Returns (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "11491",
+    "title": "BattleWheels",
+    "hashes": [
+      {
+        "md5": "fddecd756abe5eaf613ca1db31d51df7",
+        "name": "Battle Wheels (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13039",
+    "title": "Battlezone 2000",
+    "hashes": [
+      {
+        "md5": "d405ea54b77390b06222f9dac7cea827",
+        "name": "Battlezone 2000 (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "11490",
+    "title": "Bill & Ted's Excellent Adventure",
+    "hashes": [
+      {
+        "md5": "87dff4f4d5e1e4a7132d19f94d4e9b3a",
+        "name": "Bill & Ted's Excellent Adventure (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "11235",
+    "title": "Block Out",
+    "hashes": [
+      {
+        "md5": "c81abf2919effd525b83c2103b75e6ca",
+        "name": "Block Out (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11484",
+    "title": "Blue Lightning",
+    "hashes": [
+      {
+        "md5": "f7b4775771bc25d9053af5c69a8c8b2a",
+        "name": "Blue Lightning (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11480",
+    "title": "Bubble Trouble",
+    "hashes": [
+      {
+        "md5": "90841f8fed54862f8a8750ddf212eb84",
+        "name": "Bubble Trouble (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11482",
+    "title": "California Games",
+    "hashes": [
+      {
+        "md5": "73e02bb77dcf857a6578f0e24b4ecb9e",
+        "name": "California Games (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "11481",
+    "title": "Checkered Flag",
+    "hashes": [
+      {
+        "md5": "85b33c5e5985ab041ecc44555a8cfb42",
+        "name": "Checkered Flag (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "10596",
+    "title": "Chip's Challenge",
+    "hashes": [
+      {
+        "md5": "24611d1445ebd34ab79fb0ae996ff4e4",
+        "name": "Chip's Challenge (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "10669",
+    "title": "Crystal Mines II",
+    "hashes": [
+      {
+        "md5": "b4acbd3c544a0d92cc8ad1380bf8a810",
+        "name": "Crystal Mines II (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 181,
+      "points": 0
+    }
+  },
+  {
+    "id": "10190",
+    "title": "Desert Strike: Return to the Gulf",
+    "hashes": [
+      {
+        "md5": "f764b88c44afa8b5ebefb8eb2e4d7b97",
+        "name": "Desert Strike - Return to the Gulf (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13863",
+    "title": "Dinolympics",
+    "hashes": [
+      {
+        "md5": "9496be61fd0675553f05345c5fc2d15c",
+        "name": "Dinolympics (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11038",
+    "title": "Dirty Larry: Renegade Cop",
+    "hashes": [
+      {
+        "md5": "8cd77bec912c9b4dcebd8a82dcf91a0b",
+        "name": "Dirty Larry - Renegade Cop (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "10117",
+    "title": "Double Dragon",
+    "hashes": [
+      {
+        "md5": "0e91b7ed60bb47d569ba24df671ad3a3",
+        "name": "Double Dragon (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10862",
+    "title": "Dracula: The Undead",
+    "hashes": [
+      {
+        "md5": "3ff35996887c2ff95e275085efbbbbed",
+        "name": "Dracula the Undead (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "11020",
+    "title": "Electrocop",
+    "hashes": [
+      {
+        "md5": "c49ca94a908db219224c6d5baa206ab6",
+        "name": "Electrocop (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11474",
+    "title": "European Soccer Challenge",
+    "hashes": [
+      {
+        "md5": "32e726ab7941eb1e833dcc4cf348a060",
+        "name": "European Soccer Challenge (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11483",
+    "title": "Fat Bobby",
+    "hashes": [
+      {
+        "md5": "69abd21c83390dae54630919c3c150d0",
+        "name": "Fat Bobby (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11494",
+    "title": "Gates of Zendocon",
+    "hashes": [
+      {
+        "md5": "d5be9118bcb14243468001b08c4aa21a",
+        "name": "Gates of Zendocon (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11512",
+    "title": "Gauntlet: The Third Encounter",
+    "hashes": [
+      {
+        "md5": "0b572c0dfb938849eeec39b2c9583547",
+        "name": "Gauntlet - The Third Encounter (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 32,
+      "points": 0
+    }
+  },
+  {
+    "id": "11493",
+    "title": "Gordo 106",
+    "hashes": [
+      {
+        "md5": "eb9b5b2b6160e5f3015bc2a669d886b6",
+        "name": "Gordo 106 (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19507",
+    "title": "Hard Drivin'",
+    "hashes": [
+      {
+        "md5": "c265f0de8c5bd77db8f9cf5a1f7ab68f",
+        "name": "Hard Drivin' (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11476",
+    "title": "Hockey",
+    "hashes": [
+      {
+        "md5": "a08b8070ad613bdb2637162b3bf39574",
+        "name": "Hockey (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13037",
+    "title": "Hydra",
+    "hashes": [
+      {
+        "md5": "76a48869c14fbcf85588001a1327253d",
+        "name": "Hydra (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10201",
+    "title": "Ishido: The Way of Stones",
+    "hashes": [
+      {
+        "md5": "addc6c0ae7b535839815b8e7f7fd0f11",
+        "name": "Ishido - The Way of Stones (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11486",
+    "title": "Jimmy Connors' Tennis",
+    "hashes": [
+      {
+        "md5": "087e6ed018ad0573bd7ce3a91d34f2c9",
+        "name": "Jimmy Connors' Tennis (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10670",
+    "title": "Joust",
+    "hashes": [
+      {
+        "md5": "440462507cf5cffaa8d3d3a66f01ac6a",
+        "name": "Joust (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13206",
+    "title": "Klax",
+    "hashes": [
+      {
+        "md5": "f96a0ddcc72c971226e8fdfd95607c88",
+        "name": "Klax (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11487",
+    "title": "Krazy Ace Miniature Golf",
+    "hashes": [
+      {
+        "md5": "7e82db12a5749ab983e2f3c8bf4c0f6e",
+        "name": "Krazy Ace - Miniature Golf (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "11478",
+    "title": "Kung Food",
+    "hashes": [
+      {
+        "md5": "e5e42190918847b8c6056e78316ee91d",
+        "name": "Kung Food (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "10567",
+    "title": "Lemmings",
+    "hashes": [
+      {
+        "md5": "3cae85572df3b43f0220326bf4bb3c8b",
+        "name": "Lemmings (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10242",
+    "title": "Lexis",
+    "hashes": [
+      {
+        "md5": "7ee41edaef283459c9df93366c5da267",
+        "name": "Lexis (World) (Aftermarket) (Unl).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "19754",
+    "title": "Lynx Casino",
+    "hashes": [
+      {
+        "md5": "05d28ab0e92b19147e7f5ea88c6efb6d",
+        "name": "Lynx Casino (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19506",
+    "title": "Malibu Bikini Volleyball",
+    "hashes": [
+      {
+        "md5": "280344c8b073895ecce286d1b9d87d8b",
+        "name": "Malibu Bikini Volleyball (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10598",
+    "title": "Ms. Pac-Man",
+    "hashes": [
+      {
+        "md5": "192b6b764a3a1c7831e0a785fa4b5453",
+        "name": "Ms. Pac-Man (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "26380",
+    "title": "NFL Football",
+    "hashes": [
+      {
+        "md5": "276b9be28571189912f05d321fcb04ef",
+        "name": "NFL Football (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10637",
+    "title": "Ninja Gaiden",
+    "hashes": [
+      {
+        "md5": "7ec4063eb6c7c74600d6a16fb3a3bdbd",
+        "name": "Ninja Gaiden (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "12665",
+    "title": "Ninja Gaiden III: The Ancient Ship of Doom",
+    "hashes": [
+      {
+        "md5": "c9ed2a3bdefd6d5fdf67302d87b5cfb2",
+        "name": "Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "10600",
+    "title": "Pac-Land",
+    "hashes": [
+      {
+        "md5": "0a14754b351b4f11a1359e252b8eb992",
+        "name": "Pac-Land (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10653",
+    "title": "Paperboy",
+    "hashes": [
+      {
+        "md5": "2a59d2ca6d6f07bc2791bf349e2778ee",
+        "name": "Paperboy (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11475",
+    "title": "Pinball Jam",
+    "hashes": [
+      {
+        "md5": "29a248fbc87f477b49587581e29c1dc7",
+        "name": "Pinball Jam (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "11489",
+    "title": "Pit Fighter",
+    "hashes": [
+      {
+        "md5": "5565889a9a8817f99ec6dda322a70877",
+        "name": "Pit-Fighter (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "26381",
+    "title": "Power Factor",
+    "hashes": [
+      {
+        "md5": "b29414b8c81cc9ef28ef2f7a09d6d876",
+        "name": "Power Factor (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13036",
+    "title": "Qix",
+    "hashes": [
+      {
+        "md5": "12e1eb0900402ef6de8b72dda5d22f47",
+        "name": "QIX (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10558",
+    "title": "Raiden",
+    "hashes": [
+      {
+        "md5": "abfd6ae93c31e8f59aa934ad922cb4dd",
+        "name": "Raiden (USA, Europe) (Beta).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10243",
+    "title": "Rampage",
+    "hashes": [
+      {
+        "md5": "e0cb426257761c3688a866332ed48340",
+        "name": "Rampage (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25884",
+    "title": "Rampart",
+    "hashes": [
+      {
+        "md5": "d8045ed542d5e58c779c884e0930e16c",
+        "name": "Rampart (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "10628",
+    "title": "RoadBlasters",
+    "hashes": [
+      {
+        "md5": "39617ebb81f3c1df27354c18571bd6c3",
+        "name": "RoadBlasters (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10853",
+    "title": "Robo-Squash",
+    "hashes": [
+      {
+        "md5": "f9faa45e3c35e505249c3f9df801737b",
+        "name": "Robo-Squash (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12858",
+    "title": "Robotron 2084",
+    "hashes": [
+      {
+        "md5": "60c1dfbf112bbb2a49cf16eddb191842",
+        "name": "Robotron 2084 (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "11473",
+    "title": "Rygar: Legendary Warrior",
+    "hashes": [
+      {
+        "md5": "ff6fff314446ab70dfecb21e2de4a2f6",
+        "name": "Rygar (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "13038",
+    "title": "S.T.U.N. Runner",
+    "hashes": [
+      {
+        "md5": "490f8063bbb299070c4aceab64195088",
+        "name": "S.T.U.N. Runner (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11469",
+    "title": "Scrapyard Dog",
+    "hashes": [
+      {
+        "md5": "0cf228912d2f8eeb29aa215abf416f6d",
+        "name": "Scrapyard Dog (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10857",
+    "title": "Shadow of the Beast",
+    "hashes": [
+      {
+        "md5": "f92d57198ef2da30dba63bdd7c15ff83",
+        "name": "Shadow of the Beast (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "13040",
+    "title": "Shanghai",
+    "hashes": [
+      {
+        "md5": "46634eb87e6380d4d10f7b80d177c1ff",
+        "name": "Shanghai (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "10626",
+    "title": "Steel Talons",
+    "hashes": [
+      {
+        "md5": "8828c0042a1a397de67c4e49042161ff",
+        "name": "Steel Talons (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11234",
+    "title": "Super Asteroids and Missile Command",
+    "hashes": [
+      {
+        "md5": "67dd69e6ffaf61bc85243d272d9ee9d9",
+        "name": "Super Asteroids, Missile Command (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13114",
+    "title": "Super Off Road",
+    "hashes": [
+      {
+        "md5": "6cd23cb37c4c4c34ef4e197468462f3f",
+        "name": "Super Off-Road (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12642",
+    "title": "Super Skweek",
+    "hashes": [
+      {
+        "md5": "a19802bd3a7e390daf7e2cbe5a81ed38",
+        "name": "Super Skweek (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10997",
+    "title": "Switchblade II",
+    "hashes": [
+      {
+        "md5": "4971dd8b47d3475dc8d31b5325c14459",
+        "name": "Switchblade II (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "19753",
+    "title": "The Fidelity Ultimate Chess Challenge",
+    "hashes": [
+      {
+        "md5": "19eb0ca77284b5d91a63eb02f6962930",
+        "name": "Fidelity Ultimate Chess Challenge, The (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11019",
+    "title": "Todd's Adventures in Slime World",
+    "hashes": [
+      {
+        "md5": "4581ac0418679567dce041c88cc97719",
+        "name": "Todd's Adventures in Slime World (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11161",
+    "title": "Toki",
+    "hashes": [
+      {
+        "md5": "ec46311f47276e20cc43228c96d119a1",
+        "name": "Toki (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "26382",
+    "title": "Tournament Cyberball",
+    "hashes": [
+      {
+        "md5": "391dfaba9ab8b9b60e9d8ca2a73f5711",
+        "name": "Tournament Cyberball (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "13115",
+    "title": "Turbo Sub",
+    "hashes": [
+      {
+        "md5": "8caaaf56f95ee0bb610ca14af2d12a61",
+        "name": "Turbo Sub (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11488",
+    "title": "Viking Child",
+    "hashes": [
+      {
+        "md5": "44d7c4ea6b8d930075f5b05c94b5f973",
+        "name": "Viking Child (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12913",
+    "title": "Warbirds",
+    "hashes": [
+      {
+        "md5": "e7f118ac59f985ceea2ecfc0f17e9cc6",
+        "name": "Warbirds (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "11477",
+    "title": "World Class Soccer",
+    "hashes": [
+      {
+        "md5": "7fcf204013cbedf7eaaf682ff5f216ba",
+        "name": "World Class Soccer (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10573",
+    "title": "Xenophobe",
+    "hashes": [
+      {
+        "md5": "69fb597cb4db019c48fd2e0c1cc7b75c",
+        "name": "Xenophobe (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11438",
+    "title": "Xybots",
+    "hashes": [
+      {
+        "md5": "c145bfe904e5d56f479df44204b255da",
+        "name": "Xybots (USA, Europe).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10196",
+    "title": "Zarlor Mercenary",
+    "hashes": [
+      {
+        "md5": "d008f41ec119e2c5c6a0782aebf148a8",
+        "name": "Zarlor Mercenary (World).lnx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  }
+]

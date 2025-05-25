@@ -1,0 +1,692 @@
+[
+  {
+    "id": "26665",
+    "title": "~Homebrew~ ~Demo~ Home Run Derby!",
+    "hashes": [
+      {
+        "md5": "bc696313d459a3829c209c81a04e5f6a",
+        "name": "Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "89c1de1195d7f25bda63875201445f25",
+        "name": "Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "22942",
+    "title": "~Homebrew~ Alice's Mom's Rescue!",
+    "hashes": [
+      {
+        "md5": "7a3837f8d61c7e60d09e7e3864195c0b",
+        "name": "Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 50,
+      "points": 0
+    }
+  },
+  {
+    "id": "24458",
+    "title": "~Homebrew~ Degz",
+    "hashes": [
+      {
+        "md5": "0c95d3fac3b99edb2778252f17937b9d",
+        "name": "Degz (World) (Aftermarket) (Unl).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24459",
+    "title": "~Homebrew~ Downfall",
+    "hashes": [
+      {
+        "md5": "ef4b4b04e5857bb172e5dc804f075ea1",
+        "name": "Downfall (World) (Aftermarket) (Unl) (Reboot).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "24515",
+    "title": "~Homebrew~ Elansar",
+    "hashes": [
+      {
+        "md5": "87a5b4eecd0b5ebd56a44d924fa54077",
+        "name": "Elansar (World) (Aftermarket) (Unl) (OrionSoft).cdi",
+        "labels": [
+          "itchio",
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "24461",
+    "title": "~Homebrew~ Expressway",
+    "hashes": [
+      {
+        "md5": "fa4f9bdef50098e13746ba9c9135f28b",
+        "name": "Expressway (World) (Aftermarket) (Unl).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24462",
+    "title": "~Homebrew~ Full Circle: Rocketeer",
+    "hashes": [
+      {
+        "md5": "97f5012d44f6332ad2e3c020715787b7",
+        "name": "Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "24304",
+    "title": "~Homebrew~ Jagmatch",
+    "hashes": [
+      {
+        "md5": "b406a7402a14c406e26aa21f4e4b8817",
+        "name": "Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "24309",
+    "title": "~Homebrew~ Jagtopia",
+    "hashes": [
+      {
+        "md5": "5e2588652281a7066c3d603a929143f6",
+        "name": "Jagtopia (World) (Aftermarket) (Unl).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24385",
+    "title": "~Homebrew~ Kobayashi Maru: Final",
+    "hashes": [
+      {
+        "md5": "1afcfa7cc6565e8b774ac2556ce8d8ca",
+        "name": "Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "24087",
+    "title": "~Homebrew~ Orion_'s Jaguar Collection",
+    "hashes": [
+      {
+        "md5": "e7478c14a6724e1c3210e27e90ba68cf",
+        "name": "Orion_'s Jaguar Collection (World) (Aftermarket) (Unl).nrg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24460",
+    "title": "~Homebrew~ Rocks Off",
+    "hashes": [
+      {
+        "md5": "0e0722d5d4f4a2617aecebf87f180c96",
+        "name": "Rocks Off! (World (Aftermarket) (Unl).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24060",
+    "title": "~Homebrew~ Saucer Wars",
+    "hashes": [
+      {
+        "md5": "d19987d55d2b0aa6d0ff82ef9d859341",
+        "name": "Saucer Wars (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24088",
+    "title": "~Homebrew~ SuperFly DX",
+    "hashes": [
+      {
+        "md5": "b7a6ddb06827fc8cbaa3fee0369e6fda",
+        "name": "SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot).cdi",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "24064",
+    "title": "~Prototype~ American Hero",
+    "hashes": [
+      {
+        "md5": "b7338f006611018eefa8aae5117f034f",
+        "name": "American Hero (USA) (Proto) (Movie A) (Disc 1)",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21669",
+    "title": "~Prototype~ Black ICE\\White Noise",
+    "hashes": [
+      {
+        "md5": "13e85825fdebfde50ae795c2ec1c4a6b",
+        "name": "Black ICE - White Noise (USA) (Proto)",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24457",
+    "title": "~Prototype~ Caves of Fear",
+    "hashes": [
+      {
+        "md5": "ddb93e31fbb5689fb215e0938e33fb38",
+        "name": "Caves of Fear (USA) (Proto)",
+        "labels": [
+          "nointro",
+          "nonredump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22994",
+    "title": "~Prototype~ Demolition Man",
+    "hashes": [
+      {
+        "md5": "1cc370e97b748295766c17a28a0e7daa",
+        "name": "Demolition Man (Unknown) (Proto)",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24305",
+    "title": "~Prototype~ Varuna's Forces",
+    "hashes": [
+      {
+        "md5": "780f13fc2f5559f734c75a6bd6002a6a",
+        "name": "Varuna's Forces (Unknown) (Proto 2)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24303",
+    "title": "~Unlicensed~ Ants",
+    "hashes": [
+      {
+        "md5": "00e51a104d12ac1b6b3738a4553c3a06",
+        "name": "Ants (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "24307",
+    "title": "~Unlicensed~ Fast Food 64",
+    "hashes": [
+      {
+        "md5": "88b332a84c80be1981bbc784c09aba2c",
+        "name": "Fast Food 64 (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "24306",
+    "title": "~Unlicensed~ Fast Food 64: Holiday Snacks",
+    "hashes": [
+      {
+        "md5": "c58a8131dcd07bd60146d675c10b5d0f",
+        "name": "Fast Food 64 - Holiday Snacks (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "22996",
+    "title": "~Unlicensed~ Frog Feast",
+    "hashes": [
+      {
+        "md5": "623bfad5a4ce40bacf4520ad66697b34",
+        "name": "Frog Feast (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "24308",
+    "title": "~Unlicensed~ Frogz 64",
+    "hashes": [
+      {
+        "md5": "513daad36c3bde25e81ef04710721dba",
+        "name": "Frogz 64 (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21667",
+    "title": "~Unlicensed~ Klax",
+    "hashes": [
+      {
+        "md5": "b3ec00d298651570d2c6b9e63724ed92",
+        "name": "Klax (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 44,
+      "points": 0
+    }
+  },
+  {
+    "id": "22995",
+    "title": "~Unlicensed~ Robinson's Requiem",
+    "hashes": [
+      {
+        "md5": "1b23ee71b86a53f2ce574482ac6645e6",
+        "name": "Robinson's Requiem (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21663",
+    "title": "Baldies",
+    "hashes": [
+      {
+        "md5": "76af127fbb4f621d9c128df809b27d4c",
+        "name": "Baldies (USA) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 104,
+      "points": 0
+    }
+  },
+  {
+    "id": "21664",
+    "title": "Battle Morph",
+    "hashes": [
+      {
+        "md5": "9188fe558ec8a540fd1b5943c62d9d35",
+        "name": "Battle Morph (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21665",
+    "title": "Blue Lightning",
+    "hashes": [
+      {
+        "md5": "fff5bd13f44c8184da5eaa1ff4b9bc2b",
+        "name": "Blue Lightning (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21671",
+    "title": "Brain Dead 13",
+    "hashes": [
+      {
+        "md5": "6516d3fe6be7f24ac4364f518b6badf6",
+        "name": "BrainDead 13 (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "24065",
+    "title": "Dragon's Lair",
+    "hashes": [
+      {
+        "md5": "d068b02bd51d0548fd3740d3e02f3d56",
+        "name": "Dragon's Lair (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "21666",
+    "title": "Highlander: The Last of the MacLeods",
+    "hashes": [
+      {
+        "md5": "f6f811940ff1c15d50481d6e54268b51",
+        "name": "Highlander - The Last of the MacLeods (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24061",
+    "title": "Hover Strike: Unconquered Lands",
+    "hashes": [
+      {
+        "md5": "3d9b6d476c08c214ed1821d77b9c2e39",
+        "name": "Hover Strike - Unconquered Lands (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21668",
+    "title": "Myst",
+    "hashes": [
+      {
+        "md5": "ebd5642a0aa860508f1646b4879d4952",
+        "name": "Myst (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24063",
+    "title": "Space Ace",
+    "hashes": [
+      {
+        "md5": "857cce0c114ff8975348d98e1e17d8f1",
+        "name": "Space Ace (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "24062",
+    "title": "Vid Grid",
+    "hashes": [
+      {
+        "md5": "5231c2db53300cf9e45c1b82ce55bd49",
+        "name": "Vid Grid (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21670",
+    "title": "World Tour Racing",
+    "hashes": [
+      {
+        "md5": "127d2f80ea98b6090977bf80f3133d7c",
+        "name": "World Tour Racing (USA) (Songbird)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

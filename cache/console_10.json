@@ -1,0 +1,928 @@
+[
+  {
+    "id": "16796",
+    "title": "~Hack~ ~Demo~ Knuckles' Clackers",
+    "hashes": [
+      {
+        "md5": "25a038ed13a3099ff5f60a54b790e0dc",
+        "name": "Knuckles' Chaotix - Knuckles' Clackers (v0.2c) (EagleSoft).32x",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18179",
+    "title": "~Hack~ Doom 32X: Resurrection",
+    "hashes": [
+      {
+        "md5": "49134106e611839a28caf94a1ddd783d",
+        "name": "Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team).32x",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 117,
+      "points": 0
+    }
+  },
+  {
+    "id": "31958",
+    "title": "~Hack~ GameTap, Cup Noodles, and Bitter Tears",
+    "hashes": [
+      {
+        "md5": "e249205c5a3ed392f2bc4a4841fd98e2",
+        "name": "Knuckles' Chaotix - GameTap, Cup Noodles, and Bitter Tears (v1.1) (Steazy Games).32x",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22047",
+    "title": "~Hack~ Mortal Kombat II: Arcade Edition",
+    "hashes": [
+      {
+        "md5": "55088e83cf69c5b741bae56981ba6af0",
+        "name": "Mortal Kombat II - Arcade Edition (v1.5b) (Master Linkuei).32x",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9410e8be81deb056faf1a8e979c7028b",
+        "name": "Mortal Kombat II - Arcade Edition (v1.5c) (Master Linkuei).32x",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17681",
+    "title": "~Hack~ Sigil",
+    "hashes": [
+      {
+        "md5": "f891f45238cf4a8a0956196d665612b8",
+        "name": "Doom - Sigil (John Romero).32x",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "33276",
+    "title": "~Homebrew~ ~Demo~ Sonic Robo Blast 2",
+    "hashes": [
+      {
+        "md5": "c9dd33ba3cbdd64941dd19facb515adb",
+        "name": "Sonic Robo Blast 2 (USA) (v0.1a) (Aftermarket) (SSNTails, Saxman).32x",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26347",
+    "title": "~Homebrew~ Anarch",
+    "hashes": [
+      {
+        "md5": "7f2fb6ad28a76a718fce25467d66f53a",
+        "name": "Anarch (USA) (v1.0) (Aftermarket) (Unl) (drummyfish).32x",
+        "labels": [
+          "homebrew",
+          "github",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33570",
+    "title": "~Homebrew~ Double Symbol",
+    "hashes": [
+      {
+        "md5": "4b14e8c22a97b4fd164e077a4980c582",
+        "name": "Double Symbol (World) (v1.35) (Aftermarket) (Timur Lyazgiev).32x",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17682",
+    "title": "~Homebrew~ xRick",
+    "hashes": [
+      {
+        "md5": "f642e289bfb670022e0ae001786bdf94",
+        "name": "xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy).32x",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "16794",
+    "title": "~Prototype~ ClayFighter 2",
+    "hashes": [
+      {
+        "md5": "dee27ac83240ddebdcaa92e9f58fde4f",
+        "name": "ClayFighter 2 (USA) (Proto) (1995-04-28).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "16800",
+    "title": "~Prototype~ Pinocchio",
+    "hashes": [
+      {
+        "md5": "406ab3e46797d8459c3d9efbbc044282",
+        "name": "Pinocchio (Europe) (Proto) (1995-12-06).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 27,
+      "points": 0
+    }
+  },
+  {
+    "id": "15989",
+    "title": "~Prototype~ Soul Star X | Soulstar X",
+    "hashes": [
+      {
+        "md5": "4e9d4bd4122fbe72d6f6918e55a58a35",
+        "name": "Soulstar X (USA) (Proto).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "23739",
+    "title": "~Prototype~ Spot Goes to Hollywood",
+    "hashes": [
+      {
+        "md5": "11caaeaa76ac810400e9a08985e0eb29",
+        "name": "Spot Goes to Hollywood (USA) (Proto).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "14207",
+    "title": "~Prototype~ Virtua Hamster",
+    "hashes": [
+      {
+        "md5": "b3a4929fcb61bc9ecdfd9ac453860fc1",
+        "name": "Virtua Hamster (USA) (Proto).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "15990",
+    "title": "~Prototype~ X-Men: Mind Games",
+    "hashes": [
+      {
+        "md5": "bdd19a34a887a4aa6067ccfb617b9041",
+        "name": "X-Men (USA) (Proto).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14303",
+    "title": "After Burner Complete",
+    "hashes": [
+      {
+        "md5": "ec9529858cc7961b39f5382b2f657b8f",
+        "name": "After Burner Complete (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "15652",
+    "title": "BC Racers",
+    "hashes": [
+      {
+        "md5": "35a11e021ca0b7ff909e4774eb8b3236",
+        "name": "BC Racers (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10576",
+    "title": "Blackthorne",
+    "hashes": [
+      {
+        "md5": "c238b112113b0297b2b9f4f618d56598",
+        "name": "Blackthorne (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8c39e659db41e78cf4899b24551a9dbc",
+        "name": "Blackthorne (USA) (Blizzard Arcade Collection).32x",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16793",
+    "title": "Brutal: Above the Claw",
+    "hashes": [
+      {
+        "md5": "1738a479b0253bcb0bcfb7bf09c03add",
+        "name": "Brutal - Above the Claw (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "14306",
+    "title": "Cosmic Carnage",
+    "hashes": [
+      {
+        "md5": "32f3002a46a462735aa12ca856cb7652",
+        "name": "Cosmic Carnage (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "16795",
+    "title": "DarXide",
+    "hashes": [
+      {
+        "md5": "30ee320f76db70a836edeff2c8ce9cd2",
+        "name": "Darxide (Europe) (En,Fr,De,Es).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12777",
+    "title": "Doom",
+    "hashes": [
+      {
+        "md5": "79339867d9d4f58b169753d9a29ea1a5",
+        "name": "Doom (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 59,
+      "points": 0
+    }
+  },
+  {
+    "id": "16797",
+    "title": "FIFA Soccer 96",
+    "hashes": [
+      {
+        "md5": "24aaa6ef307d20147ce10e7610e59aa2",
+        "name": "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16798",
+    "title": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples",
+    "hashes": [
+      {
+        "md5": "b90a2a1eec015911aa445f9c41d7bc32",
+        "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10023",
+    "title": "Knuckles' Chaotix",
+    "hashes": [
+      {
+        "md5": "47b1095e68b053125cd2cd5b1ac4eb50",
+        "name": "Knuckles' Chaotix (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "14308",
+    "title": "Kolibri",
+    "hashes": [
+      {
+        "md5": "6af6207b1e67072a9104178130c61712",
+        "name": "Kolibri (USA, Europe).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "14305",
+    "title": "Metal Head",
+    "hashes": [
+      {
+        "md5": "03cc5d7549d71ba4e9ddc1beae3805fb",
+        "name": "Metal Head (Japan, USA) (En,Ja).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13377",
+    "title": "Mortal Kombat II",
+    "hashes": [
+      {
+        "md5": "a95c0e7c1d35fd42cd2e3eb7b06cb6d0",
+        "name": "Mortal Kombat II (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 54,
+      "points": 0
+    }
+  },
+  {
+    "id": "16604",
+    "title": "Motocross Championship",
+    "hashes": [
+      {
+        "md5": "2c4a934985021624d48725b8d7b039e8",
+        "name": "Motocross Championship (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6bc365808a00b8a640dd86ccb5a0ea24",
+        "name": "Motocross Championship (Europe).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 72,
+      "points": 0
+    }
+  },
+  {
+    "id": "16062",
+    "title": "NBA Jam: Tournament Edition",
+    "hashes": [
+      {
+        "md5": "966a5e00dd7bcdc70b05c5a0c0e8f7aa",
+        "name": "NBA Jam - Tournament Edition (World).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "16799",
+    "title": "NFL Quarterback Club",
+    "hashes": [
+      {
+        "md5": "e273c10114351cdafeba1abccca8909d",
+        "name": "NFL Quarterback Club (World).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16801",
+    "title": "Pitfall: The Mayan Adventure",
+    "hashes": [
+      {
+        "md5": "e091e542f7ea29ef3daf6022b36e219b",
+        "name": "Pitfall - The Mayan Adventure (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16802",
+    "title": "Primal Rage",
+    "hashes": [
+      {
+        "md5": "e1efc5804d3360e7b19f7542219bf964",
+        "name": "Primal Rage (USA, Europe).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16803",
+    "title": "R.B.I. Baseball '95",
+    "hashes": [
+      {
+        "md5": "5f955b5feab07c072fc345f1fee52a60",
+        "name": "RBI Baseball '95 (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16804",
+    "title": "Sangokushi IV",
+    "hashes": [
+      {
+        "md5": "f4bb8844d77442dbb5bee78d0246b456",
+        "name": "Sangokushi IV (Japan).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10565",
+    "title": "Space Harrier",
+    "hashes": [
+      {
+        "md5": "6180e973f678bfc96705e8be4e0783f1",
+        "name": "Space Harrier (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "16805",
+    "title": "Star Trek: Starfleet Academy - Starship Bridge Simulator",
+    "hashes": [
+      {
+        "md5": "78086fba202066ff4f968d35e7c21c11",
+        "name": "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14206",
+    "title": "Star Wars Arcade",
+    "hashes": [
+      {
+        "md5": "ae3a42c6297ef25c6018a209fda0194e",
+        "name": "Star Wars Arcade (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bfaa6fd031490c26e25f3d59d9c37497",
+        "name": "Star Wars Arcade (Europe).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "10109",
+    "title": "Stellar Assault | Shadow Squadron",
+    "hashes": [
+      {
+        "md5": "1415a8675adf3e8647b3df673b50056d",
+        "name": "Stellar Assault (USA, Europe).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16806",
+    "title": "T-MEK",
+    "hashes": [
+      {
+        "md5": "1b06c84caf09206a8d9f0bb3eaaba512",
+        "name": "T-MEK (USA, Europe).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14307",
+    "title": "Tempo",
+    "hashes": [
+      {
+        "md5": "30989c83d4e4ea3c35a1f3e2620b8465",
+        "name": "Tempo (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "14844",
+    "title": "The Amazing Spider-Man: Web of Fire",
+    "hashes": [
+      {
+        "md5": "a60b0838a776966e17a8f10b94baddef",
+        "name": "Amazing Spider-Man, The - Web of Fire (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "16807",
+    "title": "Toughman Contest",
+    "hashes": [
+      {
+        "md5": "386d99d132ce5699ade81b4473cef5b4",
+        "name": "Toughman Contest (USA, Europe).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14304",
+    "title": "Virtua Fighter",
+    "hashes": [
+      {
+        "md5": "901e97c9f731fbdf1f1ead0fbf58249a",
+        "name": "Virtua Fighter (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 31,
+      "points": 0
+    }
+  },
+  {
+    "id": "11823",
+    "title": "Virtua Racing Deluxe",
+    "hashes": [
+      {
+        "md5": "08cae0a96d9ee07001c6e1c247d407c6",
+        "name": "Virtua Racing Deluxe (Japan).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 65,
+      "points": 0
+    }
+  },
+  {
+    "id": "16808",
+    "title": "World Series Baseball Starring Deion Sanders",
+    "hashes": [
+      {
+        "md5": "4d14eab0585e79e2fc4789e090755f2d",
+        "name": "World Series Baseball Starring Deion Sanders (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14830",
+    "title": "WWF Raw",
+    "hashes": [
+      {
+        "md5": "b3788f861803d21cfa0e559695835f44",
+        "name": "WWF Raw (World).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14831",
+    "title": "WWF WrestleMania: The Arcade Game",
+    "hashes": [
+      {
+        "md5": "8456cae9975ba6cb041c4ef2be54b1a1",
+        "name": "WWF WrestleMania - The Arcade Game (USA).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "15991",
+    "title": "Zaxxon's Motherbase 2000 | Parasquad",
+    "hashes": [
+      {
+        "md5": "bd32a5e46d0159dc88cb31ea4bd9d899",
+        "name": "Zaxxon's Motherbase 2000 (Japan, USA) (En).32x",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]
