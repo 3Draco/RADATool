@@ -463,7 +463,7 @@ class RetroAchievementsDATGenerator:
             self._about_popup.title(self.translate("about_dialog_title"))
             # Re-create or update content of labels within the about dialog if they exist and are translatable
             if hasattr(self, '_about_label_version'):
-                self._about_label_version.config(text=self.translate("about_version_text", "1.0"))
+                self._about_label_version.config(text=self.translate("about_version_text", "1.1"))
             if hasattr(self, '_about_label_author'):
                 self._about_label_author.config(text=self.translate("about_author_text", "3Draco"))
             if hasattr(self, '_about_label_thanks'):
@@ -881,7 +881,7 @@ class RetroAchievementsDATGenerator:
         # not the labels/buttons themselves (that's done in update_ui_language).
         cache_path = self.cache_dir
         cache_files = glob.glob(os.path.join(self.cache_dir, "console_*.json"))
-        cache_info_list_recheck = [] # Use a new name to avoid confusion with the initial list
+        cache_info_list = [] # List of (display_text, file_path)
         total_size_mb = 0
 
         # Gather info again
@@ -1060,6 +1060,7 @@ class RetroAchievementsDATGenerator:
         # Changed row to 2
         self.collection_cfg_save_path_entry.grid(row=2, column=1, padx=5, pady=5, sticky="ew")
         self.browse_collection_button = ttk.Button(self.collection_creation_frame, text="", command=self.select_collection_cfg_save_path) # Set text later
+        # Changed row to 2
         self.browse_collection_button.grid(row=2, column=2, padx=5, pady=5)
 
         # NEW: Rom Extension Entry Field (replacing the checkbox) - now row 3
@@ -1317,615 +1318,1410 @@ class RetroAchievementsDATGenerator:
                     return None
 
             except requests.exceptions.HTTPError as e:
-                if e.response.status_code == 429: # Too Many Requests
-                    retries += 1
-                    if retries <= max_retries_on_429:
-                        wait_time = initial_backoff_s * (2 ** (retries - 1))
-                        retry_after = e.response.headers.get('Retry-After')
-                        if retry_after:
-                            try:
-                                wait_time = int(retry_after) + 1 # Add 1 second buffer
-                                print(f"API Rate Limit (429) hit. Server requested wait for {retry_after}s. Retrying in {wait_time}s.")
-                            except ValueError:
-                                print(f"API Rate Limit (429) hit. No valid Retry-After header. Retrying in {wait_time}s (exponential backoff).")
-                        else:
-                            print(f"API Rate Limit (429) hit. Retrying in {wait_time}s (exponential backoff).")
+                if e.response.status_code == 422:
+                    self.status_bar_text_var.set(self.translate("api_error_422", os.path.basename(current_url_for_msg))) # Use translated text
+                    try:
+                        error_detail = e.response.json()
+                    except json.JSONDecodeError:
+                        error_detail = e.response.text[:200]
+                    messagebox.showerror(self.translate("api_error_message_422_title"),
+                                       self.translate("api_error_message_422_text", e.request.url, params, error_detail)) # Use translated text
+                    return None
+                elif e.response.status_code == 429 and retries < max_retries_on_429:
+                    wait_time = initial_backoff_s * (2 ** retries)
+                    wait_time += (wait_time * 0.2 * (os.urandom(1)[0]/255.0))
+                    wait_time = min(wait_time, 60)
+                    self.status_bar_text_var.set(self.translate("api_rate_limit_wait", os.path.basename(current_url_for_msg), wait_time)) # Use translated text
 
-                        self.status_bar_text_var.set(self.translate("api_rate_limit_wait", wait_time)) # Use translated text
+                    # Check if progress popups and their labels exist before updating
+                    fetch_popup_active = hasattr(self, '_fetch_progress_popup') and self._fetch_progress_popup and tk.Toplevel.winfo_exists(self._fetch_progress_popup)
+                    dat_popup_active = hasattr(self, '_dat_progress_popup') and self._dat_progress_popup and tk.Toplevel.winfo_exists(self._dat_progress_popup)
+                    collection_popup_active = hasattr(self, '_collection_progress_popup') and self._collection_progress_popup and tk.Toplevel.winfo_exists(self._collection_progress_popup)
+
+                    wait_start_time = time.monotonic()
+                    while time.monotonic() < wait_start_time + wait_time:
+                        remaining_slice = (wait_start_time + wait_time) - time.monotonic()
+                        sleep_slice = min(0.1, remaining_slice)
+                        if sleep_slice <= 0: break
+                        time.sleep(sleep_slice)
+                        time_left = max(0, wait_time - (time.monotonic() - wait_start_time))
+                        wait_msg = self.translate("api_rate_limit_wait_progress", time_left, retries + 1, max_retries_on_429+1) # Use translated text
+                        self.status_bar_text_var.set(wait_msg)
+
+                        # Update relevant progress labels if popups are active
+                        if fetch_popup_active and self.fetch_progress_label_var is not None:
+                            self.fetch_progress_label_var.set(self.translate("api_rate_limit_resume_fetch")) # Use translated text (simplified resume)
+                        if dat_popup_active and self.dat_progress_label_var is not None:
+                            self.dat_progress_label_var.set(self.translate("api_rate_limit_resume_dat")) # Use translated text (simplified resume)
+                        if collection_popup_active and self.collection_progress_label_var is not None:
+                             self.collection_progress_label_var.set(self.translate("api_rate_limit_resume_collection")) # Use translated text (simplified resume)
+
                         self.master.update_idletasks()
-                        time.sleep(wait_time)
-                        continue # Continue to the next attempt
-                    else:
-                        self.status_bar_text_var.set(self.translate("status_api_rate_limit_exceeded")) # Use translated text
-                        messagebox.showerror(self.translate("api_error_message_rate_limit_title"), self.translate("api_error_message_rate_limit_text", url, e.response.status_code)) # Use translated text
-                        return None
-                elif e.response.status_code == 401: # Unauthorized
-                    self.status_bar_text_var.set(self.translate("status_auth_failed_credentials")) # Use translated text
-                    messagebox.showerror(self.translate("auth_error_message_failed_title"), self.translate("auth_error_message_failed_text")) # Use translated text
-                    self.login_status_light.config(bg="red")
-                    self.login_status_label.config(text=self.translate("status_disconnected")) # Use translated text
+                    retries += 1
+                    self.status_bar_text_var.set(self.translate("api_rate_limit_resume_status", os.path.basename(current_url_for_msg))) # Use translated text
+                    # Restore original progress messages if popups are active
+                    if fetch_popup_active and self.fetch_progress_label_var is not None:
+                         # Restore a more specific message if needed, or a generic one
+                         self.fetch_progress_label_var.set(self.translate("api_rate_limit_resume_fetch")) # Generic resume message (already set above)
+                    if dat_popup_active and self.dat_progress_label_var is not None:
+                        self.dat_progress_label_var.set(self.translate("api_rate_limit_resume_dat")) # Generic resume message (already set above)
+                    if collection_popup_active and self.collection_progress_label_var is not None:
+                         self.collection_progress_label_var.set(self.translate("api_rate_limit_resume_collection")) # Generic resume message (already set above)
+
+                    self.master.update_idletasks()
+                    continue
+                else:
+                    self.status_bar_text_var.set(self.translate("api_http_error", e.response.status_code, os.path.basename(current_url_for_msg))) # Add this key
+                    messagebox.showerror(self.translate("api_error_message_title"), self.translate("api_error_message_text", e.response.status_code, e.request.url, e.response.text[:200])) # Add this key
                     return None
-                else: # Other HTTP errors
-                    self.status_bar_text_var.set(self.translate("status_api_error_http", e.response.status_code)) # Use translated text
-                    messagebox.showerror(self.translate("api_error_message_http_title"), self.translate("api_error_message_http_text", url, e.response.status_code, e.response.text[:200])) # Use translated text
-                    return None
-            except requests.exceptions.ConnectionError as e:
-                self.status_bar_text_var.set(self.translate("status_network_error")) # Use translated text
-                messagebox.showerror(self.translate("network_error_title"), self.translate("network_error_text", str(e))) # Use translated text
-                return None
             except requests.exceptions.Timeout:
-                self.status_bar_text_var.set(self.translate("status_timeout_error")) # Use translated text
-                messagebox.showerror(self.translate("timeout_error_title"), self.translate("timeout_error_text", url)) # Use translated text
+                self.status_bar_text_var.set(self.translate("api_timeout", os.path.basename(current_url_for_msg))) # Use translated text
+                if retries < max_retries_on_429:
+                    retries += 1
+                    wait_time = initial_backoff_s * (2 ** retries)
+                    wait_time = min(wait_time, 60)
+                    self.status_bar_text_var.set(self.translate("api_timeout_retry_wait", wait_time, retries + 1, max_retries_on_429+1)) # Use translated text
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    messagebox.showerror(self.translate("api_timeout_message_title"), self.translate("api_timeout_message_text", max_retries_on_429+1, url)) # Use translated text
+                    return None
+            except requests.exceptions.RequestException as e:
+                self.status_bar_text_var.set(self.translate("api_connection_error", os.path.basename(current_url_for_msg))) # Use translated text
+                messagebox.showerror(self.translate("api_connection_error_message_title"), self.translate("api_connection_error_message_text", e, url)) # Use translated text
                 return None
-            except Exception as e:
-                self.status_bar_text_var.set(self.translate("status_request_failed_general", str(e))) # Use translated text
-                messagebox.showerror(self.translate("general_error_title"), self.translate("general_error_text", str(e))) # Use translated text
-                return None
-        return None # Should not be reached if retries are handled, but as a safeguard
+        self.status_bar_text_var.set(self.translate("api_max_retries_reached", max_retries_on_429+1, os.path.basename(current_url_for_msg))) # Use translated text
+        messagebox.showwarning(self.translate("api_limit_reached_warning_title"), self.translate("api_limit_reached_warning_text", os.path.basename(current_url_for_msg), max_retries_on_429+1)) # Use translated text
+        return None
+
 
     def test_login(self):
-        """Tests the provided username and API key."""
-        user = self.username.get()
-        key = self.api_key.get()
-
-        if not user or not key:
-            self.status_bar_text_var.set(self.translate("status_auth_failed_input_missing")) # Use translated text
-            messagebox.showwarning(self.translate("login_failed_input_missing_title"), self.translate("login_failed_input_missing_text")) # Use translated text
+        """Tests login credentials by fetching user profile"""
+        self.status_bar_text_var.set(self.translate("login_testing")) # Use translated text
+        self.master.update_idletasks()
+        # Check Tkinter variables directly, they are now initialized
+        if not self.username.get() or not self.api_key.get():
+            messagebox.showerror(self.translate("login_error_message_title"), self.translate("auth_error_message_text")) # Use translated text
             self.login_status_light.config(bg="red")
-            self.login_status_label.config(text=self.translate("status_disconnected")) # Use translated text
+            self.login_status_label.config(text=self.translate("status_error")) # Use translated text (Generic error for login issues)
+            self.status_bar_text_var.set(self.translate("login_failed_input_missing")) # Use translated text
+            self.on_selection_change(None) # Update button states
             return
 
-        self.status_bar_text_var.set(self.translate("status_testing_credentials")) # Use translated text
-        self.master.update_idletasks() # Update UI to show status
+        params_for_request = {'u': self.username.get()}
+        data = self._make_api_request(API_USER_PROFILE_URL, params=params_for_request, authenticate=True)
 
-        # Use _make_api_request with a simple endpoint to test credentials
-        params = {"z": user, "y": key}
-        response = self._make_api_request(API_USER_PROFILE_URL, params=params, authenticate=False) # Authenticate=False because we add params manually
-
-        if response:
-            if isinstance(response, dict) and "Username" in response:
-                self.login_status_light.config(bg="green")
-                self.login_status_label.config(text=self.translate("status_connected")) # Use translated text
-                self.status_bar_text_var.set(self.translate("status_login_successful", response["Username"])) # Use translated text
-                self.save_config() # Save credentials if successful
-                self.load_console_ids() # Load console IDs on successful login
-                self.console_dropdown.config(state="readonly") # Enable dropdown
-                self.on_selection_change(None) # Update button states
-            else:
-                # This case should ideally be caught by _make_api_request's JSON error or HTTP error,
-                # but as a fallback for unexpected API responses.
-                self.login_status_light.config(bg="red")
-                self.login_status_label.config(text=self.translate("status_disconnected")) # Use translated text
-                self.status_bar_text_var.set(self.translate("status_login_failed_unexpected")) # Use translated text
-                messagebox.showerror(self.translate("login_failed_title"), self.translate("login_failed_unexpected_response")) # Use translated text
+        if data and isinstance(data, dict) and "User" in data and data["User"].lower() == self.username.get().lower():
+            self.login_status_light.config(bg="green")
+            self.login_status_label.config(text=self.translate("status_connected")) # Use translated text
+            self.status_bar_text_var.set(self.translate("login_success_loading_consoles")) # Use translated text
+            self.save_config() # Save credentials on successful login
+            self.load_consoles() # This will call on_selection_change at the end
         else:
-            # Error already reported by _make_api_request
             self.login_status_light.config(bg="red")
-            self.login_status_label.config(text=self.translate("status_disconnected")) # Use translated text
-            # The status bar will already have an error message from _make_api_request
-
-    def load_console_ids(self):
-        """Loads console IDs and names from RetroAchievements API."""
-        self.status_bar_text_var.set(self.translate("status_fetching_consoles")) # Use translated text
-        self.master.update_idletasks()
-        try:
-            consoles_data = self._make_api_request(API_CONSOLE_IDS_URL, authenticate=True)
-
-            if consoles_data:
-                self.console_id_to_name_map = {str(c['ID']): c['Name'] for c in consoles_data}
-                self.console_name_to_id_map = {c['Name']: str(c['ID']) for c in consoles_data}
-                sorted_console_names = sorted(self.console_name_to_id_map.keys())
-                self.console_dropdown['values'] = sorted_console_names
-                self.status_bar_text_var.set(self.translate("status_consoles_loaded")) # Use translated text
+            self.login_status_label.config(text=self.translate("status_failed")) # Use translated text
+            error_reason = self.translate("login_failed_unknown") # Add this key
+            if data is None:
+                 error_reason = self.translate("login_failed_api_none") # Use translated text
+            elif isinstance(data, dict):
+                if "User" not in data:
+                     error_reason = self.translate("login_failed_api_no_user", str(data)[:100]) # Use translated text
+                elif data["User"].lower() != self.username.get().lower():
+                     error_reason = self.translate("login_failed_api_user_mismatch", data.get('User')) # Use translated text
             else:
-                self.status_bar_text_var.set(self.translate("status_consoles_load_failed")) # Use translated text
-                self.console_dropdown['values'] = [] # Clear dropdown
-                self.console_dropdown.config(state="disabled") # Disable dropdown on failure
-        except Exception as e:
-            self.status_bar_text_var.set(self.translate("status_error_loading_consoles", str(e))) # Use translated text
-            self.console_dropdown['values'] = []
+                error_reason = self.translate("login_failed_api_unexpected_format", str(data)[:100]) # Use translated text
+            self.status_bar_text_var.set(self.translate("login_failed_reason", error_reason)) # Add this key: "Login failed. %s"
+            messagebox.showerror(self.translate("login_error_message_title"), self.translate("login_error_message_text", error_reason)) # Use translated text
             self.console_dropdown.config(state="disabled")
+            self.console_dropdown.set('')
+            self.console_id_to_name_map = {} # Clear mappings
+            self.console_name_to_id_map = {}
+            self.on_selection_change(None) # Update button states
 
-    def on_selection_change(self, event):
-        """Enables/disables buttons based on console selection and login status."""
-        selected_console_name = self.selected_console_id_var.get()
-        console_id = self.console_name_to_id_map.get(selected_console_name)
+    def load_consoles(self):
+        """Loads the list of console IDs and names from the API"""
+        self.status_bar_text_var.set(self.translate("consoles_loading")) # Use translated text
+        self.master.update_idletasks()
+        consoles_raw = self._make_api_request(API_CONSOLE_IDS_URL, authenticate=True)
 
-        is_logged_in = (self.login_status_light.cget("bg") == "green")
-        is_console_selected = bool(console_id)
+        if consoles_raw and isinstance(consoles_raw, list):
+            valid_consoles = [item for item in consoles_raw if isinstance(item, dict) and 'Name' in item and 'ID' in item]
+            if not valid_consoles and consoles_raw:
+                messagebox.showwarning(self.translate("consoles_warning_format_title"), self.translate("consoles_warning_format_text")) # Use translated text
+                self.status_bar_text_var.set(self.translate("status_consoles_unexpected_format")) # Use translated text
+                self.on_selection_change(None)
+                return
+            # Populate console mapping dictionaries
+            # Ensure IDs are stored as strings in map keys
+            self.console_id_to_name_map = {str(item['ID']): str(item['Name']) for item in valid_consoles}
+            self.console_name_to_id_map = {str(item['Name']): str(item['ID']) for item in valid_consoles}
 
-        # Enable/Disable Fetch Data button
-        if is_logged_in and is_console_selected:
-            self.fetch_data_button.config(state="normal")
-        else:
+            sorted_console_names = sorted(self.console_name_to_id_map.keys())
+            if not sorted_console_names:
+                messagebox.showinfo(self.translate("info_title"), self.translate("consoles_info_no_valid")) # Use translated text
+                self.status_bar_text_var.set(self.translate("status_no_consoles_found")) # Use translated text
+                self.console_dropdown.config(state="disabled")
+                # Ensure all buttons are disabled if no consoles
+                self.fetch_data_button.config(state="disabled")
+                self.create_dat_button.config(state="disabled")
+                # Use the new button variables
+                self.create_retropie_collection_button.config(state="disabled")
+                self.create_batocera_collection_button.config(state="disabled")
+
+                self.on_selection_change(None)
+                return
+            self.console_dropdown['values'] = sorted_console_names
+            self.console_dropdown.config(state="readonly")
+            self.status_bar_text_var.set(self.translate("status_consoles_loaded")) # Use translated text
+            # Keep the currently selected console if it exists in the new list, otherwise select the first
+            current_selection = self.selected_console_id_var.get()
+            if current_selection in sorted_console_names:
+                 self.console_dropdown.set(current_selection)
+            elif sorted_console_names:
+                self.console_dropdown.set(sorted_console_names[0])
+            else:
+                 self.console_dropdown.set('') # Should not happen if sorted_console_names is not empty
+
+            self.on_selection_change(None) # Call to update buttons based on (new) default selection
+        elif consoles_raw is None: # _make_api_request failed
+            self.status_bar_text_var.set(self.translate("status_consoles_loading_error")) # Use translated text
+            # Keep controls disabled
+            self.console_dropdown.config(state="disabled")
             self.fetch_data_button.config(state="disabled")
             self.create_dat_button.config(state="disabled")
+            # Use the new button variables
             self.create_retropie_collection_button.config(state="disabled")
             self.create_batocera_collection_button.config(state="disabled")
-            return # Exit if not ready to avoid errors with non-existent data
 
-        # Check if data for the selected console is already in cached_data
-        # This will determine if DAT/Collection buttons can be enabled immediately
-        if console_id in self.cached_data and self.cached_data[console_id]:
+            self.on_selection_change(None)
+        else: # API returned something, but not a list
+            self.status_bar_text_var.set(self.translate("status_no_consoles_found_api_format")) # Use translated text
+            messagebox.showinfo(self.translate("info_title"), self.translate("consoles_info_no_consoles_found_api_text", str(consoles_raw)[:200])) # Use translated text
+            self.console_dropdown.config(state="disabled")
+            self.fetch_data_button.config(state="disabled")
+            self.create_dat_button.config(state="disabled")
+            # Use the new button variables
+            self.create_retropie_collection_button.config(state="disabled")
+            self.create_batocera_collection_button.config(state="disabled")
+
+            self.on_selection_change(None)
+
+
+    def on_selection_change(self, event):
+        """Enable/disable buttons based on selections, login status, paths, and data availability."""
+        # print("\n--- on_selection_change triggered ---")
+        console_name = self.selected_console_id_var.get()
+        # Use the name-to-id map now
+        console_id = self.console_name_to_id_map.get(console_name)
+        # print(f"DEBUG: console_name='{console_name}', console_id='{console_id}'")
+
+        # Update login status label text based on state indicator (the color)
+        # This is updated in update_ui_language and clear_credentials, relying on the color here is okay for logic
+        is_connected = (self.login_status_light.cget("bg") == "green")
+
+        # print(f"DEBUG: is_connected={is_connected}")
+
+        dat_path_selected = bool(self.dat_save_path.get() and os.path.isdir(self.dat_save_path.get()))
+        # print(f"DEBUG: dat_path_selected={dat_path_selected} (Path: '{self.dat_save_path.get()}')")
+
+        collection_cfg_path_selected = bool(self.collection_cfg_save_path.get() and os.path.isdir(self.collection_cfg_save_path.get()))
+        # print(f"DEBUG: collection_cfg_path_selected={collection_cfg_path_selected} (Path: '{self.collection_cfg_save_path.get()}')")
+
+        # RetroPie Pfad muss nur gesetzt sein, nicht lokal existieren
+        retropie_rom_path_selected = bool(self.retropie_base_path.get())
+        # print(f"DEBUG: retropie_rom_path_selected={retropie_rom_path_selected} (Path: '{self.retropie_base_path.get()}')")
+
+        # Batocera Pfad muss nur gesetzt sein, nicht lokal existieren
+        batocera_rom_path_selected = bool(self.batocera_base_path.get())
+        # print(f"DEBUG: batocera_rom_path_selected={batocera_rom_path_selected} (Path: '{self.batocera_base_path.get()}')")
+
+
+        data_available = False
+        # Caching is always on, so we check if data is in memory OR cache file exists
+        # Ensure console_id is string when checking cached_data key
+        console_id_str = str(console_id) if console_id else None
+
+        if console_id_str:
+            if console_id_str in self.cached_data and isinstance(self.cached_data[console_id_str], list) and self.cached_data[console_id_str]:
+                 data_available = True
+                 # print(f"DEBUG: Data for console_id '{console_id_str}' found in memory cache ({len(self.cached_data[console_id_str])} items).")
+            else:
+                 cache_file = self.get_cache_filename(console_id_str)
+                 # Check if file exists and is not empty json "[]"
+                 if os.path.exists(cache_file) and os.path.getsize(cache_file) > 2:
+                     data_available = True
+                     # print(f"DEBUG: Data for console_id '{console_id_str}' potentially available in cache file: {cache_file}")
+                 # else:
+                    # print(f"DEBUG: Cache file for console_id '{console_id_str}' not found, empty, or invalid.")
+        # else:
+            # print("DEBUG: No console_id selected, so data_available is False.")
+        # print(f"DEBUG: data_available={data_available}")
+
+        # Enable "Fetch Data"
+        # Fetch data is possible if a console is selected AND user is connected
+        # Also check if a fetch is *not* already in progress
+        if console_id_str and is_connected and self._fetch_worker_thread is None:
+            self.fetch_data_button.config(state="normal")
+            # print("DEBUG: fetch_data_button state: normal")
+        else:
+            self.fetch_data_button.config(state="disabled")
+            # print("DEBUG: fetch_data_button state: disabled")
+
+        # Enable "Create DAT"
+        if console_id_str and is_connected and data_available and dat_path_selected:
             self.create_dat_button.config(state="normal")
-            self.create_retropie_collection_button.config(state="normal")
-            self.create_batocera_collection_button.config(state="normal")
-            self.status_bar_text_var.set(self.translate("status_ready")) # Reset status bar if data is loaded
+            # print("DEBUG: create_dat_button state: normal")
         else:
             self.create_dat_button.config(state="disabled")
-            self.create_retropie_collection_button.config(state="disabled")
-            self.create_batocera_collection_button.config(state="disabled")
-            if is_logged_in and is_console_selected:
-                 self.status_bar_text_var.set(self.translate("status_fetch_needed"))
+            # print("DEBUG: create_dat_button state: disabled")
 
+        # Enable "Create RetroPie Collection" (Use the new button variable)
+        # Condition: console_id_str, is_connected, data_available, collection_cfg_path_selected, retropie_rom_path_selected
+        # No change needed here, logic remains the same but now uses rom_extension_var internally
+        if console_id_str and \
+           is_connected and \
+           data_available and \
+           collection_cfg_path_selected and \
+           retropie_rom_path_selected:
+            # Use the new button variable
+            self.create_retropie_collection_button.config(state="normal")
+            # print("DEBUG: create_retropie_collection_button state: normal")
+        else:
+            # Use the new button variable
+            self.create_retropie_collection_button.config(state="disabled")
+            # print("DEBUG: create_retropie_collection_button state: disabled")
+
+        # Enable "Create Batocera Collection" (New button)
+        # Condition: console_id_str, is_connected, data_available, collection_cfg_path_selected, batocera_rom_path_selected
+        # No change needed here, logic remains the same but now uses rom_extension_var internally
+        if console_id_str and \
+           is_connected and \
+           data_available and \
+           collection_cfg_path_selected and \
+           batocera_rom_path_selected:
+            self.create_batocera_collection_button.config(state="normal")
+            # print("DEBUG: create_batocera_collection_button state: normal")
+        else:
+            self.create_batocera_collection_button.config(state="disabled")
+            # print("DEBUG: create_batocera_collection_button state: disabled")
+
+        # print("--- end of on_selection_change ---")
+
+
+    def _get_typical_extension(self, console_name):
+        # This method is now less critical as the user provides the extension,
+        # but it's kept as a fallback for generating a default filename base
+        # if no filename is available in the API data.
+        ext_map = {
+            "nes": "nes", "nintendo entertainment system": "nes", "famicom": "nes",
+            "snes": "sfc", "super nintendo": "sfc", "super famicom": "sfc",
+            "mega drive": "md", "sega genesis": "md", "genesis": "md", "megadrive": "md",
+            "game boy": "gb", "gameboy": "gb",
+            "game boy color": "gbc", "gameboy color": "gbc",
+            "game boy advance": "gba", "gameboy advance": "gba",
+            "playstation": "cue", "psx": "cue", "ps1": "cue", "sony playstation": "cue",
+            "nintendo 64": "n64", "n64": "z64", # N64 can be v64, z64, n64 - z64 is common
+            "pc engine": "pce", "turbografx-16": "pce", "turbografx": "pce", "tg-16": "pce",
+            "master system": "sms", "sega master system": "sms", "sms": "sms",
+            "msx": "rom", "msx2": "rom",
+            "neo geo pocket": "ngp",
+            "neo geo pocket color": "ngc", "ngpc": "ngc",
+            "arcade": "zip", "mame": "zip", # Arcade ROMs are typically zipped
+            "atari 2600": "a26", "vcs": "a26", "atari vcs": "a26",
+            "atari lynx": "lnx", "lynx": "lnx",
+            "wonderswan": "ws",
+            "wonderswan color": "wsc",
+            "virtual boy": "vb", "virtualboy": "vb",
+            "sega 32x": "32x", "32x": "32x",
+            "sega cd": "cue", "mega-cd": "cue", "segacd": "cue",
+            "atari jaguar": "j64", "jaguar": "j64", # Jaguar can be bin, j64
+            "atari jaguar cd": "cue",
+            "dreamcast": "gdi", "sega dreamcast": "gdi", # Dreamcast can be cdi, gdi, iso
+            "psp": "iso", "playstation portable": "iso", # PSP can be iso, cso
+            "nds": "nds", "nintendo ds": "nds",
+            "gamecube": "iso", "nintendo gamecube": "iso", "ngc": "iso", "dol": "dol", # GameCube can be iso, gcm, dol
+            "wii": "iso", "nintendo wii": "iso", "wbfs": "wbfs", # Wii can be iso, wbfs
+            "xbox": "iso", "microsoft xbox": "iso", # Xbox can be iso, xbe
+            "playstation 2": "iso", "ps2": "iso", "sony playstation 2": "iso", # PS2 can be iso, bin
+            "3do": "iso", "3do interactive multipayer": "iso",
+            "colecovision": "col",
+            "intellivision": "int",
+            "vectrex": "vec",
+            "amstrad cpc": "dsk",
+            "commodore 64": "d64", "c64": "d64",
+            "zx spectrum": "tzx", "spectrum": "tzx", # ZX Spectrum can be zx, tap, tzx, dsk, trd, scl, szx, etc.
+        }
+        console_name_lower = console_name.lower()
+        if console_name_lower in ext_map:
+            return ext_map[console_name_lower]
+        for key, value in ext_map.items():
+            if key in console_name_lower:
+                return value
+        sanitized = "".join(c for c in console_name if c.isalnum()).lower()
+        return sanitized if sanitized else "unknownsystem"
+
+
+    def _get_system_short_name(self, console_name):
+        short_names = {
+            "nes": "nes", "nintendo entertainment system": "nes", "famicom": "nes",
+            "snes": "snes", "super nintendo": "snes", "super famicom": "snes",
+            "mega drive": "megadrive", "sega genesis": "genesis", "genesis": "genesis", "megadrive": "megadrive",
+            "game boy": "gb", "gameboy": "gb",
+            "game boy color": "gbc", "gameboy color": "gbc",
+            "game boy advance": "gba", "gameboy advance": "gba",
+            "playstation": "psx", "psx": "psx", "ps1": "psx", "sony playstation": "psx",
+            "nintendo 64": "n64", "n64": "n64",
+            "pc engine": "pcengine", "turbografx-16": "pcengine", "turbografx": "pcengine", "tg-16": "pcengine",
+            "master system": "mastersystem", "sega master system": "mastersystem", "sms": "mastersystem",
+            "msx": "msx", "msx2": "msx",
+            "neo geo pocket": "ngp",
+            "neo geo pocket color": "ngpc", "ngpc": "ngpc",
+            "arcade": "arcade", "mame": "arcade",
+            "atari 2600": "atari2600", "vcs": "atari2600", "atari vcs": "atari2600",
+            "atari lynx": "lynx", "lynx": "lynx",
+            "wonderswan": "wonderswan",
+            "wonderswan color": "wonderswancolor",
+            "virtual boy": "virtualboy", "virtualboy": "virtualboy",
+            "sega 32x": "sega32x", "32x": "sega32x",
+            "sega cd": "segacd", "mega-cd": "segacd", "segacd": "segacd",
+            "atari jaguar": "jaguar", "jaguar": "jaguar",
+            "atari jaguar cd": "jaguarcd",
+            "dreamcast": "dreamcast", "sega dreamcast": "dreamcast",
+            "psp": "psp", "playstation portable": "psp",
+            "nds": "nds", "nintendo ds": "nds",
+            "gamecube": "gc", "nintendo gamecube": "gc", "ngc": "gc",
+            "wii": "wii", "nintendo wii": "wii",
+            "xbox": "xbox", "microsoft xbox": "xbox",
+            "playstation 2": "ps2", "ps2": "ps2", "sony playstation 2": "ps2",
+            "3do": "3do", "3do interactive multipayer": "3do",
+            "colecovision": "coleco",
+            "intellivision": "intellivision",
+            "vectrex": "vectrex",
+            "amstrad cpc": "amstradcpc",
+            "commodore 64": "c64", "c64": "c64",
+            "zx spectrum": "zxspectrum", "spectrum": "zxspectrum",
+        }
+        console_name_lower = console_name.lower()
+        if console_name_lower in short_names:
+            return short_names[console_name_lower]
+        for key, value in short_names.items():
+            if key in console_name_lower:
+                return value
+        sanitized = "".join(c for c in console_name if c.isalnum()).lower()
+        return sanitized if sanitized else "unknownsystem"
 
     def fetch_data(self):
-        """Starts the data fetching process in a separate thread."""
-        selected_console_name = self.selected_console_id_var.get()
-        selected_console_id = self.console_name_to_id_map.get(selected_console_name)
+        """Prepare for fetching data and start the worker thread."""
+        console_name = self.selected_console_id_var.get()
+        # Use the name-to-id map now
+        console_id = self.console_name_to_id_map.get(console_name)
 
-        if not selected_console_id:
-            messagebox.showwarning(self.translate("no_system_selected_title"), self.translate("no_system_selected_text")) # Use translated text
-            self.status_bar_text_var.set(self.translate("status_no_system_selected")) # Use translated text
+        if not console_id:
+            messagebox.showerror(self.translate("data_fetch_invalid_console_error_title"), self.translate("data_fetch_invalid_console_error_text")) # Use translated text
             return
 
-        # Disable buttons to prevent multiple fetches
+        # Ensure console_id is string for cache/data operations
+        console_id_str = str(console_id)
+
+        # Prevent starting a new fetch if one is already in progress
+        if self._fetch_worker_thread is not None and self._fetch_worker_thread.is_alive():
+             print("DEBUG: Fetch already in progress, ignoring request.")
+             return # Do nothing if fetching is already happening
+
+
+        print(f"\nDEBUG: Starting data fetch process for console: {console_name} (ID: {console_id_str})")
+        self.status_bar_text_var.set(self.translate("status_data_fetch_start", console_name)) # Use translated text
+        # Disable fetch button immediately
         self.fetch_data_button.config(state="disabled")
+        # Disable all creation buttons during fetch
         self.create_dat_button.config(state="disabled")
-        self.create_retropie_collection_button.config(state="disabled")
-        self.create_batocera_collection_button.config(state="disabled")
-        self.console_dropdown.config(state="disabled")
-        self.cache_manager_button.config(state="disabled")
-        self.logout_button.config(state="disabled") # Prevent logout during fetch
+        self.create_retropie_collection_button.config(state="disabled") # Use the new variable
+        self.create_batocera_collection_button.config(state="disabled") # Use the new variable
 
-        # Show progress window
-        self._show_progress_popup("fetch")
+        self.master.update_idletasks()
 
-        # Start fetching in a new thread
-        self._fetch_worker_thread = threading.Thread(target=self._fetch_data_worker, args=(selected_console_id, selected_console_name))
-        self._fetch_worker_thread.start()
+        # Caching is always on now, so we check cache first (still in main thread)
+        print(self.translate("data_fetch_checking_cache")) # Use translated text
+        cached_console_data = self.load_from_cache(console_id_str) # Use string ID for cache
+        if cached_console_data is not None and isinstance(cached_console_data, list):
+            print(f"DEBUG: Using cached data for {console_name}. {len(cached_console_data)} games loaded.") # This can remain debug or translate
+            self.cached_data[console_id_str] = cached_console_data # Store in memory using string ID
+            # Update status bar - check if the original fetch message is still there, otherwise set a generic cached message
+            current_status = self.status_bar_text_var.get()
+            if self.translate("status_data_fetch_start", console_name) in current_status:
+                 self.status_bar_text_var.set(self.translate("data_fetch_cache_loaded_status", console_name)) # Add this key
+            self.on_selection_change(None) # Update button states now that data is available
+            return # Exit if data loaded from cache
 
-    def _fetch_data_worker(self, console_id, console_name):
-        """Worker function for fetching data in a separate thread."""
-        try:
-            self.fetch_progress_label_var.set(self.translate("data_fetch_loading_cache", console_name)) # Use translated text
-            self.master.update_idletasks()
-            cached_data = self.load_from_cache(console_id)
-            if cached_data:
-                self.cached_data[console_id] = cached_data
-                self.fetch_progress_label_var.set(self.translate("data_fetch_loaded_cache", console_name)) # Use translated text
-                # Allow a brief moment to see the "loaded from cache" message
-                time.sleep(1)
-                self.master.after(0, self._on_fetch_complete, True, console_id) # True for success
-                return
 
-            self.fetch_progress_label_var.set(self.translate("data_fetch_requesting_game_list", console_name)) # Use translated text
-            self.status_bar_text_var.set(self.translate("status_fetching_games", console_name)) # Use translated text
-            self.master.update_idletasks()
+        # If no cache, proceed to fetch from API in a separate thread
+        print(self.translate("data_fetch_game_list")) # Use translated text
+        # Fetch the initial game list first in the main thread to get total count for progress bar
+        game_list_params = {'i': console_id_str} # Use string ID for API params
+        initial_game_list_data = self._make_api_request(API_GAME_LIST_URL, params=game_list_params, authenticate=True)
 
-            game_list_params = {"i": console_id}
-            game_list = self._make_api_request(API_GAME_LIST_URL, params=game_list_params, authenticate=True)
-
-            if not game_list or not isinstance(game_list, list):
-                self.fetch_progress_label_var.set(self.translate("data_fetch_failed_game_list")) # Use translated text
-                self.master.after(0, self._on_fetch_complete, False, console_id)
-                return
-
-            # Filter out entries where Hash is '00000000000000000000000000000000'
-            filtered_game_list = [game for game in game_list if game.get("Hash") != '00000000000000000000000000000000']
-            total_games = len(filtered_game_list)
-            self.fetch_progress_label_var.set(self.translate("data_fetch_fetching_details", 0, total_games)) # Use translated text
-            self.master.update_idletasks()
-
-            fetched_games_details = []
-            for i, game in enumerate(filtered_game_list):
-                game_id = game.get("ID")
-                if not game_id:
-                    continue
-
-                self.fetch_progress_label_var.set(self.translate("data_fetch_fetching_details_progress", i + 1, total_games, game.get("Title", "Unknown"))) # Use translated text
-                self.master.update_idletasks()
-
-                game_details_params = {"i": game_id}
-                game_details = self._make_api_request(API_GET_GAME_EXTENDED_URL, params=game_details_params, authenticate=True)
-
-                if game_details:
-                    # Merge game list data with extended details
-                    merged_data = {**game, **game_details}
-                    fetched_games_details.append(merged_data)
-                # else: Error already reported by _make_api_request
-
-            # Filter out any games that ended up with the zero hash after fetching details
-            final_game_data = [game for game in fetched_games_details if game.get("Hash") != '00000000000000000000000000000000']
-
-            self.cached_data[console_id] = final_game_data # Store in-memory cache
-            self.save_to_cache(console_id, final_game_data) # Save to file cache
-
-            self.master.after(0, self._on_fetch_complete, True, console_id) # True for success
-
-        except Exception as e:
-            print(f"Error during fetch: {e}")
-            self.fetch_progress_label_var.set(self.translate("data_fetch_failed_general", str(e))) # Use translated text
-            self.master.after(0, self._on_fetch_complete, False, console_id)
-
-    def _on_fetch_complete(self, success, console_id):
-        """Called when data fetching is complete (from the worker thread)."""
-        # Ensure progress window is closed
-        if self._fetch_progress_popup:
-            self._fetch_progress_popup.destroy()
-            self._fetch_progress_popup = None
-
-        # Re-enable UI elements
-        self.fetch_data_button.config(state="normal")
-        self.console_dropdown.config(state="readonly")
-        self.cache_manager_button.config(state="normal")
-        self.logout_button.config(state="normal")
-
-        if success:
-            selected_console_name = self.selected_console_id_var.get()
-            self.status_bar_text_var.set(self.translate("status_data_fetch_complete", selected_console_name, len(self.cached_data.get(console_id, [])))) # Use translated text
-        else:
-            # Status bar already updated by _make_api_request or fetch_data_worker in case of error
-            pass # No specific status message needed here beyond what was already set
-
-        # Always update button states after fetch attempt
-        self.on_selection_change(None) # This will enable DAT/Collection buttons if data is available
-
-    def _show_progress_popup(self, type):
-        """Shows a generic progress popup window."""
-        if type == "fetch":
-            if self._fetch_progress_popup and tk.Toplevel.winfo_exists(self._fetch_progress_popup):
-                return # Already open
-            self._fetch_progress_popup = tk.Toplevel(self.master)
-            popup = self._fetch_progress_popup
-            popup.title(self.translate("data_fetch_progress_title")) # Use translated text
-            self.fetch_progress_label = ttk.Label(popup, textvariable=self.fetch_progress_label_var)
-            self.fetch_progress_label.pack(padx=20, pady=20)
-        elif type == "dat":
-            if self._dat_progress_popup and tk.Toplevel.winfo_exists(self._dat_progress_popup):
-                return # Already open
-            self._dat_progress_popup = tk.Toplevel(self.master)
-            popup = self._dat_progress_popup
-            popup.title(self.translate("dat_creation_progress_title")) # Use translated text
-            self.dat_progress_label = ttk.Label(popup, textvariable=self.dat_progress_label_var)
-            self.dat_progress_label.pack(padx=20, pady=20)
-        elif type == "collection":
-            if self._collection_progress_popup and tk.Toplevel.winfo_exists(self._collection_progress_popup):
-                return # Already open
-            self._collection_progress_popup = tk.Toplevel(self.master)
-            popup = self._collection_progress_popup
-            popup.title(self.translate("collection_creation_progress_title")) # Use translated text
-            self.collection_progress_label = ttk.Label(popup, textvariable=self.collection_progress_label_var)
-            self.collection_progress_label.pack(padx=20, pady=20)
-        else:
+        if not initial_game_list_data or not isinstance(initial_game_list_data, list):
+            message = self.translate("api_error_fetch_games_none", console_name) if initial_game_list_data is None else self.translate("api_error_fetch_games_not_list", console_name) # Use translated text
+            details = ""
+            if not isinstance(initial_game_list_data, list):
+                details = self.translate("api_error_message_fetch_games_text", "", f"\nAntwort (Beginn): {str(initial_game_list_data)[:200]}").split('\n', 1)[1] # Extract only the response part
+            messagebox.showerror(self.translate("api_error_message_fetch_games_title"), self.translate("api_error_message_fetch_games_text", message, details)) # Use translated text
+            self.status_bar_text_var.set(message)
+            # Re-enable fetch button as no fetch worker was started
+            self.fetch_data_button.config(state="normal")
+            self.on_selection_change(None) # Update other button states
             return
 
-        popup.transient(self.master) # Make it appear on top of the main window
-        popup.grab_set() # Make it modal (user must interact with it)
-        # Disable closing with window manager X button
-        popup.protocol("WM_DELETE_WINDOW", lambda: None)
-        popup.geometry("350x100") # Fixed size for progress popups
+        if not initial_game_list_data:
+            messagebox.showinfo(self.translate("info_title"), self.translate("data_fetch_info_no_games_api", console_name)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_no_games_found_api", console_name)) # Use translated text
+            # Even if no games, save empty list to cache to indicate we checked
+            self.cached_data[console_id_str] = [] # Store empty list using string ID
+            self.save_to_cache(console_id_str, []) # Save empty list to cache
+            # Re-enable fetch button as no fetch worker was started
+            self.fetch_data_button.config(state="normal")
+            self.on_selection_change(None) # Update button states
+            return
 
-        # Center the popup on the main window
-        self.master.update_idletasks()
-        main_x = self.master.winfo_x()
-        main_y = self.master.winfo_y()
+        total_games = len(initial_game_list_data)
+
+        # Use fetch-specific progress popup variable
+        self._fetch_progress_popup = tk.Toplevel(self.master) # Store reference
+        popup = self._fetch_progress_popup # Use local name for convenience
+        popup.title(self.translate("data_fetch_progress_title")) # Use translated text
+        # Set initial size, position calculated later
+        fetch_popup_width = 450
+        fetch_popup_height = 150
+        popup.geometry(f"{fetch_popup_width}x{fetch_popup_height}")
+        popup.resizable(False, False)
+
+        # Use fetch-specific label variable
+        self.fetch_progress_label_var.set(self.translate("status_data_fetch_start", console_name)) # Use translated text
+        game_progress_label_var = tk.StringVar() # This can remain local for game-specific details in the popup
+        ttk.Label(popup, textvariable=self.fetch_progress_label_var, wraplength=430).pack(pady=(10,0), padx=10, fill="x")
+        ttk.Label(popup, textvariable=game_progress_label_var, wraplength=430).pack(pady=(0,5), padx=10, fill="x")
+
+        progress_bar = ttk.Progressbar(popup, orient="horizontal", length=430, mode="determinate")
+        progress_bar.pack(pady=10, padx=10)
+        progress_bar["maximum"] = total_games
+
+
+        # --- Calculate and set fetch popup position ---
+        self.master.update_idletasks() # Ensure main window geometry is up-to-date
         main_width = self.master.winfo_width()
         main_height = self.master.winfo_height()
+        main_x = self.master.winfo_x()
+        main_y = self.master.winfo_y()
 
-        popup_width = 350
-        popup_height = 100
-
-        center_x = main_x + (main_width // 2) - (popup_width // 2)
-        center_y = main_y + (main_height // 2) - (popup_height // 2)
+        center_x = main_x + (main_width // 2) - (fetch_popup_width // 2)
+        center_y = main_y + (main_height // 2) - (fetch_popup_height // 2)
 
         screen_width = self.master.winfo_screenwidth()
         screen_height = self.master.winfo_screenheight()
-        center_x = max(0, min(center_x, screen_width - popup_width))
-        center_y = max(0, min(center_y, screen_height - popup_height))
+        center_x = max(0, min(center_x, screen_width - fetch_popup_width))
+        center_y = max(0, min(center_y, screen_height - fetch_popup_height))
 
-        popup.geometry(f'{popup_width}x{popup_height}+{center_x}+{center_y}')
-        popup.update_idletasks() # Ensure it's drawn
+        popup.geometry(f'{fetch_popup_width}x{fetch_popup_height}+{center_x}+{center_y}')
+        # --- End position calculation ---
+
+        # Make it modal AFTER positioning
+        popup.grab_set()
+        # Ensure popup is removed if closed via window manager
+        # Override the close button to potentially cancel the operation later if needed
+        # For now, just destroying is fine, but a robust solution might ask the user if they want to cancel
+        popup.protocol("WM_DELETE_WINDOW", self._cancel_fetch) # Use a specific cancel method
+
+        # Start the data fetching in a separate thread
+        self._fetch_worker_thread = threading.Thread(target=self._fetch_worker,
+                                                     args=(console_id_str, console_name, initial_game_list_data,
+                                                           progress_bar, game_progress_label_var, popup))
+        self._fetch_worker_thread.daemon = True # Allow the application to exit even if the thread is running
+        self._fetch_worker_thread.start()
+
+    def _cancel_fetch(self):
+        """Handle cancellation attempt during fetch."""
+        # For a simple implementation, just destroy the popup.
+        # A more advanced implementation might use a flag the worker thread checks.
+        if hasattr(self, '_fetch_progress_popup') and self._fetch_progress_popup and tk.Toplevel.winfo_exists(self._fetch_progress_popup):
+             # Ask for confirmation before cancelling the thread operation
+             confirm_cancel = messagebox.askyesno(
+                 self.translate("cancel_fetch_title"), # Add this translation key
+                 self.translate("cancel_fetch_text"), # Add this translation key
+                 parent=self._fetch_progress_popup
+             )
+             if confirm_cancel:
+                 # In a more complex app, you'd signal the worker thread to stop.
+                 # Here, we just destroy the popup. The worker thread will continue
+                 # but its GUI updates will just fail silently or error out if
+                 # they try to access the destroyed widgets.
+                 # A proper cancellation requires the worker thread to periodically
+                 # check a flag. Let's add a cancellation flag.
+                 self._cancel_fetch_flag = True # Set a flag for the worker to check
+                 self._fetch_progress_popup.destroy()
+                 self._fetch_progress_popup = None # Clear reference
+                 self.status_bar_text_var.set(self.translate("status_fetch_cancelled")) # Add this translation key
+                 # Buttons will be re-enabled in _on_fetch_complete when the worker finishes
+                 # (even if it finishes due to cancellation) or explicitly here if the worker
+                 # is designed to exit quickly on cancellation.
+                 # For now, let the worker finish naturally or adapt worker to exit on flag.
+                 # Let's adapt the worker to check the flag.
+             # If not confirmed, do nothing, popup stays open
+        else:
+             # If popup is not open, just print a debug message
+             print("DEBUG: Attempted to cancel fetch, but popup is not active.")
+
+
+    def _fetch_worker(self, console_id_str, console_name, initial_game_list_data, progress_bar, game_progress_label_var, popup):
+        """Worker function to fetch data in a separate thread."""
+        print(f"DEBUG: Fetch worker thread started for console ID: {console_id_str}")
+        processed_data_for_cache = []
+        total_games = len(initial_game_list_data)
+        api_call_delay = 0.6 # Adjusted from 0.6 to allow slightly faster processing, monitor API for 429s
+
+        # Initialize cancellation flag
+        self._cancel_fetch_flag = False
+
+        try:
+            for index, game_entry in enumerate(initial_game_list_data):
+                # Check cancellation flag periodically
+                if self._cancel_fetch_flag:
+                     print("DEBUG: Fetch worker detected cancellation flag, stopping.")
+                     break # Exit the loop if cancellation is requested
+
+                if not isinstance(game_entry, dict):
+                    # Schedule print statement
+                    self.master.after(0, print, self.translate("data_fetch_skipping_invalid_entry", index, game_entry)) # Use translated text
+                    # Schedule progress bar update - CORRECTED LINE
+                    self.master.after(0, lambda: progress_bar.config(value=index + 1))
+                    # Schedule popup and master update (redundant but ensures updates)
+                    self.master.after(0, popup.update_idletasks)
+                    self.master.after(0, self.master.update_idletasks)
+                    continue
+
+                game_id = game_entry.get('ID')
+                game_title = game_entry.get('Title', f'Unbekanntes Spiel ID {game_id}') # Keep fallback as is or translate
+
+                # Schedule progress label updates
+                self.master.after(0, self.fetch_progress_label_var.set, self.translate("data_fetch_processing_game", index+1, total_games, console_name)) # Use translated text
+                self.master.after(0, game_progress_label_var.set, f"{game_title[:50]}...") # This is dynamic, keep as is
+                # Schedule progress bar update - CORRECTED LINE
+                self.master.after(0, lambda: progress_bar.config(value=index + 1))
+                 # Schedule popup and master update (redundant but ensures updates)
+                self.master.after(0, popup.update_idletasks)
+                self.master.after(0, self.master.update_idletasks)
+
+
+                if not game_id:
+                    # Schedule print statement
+                    self.master.after(0, print, self.translate("data_fetch_skipping_missing_id", game_entry)) # Use translated text
+                    continue
+                # Use string ID for API calls
+                game_id_str = str(game_id)
+
+                if index > 0: # Apply delay after the first game
+                    time.sleep(api_call_delay)
+
+                # API calls from worker thread - _make_api_request needs to handle scheduled status updates internally
+                game_hashes_params = {'i': game_id_str, 'g': console_id_str} # Use string IDs
+                game_hashes_data = self._make_api_request(API_GET_GAME_HASHES_URL, params=game_hashes_params, authenticate=True)
+
+                extended_info = {}
+                if (self.include_achievements_var.get() or self.include_patch_urls_var.get()) and not self._cancel_fetch_flag: # Check flag before next API call
+                    extended_params = {'i': game_id_str, 'g': console_id_str} # Use string IDs
+                    extended_data_api_response = self._make_api_request(API_GET_GAME_EXTENDED_URL, params=extended_params, authenticate=True)
+
+                    if extended_data_api_response and isinstance(extended_data_api_response, dict):
+                        if self.include_achievements_var.get():
+                            extended_info['num_achievements'] = extended_data_api_response.get('NumAchievements', 0)
+                            extended_info['points'] = extended_data_api_response.get('Points', 0)
+                        if self.include_patch_urls_var.get():
+                            patch_data = extended_data_api_response.get('PatchData')
+                            if isinstance(patch_data, dict):
+                                extended_info['patch_url'] = patch_data.get('URL', '')
+                                extended_info['patch_md5'] = patch_data.get('Hash', '')
+
+
+                md5_list = []
+                if game_hashes_data and isinstance(game_hashes_data, dict) and 'Results' in game_hashes_data:
+                    results_list = game_hashes_data['Results']
+                    if isinstance(results_list, list):
+                        for item in results_list:
+                            if isinstance(item, dict):
+                                hash_md5 = item.get('MD5')
+                                hash_name = item.get('Name', 'Unknown Filename') # Keep fallback or translate
+                                hash_labels = item.get('Labels', [])
+                                hash_status = item.get('Status')
+                                if hash_md5 and isinstance(hash_md5, str) and len(hash_md5) == 32 and all(c in '0123456789abcdefABCDEF' for c in hash_md5):
+                                    md5_list.append({
+                                        'md5': hash_md5.lower(),
+                                        'name': hash_name,
+                                        'labels': hash_labels if isinstance(hash_labels, list) else [],
+                                        'status': hash_status
+                                    })
+
+                if not md5_list:
+                    # Schedule print statement
+                    self.master.after(0, print, self.translate("data_fetch_skipping_no_hashes", game_id, game_title)) # Use translated text
+                    continue
+
+                # Only append if not cancelled before processing this game's data
+                if not self._cancel_fetch_flag:
+                    processed_data_for_cache.append({
+                        'id': game_id_str, # Store ID as string in cached data
+                        'title': game_title,
+                        'hashes': md5_list,
+                        'extended_info': extended_info if extended_info else None
+                    })
+
+        except Exception as e:
+            # Handle unexpected errors in the worker thread
+            import traceback
+            error_msg = f"Unexpected error during data fetch: {e}\n{traceback.format_exc()}"
+            print(f"ERROR: {error_msg}")
+            # Schedule error message display and status update on main thread
+            self.master.after(0, messagebox.showerror, self.translate("data_fetch_unexpected_error_title"), self.translate("data_fetch_unexpected_error_text", str(e))) # Add this key
+            self.master.after(0, self.status_bar_text_var.set, self.translate("status_data_fetch_unexpected_error")) # Add this key
+            processed_data_for_cache = None # Indicate failure
+
+
+        finally:
+            # This block runs whether the loop finished or broke (due to cancellation)
+            # Schedule the completion handler to run on the main thread
+            print("DEBUG: Fetch worker finished or cancelled, scheduling completion handler.")
+            self.master.after(0, self._on_fetch_complete, console_id_str, processed_data_for_cache)
+
+
+    def _on_fetch_complete(self, console_id_str, fetched_data):
+        """Handle data fetch completion on the main Tkinter thread."""
+        print(f"DEBUG: _on_fetch_complete called for console ID: {console_id_str}")
+
+        # Destroy fetch progress popup
+        if hasattr(self, '_fetch_progress_popup') and self._fetch_progress_popup and tk.Toplevel.winfo_exists(self._fetch_progress_popup):
+             self._fetch_progress_popup.destroy()
+             self._fetch_progress_popup = None # Clear reference
+
+        # Clear the worker thread reference
+        self._fetch_worker_thread = None
+        self._cancel_fetch_flag = False # Reset cancellation flag
+
+        # Process results
+        if fetched_data is not None: # fetched_data is None if an unexpected error occurred in the worker
+            if fetched_data: # Check if the list is not empty
+                 self.cached_data[console_id_str] = fetched_data # Store in-memory using string ID
+                 cache_saved = self.save_to_cache(console_id_str, fetched_data) # Use string ID
+                 if cache_saved:
+                     self.status_bar_text_var.set(self.translate("data_fetch_cache_save_success", self.console_id_to_name_map.get(console_id_str, console_id_str))) # Use translated text
+                 else:
+                     # save_to_cache updates status bar internally (scheduled)
+                     pass # Status update already set by save_to_cache
+
+                 messagebox.showinfo(self.translate("data_fetch_completed_title"),
+                                    self.translate("data_fetch_completed_text",
+                                                   self.console_id_to_name_map.get(console_id_str, console_id_str),
+                                                   len(fetched_data))) # Use translated text
+                 print(self.translate("data_fetch_completed", self.console_id_to_name_map.get(console_id_str, console_id_str))) # Use translated text
+
+            else: # fetched_data is an empty list
+                 self.cached_data[console_id_str] = [] # Store empty list
+                 self.save_to_cache(console_id_str, []) # Save empty list to cache
+                 self.status_bar_text_var.set(self.translate("status_no_games_with_hashes", self.console_id_to_name_map.get(console_id_str, console_id_str))) # Use translated text
+                 messagebox.showinfo(self.translate("info_title"), self.translate("data_fetch_no_games_with_hashes_info", self.console_id_to_name_map.get(console_id_str, console_id_str))) # Add this key
+
+        else: # fetched_data is None (unexpected error in worker)
+            # Error message and status are already set by the worker before calling this completion handler
+            # Ensure buttons are re-enabled even after an error
+            pass # No extra action needed here, error was reported by worker
+
+        # Re-enable buttons
+        self.on_selection_change(None)
 
 
     def create_dat_file(self):
-        """Initiates the DAT file creation process in a separate thread."""
-        selected_console_name = self.selected_console_id_var.get()
-        selected_console_id = self.console_name_to_id_map.get(selected_console_name)
+        """Create DAT file from cached or fresh data using clrmamepro format."""
+        console_name = self.selected_console_id_var.get()
+        # Use the name-to-id map now
+        console_id = self.console_name_to_id_map.get(console_name)
+        dat_file_dir = self.dat_save_path.get()
 
-        if not selected_console_id or selected_console_id not in self.cached_data or not self.cached_data[selected_console_id]:
-            messagebox.showwarning(self.translate("no_data_for_dat_title"), self.translate("no_data_for_dat_text")) # Use translated text
-            self.status_bar_text_var.set(self.translate("status_no_data_for_dat")) # Use translated text
+        if not console_id:
+            messagebox.showerror(self.translate("dat_creation_invalid_console_error_title"), self.translate("dat_creation_invalid_console_error_text")) # Use translated text
+            return
+        if not dat_file_dir or not os.path.isdir(dat_file_dir):
+            messagebox.showerror(self.translate("dat_creation_invalid_save_path_error_title"), self.translate("dat_creation_invalid_save_path_error_text")) # Use translated text
             return
 
-        save_dir = self.dat_save_path.get()
-        if not save_dir:
-            messagebox.showwarning(self.translate("no_dat_save_path_title"), self.translate("no_dat_save_path_text")) # Use translated text
-            self.status_bar_text_var.set(self.translate("status_no_dat_save_path")) # Use translated text
+        # Ensure console_id is string for data access
+        console_id_str = str(console_id)
+
+        current_console_data = self.cached_data.get(console_id_str) # Use string ID
+        # Caching is always on, try loading from cache if not in memory
+        if current_console_data is None or not current_console_data:
+            # Load from cache (load_from_cache handles status updates)
+            current_console_data = self.load_from_cache(console_id_str) # Use string ID
+            if current_console_data is not None and isinstance(current_console_data, list):
+                 self.cached_data[console_id_str] = current_console_data # Load into memory using string ID
+            else:
+                messagebox.showwarning(self.translate("dat_creation_no_data_warning_title"), self.translate("dat_creation_no_data_warning_text", console_name)) # Use translated text
+                self.on_selection_change(None)
+                return
+
+
+        if not current_console_data: # Check again after attempting to load from cache
+            messagebox.showinfo(self.translate("dat_creation_no_data_info_title"), self.translate("dat_creation_no_data_info_text", console_name)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_no_data_for_dat", console_name)) # Use translated text
+            self.on_selection_change(None)
             return
 
-        # Disable buttons
-        self.fetch_data_button.config(state="disabled")
+        # print(f"DEBUG: Creating DAT file for {console_name} with {len(current_console_data)} game entries...")
+        self.status_bar_text_var.set(self.translate("status_dat_creation_start", console_name)) # Use translated text
+        # Disable all creation buttons during DAT creation
         self.create_dat_button.config(state="disabled")
-        self.create_retropie_collection_button.config(state="disabled")
-        self.create_batocera_collection_button.config(state="disabled")
-        self.console_dropdown.config(state="disabled")
-        self.cache_manager_button.config(state="disabled")
-        self.logout_button.config(state="disabled")
+        self.fetch_data_button.config(state="disabled")
+        self.create_retropie_collection_button.config(state="disabled") # Use the new variable
+        self.create_batocera_collection_button.config(state="disabled") # Use the new variable
+        self.master.update_idletasks()
 
-        # Show progress window
-        self._show_progress_popup("dat")
+        total_games_in_dat = len(current_console_data)
+        games_with_hashes_count = 0
+        games_with_achievements_count = 0
+        dat_header = [
+            "clrmamepro (",
+            f"\tname \"{console_name} - RetroAchievements\"",
+            f"\tdescription \"{console_name} - RetroAchievements (RA Hashes - {datetime.now().strftime('%Y-%m-%d')})\"",
+            f"\tversion \"{datetime.now().strftime('%Y%m%d-%H%M%S')}\"",
+            f"\tcomment \"{self.translate('dat_comment')}\"", # Add this key
+            f"\tauthor \"{self.translate('dat_author')}\"", # Add this key
+            ")", ""
+        ]
+        game_entries_for_dat_file = []
 
-        # Start DAT creation in a new thread
-        threading.Thread(target=self._create_dat_file_worker, args=(selected_console_id, selected_console_name, save_dir)).start()
+        # Use dat-specific progress popup variable
+        self._dat_progress_popup = tk.Toplevel(self.master) # Store reference
+        popup = self._dat_progress_popup # Use local name for convenience
+        popup.title(self.translate("dat_creation_progress_title")) # Use translated text
+        # Set initial size, position calculated later
+        dat_popup_width = 450
+        dat_popup_height = 130
+        popup.geometry(f"{dat_popup_width}x{dat_popup_height}")
+        popup.resizable(False, False)
 
-    def _create_dat_file_worker(self, console_id, console_name, save_dir):
-        """Worker function for creating DAT file."""
-        try:
-            game_data = self.cached_data.get(console_id, [])
-            total_games = len(game_data)
-            dat_file_name = f"RetroAchievements - {console_name}.dat"
-            full_path = os.path.join(save_dir, dat_file_name)
 
-            self.dat_progress_label_var.set(self.translate("dat_creation_starting", console_name)) # Use translated text
-            self.status_bar_text_var.set(self.translate("status_dat_creating", console_name)) # Use translated text
+        # Use dat-specific label variable
+        self.dat_progress_label_var.set(self.translate("status_dat_creation_start", console_name)) # Use translated text
+        ttk.Label(popup, textvariable=self.dat_progress_label_var, wraplength=430).pack(pady=10, padx=10, fill="x")
+        dat_progress_bar = ttk.Progressbar(popup, orient="horizontal", length=430, mode="determinate")
+        dat_progress_bar.pack(pady=10, padx=10)
+        dat_progress_bar["maximum"] = total_games_in_dat
+
+        # --- Calculate and set dat popup position ---
+        self.master.update_idletasks() # Ensure main window geometry is up-to-date
+        main_width = self.master.winfo_width()
+        main_height = self.master.winfo_height()
+        main_x = self.master.winfo_x()
+        main_y = self.master.winfo_y()
+
+        center_x = main_x + (main_width // 2) - (dat_popup_width // 2)
+        center_y = main_y + (main_height // 2) - (dat_popup_height // 2)
+
+        screen_width = self.master.winfo_screenwidth()
+        screen_height = self.master.winfo_screenheight()
+        center_x = max(0, min(center_x, screen_width - dat_popup_width))
+        center_y = max(0, min(center_y, screen_height - dat_popup_height))
+
+        popup.geometry(f'{dat_popup_width}x{dat_popup_height}+{center_x}+{center_y}')
+        # --- End position calculation ---
+
+        # Make it modal AFTER positioning
+        popup.grab_set()
+        # Ensure popup is removed if closed via window manager
+        popup.protocol("WM_DELETE_WINDOW", popup.destroy) # DAT creation doesn't have a simple cancel
+
+        for index, game_data in enumerate(current_console_data):
+            game_title = game_data.get('title', f'Unbekanntes Spiel ID {game_data.get("id")}') # Keep fallback or translate
+            game_hashes = game_data.get('hashes', [])
+            extended_info = game_data.get('extended_info')
+
+            # Only include games that have at least one hash
+            if not game_hashes or not isinstance(game_hashes, list) or len(game_hashes) == 0:
+                 self.dat_progress_label_var.set(self.translate("dat_creation_skipping_no_hashes_progress", game_title[:40], index+1, total_games_in_dat)) # Use translated text
+                 dat_progress_bar["value"] = index + 1
+                 popup.update_idletasks()
+                 self.master.update_idletasks()
+                 continue
+
+            games_with_hashes_count += 1
+            if extended_info and extended_info.get('num_achievements', 0) > 0:
+                 games_with_achievements_count += 1
+
+            self.dat_progress_label_var.set(self.translate("dat_creation_processing_game_progress", game_title[:40], index+1, total_games_in_dat)) # Use translated text
+            dat_progress_bar["value"] = index + 1
+            popup.update_idletasks()
             self.master.update_idletasks()
 
-            dat_content = []
-            dat_content.append(f"""clrmamepro (
-    name "{console_name} (RetroAchievements)"
-    description "{console_name} (RetroAchievements)"
-    version "{datetime.now().strftime('%Y-%m-%d %H-%M-%S')}"
-    comment "DAT file generated by RADATool by 3Draco"
-    homepage "https://github.com/3Draco/RADATool"
-    url "https://retroachievements.org"
-    romof ""
-)
-""")
 
-            for i, game in enumerate(game_data):
-                self.dat_progress_label_var.set(self.translate("dat_creation_progress", i + 1, total_games, game.get("Title", "Unknown"))) # Use translated text
-                self.master.update_idletasks()
+            game_entry_lines = [
+                "\tgame ("
+            ]
+            # Sanitize game title for DAT name/description
+            game_title_sanitized = game_title.replace('"', "'").replace('&', 'and')
+            game_entry_lines.append(f'\t\tname "{game_title_sanitized}"')
+            game_entry_lines.append(f'\t\tdescription "{game_title_sanitized}"')
 
-                game_id = game.get("ID", "N/A")
-                title = game.get("Title", "Unknown Title")
-                hash_value = game.get("Hash", "N/A")
-                forum_topic = game.get("ForumTopicID", "N/A")
-                console_id_game = game.get("ConsoleID", "N/A")
-                developer = game.get("Developer", "N/A")
-                publisher = game.get("Publisher", "N/A")
-                genre = game.get("Genre", "N/A")
-                release_date = game.get("Released", "N/A") # This is likely 'yyyy-mm-dd hh:mm:ss' or 'yyyy-mm-dd'
+            # Add extended info as comment if available and requested
+            comment_lines = []
+            if extended_info:
+                if self.include_achievements_var.get() and extended_info.get('num_achievements', 0) > 0:
+                    comment_lines.append(self.translate('dat_comment_achievements', extended_info.get('num_achievements', 0), extended_info.get('points', 0))) # Add this key
+                if self.include_patch_urls_var.get() and extended_info.get('patch_url'):
+                    comment_lines.append(self.translate('dat_comment_patch_url', extended_info.get('patch_url'), extended_info.get('patch_md5', 'N/A'))) # Add this key
 
-                # Clean up hash value to ensure it's a valid hex string for SHA1
-                if hash_value and len(hash_value) == 32: # MD5
-                     # MD5 hash, not SHA1. CLRMAMEPRO expects SHA1 for 'rom' entries.
-                     # If RetroAchievements provides only MD5, we can put it as a comment or skip.
-                     # For now, will place as a comment if not SHA1 (which is 40 chars)
-                     rom_line = f'        rom name="{title}.zip" size="0" crc="00000000" md5="{hash_value}" sha1="0000000000000000000000000000000000000000"'
-                elif hash_value and len(hash_value) == 40: # SHA1
-                    rom_line = f'        rom name="{title}.zip" size="0" crc="00000000" sha1="{hash_value}"'
-                else:
-                    rom_line = f'        rom name="{title}.zip" size="0" crc="00000000" sha1="0000000000000000000000000000000000000000"' # Fallback zero hash
+            if comment_lines:
+                 # Join comment lines, escaping internal quotes if necessary
+                 # Simple approach: replace " with ' inside comments
+                 combined_comment = " | ".join(comment_lines).replace('"', "'")
+                 game_entry_lines.append(f'\t\tcomment "{combined_comment}"')
 
 
-                # Construct the game entry
-                game_entry = f"""
-    game (
-        name "{title}"
-        description "{title}"
-        source "RetroAchievements"
-        comment "ID: {game_id}, Forum: {forum_topic}, Console ID: {console_id_game}, Developer: {developer}, Publisher: {publisher}, Genre: {genre}, Released: {release_date}"
-{rom_line}
-"""
+            for file_hash_data in game_hashes:
+                 if isinstance(file_hash_data, dict) and 'md5' in file_hash_data and file_hash_data.get('name'):
+                    md5_hash = file_hash_data['md5']
+                    filename = file_hash_data['name']
+                    # Sanitize filename for DAT entry - remove problematic characters
+                    allowed_chars_filename = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -_.,()[]{}!@#$%^&\'~`+'
+                    sanitized_filename = "".join(c for c in filename if c in allowed_chars_filename)
+                    if not sanitized_filename: sanitized_filename = "unknown_file" # Fallback if sanitization results in empty string
 
-                # Include achievements if requested
-                if self.include_achievements_var.get() and "Achievements" in game and game["Achievements"]:
-                    achievements_comments = []
-                    for ach_id, achievement in game["Achievements"].items():
-                        # Only include official achievements
-                        if achievement.get('IsOfficial', '0') == '1': # API returns '1' or '0' as strings
-                             achievements_comments.append(f"            Achievement: {achievement.get('Title', 'N/A')} ({achievement.get('Points', '0')} pts) - {achievement.get('Description', 'N/A')}")
-                    if achievements_comments:
-                         game_entry += "        comment \"Achievements:\n" + "\n".join(achievements_comments) + "\"\n"
+                    # Example: Add size="0" since RA API doesn't provide it easily with this call
+                    game_entry_lines.append("\t\trom (")
+                    game_entry_lines.append(f'\t\t\tname "{sanitized_filename}"')
+                    game_entry_lines.append(f'\t\t\tsize "0"') # Placeholder, size not available
+                    game_entry_lines.append(f'\t\t\tcrc "00000000"') # Placeholder, CRC not available
+                    game_entry_lines.append(f'\t\t\tmd5 "{md5_hash}"')
+                    game_entry_lines.append("\t\t)") # End rom
 
 
-                # Include patch URLs if requested
-                if self.include_patch_urls_var.get() and "Patch" in game and game["Patch"]:
-                    patch_url = game["Patch"].get("URL", "N/A")
-                    if patch_url != "N/A":
-                        game_entry += f'        comment "Patch URL: {patch_url}"\n'
+            game_entry_lines.append("\t)") # End game
+            game_entries_for_dat_file.extend(game_entry_lines)
 
 
-                game_entry += "    )\n"
-                dat_content.append(game_entry)
+        dat_filename = f"RetroAchievements - {console_name}.dat"
+        full_output_path = os.path.join(dat_file_dir, dat_filename)
 
-            with open(full_path, 'w', encoding='utf-8') as f:
-                f.writelines(dat_content)
+        try:
+            # No newline='' here as per user request - keep OS default
+            with open(full_output_path, "w", encoding="utf-8") as f: # Specify encoding
+                for line in dat_header:
+                    f.write(line + "\n") # Always write '\n' for line breaks in DAT
+                for line in game_entries_for_dat_file:
+                    f.write(line + "\n") # Always write '\n' for line breaks in DAT
 
-            self.master.after(0, self._on_dat_creation_complete, True, full_path)
+            # --- Fortschrittsfenster schließen BEVOR die MessageBox kommt ---
+            if hasattr(self, '_dat_progress_popup') and self._dat_progress_popup and tk.Toplevel.winfo_exists(self._dat_progress_popup):
+                self._dat_progress_popup.destroy()
+                self._dat_progress_popup = None
+            # --- Ende Schließen ---
 
-        except Exception as e:
-            print(f"Error during DAT creation: {e}")
-            self.master.after(0, self._on_dat_creation_complete, False, None, str(e))
+            messagebox.showinfo(self.translate("dat_creation_success_title"),
+                                self.translate("dat_creation_success_text", dat_filename, os.path.abspath(full_output_path), games_with_hashes_count, games_with_achievements_count)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_dat_created", dat_filename)) # Use translated text
+            # print(f"DEBUG: DAT file created successfully with {games_with_hashes_count} games including hashes ({games_with_achievements_count} with achievements.)")
 
-    def _on_dat_creation_complete(self, success, file_path=None, error_message=None):
-        """Called when DAT creation is complete (from the worker thread)."""
-        if self._dat_progress_popup:
-            self._dat_progress_popup.destroy()
-            self._dat_progress_popup = None
+        except IOError as e:
+            messagebox.showerror(self.translate("dat_creation_save_error_title"), self.translate("dat_creation_save_error_text", e)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_dat_save_error")) # Use translated text
+            # print(f"ERROR: Error writing DAT file: {e}")
+        except Exception as e_gen:
+            messagebox.showerror(self.translate("dat_creation_unexpected_error_title"), self.translate("dat_creation_unexpected_error_text", str(e_gen))) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_dat_unexpected_error")) # Use translated text
+            # print(f"ERROR: Unexpected error creating DAT file: {e_gen}")
+        finally:
+             # Destroy progress popup here if it still exists (Fallback for errors)
+             if hasattr(self, '_dat_progress_popup') and self._dat_progress_popup and tk.Toplevel.winfo_exists(self._dat_progress_popup):
+                self._dat_progress_popup.destroy()
+                self._dat_progress_popup = None
+             self.on_selection_change(None)
 
-        # Re-enable buttons
-        self.fetch_data_button.config(state="normal")
-        self.create_dat_button.config(state="normal")
-        self.create_retropie_collection_button.config(state="normal")
-        self.create_batocera_collection_button.config(state="normal")
-        self.console_dropdown.config(state="readonly")
-        self.cache_manager_button.config(state="normal")
-        self.logout_button.config(state="normal")
-
-        if success:
-            self.status_bar_text_var.set(self.translate("status_dat_creation_complete", file_path)) # Use translated text
-            messagebox.showinfo(self.translate("dat_success_title"), self.translate("dat_success_text", file_path)) # Use translated text
-        else:
-            self.status_bar_text_var.set(self.translate("status_dat_creation_failed", error_message)) # Use translated text
-            messagebox.showerror(self.translate("dat_error_title"), self.translate("dat_error_text", error_message)) # Use translated text
-
-        self.on_selection_change(None) # Ensure buttons are in correct state
 
     def create_retropie_collection(self):
-        """Initiates the RetroPie collection file creation process in a separate thread."""
-        self._create_collection(system_type="retropie")
+        """Create a RetroPie custom collection file (.cfg) listing games with achievements."""
+        console_name = self.selected_console_id_var.get()
+         # Use the name-to-id map now
+        console_id = self.console_name_to_id_map.get(console_name)
+        system_short = self._get_system_short_name(console_name)
+
+        if not system_short:
+            messagebox.showerror(self.translate("collection_creation_shortname_error_title"), self.translate("collection_creation_shortname_error_text", console_name)) # Use translated text
+            self.on_selection_change(None)
+            return
+
+        retropie_rom_base = self.retropie_base_path.get().strip()
+        # Angepasst: Nur prüfen, ob der Pfad gesetzt ist, nicht ob er lokal existiert
+        if not retropie_rom_base:
+             # Updated error message key
+             messagebox.showerror(self.translate("collection_creation_no_retropie_path_error_title"), self.translate("collection_creation_no_retropie_path_error_text")) # Use translated text
+             self.on_selection_change(None)
+             return
+
+        # This path is used inside the CFG file, so it needs to be the RetroPie specific one
+        collection_rom_base_path = retropie_rom_base
+
+        retropie_system_rom_path = os.path.join(collection_rom_base_path, system_short)
+        collection_cfg_dir = self.collection_cfg_save_path.get()
+
+
+        if not console_id:
+            messagebox.showerror(self.translate("collection_creation_invalid_console_error_title"), self.translate("collection_creation_invalid_console_error_text")) # Use translated text
+            self.on_selection_change(None)
+            return
+        if not collection_cfg_dir or not os.path.isdir(collection_cfg_dir):
+            messagebox.showerror(self.translate("collection_creation_invalid_save_path_error_title"), self.translate("collection_creation_invalid_save_path_error_text")) # Use translated text
+            self.on_selection_change(None)
+            return
+
+        # Ensure console_id is string for data access
+        console_id_str = str(console_id)
+
+        current_console_data = self.cached_data.get(console_id_str) # Use string ID
+         # Caching is always on, try loading from cache if not in memory
+        if current_console_data is None or not current_console_data:
+            current_console_data = self.load_from_cache(console_id_str) # Use string ID
+            if current_console_data is not None and isinstance(current_console_data, list):
+                 self.cached_data[console_id_str] = current_console_data # Load into memory using string ID
+            else:
+                 messagebox.showwarning(self.translate("collection_creation_no_data_warning_title"), self.translate("collection_creation_no_data_warning_text", console_name)) # Use translated text
+                 self.on_selection_change(None)
+                 return
+
+
+        if not current_console_data: # Check again after attempting to load from cache
+            messagebox.showinfo(self.translate("collection_creation_no_data_info_title"), self.translate("collection_creation_no_data_info_text", console_name)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_no_data_for_collection", console_name)) # Use translated text
+            self.on_selection_change(None)
+            return
+
+        games_with_achievements = []
+        for game_data in current_console_data:
+            extended_info = game_data.get('extended_info')
+            # Only include if game has achievements AND has hashes (meaning it's processable)
+            if extended_info and extended_info.get('num_achievements', 0) > 0 and game_data.get('hashes'):
+                 games_with_achievements.append(game_data)
+
+
+        if not games_with_achievements:
+             messagebox.showinfo(self.translate("collection_no_achievements_info_title"), self.translate("collection_no_achievements_info_text", console_name)) # Use translated text
+             self.status_bar_text_var.set(self.translate("status_no_achievements_with_hashes", console_name)) # Use translated text
+             self.on_selection_change(None)
+             return
+
+        self.status_bar_text_var.set(self.translate("status_collection_creation_start", console_name)) # Use translated text
+        # Disable all creation buttons during process
+        self.create_dat_button.config(state="disabled")
+        self.fetch_data_button.config(state="disabled")
+        self.create_retropie_collection_button.config(state="disabled") # Disable this one too
+        self.create_batocera_collection_button.config(state="disabled") # Disable the other one too
+
+        self.master.update_idletasks()
+
+        # Use collection-specific progress popup variable (re-use the same popup)
+        self._collection_progress_popup = tk.Toplevel(self.master) # Store reference
+        popup = self._collection_progress_popup # Use local name for convenience
+        # Use generic title for both collection types
+        popup.title(self.translate("collection_creation_progress_title")) # Use translated text
+        # Set initial size, position calculated later
+        collection_popup_width = 450
+        collection_popup_height = 130
+        popup.geometry(f"{collection_popup_width}x{collection_popup_height}")
+        popup.resizable(False, False)
+
+
+        # Use collection-specific label variable
+        self.collection_progress_label_var.set(self.translate("status_collection_creation_start", console_name)) # Use translated text
+        ttk.Label(popup, textvariable=self.collection_progress_label_var, wraplength=430).pack(pady=10, padx=10, fill="x")
+        progress_bar = ttk.Progressbar(popup, orient="horizontal", length=430, mode="determinate")
+        progress_bar.pack(pady=10, padx=10)
+        progress_bar["maximum"] = len(games_with_achievements)
+
+        # --- Calculate and set collection popup position ---
+        self.master.update_idletasks() # Ensure main window geometry is up-to-date
+        main_width = self.master.winfo_width()
+        main_height = self.master.winfo_height()
+        main_x = self.master.winfo_x()
+        main_y = self.master.winfo_y()
+
+        center_x = main_x + (main_width // 2) - (collection_popup_width // 2)
+        center_y = main_y + (main_height // 2) - (collection_popup_height // 2)
+
+        screen_width = self.master.winfo_screenwidth()
+        screen_height = self.master.winfo_screenheight()
+        center_x = max(0, min(center_x, screen_width - collection_popup_width))
+        center_y = max(0, min(center_y, screen_height - collection_popup_height))
+
+        popup.geometry(f'{collection_popup_width}x{collection_popup_height}+{center_x}+{center_y}')
+        # --- End position calculation ---
+
+        # Make it modal AFTER positioning
+        popup.grab_set()
+        # Ensure popup is removed if closed via window manager
+        popup.protocol("WM_DELETE_WINDOW", popup.destroy) # Collection creation doesn't have a simple cancel
+
+
+        collection_filename = f"custom-RetroAchievements-{system_short}.cfg"
+        full_output_path = os.path.join(collection_cfg_dir, collection_filename)
+        games_added_to_cfg = 0
+
+        try:
+            # print(f"DEBUG: Writing RetroPie Collection file to: {full_output_path}")
+            # print(f"DEBUG: Using base ROM path for entries in CFG: {retropie_system_rom_path}")
+
+            # Get the desired extension from the variable
+            desired_extension = self.rom_extension_var.get().strip()
+            if not desired_extension.startswith('.'):
+                 desired_extension = '.' + desired_extension # Ensure it starts with a dot
+
+            # ### MODIFIED: Add newline='' to ensure LF line endings for CFG file ###
+            with open(full_output_path, "w", encoding="utf-8", newline='') as f: # Specify encoding and newline
+                for index, game_data in enumerate(games_with_achievements):
+                    game_title = game_data.get('title', f'Unbekanntes Spiel ID {game_data.get("id")}') # Keep fallback or translate
+                    game_hashes = game_data.get('hashes', [])
+                    self.collection_progress_label_var.set(self.translate("collection_creation_adding_game", game_title[:40], index+1, len(games_with_achievements))) # Use translated text
+                    progress_bar["value"] = index + 1
+                    popup.update_idletasks()
+                    self.master.update_idletasks()
+
+                    rom_filename = ""
+                    # Prioritize filename from hash data if available
+                    if game_hashes and isinstance(game_hashes, list):
+                         # Find the first hash entry with a filename
+                         for hash_entry in game_hashes:
+                             if isinstance(hash_entry, dict) and hash_entry.get('name'):
+                                 rom_filename = hash_entry['name']
+                                 # print(f"DEBUG: Using filename from hash entry: {rom_filename}")
+                                 break # Use the first found filename
+                    # If no filename in hash data, generate a fallback
+                    if not rom_filename:
+                        game_title_sanitized = game_title.replace('"', "'").replace('&', 'and')
+                        allowed_chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -_.,()[]:\'#&!+'
+                        game_title_sanitized = "".join(c for c in game_title_sanitized if c in allowed_chars).strip()
+                        rom_name_base = "".join(c for c in game_title_sanitized if c.isalnum() or c in ' _-').strip()
+                        rom_name_base = rom_name_base.replace(" ", "_")
+                        if not rom_name_base: rom_name_base = f"game_{game_data.get('id', index)}" # Keep fallback or translate
+                        # OLD: rom_ext = self._get_typical_extension(console_name)
+                        # OLD: rom_filename = f"{rom_name_base}.{rom_ext}"
+                        # NEW: Use the determined rom_name_base without an extension yet
+                        rom_filename = rom_name_base
+                        # print(f"DEBUG: Generating fallback filename base: {rom_filename}")
+
+
+                    # ### MODIFIED: Use the value from the new rom_extension_var ###
+                    # Check if the filename already has an extension that matches the desired one
+                    base_name, existing_ext = os.path.splitext(rom_filename)
+                    if existing_ext.lower() != desired_extension.lower():
+                         # If it doesn't match, replace or add the desired extension
+                         rom_filename = base_name + desired_extension
+                    # else: The existing extension matches, use the filename as is.
+
+                    # print(f"DEBUG: Using final filename with desired extension: {rom_filename}")
+
+
+                    rom_path_in_cfg = f"{os.path.normpath(retropie_system_rom_path).replace(os.sep, '/')}/{os.path.normpath(rom_filename).replace(os.sep, '/')}"
+
+                    f.write(rom_path_in_cfg + "\n")
+                    games_added_to_cfg += 1
+                    # print(f"DEBUG: Added to CFG: {rom_path_in_cfg}")
+
+            # Destroy progress popup after creation loop - MOVED to finally block
+
+            # --- Fortschrittsfenster schließen BEVOR die MessageBox kommt ---
+            if hasattr(self, '_collection_progress_popup') and self._collection_progress_popup and tk.Toplevel.winfo_exists(self._collection_progress_popup):
+                self._collection_progress_popup.destroy()
+                self._collection_progress_popup = None
+            # --- Ende Schließen ---
+
+            # Updated success message key (generic)
+            messagebox.showinfo(self.translate("collection_creation_success_title"),
+                self.translate("collection_creation_success_text", collection_filename, os.path.abspath(full_output_path), games_added_to_cfg)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_collection_created", collection_filename)) # Use translated text
+            # print(f"DEBUG: Collection file created successfully with {games_added_to_cfg} entries.)
+
+        except IOError as e:
+            messagebox.showerror(self.translate("collection_creation_save_error_title"), self.translate("collection_creation_save_error_text", e)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_collection_save_error")) # Use translated text
+            # print(f"ERROR: Error writing collection file: {e}")
+        except Exception as e_gen:
+            messagebox.showerror(self.translate("collection_creation_unexpected_error_title"), self.translate("collection_creation_unexpected_error_text", str(e_gen))) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_collection_unexpected_error")) # Use translated text
+            # print(f"ERROR: Unexpected error creating collection file: {e_gen}")
+        finally:
+             # Destroy progress popup here if it still exists (Fallback for errors)
+             if hasattr(self, '_collection_progress_popup') and self._collection_progress_popup and tk.Toplevel.winfo_exists(self._collection_progress_popup):
+                self._collection_progress_popup.destroy()
+                self._collection_progress_popup = None
+             self.on_selection_change(None)
+
 
     def create_batocera_collection(self):
-        """Initiates the Batocera collection file creation process in a separate thread."""
-        self._create_collection(system_type="batocera")
+        """Create a Batocera custom collection file (.cfg) listing games with achievements."""
+        console_name = self.selected_console_id_var.get()
+         # Use the name-to-id map now
+        console_id = self.console_name_to_id_map.get(console_name)
+        system_short = self._get_system_short_name(console_name)
 
-    def _create_collection(self, system_type):
-        """Handles the common logic for creating collection files (RetroPie or Batocera)."""
-        selected_console_name = self.selected_console_id_var.get()
-        selected_console_id = self.console_name_to_id_map.get(selected_console_name)
-
-        if not selected_console_id or selected_console_id not in self.cached_data or not self.cached_data[selected_console_id]:
-            messagebox.showwarning(self.translate("no_data_for_collection_title"), self.translate("no_data_for_collection_text")) # Use translated text
-            self.status_bar_text_var.set(self.translate("status_no_data_for_collection")) # Use translated text
+        if not system_short:
+            messagebox.showerror(self.translate("collection_creation_shortname_error_title"), self.translate("collection_creation_shortname_error_text", console_name)) # Use translated text
+            self.on_selection_change(None)
             return
 
-        save_dir = self.collection_cfg_save_path.get()
-        if not save_dir:
-            messagebox.showwarning(self.translate("no_collection_cfg_save_path_title"), self.translate("no_collection_cfg_save_path_text")) # Use translated text
-            self.status_bar_text_var.set(self.translate("status_no_collection_cfg_save_path")) # Use translated text
+        batocera_rom_base = self.batocera_base_path.get().strip()
+        # Check if the path is set for Batocera
+        if not batocera_rom_base:
+             # Updated error message key for Batocera
+             messagebox.showerror(self.translate("collection_creation_no_batocera_path_error_title"), self.translate("collection_creation_no_batocera_path_error_text")) # Add this new key
+             self.on_selection_change(None)
+             return
+
+        # This path is used inside the CFG file, so it needs to be the Batocera specific one
+        collection_rom_base_path = batocera_rom_base
+
+        batocera_system_rom_path = os.path.join(collection_rom_base_path, system_short)
+        collection_cfg_dir = self.collection_cfg_save_path.get()
+
+
+        if not console_id:
+            messagebox.showerror(self.translate("collection_creation_invalid_console_error_title"), self.translate("collection_creation_invalid_console_error_text")) # Use translated text
+            self.on_selection_change(None)
+            return
+        if not collection_cfg_dir or not os.path.isdir(collection_cfg_dir):
+            messagebox.showerror(self.translate("collection_creation_invalid_save_path_error_title"), self.translate("collection_creation_invalid_save_path_error_text")) # Use translated text
+            self.on_selection_change(None)
             return
 
-        # Determine base path based on system_type
-        if system_type == "retropie":
-            rom_base_path = self.retropie_base_path.get()
-            collection_file_name = f"RetroAchievements - {selected_console_name}.cfg"
-            status_message_key_start = "status_retropie_collection_creating"
-            dialog_title_key = "retropie_collection_success_title"
-            dialog_text_key = "retropie_collection_success_text"
-            error_dialog_title_key = "retropie_collection_error_title"
-            error_dialog_text_key = "retropie_collection_error_text"
-            if not rom_base_path:
-                messagebox.showwarning(self.translate("no_retropie_rom_path_title"), self.translate("no_retropie_rom_path_text"))
-                self.status_bar_text_var.set(self.translate("status_no_retropie_rom_path"))
-                return
-        elif system_type == "batocera":
-            rom_base_path = self.batocera_base_path.get()
-            collection_file_name = f"RetroAchievements - {selected_console_name}.batocera.cfg" # Distinct name
-            status_message_key_start = "status_batocera_collection_creating"
-            dialog_title_key = "batocera_collection_success_title"
-            dialog_text_key = "batocera_collection_success_text"
-            error_dialog_title_key = "batocera_collection_error_title"
-            error_dialog_text_key = "batocera_collection_error_text"
-            if not rom_base_path:
-                messagebox.showwarning(self.translate("no_batocera_rom_path_title"), self.translate("no_batocera_rom_path_text"))
-                self.status_bar_text_var.set(self.translate("status_no_batocera_rom_path"))
-                return
-        else:
-            messagebox.showerror("Internal Error", "Unknown system type for collection creation.")
-            return
+        # Ensure console_id is string for data access
+        console_id_str = str(console_id)
 
-
-        full_path = os.path.join(save_dir, collection_file_name)
-
-        # Disable buttons
-        self.fetch_data_button.config(state="disabled")
-        self.create_dat_button.config(state="disabled")
-        self.create_retropie_collection_button.config(state="disabled")
-        self.create_batocera_collection_button.config(state="disabled")
-        self.console_dropdown.config(state="disabled")
-        self.cache_manager_button.config(state="disabled")
-        self.logout_button.config(state="disabled")
-
-        # Show progress window
-        self._show_progress_popup("collection")
-
-        # Start collection creation in a new thread
-        threading.Thread(target=self._create_collection_worker,
-                         args=(selected_console_id, selected_console_name, save_dir,
-                               rom_base_path, system_type,
-                               status_message_key_start, dialog_title_key, dialog_text_key,
-                               error_dialog_title_key, error_dialog_text_key)).start()
-
-    def _create_collection_worker(self, console_id, console_name, save_dir, rom_base_path, system_type,
-                                   status_message_key_start, dialog_title_key, dialog_text_key,
-                                   error_dialog_title_key, error_dialog_text_key):
-        """Worker function for creating collection files."""
-        try:
-            game_data = self.cached_data.get(console_id, [])
-            total_games = len(game_data)
-
-            # Determine the collection file name based on system_type
-            if system_type == "retropie":
-                collection_file_name = f"RetroAchievements - {console_name}.cfg"
-                rom_path_prefix = rom_base_path
-            elif system_type == "batocera":
-                collection_file_name = f"RetroAchievements - {console_name}.batocera.cfg"
-                rom_path_prefix = rom_base_path
+        current_console_data = self.cached_data.get(console_id_str) # Use string ID
+         # Caching is always on, try loading from cache if not in memory
+        if current_console_data is None or not current_console_data:
+            current_console_data = self.load_from_cache(console_id_str) # Use string ID
+            if current_console_data is not None and isinstance(current_console_data, list):
+                 self.cached_data[console_id_str] = current_console_data # Load into memory using string ID
             else:
-                # This should not happen due to prior checks, but as a safeguard
-                raise ValueError("Invalid system_type provided to _create_collection_worker")
+                 messagebox.showwarning(self.translate("collection_creation_no_data_warning_title"), self.translate("collection_creation_no_data_warning_text", console_name)) # Use translated text
+                 self.on_selection_change(None)
+                 return
 
 
-            full_path = os.path.join(save_dir, collection_file_name)
-            rom_extension = self.rom_extension_var.get().strip()
-            if not rom_extension.startswith("."):
-                rom_extension = "." + rom_extension # Ensure it starts with a dot
+        if not current_console_data: # Check again after attempting to load from cache
+            messagebox.showinfo(self.translate("collection_creation_no_data_info_title"), self.translate("collection_creation_no_data_info_text", console_name)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_no_data_for_collection", console_name)) # Use translated text
+            self.on_selection_change(None)
+            return
 
-            self.collection_progress_label_var.set(self.translate("collection_creation_starting", console_name)) # Use generic collection text
-            self.status_bar_text_var.set(self.translate(status_message_key_start, console_name)) # Use system-specific status message
-            self.master.update_idletasks()
+        games_with_achievements = []
+        for game_data in current_console_data:
+            extended_info = game_data.get('extended_info')
+            # Only include if game has achievements AND has hashes (meaning it's processable)
+            if extended_info and extended_info.get('num_achievements', 0) > 0 and game_data.get('hashes'):
+                 games_with_achievements.append(game_data)
 
-            collection_content = []
 
-            for i, game in enumerate(game_data):
-                self.collection_progress_label_var.set(self.translate("collection_creation_progress", i + 1, total_games, game.get("Title", "Unknown"))) # Use generic collection text
-                self.master.update_idletasks()
+        if not games_with_achievements:
+             messagebox.showinfo(self.translate("collection_no_achievements_info_title"), self.translate("collection_no_achievements_info_text", console_name)) # Use translated text
+             self.status_bar_text_var.set(self.translate("status_no_achievements_with_hashes", console_name)) # Use translated text
+             self.on_selection_change(None)
+             return
 
-                game_title = game.get("Title", "Unknown Game").replace('"', "'") # Replace quotes for .cfg format
-                # Ensure the ROM filename uses the configured extension
-                rom_filename = f"{game_title}{rom_extension}" # Use configured extension
-                game_path = os.path.join(rom_path_prefix, console_name, rom_filename) # Assumes roms are in system sub-directories
 
-                # Add quotes around game_path as it might contain spaces
-                collection_content.append(f'"{game_path}"\n')
+        # Updated status message key for Batocera
+        self.status_bar_text_var.set(self.translate("status_batocera_collection_creation_start", console_name)) # Add this new key
+        # Disable all creation buttons during process
+        self.create_dat_button.config(state="disabled")
+        self.fetch_data_button.config(state="disabled")
+        self.create_retropie_collection_button.config(state="disabled")
+        self.create_batocera_collection_button.config(state="disabled") # Disable this one too
 
-            with open(full_path, 'w', encoding='utf-8') as f:
-                f.writelines(collection_content)
+        self.master.update_idletasks()
 
-            self.master.after(0, self._on_collection_creation_complete, True, full_path, dialog_title_key, dialog_text_key)
+        # Use collection-specific progress popup variable (re-use the same popup)
+        self._collection_progress_popup = tk.Toplevel(self.master) # Store reference
+        popup = self._collection_progress_popup # Use local name for convenience
+        # Updated progress title key for Batocera
+        popup.title(self.translate("batocera_collection_creation_progress_title")) # Add this new key
+        # Set initial size, position calculated later
+        collection_popup_width = 450
+        collection_popup_height = 130
+        popup.geometry(f"{collection_popup_width}x{collection_popup_height}")
+        popup.resizable(False, False)
 
-        except Exception as e:
-            print(f"Error during collection creation: {e}")
-            self.master.after(0, self._on_collection_creation_complete, False, None, dialog_title_key, error_dialog_text_key, str(e))
 
-    def _on_collection_creation_complete(self, success, file_path=None, dialog_title_key=None, dialog_text_key=None, error_message=None):
-        """Called when collection creation is complete (from the worker thread)."""
-        if self._collection_progress_popup:
-            self._collection_progress_popup.destroy()
-            self._collection_progress_popup = None
+        # Use collection-specific label variable
+        self.collection_progress_label_var.set(self.translate("status_batocera_collection_creation_start", console_name)) # Use the new key
+        ttk.Label(popup, textvariable=self.collection_progress_label_var, wraplength=430).pack(pady=10, padx=10, fill="x")
+        progress_bar = ttk.Progressbar(popup, orient="horizontal", length=430, mode="determinate")
+        progress_bar.pack(pady=10, padx=10)
+        progress_bar["maximum"] = len(games_with_achievements)
 
-        # Re-enable buttons
-        self.fetch_data_button.config(state="normal")
-        self.create_dat_button.config(state="normal")
-        self.create_retropie_collection_button.config(state="normal")
-        self.create_batocera_collection_button.config(state="normal")
-        self.console_dropdown.config(state="readonly")
-        self.cache_manager_button.config(state="normal")
-        self.logout_button.config(state="normal")
+        # --- Calculate and set collection popup position ---
+        self.master.update_idletasks() # Ensure main window geometry is up-to-date
+        main_width = self.master.winfo_width()
+        main_height = self.master.winfo_height()
+        main_x = self.master.winfo_x()
+        main_y = self.master.winfo_y()
 
-        if success:
-            self.status_bar_text_var.set(self.translate("status_collection_creation_complete", file_path)) # Use translated text
-            messagebox.showinfo(self.translate(dialog_title_key), self.translate(dialog_text_key, file_path)) # Use translated text
-        else:
-            self.status_bar_text_var.set(self.translate("status_collection_creation_failed", error_message)) # Use translated text
-            # Use error_dialog_text_key for error message
-            messagebox.showerror(self.translate(dialog_title_key), self.translate(dialog_text_key, error_message))
+        center_x = main_x + (main_width // 2) - (collection_popup_width // 2)
+        center_y = main_y + (main_height // 2) - (collection_popup_height // 2)
 
-        self.on_selection_change(None) # Ensure buttons are in correct state
+        screen_width = self.master.winfo_screenwidth()
+        screen_height = self.master.winfo_screenheight()
+        center_x = max(0, min(center_x, screen_width - collection_popup_width))
+        center_y = max(0, min(center_y, screen_height - collection_popup_height))
 
-if __name__ == "__main__":
-    root = tk.Tk()
-    app = RetroAchievementsDATGenerator(root)
-    root.mainloop()
+        popup.geometry(f'{collection_popup_width}x{collection_popup_height}+{center_x}+{center_y}')
+        # --- End position calculation ---
+
+        # Make it modal AFTER positioning
+        popup.grab_set()
+        # Ensure popup is removed if closed via window manager
+        popup.protocol("WM_DELETE_WINDOW", popup.destroy) # Collection creation doesn't have a simple cancel
+
+
+        # Renamed filename for clarity (Batocera specific)
+        collection_filename = f"custom-RetroAchievements-{system_short}-batocera.cfg" # Added -batocera
+        full_output_path = os.path.join(collection_cfg_dir, collection_filename)
+        games_added_to_cfg = 0
+
+        try:
+            # print(f"DEBUG: Writing Batocera Collection file to: {full_output_path}")
+            # print(f"DEBUG: Using base ROM path for entries in CFG: {batocera_system_rom_path}")
+
+            # Get the desired extension from the variable
+            desired_extension = self.rom_extension_var.get().strip()
+            if not desired_extension.startswith('.'):
+                 desired_extension = '.' + desired_extension # Ensure it starts with a dot
+
+
+            # ### MODIFIED: Add newline='' to ensure LF line endings for CFG file ###
+            with open(full_output_path, "w", encoding="utf-8", newline='') as f: # Specify encoding and newline
+                for index, game_data in enumerate(games_with_achievements):
+                    game_title = game_data.get('title', f'Unbekanntes Spiel ID {game_data.get("id")}') # Keep fallback or translate
+                    game_hashes = game_data.get('hashes', [])
+                    # Updated progress message key for Batocera
+                    self.collection_progress_label_var.set(self.translate("batocera_collection_creation_adding_game", game_title[:40], index+1, len(games_with_achievements))) # Add this new key
+                    progress_bar["value"] = index + 1
+                    popup.update_idletasks()
+                    self.master.update_idletasks()
+
+                    rom_filename = ""
+                    # Prioritize filename from hash data if available
+                    if game_hashes and isinstance(game_hashes, list):
+                         # Find the first hash entry with a filename
+                         for hash_entry in game_hashes:
+                             if isinstance(hash_entry, dict) and hash_entry.get('name'):
+                                 rom_filename = hash_entry['name']
+                                 # print(f"DEBUG: Using filename from hash entry: {rom_filename}")
+                                 break # Use the first found filename
+                    # If no filename in hash data, generate a fallback
+                    if not rom_filename:
+                        game_title_sanitized = game_title.replace('"', "'").replace('&', 'and')
+                        allowed_chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -_.,()[]:\'#&!+'
+                        game_title_sanitized = "".join(c for c in game_title_sanitized if c in allowed_chars).strip()
+                        rom_name_base = "".join(c for c in game_title_sanitized if c.isalnum() or c in ' _-').strip()
+                        rom_name_base = rom_name_base.replace(" ", "_")
+                        if not rom_name_base: rom_name_base = f"game_{game_data.get('id', index)}" # Keep fallback or translate
+                        # OLD: rom_ext = self._get_typical_extension(console_name) # No longer needed here
+                        # OLD: rom_filename = f"{rom_name_base}.{rom_ext}"
+                        # NEW: Use the determined rom_name_base without an extension yet
+                        rom_filename = rom_name_base
+                        # print(f"DEBUG: Generating fallback filename base: {rom_filename}")
+
+
+                    # ### MODIFIED: Use the value from the new rom_extension_var ###
+                    # Check if the filename already has an extension that matches the desired one
+                    base_name, existing_ext = os.path.splitext(rom_filename)
+                    if existing_ext.lower() != desired_extension.lower():
+                         # If it doesn't match, replace or add the desired extension
+                         rom_filename = base_name + desired_extension
+                    # else: The existing extension matches, use the filename as is.
+
+                    # print(f"DEBUG: Using final filename with desired extension: {rom_filename}")
+
+
+                    rom_path_in_cfg = f"{os.path.normpath(batocera_system_rom_path).replace(os.sep, '/')}/{os.path.normpath(rom_filename).replace(os.sep, '/')}"
+
+                    f.write(rom_path_in_cfg + "\n")
+                    games_added_to_cfg += 1
+                    # print(f"DEBUG: Added to CFG: {rom_path_in_cfg}")
+
+            # Destroy progress popup after creation loop - MOVED to finally block
+
+            # --- Fortschrittsfenster schließen BEVOR die MessageBox kommt ---
+            if hasattr(self, '_collection_progress_popup') and self._collection_progress_popup and tk.Toplevel.winfo_exists(self._collection_progress_popup):
+                self._collection_progress_popup.destroy()
+                self._collection_progress_popup = None
+            # --- Ende Schließen ---
+
+            # Updated success message key for Batocera
+            messagebox.showinfo(self.translate("collection_creation_success_title"), # Re-use same title
+                self.translate("batocera_collection_creation_success_text", collection_filename, os.path.abspath(full_output_path), games_added_to_cfg)) # Add this new key
+            # Updated status message key for Batocera
+            self.status_bar_text_var.set(self.translate("status_batocera_collection_created", collection_filename)) # Add this new key
+            # print(f"DEBUG: Batocera Collection file created successfully with {games_added_to_cfg} entries.)
+
+        except IOError as e:
+            messagebox.showerror(self.translate("collection_creation_save_error_title"), self.translate("collection_creation_save_error_text", e)) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_collection_save_error")) # Use translated text
+            # print(f"ERROR: Error writing collection file: {e}")
+        except Exception as e_gen:
+            messagebox.showerror(self.translate("collection_creation_unexpected_error_title"), self.translate("collection_creation_unexpected_error_text", str(e_gen))) # Use translated text
+            self.status_bar_text_var.set(self.translate("status_collection_unexpected_error")) # Use translated text
+            # print(f"ERROR: Unexpected error creating collection file: {e_gen}")
+        finally:
+             # Destroy progress popup here if it still exists (Fallback for errors)
+             if hasattr(self, '_collection_progress_popup') and self._collection_progress_popup and tk.Toplevel.winfo_exists(self._collection_progress_popup):
+                self._collection_progress_popup.destroy()
+                self._collection_progress_popup = None
+             self.on_selection_change(None)
+
+
+def main():
+    """Main function to initialize and run the Tkinter application."""
+    root = None # Ensure root is defined before try block in case of very early error
+    try:
+        root = tk.Tk()
+        window_width = 650
+        window_height = 750
+        screen_width = root.winfo_screenwidth()
+        screen_height = root.winfo_screenheight()
+        center_x = int(screen_width/2 - window_width / 2)
+        center_y = int(screen_height/2 - window_height / 2)
+        center_x = max(0, center_x)
+        center_y = max(0, center_y)
+        root.geometry(f'{window_width}x{window_height}+{center_x}+{center_y}')
+        root.minsize(window_width, window_height) # Set minsize to initial size
+
+        app = RetroAchievementsDATGenerator(root)
+        root.mainloop()
+    except Exception as e:
+        import traceback
+        error_message = f"Ein kritischer Fehler ist in der Anwendung aufgetreten:\n\n{str(e)}\n\n{traceback.format_exc()}"
+        print(error_message)
+        try:
+            # Try to use Tkinter messagebox if root was successfully created, otherwise just print
+            if root and tk.Tk.winfo_exists(root):
+                # Check if app instance was created and translations are loaded
+                if 'app' in locals() and hasattr(app, 'translations') and 'critical_error_title' in app.translations:
+                     translated_title = app.translate("critical_error_title")
+                     translated_text = app.translate("critical_error_text", str(e), traceback.format_exc())
+                     messagebox.showerror(translated_title, translated_text, parent=None)
+                else:
+                     # Fallback if app/translations not available
+                     messagebox.showerror("Critical Error", error_message, parent=None)
+            else:
+                 # If root wasn't even created, print the error (already done above)
+                 pass
+
+        except Exception as tk_error:
+            print(f"Konnte Tkinter-Fehlermeldung nicht anzeigen: {tk_error}")
+
+
+if __name__ == '__main__':
+    main()
