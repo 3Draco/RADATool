@@ -1,0 +1,2023 @@
+[
+  {
+    "id": "25715",
+    "title": "~Homebrew~ ~Demo~ Project Neon Caravan",
+    "hashes": [
+      {
+        "md5": "80cd6df504e2f90ab6725b692579d24c",
+        "name": "Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon)",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23851",
+    "title": "~Homebrew~ Last Hope",
+    "hashes": [
+      {
+        "md5": "2c60bac28fb31d6a1347e60e880867d6",
+        "name": "Last Hope (Germany) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "32801",
+    "title": "~Homebrew~ Shinobi",
+    "hashes": [
+      {
+        "md5": "d94f736035e14939185fb9a8af4012f8",
+        "name": "Shinobi (World) (v1.0) (Aftermarket) (Hoffman)",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fafac288db61100b8ce57086d3b5a6ab",
+        "name": "Shinobi (World) (v1.1) (Aftermarket) (Hoffman)",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "26879",
+    "title": "~Homebrew~ Time's Up",
+    "hashes": [
+      {
+        "md5": "53525d0e327a3004f4fbc14f012269cc",
+        "name": "Time Up's (World) (Aftermarket) (Unl)",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23888",
+    "title": "~Homebrew~ Xeno Crisis",
+    "hashes": [
+      {
+        "md5": "1d232e073b335d96cfef64bad118065c",
+        "name": "Xeno Crisis (World) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 39,
+      "points": 0
+    }
+  },
+  {
+    "id": "23825",
+    "title": "~Unlicensed~ Andro Dunos",
+    "hashes": [
+      {
+        "md5": "493e183ca7e1cbf945c9834340665edc",
+        "name": "Andro Dunos (France) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23829",
+    "title": "~Unlicensed~ Bang² Busters",
+    "hashes": [
+      {
+        "md5": "5577aa46a71bede62cda49284e903b22",
+        "name": "Bang^2 Busters (France) (En,Ja) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "23893",
+    "title": "~Unlicensed~ Treasure of the Caribbean",
+    "hashes": [
+      {
+        "md5": "d70f51d47d7774290bc6343223cb3f9d",
+        "name": "Treasure of the Caribbean (France) (En,Ja) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "23823",
+    "title": "2020 Super Baseball",
+    "hashes": [
+      {
+        "md5": "fa857715a17e6e92028ac795fa5ed60b",
+        "name": "2020 Super Baseball (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23837",
+    "title": "3 Count Bout | Fire Suplex",
+    "hashes": [
+      {
+        "md5": "855d8a5d9e63593f1dc5d045def08932",
+        "name": "Fire Suplex ~ 3 Count Bout (Japan, USA) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23824",
+    "title": "ADK World",
+    "hashes": [
+      {
+        "md5": "0fd821fdb242210f87e33f8ff921ef6d",
+        "name": "ADK World (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "23838",
+    "title": "Aero Fighters 2",
+    "hashes": [
+      {
+        "md5": "1ac941c2d26e1d60e8e25e44eec64a90",
+        "name": "Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "23839",
+    "title": "Aero Fighters 3",
+    "hashes": [
+      {
+        "md5": "294d5def74d5a1809a29a6817f48dcc2",
+        "name": "Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23840",
+    "title": "Aggressors of Dark Kombat | Tsuukai Gangan Koushinkyoku",
+    "hashes": [
+      {
+        "md5": "a75b36bf86967c6f79de37a6f60d6c2e",
+        "name": "Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (World) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23826",
+    "title": "Alpha Mission II | ASO II: The Last Guardian",
+    "hashes": [
+      {
+        "md5": "b2eb1694dc48928d49b04d2e4d16e718",
+        "name": "ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23841",
+    "title": "Art of Fighting",
+    "hashes": [
+      {
+        "md5": "14db04479a131e00500dd6b605af3aa4",
+        "name": "Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23842",
+    "title": "Art of Fighting 2",
+    "hashes": [
+      {
+        "md5": "f9a85c597d8281dbb2dadcc5a03f2574",
+        "name": "Ryuuko no Ken 2 ~ Art of Fighting 2 (World) (En,Ja,Es)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23897",
+    "title": "Art of Fighting 3: The Path of the Warrior",
+    "hashes": [
+      {
+        "md5": "9494e768c1e2c7b2741a5f14d731f407",
+        "name": "Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan, USA) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9143",
+    "title": "Baseball Stars 2",
+    "hashes": [
+      {
+        "md5": "6910e2065679de25aff3af1e0622ebc2",
+        "name": "Baseball Stars 2 (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23830",
+    "title": "Baseball Stars Professional",
+    "hashes": [
+      {
+        "md5": "1299ac3bc27ed8e0f8115f786377ca02",
+        "name": "Baseball Stars Professional (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23843",
+    "title": "Blue's Journey | Raguy",
+    "hashes": [
+      {
+        "md5": "e016f9cd5c256423069ec883105ee42f",
+        "name": "Raguy ~ Blue's Journey (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9177",
+    "title": "Breaker's",
+    "hashes": [
+      {
+        "md5": "ed337bd2fda55c3df53b9950a7259872",
+        "name": "Breakers (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "23832",
+    "title": "Burning Fight",
+    "hashes": [
+      {
+        "md5": "838255c5c2a92ae27bfcd19762f0f12c",
+        "name": "Burning Fight (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23833",
+    "title": "Choujin Gakuen: Gowcaizer",
+    "hashes": [
+      {
+        "md5": "9df156594fa42a823a26bc969b9651fc",
+        "name": "Choujin Gakuen - Gowcaizer (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9149",
+    "title": "Crossed Swords",
+    "hashes": [
+      {
+        "md5": "0258c9e246d4a11743fe05069b14c929",
+        "name": "Crossed Swords (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 31,
+      "points": 0
+    }
+  },
+  {
+    "id": "9186",
+    "title": "Crossed Swords II",
+    "hashes": [
+      {
+        "md5": "6bf57922ef3e8b35a69e10379b0d9862",
+        "name": "Crossed Swords II (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "9142",
+    "title": "Cyber-Lip",
+    "hashes": [
+      {
+        "md5": "75e91d1adf118daed89052d9f32f8f14",
+        "name": "Cyber-Lip (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23834",
+    "title": "Double Dragon",
+    "hashes": [
+      {
+        "md5": "d94a0a87aa7b26032d49e94bd3837fd8",
+        "name": "Double Dragon (Japan) (En,Ja) (Rev 1) [legacy]",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f0fbc957ec13108d42d336d0d156d588",
+        "name": "Double Dragon (Japan) (En,Ja) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 34,
+      "points": 0
+    }
+  },
+  {
+    "id": "23844",
+    "title": "Fatal Fury 2",
+    "hashes": [
+      {
+        "md5": "260b24b4e2baa3370dd11797a02ecb80",
+        "name": "Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23896",
+    "title": "Fatal Fury 3: Road to the Final Victory",
+    "hashes": [
+      {
+        "md5": "36a670e866cb766448279ec3c6118b82",
+        "name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan, USA) (En,Ja,Es,Pt) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "77b7194605e050492fbc2e34248361a5",
+        "name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "79e9518f404f0fce0f91262aa65484c4",
+        "name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9e0e64bfbf0917257d2c8f977abfca30",
+        "name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23850",
+    "title": "Fatal Fury Special",
+    "hashes": [
+      {
+        "md5": "1316a3385388bb9c9e045af8a50723ff",
+        "name": "Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "92fc93b476d240e9c7a7b13df9ba6695",
+        "name": "Garou Densetsu Special ~ Fatal Fury Special (Japan, USA) (En,Ja) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23845",
+    "title": "Fatal Fury: King of Fighters",
+    "hashes": [
+      {
+        "md5": "fda4c1804f3ce9723db4ed2ad38ef269",
+        "name": "Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "9137",
+    "title": "Football Frenzy",
+    "hashes": [
+      {
+        "md5": "db2c9ca1f29835422e6788848f33b7bc",
+        "name": "Football Frenzy (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23846",
+    "title": "Galaxy Fight: Universal Warriors",
+    "hashes": [
+      {
+        "md5": "2bf5cf757e37b5b70c0bd5f5d45a99c3",
+        "name": "Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9184",
+    "title": "Ghost Pilots",
+    "hashes": [
+      {
+        "md5": "ef6371bcb7620fd8d3ab9cdd8d1d162a",
+        "name": "Ghost Pilots (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23889",
+    "title": "Idol Mahjong: Final Romance 2",
+    "hashes": [
+      {
+        "md5": "d0f1f220c9ab8069204c68b86edd50f1",
+        "name": "Idol Mahjong - Final Romance 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9189",
+    "title": "Ironclad: Tesshou Rusha | Choutetsu Brikin'ger",
+    "hashes": [
+      {
+        "md5": "da499334bc3673fdcad7b2337653088a",
+        "name": "Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "23890",
+    "title": "Janshin Densetsu: Quest of Jongmaster",
+    "hashes": [
+      {
+        "md5": "2e63ed6993a46a5ed6e32c5af0888ed8",
+        "name": "Janshin Densetsu - Quest of Jongmaster (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23836",
+    "title": "Karnov's Revenge | Fighter's History Dynamite",
+    "hashes": [
+      {
+        "md5": "953909abf5fdcd83e7d2e7fdf14c7541",
+        "name": "Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23891",
+    "title": "King of the Monsters 2: The Next Thing",
+    "hashes": [
+      {
+        "md5": "cb4d84873734317306f930a638536529",
+        "name": "Next Thing, The - King of the Monsters 2 (World) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "9147",
+    "title": "Last Resort",
+    "hashes": [
+      {
+        "md5": "fded16b1af97554909418747b11338d1",
+        "name": "Last Resort (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9106",
+    "title": "League Bowling",
+    "hashes": [
+      {
+        "md5": "3cc087e4318fff8aed8345449bfe760b",
+        "name": "League Bowling (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9134",
+    "title": "Magical Drop II",
+    "hashes": [
+      {
+        "md5": "5c5876b18fe29caded97ef96f134f270",
+        "name": "Magical Drop 2 (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9176",
+    "title": "Magician Lord",
+    "hashes": [
+      {
+        "md5": "a617e93e3693660c8d986a2eee6904cb",
+        "name": "Magician Lord (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "23892",
+    "title": "Mahjong-kyou Retsuden: Nishi Nihon-hen",
+    "hashes": [
+      {
+        "md5": "4d74c71f3bbb3ce67d77f10a13f01600",
+        "name": "Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9182",
+    "title": "Metal Slug",
+    "hashes": [
+      {
+        "md5": "14902f6044ab1fe5b0ad9fc44b0e1814",
+        "name": "Metal Slug (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9103",
+    "title": "Metal Slug 2",
+    "hashes": [
+      {
+        "md5": "1122a5c4348616c4e94b1ba9eeb9c87d",
+        "name": "Metal Slug 2 (Japan, USA) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "2da3c9c727df44e16a8c8a31ee7cb7e2",
+        "name": "Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "9122",
+    "title": "Mutation Nation",
+    "hashes": [
+      {
+        "md5": "0ec42cc0f6f6041699fa0456d72295c4",
+        "name": "Mutation Nation (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 39,
+      "points": 0
+    }
+  },
+  {
+    "id": "26990",
+    "title": "Mutation Nation [Subset - Multi]",
+    "hashes": [
+      {
+        "md5": "293fc12273f61e9681ccaece7d56a814",
+        "name": "Mutation Nation [Subset - Multi]",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "9141",
+    "title": "NAM-1975",
+    "hashes": [
+      {
+        "md5": "bd7fd18a24c392d25d712a3ae6ed98a2",
+        "name": "Nam-1975 (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23848",
+    "title": "Neo Drift Out: New Technology",
+    "hashes": [
+      {
+        "md5": "a47063094fdb29d6de7d0f414254a089",
+        "name": "Neo Drift Out - New Technology (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "23831",
+    "title": "Neo Turf Masters",
+    "hashes": [
+      {
+        "md5": "6afe4c4108f34914cac0274f1e49c294",
+        "name": "Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "23853",
+    "title": "Ninja Combat",
+    "hashes": [
+      {
+        "md5": "f1fd3e3379d8947cba8bb78c1d6807cc",
+        "name": "Ninja Combat (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23854",
+    "title": "Ninja Commando",
+    "hashes": [
+      {
+        "md5": "5b71b56262a2b0ab98ba0ae544a0da1f",
+        "name": "Ninja Commando (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23855",
+    "title": "Ninja Master's: Haou Ninpou Chou",
+    "hashes": [
+      {
+        "md5": "72573e87e57c39a36096a2249d1bf326",
+        "name": "Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23856",
+    "title": "Over Top",
+    "hashes": [
+      {
+        "md5": "21edf7674a0d6ca1ee8fc71b0331b010",
+        "name": "OverTop (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 27,
+      "points": 0
+    }
+  },
+  {
+    "id": "23857",
+    "title": "Pleasure Goal: 5 on 5 Mini Soccer",
+    "hashes": [
+      {
+        "md5": "66ec949bde009681484d2cd7158873d8",
+        "name": "Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "23858",
+    "title": "Power Spikes II",
+    "hashes": [
+      {
+        "md5": "645462b60b5477e74eed9950025df41b",
+        "name": "Power Spikes II (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9164",
+    "title": "Pulstar",
+    "hashes": [
+      {
+        "md5": "cd9c3d37408c31eaaf72a1e10f69fbc4",
+        "name": "Pulstar (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "23803",
+    "title": "Puzzle Bobble | Bust-A-Move",
+    "hashes": [
+      {
+        "md5": "282ffc9411808cd514c092d2772b5163",
+        "name": "Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "23859",
+    "title": "Puzzled | Joy Joy Kid",
+    "hashes": [
+      {
+        "md5": "b013e784de3ccdd625e01833db7dd47f",
+        "name": "Joy Joy Kid ~ Puzzled (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23894",
+    "title": "Quiz King of Fighters",
+    "hashes": [
+      {
+        "md5": "3fe7a1b7d061d8cba298e76f28461ff2",
+        "name": "Quiz King of Fighters (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23860",
+    "title": "Ragnagard | Shinouken",
+    "hashes": [
+      {
+        "md5": "54540c3a9cf006aae5ac6f236c55392a",
+        "name": "Shinouken ~ Ragnagard (Japan) (En,Ja,Es)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23849",
+    "title": "Rally Chase | Thrash Rally",
+    "hashes": [
+      {
+        "md5": "8dc5545bde96a4debfc6deae3f20aa86",
+        "name": "Rally Chase (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 46,
+      "points": 0
+    }
+  },
+  {
+    "id": "23861",
+    "title": "Real Bout Fatal Fury",
+    "hashes": [
+      {
+        "md5": "3983de6c2b5e528a173a88d5e6830640",
+        "name": "Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23898",
+    "title": "Real Bout Fatal Fury 2: The Newcomers",
+    "hashes": [
+      {
+        "md5": "21f997c009d70f9bd2db32160abe7e90",
+        "name": "RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23862",
+    "title": "Real Bout Fatal Fury Special",
+    "hashes": [
+      {
+        "md5": "4d3658db57b228d271999c8336bdba99",
+        "name": "Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan, USA) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23847",
+    "title": "Riding Hero",
+    "hashes": [
+      {
+        "md5": "e79908e72e87005c16c122a4e6c9e502",
+        "name": "Riding Hero (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9102",
+    "title": "Robo Army",
+    "hashes": [
+      {
+        "md5": "e4f295c931842a24eb77360d64f7e0a9",
+        "name": "Robo Army (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23863",
+    "title": "Samurai Shodown",
+    "hashes": [
+      {
+        "md5": "a9c0050b38736f82d93a5c394454aa4a",
+        "name": "Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23877",
+    "title": "Samurai Shodown II",
+    "hashes": [
+      {
+        "md5": "a4a0db15465afbe91080192954f144f5",
+        "name": "Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23864",
+    "title": "Samurai Shodown III",
+    "hashes": [
+      {
+        "md5": "01df0dfceab01401995262db86b0e81f",
+        "name": "Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan, USA) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23865",
+    "title": "Samurai Shodown IV: Amakusa's Revenge",
+    "hashes": [
+      {
+        "md5": "7cd6eaca58665e6d680d3c9f7fc03a89",
+        "name": "Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (World) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23866",
+    "title": "Savage Reign",
+    "hashes": [
+      {
+        "md5": "3df0fc10d4fac02904487e58588b5737",
+        "name": "Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump",
+          "legacy"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4f84cf59f190dc881c1916ef5d9ab600",
+        "name": "Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)",
+        "labels": [
+          "redump",
+          "legacy"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1d59cdd9af0f82cd89c4a7a7594f1422",
+        "name": "Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bee0fde4249b86e9f2c1c8849e918e90",
+        "name": "Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "9155",
+    "title": "Sengoku",
+    "hashes": [
+      {
+        "md5": "93d879e636a575a22d3316605af77a4d",
+        "name": "Sengoku Denshou ~ Sengoku (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23867",
+    "title": "Sengoku 2",
+    "hashes": [
+      {
+        "md5": "3ef429c416c6f0ea1e4554511e12417e",
+        "name": "Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9101",
+    "title": "Shinsetsu Samurai Spirits: Bushidou Retsuden",
+    "hashes": [
+      {
+        "md5": "bfbbb30ac11b076bb2ce84180a92ccf1",
+        "name": "Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bd30e236546a8579f182a2b8cb7f0a5c",
+        "name": "Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) (En) (v1.1) (Deuce)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23868",
+    "title": "Shougi no Tatsujin: Master of Syougi",
+    "hashes": [
+      {
+        "md5": "26e2b6677508159f29b408f143ae5b03",
+        "name": "Shougi no Tatsujin - Master of Syougi (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 189,
+      "points": 0
+    }
+  },
+  {
+    "id": "23852",
+    "title": "Soccer Brawl",
+    "hashes": [
+      {
+        "md5": "95f30b17db395366c4e68da102e66d19",
+        "name": "Soccer Brawl (World)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23869",
+    "title": "Stakes Winner: GI Kanzen Seiha e no Michi",
+    "hashes": [
+      {
+        "md5": "2b2f000f2c2ab5f4039260868141b6e9",
+        "name": "Stakes Winner - GI Kanzen Seiha e no Michi (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23835",
+    "title": "Street Slam | Dunk Dream | Street Hoop",
+    "hashes": [
+      {
+        "md5": "0a70a4409ebac6fe7096e9c3799a56ee",
+        "name": "Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23878",
+    "title": "Super Sidekicks 2: The World Championship",
+    "hashes": [
+      {
+        "md5": "cf1ccc91465c83d201fbdec93bcc66a7",
+        "name": "Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23879",
+    "title": "Super Sidekicks 3: The Next Glory",
+    "hashes": [
+      {
+        "md5": "4c8fe6d79fb876a41e5c1609267366d4",
+        "name": "Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 69,
+      "points": 0
+    }
+  },
+  {
+    "id": "26691",
+    "title": "Super Sidekicks 3: The Next Glory [Subset - Post '98 Champions]",
+    "hashes": [
+      {
+        "md5": "1d357cec975d46eacaff931520ad8fc5",
+        "name": "Super Sidekicks 3 - The Next Glory [Subset - Post '98 Champions]",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "23876",
+    "title": "Super Sidekicks: Tokuten-ou",
+    "hashes": [
+      {
+        "md5": "07456d1d9281579d3591417f3b5c81e4",
+        "name": "Super Sidekicks - Tokuten-ou (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9156",
+    "title": "Tengai Makyou: Shinden | Far East of Eden: Kabuki Klash",
+    "hashes": [
+      {
+        "md5": "ead8565baa2255f3273e1996a0666c13",
+        "name": "Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "23870",
+    "title": "The King of Fighters '94",
+    "hashes": [
+      {
+        "md5": "368cf790c4e4ac725279881e6fca17c7",
+        "name": "King of Fighters '94, The (Japan, USA) (En,Ja) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "64902e4bd9eb62905e4a1a785fc8d8a3",
+        "name": "King of Fighters '94, The (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23871",
+    "title": "The King of Fighters '95",
+    "hashes": [
+      {
+        "md5": "35722f3f02f56b102f34ddc679998354",
+        "name": "King of Fighters '95, The (Japan) (En,Ja) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d289bad60ecd469925e711cc7f025d94",
+        "name": "King of Fighters '95, The (Japan, USA) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23872",
+    "title": "The King of Fighters '96",
+    "hashes": [
+      {
+        "md5": "925bc1e3d0641fcdfb24365d35864d28",
+        "name": "King of Fighters '96, The (Japan, USA) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23873",
+    "title": "The King of Fighters '97",
+    "hashes": [
+      {
+        "md5": "7d92140289b4fb7be1b8924ed53f8504",
+        "name": "King of Fighters '97, The (Japan) (En,Ja) [legacy]",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bf7aabd59f3c0c049e0fc9f3e5cd4ec1",
+        "name": "King of Fighters '97, The (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 56,
+      "points": 0
+    }
+  },
+  {
+    "id": "23874",
+    "title": "The King of Fighters '98: The Slugfest | Dream Match Never Ends",
+    "hashes": [
+      {
+        "md5": "a7aecb99f6c3e50bf051699c0eb06240",
+        "name": "King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23875",
+    "title": "The King of Fighters '99: Millennium Battle",
+    "hashes": [
+      {
+        "md5": "0475911efef88314eeec4636dbfe99cf",
+        "name": "King of Fighters '99, The - Millennium Battle (Japan, USA) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23827",
+    "title": "The Last Blade",
+    "hashes": [
+      {
+        "md5": "254ab6cf177e0580e46a98025ea905a1",
+        "name": "Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23828",
+    "title": "The Last Blade II",
+    "hashes": [
+      {
+        "md5": "d4647a503304faf1d7ff13e4dbb6b39e",
+        "name": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23880",
+    "title": "The Super Spy",
+    "hashes": [
+      {
+        "md5": "7131691259e423cb01246453f1a35293",
+        "name": "Super Spy, The (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9146",
+    "title": "Top Hunter: Roddy & Cathy",
+    "hashes": [
+      {
+        "md5": "ec04ad9093243f662b7d3dde8005a165",
+        "name": "Top Hunter - Roddy & Cathy (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 32,
+      "points": 0
+    }
+  },
+  {
+    "id": "23881",
+    "title": "Top Player's Golf",
+    "hashes": [
+      {
+        "md5": "28f4d7d34fef1e844c97648e055fedf8",
+        "name": "Top Player's Golf (Japan) (En,Ja) [legacy]",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f8a0e88822317703359be0df170a73b8",
+        "name": "Top Player's Golf (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 43,
+      "points": 0
+    }
+  },
+  {
+    "id": "23882",
+    "title": "Twinkle Star Sprites",
+    "hashes": [
+      {
+        "md5": "7c03d6fc2f2c3c121d3ae6cd37905455",
+        "name": "Twinkle Star Sprites (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "23883",
+    "title": "Viewpoint",
+    "hashes": [
+      {
+        "md5": "45240cb3480802dc4e3d7cc9a1fde055",
+        "name": "Viewpoint (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9162",
+    "title": "Windjammers",
+    "hashes": [
+      {
+        "md5": "27d27af1ca0945dfac6e8cb9c75c6d62",
+        "name": "Flying Power Disc ~ Windjammers (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "23884",
+    "title": "World Heroes",
+    "hashes": [
+      {
+        "md5": "21233191d409414731fde3a2069e0c14",
+        "name": "World Heroes (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23885",
+    "title": "World Heroes 2",
+    "hashes": [
+      {
+        "md5": "e0c85c75e177c796a64cf32289f81570",
+        "name": "World Heroes 2 (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23886",
+    "title": "World Heroes 2 Jet",
+    "hashes": [
+      {
+        "md5": "11cb995132b46cc6d76dad94755fe231",
+        "name": "World Heroes 2 Jet (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23887",
+    "title": "World Heroes Perfect",
+    "hashes": [
+      {
+        "md5": "c132d10f1f95f6d22b30e537130667a4",
+        "name": "World Heroes Perfect (Export) (En,Ja) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 57,
+      "points": 0
+    }
+  },
+  {
+    "id": "23895",
+    "title": "Zintrick",
+    "hashes": [
+      {
+        "md5": "70554a502195f2619c1632418e6b70d9",
+        "name": "Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

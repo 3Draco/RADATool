@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "17023",
+    "title": "~Hack~ Faceball Remastered",
+    "hashes": [
+      {
+        "md5": "d20ab7aba4a4e629a8ec647db6260a26",
+        "name": "Niko-chan Battle - Faceball Remastered (v1.0) (thunderstruck).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19103",
+    "title": "~Hack~ Mansion of Insmouse: Mario Madness Edition",
+    "hashes": [
+      {
+        "md5": "faf72685bbcc1df04f265669217bf6d2",
+        "name": "Mansion of Insmouse - Mario Madness Edition (v1.0) (Benjamin Stevens).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25197",
+    "title": "~Homebrew~ ~Demo~ Pac-Man",
+    "hashes": [
+      {
+        "md5": "fe0e9fbf00b61844da2689bb94e1f700",
+        "name": "Pac-Man (USA) (Demo) (Aftermarket) (Unl).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17022",
+    "title": "~Homebrew~ ~Demo~ Snatcher",
+    "hashes": [
+      {
+        "md5": "2999c7db49198890d5f1d4002563804e",
+        "name": "Snatcher (World) (Demo) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17020",
+    "title": "~Homebrew~ 3D Crosswords",
+    "hashes": [
+      {
+        "md5": "cef10df7728f4398af46d51efc89d3d0",
+        "name": "3D Crosswords (World) (Emulator Version) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "19567",
+    "title": "~Homebrew~ Advanced Pasta Cooking Simulator",
+    "hashes": [
+      {
+        "md5": "a1b32c3b70ad0875fada464d681867f7",
+        "name": "Advanced Pasta Cooking Simulator (USA) (Aftermarket) (Unl) (HorvatM).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "13161",
+    "title": "~Homebrew~ BLOX",
+    "hashes": [
+      {
+        "md5": "f82d4c9fdd81518537d88f70c6602bb5",
+        "name": "BLOX (World) (v1.1) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "17019",
+    "title": "~Homebrew~ BLOX 2",
+    "hashes": [
+      {
+        "md5": "cc91d6389df2c9777919e8e8ab2c0e66",
+        "name": "BLOX 2 (World) (En,Fr,De,Es,It,Sv,Fi,Cs,Sl) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 82,
+      "points": 0
+    }
+  },
+  {
+    "id": "19564",
+    "title": "~Homebrew~ Castle of Doom",
+    "hashes": [
+      {
+        "md5": "fcfbeeca4bb33af756b025136c8b2549",
+        "name": "Castle of Doom (USA) (Aftermarket) (Unl) (VirtualChris).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "19566",
+    "title": "~Homebrew~ Castle of Doom Redux",
+    "hashes": [
+      {
+        "md5": "6e1b74ec2bd027faa024f61339690d99",
+        "name": "Castle of Doom Redux (USA) (v20160509) (Aftermarket) (Unl).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28194",
+    "title": "~Homebrew~ Chris's Casino",
+    "hashes": [
+      {
+        "md5": "82328b43c370a09d6fe36d6c9eb6d35c",
+        "name": "Chris's Casino (World) (Aftermarket) (Unl).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13162",
+    "title": "~Homebrew~ Fishbone",
+    "hashes": [
+      {
+        "md5": "eee8be03986ddbc3ada91b10a543f17e",
+        "name": "Fishbone (World) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "19509",
+    "title": "~Homebrew~ Flappy Cheep Cheep",
+    "hashes": [
+      {
+        "md5": "2176fae66e175a5bf9fc0266b627cc6f",
+        "name": "Flappy Cheep Cheep (USA) (Aftermarket) (Unl) (DogP).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "19858",
+    "title": "~Homebrew~ Game Hero",
+    "hashes": [
+      {
+        "md5": "d7adb3f627d0a3bf058e56eb7bd9c58d",
+        "name": "Game Hero (USA) (v1.1) (Aftermarket) (Unl) (thunderstruck).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "19510",
+    "title": "~Homebrew~ GoSub",
+    "hashes": [
+      {
+        "md5": "907c7f10093cfcab371754efae8ed279",
+        "name": "GoSub (USA) (Aftermarket) (Unl) (VirtualChris).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "22399",
+    "title": "~Homebrew~ Hamburgers En Route to Switzerland",
+    "hashes": [
+      {
+        "md5": "45aa19c4b2f10c7ef6782b0cb356e265",
+        "name": "Hamburgers En Route to Switzerland (World) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "17734",
+    "title": "~Homebrew~ Hyper Fighting",
+    "hashes": [
+      {
+        "md5": "c2047a94dcb0db30794c8533ba625622",
+        "name": "Hyper Fighting (World) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8d7068bc51669a2f0db46fef5b72e6cb",
+        "name": "Hyper Fighting (Brightness Fix) (v1.0) (Guy Perfect).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "13947",
+    "title": "~Homebrew~ Mario Kart: Virtual Cup",
+    "hashes": [
+      {
+        "md5": "4b8c8b6a7711a005dd896b3ee9b8d0f1",
+        "name": "Mario Kart - Virtual Cup (World) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "13163",
+    "title": "~Homebrew~ Pineapple 64",
+    "hashes": [
+      {
+        "md5": "c81e121e78b63137305b9098bb5a2ad9",
+        "name": "Pineapple 64 (USA) (v2016-03-15) (VirtualChris).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "21681",
+    "title": "~Homebrew~ Red Square",
+    "hashes": [
+      {
+        "md5": "9c372321204b9fa65f9324f98aae53ff",
+        "name": "Red Square (USA) (2019 Dream Diary Jam) (Aftermarket) (Unl) (Kresna,Nyrator).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "19874",
+    "title": "~Homebrew~ Soviet Union 2010",
+    "hashes": [
+      {
+        "md5": "74d21ea01f97ac19e018d7f5a3e3bc7c",
+        "name": "Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13164",
+    "title": "~Homebrew~ VB Racing",
+    "hashes": [
+      {
+        "md5": "819b9dccf1437c3bb126670b171d7c59",
+        "name": "VB Racing (USA) (FlashBoy Version) (PVBCC) (Aftermarket) (Unl) (M.K.).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "28225",
+    "title": "~Homebrew~ Virtual E.T.",
+    "hashes": [
+      {
+        "md5": "1cb7b3c61855944807c20b3a7a5a20a4",
+        "name": "Virtual E.T. (World) (Aftermarket) (Unl).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19544",
+    "title": "~Homebrew~ VUE Snake",
+    "hashes": [
+      {
+        "md5": "ccfa400a0ff3d717dad36a3f736fd34d",
+        "name": "VUE Snake (USA) (v1.1) (Aftermarket) (Unl) (KR155E).vb",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "16580",
+    "title": "~Prototype~ Bound High!",
+    "hashes": [
+      {
+        "md5": "a460e2660fa951e9d4e3b05aee9f5018",
+        "name": "Bound High (Japan) (En) (Proto).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 78,
+      "points": 0
+    }
+  },
+  {
+    "id": "16579",
+    "title": "~Prototype~ Niko-chan Battle",
+    "hashes": [
+      {
+        "md5": "d9a0215782dcacee5a3c4cc83d1c5189",
+        "name": "Niko-chan Battle (Japan) (Proto).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17749",
+    "title": "~Prototype~ Space Pinball",
+    "hashes": [
+      {
+        "md5": "31073126fad41777357391ecc36d6f7f",
+        "name": "Space Pinball (Japan) (En) (Proto).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "13106",
+    "title": "~Z~ A Cheated ROM [VB]",
+    "hashes": [
+      {
+        "md5": "c3d028f7d2463eaf36f0d6ef9b28ebd5",
+        "name": "Jack Bros. (U) (Enable Cheats Hack).vb",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12719",
+    "title": "3-D Tetris",
+    "hashes": [
+      {
+        "md5": "ecf1218706e9b547eab9e4be58d54e21",
+        "name": "3-D Tetris (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11702",
+    "title": "Galactic Pinball",
+    "hashes": [
+      {
+        "md5": "85260599fdada2e137053a8647aa0d06",
+        "name": "Galactic Pinball (Japan, USA) (En).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "14302",
+    "title": "Golf",
+    "hashes": [
+      {
+        "md5": "977c4da800dacfac1a1402781670f872",
+        "name": "Golf (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "13041",
+    "title": "Innsmouth no Yakata",
+    "hashes": [
+      {
+        "md5": "1eb964d0eaa3223cfefdcc99a6265c88",
+        "name": "Insmouth no Yakata (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4698a0b151d95bbbb833e2a523a12be7",
+        "name": "Innsmouth no Yakata (Japan) (En) (v1.0) (Thunderstruck).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 62,
+      "points": 0
+    }
+  },
+  {
+    "id": "11700",
+    "title": "Jack Bros.",
+    "hashes": [
+      {
+        "md5": "05ba60f0ac1aacedd57321f0ed5f62ca",
+        "name": "Jack Bros. (USA) (De) (No-Debug) (v1.0) (KR155E,televandalist).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1b177fe2dd12ec1d67f6a43502f8d391",
+        "name": "Jack Bros. no Meiro de Hiihoo! (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8819d31f9922dc2eea31a051f4d6d667",
+        "name": "Jack Bros. (USA) (Es) (No-Debug) (v1.0) (Max1323,televandalist).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ee873c9969c15e92ca9a0f689c4ce5ea",
+        "name": "Jack Bros. (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 57,
+      "points": 0
+    }
+  },
+  {
+    "id": "11171",
+    "title": "Mario Clash",
+    "hashes": [
+      {
+        "md5": "b1b3a25ce8fb4f406bf82b8765d307d0",
+        "name": "Mario Clash (Japan, USA) (En).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "12861",
+    "title": "Mario's Tennis",
+    "hashes": [
+      {
+        "md5": "38ecc2c5a745a80d32eb9e8e413358c4",
+        "name": "Mario's Tennis (Japan, USA) (En).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "12595",
+    "title": "Nester's Funky Bowling",
+    "hashes": [
+      {
+        "md5": "0285dc41d75be8419d12472f20025305",
+        "name": "Nester's Funky Bowling (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "12492",
+    "title": "Panic Bomber",
+    "hashes": [
+      {
+        "md5": "467247d5e3383d066005565bf8218436",
+        "name": "Panic Bomber (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "13079",
+    "title": "Red Alarm",
+    "hashes": [
+      {
+        "md5": "e56e85761f52a613b34079d5322088ce",
+        "name": "Red Alarm (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 59,
+      "points": 0
+    }
+  },
+  {
+    "id": "12720",
+    "title": "SD Gundam: Dimension War",
+    "hashes": [
+      {
+        "md5": "1cf8c69d8a740d6ef3aab54deced31c4",
+        "name": "SD Gundam - Dimension War (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "45825104799b74d36740d486f3f0cdf2",
+        "name": "SD Gundam - Dimension War (Japan) (En) (v1.0) (Benjamin Stevens, Greg Stevens).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "12910",
+    "title": "Space Invaders: Virtual Collection",
+    "hashes": [
+      {
+        "md5": "7607f6f918615263512b17e56797c9aa",
+        "name": "Space Invaders - Virtual Collection (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bb4aa9566437572802079c89452666e7",
+        "name": "Space Invaders - Virtual Collection (Japan) (En) (v1.0) (Thunderstruck).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 52,
+      "points": 0
+    }
+  },
+  {
+    "id": "17013",
+    "title": "Space Squash",
+    "hashes": [
+      {
+        "md5": "09c5f3143c25d1d30a3470e571653e48",
+        "name": "Space Squash (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "12721",
+    "title": "Teleroboxer",
+    "hashes": [
+      {
+        "md5": "0742a861a599fe3361aac6ebef6745a7",
+        "name": "Teleroboxer (Japan, USA) (En).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "12935",
+    "title": "V-Tetris",
+    "hashes": [
+      {
+        "md5": "262bbae465f851ded3bb7cf46e375224",
+        "name": "V-Tetris (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "11701",
+    "title": "Vertical Force",
+    "hashes": [
+      {
+        "md5": "87c38f66d5b9ead72af22f515a3a5f51",
+        "name": "Vertical Force (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c1f23aa9a6b5130a4971b4566dc19289",
+        "name": "Vertical Force (USA) (Debug Menu) (v1.0) (Parasyte).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "13078",
+    "title": "Virtual Bowling",
+    "hashes": [
+      {
+        "md5": "5b11d402f7e322c71a7d4fa6503631fa",
+        "name": "Virtual Bowling (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "11703",
+    "title": "Virtual Boy: Wario Land",
+    "hashes": [
+      {
+        "md5": "fb4dc9f4ebd506702eb49e99a62bd803",
+        "name": "Virtual Boy Wario Land (Japan, USA) (En).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "17014",
+    "title": "Virtual Fishing",
+    "hashes": [
+      {
+        "md5": "c03e792d8628c3c5729fdcae1620fb9a",
+        "name": "Virtual Fishing (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ef6e68d193dae7eb9f51face69e9dcf9",
+        "name": "Virtual Fishing (Japan) (En) (v1.0) (Benjamin Stevens,Thunderstruck).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "17015",
+    "title": "Virtual Lab",
+    "hashes": [
+      {
+        "md5": "1cec316aca8827fdf99c685a1ee49dbc",
+        "name": "Virtual Lab (Japan).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bd6bc0cdb310969583c442f9c8509fc0",
+        "name": "Virtual Lab (Japan) (En) (v1.0) (Thunderstruck).vb",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "17016",
+    "title": "Virtual League Baseball",
+    "hashes": [
+      {
+        "md5": "2ba914c8aa16f2f9230b3c5b7e17e67b",
+        "name": "Virtual League Baseball (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13077",
+    "title": "Waterworld",
+    "hashes": [
+      {
+        "md5": "110a83bc070559c5cc5634a8b5cae274",
+        "name": "Waterworld (USA).vb",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  }
+]

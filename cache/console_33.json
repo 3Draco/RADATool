@@ -1,0 +1,2273 @@
+[
+  {
+    "id": "22684",
+    "title": "~Homebrew~ Arno Dash",
+    "hashes": [
+      {
+        "md5": "8e40507a386a676cc44827d6ec3f9e28",
+        "name": "Arno Dash (World) (v1.03) (Aftermarket) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24569",
+    "title": "~Homebrew~ Arno Dash 2",
+    "hashes": [
+      {
+        "md5": "579bd664e64f02ec1bf5085bffc0d7e0",
+        "name": "Arno Dash 2 (World) (v1.03) (Aftermarket) (under4mhz).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25904",
+    "title": "~Homebrew~ Bloktris",
+    "hashes": [
+      {
+        "md5": "e727be51ab6ffe4c1ad410bc6ed93d00",
+        "name": "Bloktris (v1.03) (2023) (Under4Mhz).sg",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22685",
+    "title": "~Homebrew~ Cheril Perils Classic",
+    "hashes": [
+      {
+        "md5": "dea9e4e5891fbdcd3e0df16fc840afbe",
+        "name": "Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "25804",
+    "title": "~Homebrew~ Earth Attack",
+    "hashes": [
+      {
+        "md5": "be7798f9073f9a587ff0a36b646c65b7",
+        "name": "Earth Attack (USA) (v2021116) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "25010",
+    "title": "~Homebrew~ Foryster",
+    "hashes": [
+      {
+        "md5": "7aeb05029bdb9a571b1b72482daad5eb",
+        "name": "Foryster (USA) (v00.9) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1065ae51e06b8a07ce99998a37c7db79",
+        "name": "Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "25825",
+    "title": "~Homebrew~ H7N9",
+    "hashes": [
+      {
+        "md5": "784f9220a864953323b42aef566d667e",
+        "name": "H7N9 (USA) (v20161024) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "25826",
+    "title": "~Homebrew~ Hopman",
+    "hashes": [
+      {
+        "md5": "ed86987c468fbdcf6255a22536c3bac1",
+        "name": "Hopman (USA) (v1.0) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "25011",
+    "title": "~Homebrew~ Jet Paco and Jet Puri",
+    "hashes": [
+      {
+        "md5": "c07672a810c23e269a65a02e3893172a",
+        "name": "Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e13c66c69904b94459fa46da26aca87e",
+        "name": "Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "25013",
+    "title": "~Homebrew~ Klondike Solitaire",
+    "hashes": [
+      {
+        "md5": "9ced5749ab0db9d67b5446381a0182f7",
+        "name": "Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "25014",
+    "title": "~Homebrew~ Lawnmower",
+    "hashes": [
+      {
+        "md5": "255bfd63a0ed3154c37f41b69718fa08",
+        "name": "Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25015",
+    "title": "~Homebrew~ Libreway",
+    "hashes": [
+      {
+        "md5": "66192a925bcf6e76c63667126709e97b",
+        "name": "Libreway (USA) (v2014-06-16) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25012",
+    "title": "~Homebrew~ Mahjong Solitaire",
+    "hashes": [
+      {
+        "md5": "894cb6837dc67fd4ada3be7126c1cbd4",
+        "name": "Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "25009",
+    "title": "~Homebrew~ Palikat",
+    "hashes": [
+      {
+        "md5": "a90090e446b4e86ce3cadc451530c0ad",
+        "name": "Palikat (USA) (v1.0) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "25602",
+    "title": "~Homebrew~ Pegged",
+    "hashes": [
+      {
+        "md5": "54be39abfa98f34f9cfeeeaa75aee054",
+        "name": "Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz).sg",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "22087",
+    "title": "~Homebrew~ Pitman",
+    "hashes": [
+      {
+        "md5": "f8d0df42b3143c16d3730a37ff1190b9",
+        "name": "Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "14474",
+    "title": "~Homebrew~ Snake [Rick Skrbina]",
+    "hashes": [
+      {
+        "md5": "3bec2aa3d11a1d1e9b1de9dbef6b513c",
+        "name": "Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "22345",
+    "title": "~Homebrew~ Snake [under4mhz]",
+    "hashes": [
+      {
+        "md5": "bb91e8818fdd78c9e6cd2b94bbe552ff",
+        "name": "Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "19716",
+    "title": "~Homebrew~ Super Uwol",
+    "hashes": [
+      {
+        "md5": "44a7e8eaf9187835f3fb6c6ddda45327",
+        "name": "Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 58,
+      "points": 0
+    }
+  },
+  {
+    "id": "22072",
+    "title": "~Homebrew~ Vexed",
+    "hashes": [
+      {
+        "md5": "7cd478e059987105eaf4f2780be137c9",
+        "name": "Vexed (World) (v1.03) (Aftermarket) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "25976",
+    "title": "~Homebrew~ XBill",
+    "hashes": [
+      {
+        "md5": "9513f61620d628ac6bd7e91d95d8c026",
+        "name": "XBill (World) (v20180602) (Aftermarket) (nitrofurano).sg",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14185",
+    "title": "~Unlicensed~ Bomberman Special",
+    "hashes": [
+      {
+        "md5": "cd87c1a8cd8bc137673a7fb057e2142e",
+        "name": "Bomberman Special (Taiwan) (Chinese Logo) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "24311",
+    "title": "~Unlicensed~ Cabbage Patch Kids",
+    "hashes": [
+      {
+        "md5": "1c2c5851deb0e9142b5ff19e8dcd8442",
+        "name": "Cabbage Patch Kids (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "24538",
+    "title": "~Unlicensed~ Circus Charlie",
+    "hashes": [
+      {
+        "md5": "05940e2d44f81e163dab4a5a6f29645e",
+        "name": "Circus Charlie (Korea) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24545",
+    "title": "~Unlicensed~ Hyper Sports 2",
+    "hashes": [
+      {
+        "md5": "e329ee584187d4b156e26faf3ef1a960",
+        "name": "Hyper Sports 2 (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24546",
+    "title": "~Unlicensed~ King's Valley",
+    "hashes": [
+      {
+        "md5": "ff28e684eb3952ae3f7cf3e3d1c507ef",
+        "name": "King's Valley (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14030",
+    "title": "~Unlicensed~ Knightmare | Mo Yu Chuanqi",
+    "hashes": [
+      {
+        "md5": "7fe0bb81a812667f73a0ef5876cc30ac",
+        "name": "sg1000/moyuchua.7z <Knightmare, Moyu Chuanqi (Tw)>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e0321cd713ec1b48ff88f7df13e3ce28",
+        "name": "Knightmare (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "24548",
+    "title": "~Unlicensed~ Magical Kid Wiz",
+    "hashes": [
+      {
+        "md5": "c12474e0a2556adb2478bc4d99faba51",
+        "name": "Magical Kid Wiz (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "24549",
+    "title": "~Unlicensed~ Magical Tree",
+    "hashes": [
+      {
+        "md5": "014f702585a68399afe55ea63ba0f7de",
+        "name": "Magical Tree (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "24553",
+    "title": "~Unlicensed~ Ping Pong",
+    "hashes": [
+      {
+        "md5": "97f8b798ad727563b1ee42cf41697fed",
+        "name": "Ping Pong (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24554",
+    "title": "~Unlicensed~ Pippols",
+    "hashes": [
+      {
+        "md5": "2b99db5c8a7a9a45c174088bab310803",
+        "name": "Pippols (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14188",
+    "title": "~Unlicensed~ Rally-X | Du Du Che",
+    "hashes": [
+      {
+        "md5": "3071f939aaa0911fc0907aae5daaa160",
+        "name": "Rally-X (Taiwan) (Chinese Logo) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "24556",
+    "title": "~Unlicensed~ Road Fighter",
+    "hashes": [
+      {
+        "md5": "be975a2510125ff4b545bb162826ef26",
+        "name": "Road Fighter (Taiwan) (English Logo) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "24562",
+    "title": "~Unlicensed~ Star Soldier",
+    "hashes": [
+      {
+        "md5": "cb95017c8d13d95c91129f9b3b1f6798",
+        "name": "Star Soldier (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "24564",
+    "title": "~Unlicensed~ Tank Battalion",
+    "hashes": [
+      {
+        "md5": "dada9d76f7743089811dcc8ec1543076",
+        "name": "Tank Battalion (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24547",
+    "title": "~Unlicensed~ The Legend of Kage",
+    "hashes": [
+      {
+        "md5": "cfc8e61f51388609421ffe87539cad44",
+        "name": "Legend of Kage, The (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14191",
+    "title": "~Unlicensed~ TwinBee",
+    "hashes": [
+      {
+        "md5": "8c2c0d7e8415ae7b0c577cf947e89e78",
+        "name": "TwinBee (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "24566",
+    "title": "~Unlicensed~ Yie Ar Kung-Fu",
+    "hashes": [
+      {
+        "md5": "b14852ce157619fd60666a6474936d69",
+        "name": "Yie Ar Kung-Fu (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "22088",
+    "title": "~Unlicensed~ Yie Ar Kung-Fu II",
+    "hashes": [
+      {
+        "md5": "c1f51f5dbfb859b1204a812d9c08ffd3",
+        "name": "Yie Ar Kung-Fu II (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "24526",
+    "title": "007 James Bond",
+    "hashes": [
+      {
+        "md5": "b2ac0c7755e0d6ba0a737861ee190a53",
+        "name": "007 James Bond (Japan) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "17875",
+    "title": "Bank Panic",
+    "hashes": [
+      {
+        "md5": "47cd2d0bbcb879302f83f2f7058f49d4",
+        "name": "Bank Panic (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "13950",
+    "title": "Bomb Jack",
+    "hashes": [
+      {
+        "md5": "0bf5b6959fc1b58d8e37f9647f47a0b3",
+        "name": "Bomb Jack (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "24527",
+    "title": "Borderline",
+    "hashes": [
+      {
+        "md5": "25c742e43bc9f1329f3f26502fefb10a",
+        "name": "Borderline (Japan, Europe, Australia, New Zealand) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "24528",
+    "title": "C_So!",
+    "hashes": [
+      {
+        "md5": "d87daad7de33105d703b613052ccc2dd",
+        "name": "C_So! (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "13996",
+    "title": "Chack'n Pop",
+    "hashes": [
+      {
+        "md5": "286ba24b335a1600dfc611a0a9fe7875",
+        "name": "Chack'n Pop (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "24529",
+    "title": "Challenge Derby",
+    "hashes": [
+      {
+        "md5": "5fac8915a1c8a84bdfcdbe4611f4652d",
+        "name": "Challenge Derby (Japan) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c992629aced299a29d65026178a582d8",
+        "name": "Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e8698b111a3548088932fd4528316a1d",
+        "name": "Challenge Derby (Japan) (Rev 1) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24530",
+    "title": "Champion Baseball",
+    "hashes": [
+      {
+        "md5": "308e337a863bb9fa952426ef99180aa7",
+        "name": "Champion Baseball (Japan, Australia, New Zealand) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f70d4bcf91d3ad9313f9800f35b49536",
+        "name": "Champion Baseball (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "17986",
+    "title": "Champion Billiards",
+    "hashes": [
+      {
+        "md5": "71c32b1cf1e85d217421068ac8ccc655",
+        "name": "Champion Billiards (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "24531",
+    "title": "Champion Boxing",
+    "hashes": [
+      {
+        "md5": "3f54756fd73c3fbe33b56d7954d12f31",
+        "name": "Champion Boxing (Japan, New Zealand) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7527098abb9df1db29ba9f495b06998a",
+        "name": "Champion Boxing (Japan) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3e346c6137cab263643e42411f64a74d",
+        "name": "Champion Boxing (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "24532",
+    "title": "Champion Golf",
+    "hashes": [
+      {
+        "md5": "1d87490269964239b64244fcabd18fe1",
+        "name": "Champion Golf (Japan, Europe, Australia, New Zealand) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3c01bb2a4414989378c252f45a4e5050",
+        "name": "Champion Golf (Japan) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "24533",
+    "title": "Champion Ice Hockey",
+    "hashes": [
+      {
+        "md5": "b3af58c60e62bb85522ddc29096cef60",
+        "name": "Champion Ice Hockey (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "24534",
+    "title": "Champion Kendou",
+    "hashes": [
+      {
+        "md5": "ed6e4e8e081b56be488f57abcb51a7e5",
+        "name": "Champion Kendou (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "24535",
+    "title": "Champion Pro Wrestling",
+    "hashes": [
+      {
+        "md5": "da9a4589303370e8a751c16b2cbfa628",
+        "name": "Champion Pro Wrestling (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "24536",
+    "title": "Champion Soccer",
+    "hashes": [
+      {
+        "md5": "810064687e1614b6a7fb985b82806d31",
+        "name": "Champion Soccer (Japan, Europe) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "24537",
+    "title": "Champion Tennis",
+    "hashes": [
+      {
+        "md5": "79e8f456fae5d3719731e960c9b4c612",
+        "name": "Champion Tennis (Japan, Europe, Australia, New Zealand) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "22894",
+    "title": "Championship Lode Runner",
+    "hashes": [
+      {
+        "md5": "f49d9ea611ccb9289994774406f20d06",
+        "name": "Championship Lode Runner (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 57,
+      "points": 0
+    }
+  },
+  {
+    "id": "6809",
+    "title": "Choplifter",
+    "hashes": [
+      {
+        "md5": "ee557c7811f03c44965a56b80801a3b9",
+        "name": "Choplifter (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "13484",
+    "title": "Congo Bongo",
+    "hashes": [
+      {
+        "md5": "5f4d3c629e37e83794233b3cffc4cc0e",
+        "name": "Congo Bongo (Japan, Europe, Australia, New Zealand) (En) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "13997",
+    "title": "Doki Doki Penguin Land",
+    "hashes": [
+      {
+        "md5": "79f15598828e697e75c65130262d8d94",
+        "name": "Doki Doki Penguin Land (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "13951",
+    "title": "Dragon Wang",
+    "hashes": [
+      {
+        "md5": "0528eed7e7ae46ec8298098f1a22d18f",
+        "name": "Dragon Wang (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "64d3cc8117292f6d5af8e1aad95bcb90",
+        "name": "Dragon Wang (Japan) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "24539",
+    "title": "Drol",
+    "hashes": [
+      {
+        "md5": "8eb2ab42d2bc3f3568e85cba2b46a251",
+        "name": "Drol (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "8175",
+    "title": "Elevator Action",
+    "hashes": [
+      {
+        "md5": "23c751fe6bb8bd4f8c0cd9b0d39adecd",
+        "name": "Elevator Action (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "6806",
+    "title": "Exerion",
+    "hashes": [
+      {
+        "md5": "7f0ae039dd072d825ebfd2d3bf02a2a0",
+        "name": "Exerion (Japan, Europe, Australia, New Zealand) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "13482",
+    "title": "Flicky",
+    "hashes": [
+      {
+        "md5": "0bb6d2a43b340f56366edabd7e21fed4",
+        "name": "Flicky (Japan) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "12363",
+    "title": "Girl's Garden",
+    "hashes": [
+      {
+        "md5": "ac95c0655360f667e3ad705e2eb7367a",
+        "name": "Girl's Garden (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 49,
+      "points": 0
+    }
+  },
+  {
+    "id": "24540",
+    "title": "Golgo 13",
+    "hashes": [
+      {
+        "md5": "cb25a12e86c729f6a51ba3dea91c1547",
+        "name": "Golgo 13 (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "24541",
+    "title": "GP World",
+    "hashes": [
+      {
+        "md5": "4d9cc3764321b668d1fc238e19794312",
+        "name": "GP World (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "13991",
+    "title": "Gulkave",
+    "hashes": [
+      {
+        "md5": "43c23a134aec3ab424405780ff729d54",
+        "name": "Gulkave (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "24542",
+    "title": "Guzzler",
+    "hashes": [
+      {
+        "md5": "f3f1042745e96e29bfdf920d031b8cd5",
+        "name": "Guzzler (Japan) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "13999",
+    "title": "H.E.R.O.",
+    "hashes": [
+      {
+        "md5": "d10f38c614113cb34bbf4a19b487e1fb",
+        "name": "H.E.R.O. (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "24543",
+    "title": "Hang On II",
+    "hashes": [
+      {
+        "md5": "314c865decbe6f578d9bfa23f27a08e6",
+        "name": "Hang On II (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "24544",
+    "title": "Home Mahjong",
+    "hashes": [
+      {
+        "md5": "33c4b489f61086c10e9f713519ddc7bc",
+        "name": "Home Mahjong (Japan) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d7322428a4fb49ac593f80f30d3c7bd3",
+        "name": "Home Mahjong (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17985",
+    "title": "Hustle Chumy",
+    "hashes": [
+      {
+        "md5": "8be690d357a99abd26ebb5378e9c0153",
+        "name": "Hustle Chumy (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "18064",
+    "title": "Hyper Sports",
+    "hashes": [
+      {
+        "md5": "d8e6d89d520c91a9ea219291b55284bb",
+        "name": "Hyper Sports (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "14186",
+    "title": "Lode Runner",
+    "hashes": [
+      {
+        "md5": "4b4f02eb3cf7d5f9dcd1311d72e6d742",
+        "name": "Lode Runner (Japan, Europe, Australia) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 86,
+      "points": 0
+    }
+  },
+  {
+    "id": "25827",
+    "title": "Loretta no Shouzou: Sherlock Holmes",
+    "hashes": [
+      {
+        "md5": "8dcdd83e58be634a3735911a1af05bb3",
+        "name": "Loretta no Shouzou - Sherlock Holmes (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24550",
+    "title": "Mahjong",
+    "hashes": [
+      {
+        "md5": "1dbb5c85962c2110ffe35ec536f96329",
+        "name": "Mahjong (Japan) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d9da8a32bd3b18881dfa2b469c85944e",
+        "name": "Mahjong (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "13998",
+    "title": "Monaco GP",
+    "hashes": [
+      {
+        "md5": "cda3731948a50bb396b380f7fc82ec12",
+        "name": "Monaco GP (Japan, Europe) (Ja) (Rev 2).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "24551",
+    "title": "N-Sub",
+    "hashes": [
+      {
+        "md5": "56c559d0d82a3e6fb2e87230d39f32f4",
+        "name": "N-Sub (Japan, Europe, Australia, New Zealand) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cfced1ba39adee6a75dc830ed9c12f73",
+        "name": "N-Sub (Japan) (Alt).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "12408",
+    "title": "Ninja Princess",
+    "hashes": [
+      {
+        "md5": "28d83150c298bcdae6aec51cc2c6975a",
+        "name": "Ninja Princess (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 84,
+      "points": 0
+    }
+  },
+  {
+    "id": "24552",
+    "title": "Okamoto Ayako no Match Play Golf",
+    "hashes": [
+      {
+        "md5": "0195c955df38b55f6f12694179503f10",
+        "name": "Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "07ca24bef805f15d13d3123c765c3039",
+        "name": "Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17745",
+    "title": "Orguss",
+    "hashes": [
+      {
+        "md5": "0f45fa8e9b985fd5c6545645462b9400",
+        "name": "Orguss (Japan, Europe, Australia, New Zealand) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "14187",
+    "title": "Othello",
+    "hashes": [
+      {
+        "md5": "3f429704761d34d7793e7123a183d7f6",
+        "name": "Othello (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "25861",
+    "title": "Othello | Othello Multivision BIOS",
+    "hashes": [
+      {
+        "md5": "cba9c69675bb921aa07050fd2a2dbecb",
+        "name": "[BIOS] Othello Multivision (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17771",
+    "title": "Pacar",
+    "hashes": [
+      {
+        "md5": "8f46800e6fc7d5a40716045f6d739932",
+        "name": "Pacar (Japan, Europe, Australia, New Zealand) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "6819",
+    "title": "Pachinko",
+    "hashes": [
+      {
+        "md5": "37f5e516d9fbce05052204b67379a6da",
+        "name": "Pachinko (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "19164",
+    "title": "Pachinko II",
+    "hashes": [
+      {
+        "md5": "a3409283bf8c808a15095cc005a74975",
+        "name": "Pachinko II (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "eadae13ff73047a47f354e258c12619e",
+        "name": "Pachinko II (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "13994",
+    "title": "Pitfall II: The Lost Caverns",
+    "hashes": [
+      {
+        "md5": "38ae610eb6266d4db8bc6d3dcb8fcd4a",
+        "name": "Pitfall II - The Lost Caverns (Japan) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24555",
+    "title": "Pop Flamer",
+    "hashes": [
+      {
+        "md5": "7f841aa0c225662e26ca7a8df20b2eb8",
+        "name": "Pop Flamer (Japan, Europe, Australia, New Zealand) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "17354",
+    "title": "Q*bert",
+    "hashes": [
+      {
+        "md5": "a768a8ae921126300e98f9d918a4a0c9",
+        "name": "Q-bert (Japan) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "14728",
+    "title": "Rock n' Bolt",
+    "hashes": [
+      {
+        "md5": "108ffe4ba5c2c8c5e0459cb7f0cfac0e",
+        "name": "Rock n' Bolt (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "25998",
+    "title": "Rock n' Bolt [Subset - Overtime Overload]",
+    "hashes": [
+      {
+        "md5": "7867c2dd7d67b291c617feccf23ceb52",
+        "name": "Rock n' Bolt [Subset - Overtime Overload].sg",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "24557",
+    "title": "Safari Hunting",
+    "hashes": [
+      {
+        "md5": "f77826f62d943c4a24f7fb9c3bb4a5f9",
+        "name": "Safari Hunting (Japan, Europe, Australia, New Zealand) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "24558",
+    "title": "Safari Race",
+    "hashes": [
+      {
+        "md5": "8384956e456a91ca59f9c5e72f1cb1c4",
+        "name": "Safari Race (Japan, Europe, Australia, New Zealand) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "24559",
+    "title": "San-nin Mahjong",
+    "hashes": [
+      {
+        "md5": "6cd591be7b3aa4ed9c1f7038c581106a",
+        "name": "San-nin Mahjong (Japan) (Othello Multivision) (Alt).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cf02277eacdf348dbde960769a0b0d55",
+        "name": "San-nin Mahjong (Japan) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14189",
+    "title": "Sega Flipper",
+    "hashes": [
+      {
+        "md5": "3f2acc9de65c8496c3d8470ef12dc210",
+        "name": "Sega Flipper (Japan, Europe, Australia, New Zealand) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "13992",
+    "title": "Sega-Galaga",
+    "hashes": [
+      {
+        "md5": "e2619cf7c307ac1916c534519f6043d9",
+        "name": "Sega-Galaga (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "24560",
+    "title": "Serizawa Hachidan no Tsumeshogi",
+    "hashes": [
+      {
+        "md5": "63713feb1c8b8da77bd2e8cf03fe0a4c",
+        "name": "Serizawa Hachidan no Tsumeshougi (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24561",
+    "title": "Shinnyushain Tooru-kun",
+    "hashes": [
+      {
+        "md5": "a8094de8e2c72e9490e421f66ba2777b",
+        "name": "Shinnyushain Tooru-kun (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6803",
+    "title": "Sindbad Mystery",
+    "hashes": [
+      {
+        "md5": "7b0f2be3588337df59959ababbefe505",
+        "name": "Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "19919",
+    "title": "Soukoban",
+    "hashes": [
+      {
+        "md5": "6cae3b6286041e742020aeb3cd2bdf52",
+        "name": "Soukoban (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "5213",
+    "title": "Space Armor",
+    "hashes": [
+      {
+        "md5": "b6aff368af8c8e1f0ae257c519d96ca8",
+        "name": "Space Armor (Japan) (Rev 2) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "14190",
+    "title": "Space Invaders",
+    "hashes": [
+      {
+        "md5": "87a97b049ec01b1803b93f06d0407586",
+        "name": "Space Invaders (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "5397",
+    "title": "Space Mountain",
+    "hashes": [
+      {
+        "md5": "2321b2a684b83d58489fda2df66ab6fb",
+        "name": "Space Mountain (Japan) (Othello Multivision).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "5858",
+    "title": "Space Slalom",
+    "hashes": [
+      {
+        "md5": "c04dc7fb9d27629735edb1570ec39f00",
+        "name": "Space Slalom (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "6787",
+    "title": "Star Force",
+    "hashes": [
+      {
+        "md5": "2cbd1f9f4927f9618390340f56f116a6",
+        "name": "Star Force (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 135,
+      "points": 0
+    }
+  },
+  {
+    "id": "13949",
+    "title": "Star Jacker",
+    "hashes": [
+      {
+        "md5": "22200ef1461212cacdc58f6636d759fd",
+        "name": "Star Jacker (Japan, Europe) (En) (Rev 2).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "658ede490eae6af2b0f61dd136761d95",
+        "name": "Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "eccad04698782862f3785ff9708f73e8",
+        "name": "Star Jacker (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0104171ade3cfeaf10c92926869e2a52",
+        "name": "Star Jacker (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "24563",
+    "title": "Super Tank",
+    "hashes": [
+      {
+        "md5": "59d01bf1093a65e9ec08e533cfbbc5ff",
+        "name": "Super Tank (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "17798",
+    "title": "The Black Onyx",
+    "hashes": [
+      {
+        "md5": "d2b0524a2cf5754c0fa1c900e9ecb06b",
+        "name": "Black Onyx, The (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1da64bab6808f8b6df159c912d3b4072",
+        "name": "Black Onyx, The (Japan) (En) (v1.0) (SSTranslations).sg",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e2fca5d8609135caf5f4e2a88e38eabb",
+        "name": "Black Onyx, The (Japan) (En - Enhanced) (v1.0) (SSTranslations).sg",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "13995",
+    "title": "The Castle",
+    "hashes": [
+      {
+        "md5": "d047c10d6b27cf34ccb66340a089523a",
+        "name": "Castle, The (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "13993",
+    "title": "Wonder Boy",
+    "hashes": [
+      {
+        "md5": "d26fabfe84ad40ae04a2cd3dc6cf75df",
+        "name": "Wonder Boy (Japan) (Rev 1).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "24565",
+    "title": "Yamato",
+    "hashes": [
+      {
+        "md5": "0dd197a0e1f43c0684f98b52514fce59",
+        "name": "Yamato (Japan, Europe, Australia, New Zealand) (En).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "13483",
+    "title": "Zaxxon",
+    "hashes": [
+      {
+        "md5": "52bbf5336c190610a0fb1ab0bdaca455",
+        "name": "Zaxxon (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "24567",
+    "title": "Zippy Race",
+    "hashes": [
+      {
+        "md5": "0eda34ba313d3bb34558fd5939b19794",
+        "name": "Zippy Race (Japan, Australia) (Ja).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "16856425e0bcc3ab475f46f7cfd00402",
+        "name": "Zippy Race (Taiwan) (Unl).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "24568",
+    "title": "Zoom 909",
+    "hashes": [
+      {
+        "md5": "4e457a6c5b4b613f2aac3472f6827a89",
+        "name": "Zoom 909 (Japan).sg",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

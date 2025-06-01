@@ -1,0 +1,5169 @@
+[
+  {
+    "id": "33562",
+    "title": "~Homebrew~ ~Demo~ Nyanja!",
+    "hashes": [
+      {
+        "md5": "e665731cef9fce6835e34066686db035",
+        "name": "Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro)",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17039",
+    "title": "~Homebrew~ FX Unit Yuki: The Henshin Engine",
+    "hashes": [
+      {
+        "md5": "9c707e0f733eac0d1acc1b0500c048ff",
+        "name": "FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29077",
+    "title": "~Homebrew~ Insantaty",
+    "hashes": [
+      {
+        "md5": "18ce447d010dcdcd9e9b9f8693d351e9",
+        "name": "Insantaty (World) (Aftermarket) (AetherBye)",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28690",
+    "title": "~Homebrew~ Jessie Jaeger in Cleopatra's Curse",
+    "hashes": [
+      {
+        "md5": "298734ae483ac59e9f3c37aa1c1b090d",
+        "name": "Jessie Jaeger in Cleopatra's Curse (World) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "22904",
+    "title": "~Homebrew~ Revival Chase",
+    "hashes": [
+      {
+        "md5": "518bf8ee44071aeb26ade0369360a172",
+        "name": "Revival Chase (USA) (En,Fr) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20919",
+    "title": "~Homebrew~ Space Ava 201: Quantum Field Theory",
+    "hashes": [
+      {
+        "md5": "91a8a14b6de134a7077699f118ff4593",
+        "name": "Space Ava 201 (World) (Aftermarket) (Nicole Express)",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20417",
+    "title": "~Homebrew~ Ultimate Rally Club",
+    "hashes": [
+      {
+        "md5": "f33ed08d643f41b4ec2764d095b61a06",
+        "name": "Ultimate Rally Club (USA) (Aftermarket) (OrionSoft)",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "25578",
+    "title": "~Homebrew~ Xump 2: Back to Space",
+    "hashes": [
+      {
+        "md5": "42f5fb0c0af9a5f590286850028de9e8",
+        "name": "Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru)",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 63,
+      "points": 0
+    }
+  },
+  {
+    "id": "13245",
+    "title": "~Prototype~ Space Fantasy Zone",
+    "hashes": [
+      {
+        "md5": "c186bcdc1b16089692bbf0d6ad779f43",
+        "name": "Space Fantasy Zone (Japan) (En) (Proto)",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18644",
+    "title": "~Unlicensed~ Hi-Leg Fantasy",
+    "hashes": [
+      {
+        "md5": "ed4c95b232098f09ed58c0182fd84f2d",
+        "name": "Hi-Leg Fantasy (Japan) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "14638",
+    "title": "~Unlicensed~ Hypernova Blast",
+    "hashes": [
+      {
+        "md5": "0cdf0090776e30db6f86b33a7f7ed649",
+        "name": "Hypernova Blast (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13194",
+    "title": "~Unlicensed~ Implode",
+    "hashes": [
+      {
+        "md5": "1ad7e41fccb07b87fd0120f2d7fd30dd",
+        "name": "Implode (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29309",
+    "title": "1552 Tenka Tairan",
+    "hashes": [
+      {
+        "md5": "939f45ec76962053b89804dafe5ea640",
+        "name": "1552 Tenka Tairan (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28753",
+    "title": "3x3 Eyes: Sanjiyan Henjou",
+    "hashes": [
+      {
+        "md5": "8b354aca024513c94157c435576784d6",
+        "name": "3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28014",
+    "title": "A.III: A Ressha de Ikou III | A-Train",
+    "hashes": [
+      {
+        "md5": "85c333f772ccf57cc02314f1fda90529",
+        "name": "A.III. - A Ressha de Ikou III (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7098",
+    "title": "Advanced V.G.",
+    "hashes": [
+      {
+        "md5": "17f2a62623bf1091f286c92eda4ddf43",
+        "name": "Advanced V.G. (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 31,
+      "points": 0
+    }
+  },
+  {
+    "id": "16978",
+    "title": "Ai Cho Aniki",
+    "hashes": [
+      {
+        "md5": "e4245d36bee00016808bf295996aa3ef",
+        "name": "Ai Chou Aniki (Japan) (SADS, SAES)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 34,
+      "points": 0
+    }
+  },
+  {
+    "id": "4855",
+    "title": "Akumajou Dracula X: Chi no Rondo",
+    "hashes": [
+      {
+        "md5": "dc5a0e432c9e8a9ab9f514b729b574f3",
+        "name": "Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 78,
+      "points": 0
+    }
+  },
+  {
+    "id": "29311",
+    "title": "Alnam no Kiba: Juuzoku Juuni Shinto Densetsu",
+    "hashes": [
+      {
+        "md5": "08f0e53124ca884e2faf90e3d126e87d",
+        "name": "Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29310",
+    "title": "Alshark",
+    "hashes": [
+      {
+        "md5": "7e5fad0b78e6d3358d70b9446f9cec6b",
+        "name": "Alshark (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28376",
+    "title": "Ane-san",
+    "hashes": [
+      {
+        "md5": "fce863b48e727c35d495194a8a0f0c45",
+        "name": "Ane-san (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "28754",
+    "title": "Asuka 120% Maxima BURNING Fest.",
+    "hashes": [
+      {
+        "md5": "11fea8d0d101f2c8a41a59fbe0ff7c96",
+        "name": "Asuka 120% Maxima - Burning Fest. Maxima (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30073",
+    "title": "Auto Crusher Palladium",
+    "hashes": [
+      {
+        "md5": "b5b46aa22988b8b758273f7b98676947",
+        "name": "Palladion - Auto Crusher Palladium (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28755",
+    "title": "Avenger",
+    "hashes": [
+      {
+        "md5": "9cae5e4cfb62d9469bf38a647ff0552a",
+        "name": "Avenger (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30745",
+    "title": "Babel",
+    "hashes": [
+      {
+        "md5": "2621dadee4d1d9c2a0976a15c8bc2360",
+        "name": "Babel (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12836",
+    "title": "Baby Jo: The Super Hero",
+    "hashes": [
+      {
+        "md5": "3d4616fe2e1a691f6e7f564352dae43e",
+        "name": "Baby Jo - The Super Hero (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28824",
+    "title": "Bakushou Yoshimoto Shinkigeki",
+    "hashes": [
+      {
+        "md5": "63a7e6520eb9a8407bee47fe0baf725e",
+        "name": "Bakushou Yoshimoto Shinkigeki (Japan) (FABT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27247",
+    "title": "Basted",
+    "hashes": [
+      {
+        "md5": "76a7066dca0f65306a1bcafc5aaa5f71",
+        "name": "Basted (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17137",
+    "title": "Bazaru de Gozaru no Game de Gozaru",
+    "hashes": [
+      {
+        "md5": "141d90fa244e3d90c03bb2d735afdaaf",
+        "name": "Bazar de Gozarre no Game de Gozarre (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "12782",
+    "title": "Beyond Shadowgate",
+    "hashes": [
+      {
+        "md5": "a9bb49d6cbb338e2195d8735097ccf87",
+        "name": "Beyond Shadowgate (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 44,
+      "points": 0
+    }
+  },
+  {
+    "id": "28256",
+    "title": "Bikkuriman Daijikai",
+    "hashes": [
+      {
+        "md5": "a0208ca487b3c8228fce02f7e6ca3110",
+        "name": "Bikkuriman Daijikai (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18279",
+    "title": "Bishoujo Senshi Sailor Moon",
+    "hashes": [
+      {
+        "md5": "4e578af4d6439c42c4f59ff25b7997d4",
+        "name": "Bishoujo Senshi Sailor Moon (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fe14d7bb1b96753954cc7cdab3577d00",
+        "name": "Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 53,
+      "points": 0
+    }
+  },
+  {
+    "id": "15442",
+    "title": "Bishoujo Senshi Sailor Moon Collection",
+    "hashes": [
+      {
+        "md5": "eb3cdaa1a2c2245019435c3424d0f626",
+        "name": "Bishoujo Senshi Sailor Moon Collection (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28017",
+    "title": "Blood Gear",
+    "hashes": [
+      {
+        "md5": "446e099deba548a22246e37d767e5b06",
+        "name": "Blood Gear (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13308",
+    "title": "Bomberman: Panic Bomber",
+    "hashes": [
+      {
+        "md5": "01a3d4ccc8cde476aeaaa2a814256813",
+        "name": "Bomberman - Panic Bomber (Japan) (FAAT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28756",
+    "title": "Bonanza Bros.",
+    "hashes": [
+      {
+        "md5": "7744bbc186ac2bd1319d848484ab6514",
+        "name": "Bonanza Bros. (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14102",
+    "title": "Bonk 3: Bonk's Big Adventure",
+    "hashes": [
+      {
+        "md5": "28e42ae61e5cd99d75fcc81bab32cafe",
+        "name": "Bonk III - Bonk's Big Adventure (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7962",
+    "title": "Brandish",
+    "hashes": [
+      {
+        "md5": "eefcabb4e6b5aba08615cfc84519b1c4",
+        "name": "Brandish (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 68,
+      "points": 0
+    }
+  },
+  {
+    "id": "28811",
+    "title": "Browning",
+    "hashes": [
+      {
+        "md5": "8ea46d9914c68b1ec53a7e215b1fce16",
+        "name": "Browning (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28825",
+    "title": "Builderland: The Story of Melba",
+    "hashes": [
+      {
+        "md5": "8801dd0c72b038126a7ed404b99c9ef8",
+        "name": "BuilderLand - The Story of Melba (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29313",
+    "title": "Burai II: Yami Koutei no Gyakushuu",
+    "hashes": [
+      {
+        "md5": "e114ff01482888f6943c48c724ab3742",
+        "name": "Burai II - Yami Koutei no Gyakushuu (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29312",
+    "title": "Burai: Hachigyoku no Yuushi Densetsu",
+    "hashes": [
+      {
+        "md5": "ac842a9eb792bdd6f90dc12055f73f4c",
+        "name": "Burai - Yatsudama no Yuushi Densetsu (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13184",
+    "title": "Buster Bros.",
+    "hashes": [
+      {
+        "md5": "1cb4520e76f34ede3dd46833183a139f",
+        "name": "Buster Bros. (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "14103",
+    "title": "Camp California",
+    "hashes": [
+      {
+        "md5": "333f861b287cfecf02dac4167555833b",
+        "name": "Camp California (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29319",
+    "title": "Campaign Version: Daisenryaku II",
+    "hashes": [
+      {
+        "md5": "5c3a7b1f32e539854658dcec2d4da93d",
+        "name": "Campaign Version - Daisenryaku II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29314",
+    "title": "CD Battle Hikari no Yuushatachi",
+    "hashes": [
+      {
+        "md5": "ea1e8a6fb7fe014d14189ecf60a9ffc5",
+        "name": "CD Battle - Hikari no Yuusha-tachi (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16979",
+    "title": "Chiki Chiki Boys",
+    "hashes": [
+      {
+        "md5": "1d3d73850a127eae705686569fed9872",
+        "name": "Chiki Chiki Boys (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14636",
+    "title": "Cho Aniki",
+    "hashes": [
+      {
+        "md5": "45fd2a4d3922dd40d3852d42a0140e84",
+        "name": "Chou Aniki (Japan) (FAAT, FACT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "29316",
+    "title": "Chou Eiyuu Densetsu: Dynastic Hero | Wonder Boy in Monster World",
+    "hashes": [
+      {
+        "md5": "9fb5e76609e9481959a9be59db8365e3",
+        "name": "Chou Eiyuu Densetsu - Dynastic Hero (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9709",
+    "title": "Chou Jikuu Yousai Macross 2036",
+    "hashes": [
+      {
+        "md5": "55eb44cb8b534a2431a494b7b1b38403",
+        "name": "Chou Jikuu Yousai Macross 2036 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "16980",
+    "title": "Chou Jikuu Yousai Macross: Eien no Love Song",
+    "hashes": [
+      {
+        "md5": "99a5972efda850ed1ad0df1e1036d353",
+        "name": "Chou Jikuu Yousai Macross - Eien no Love Song (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 46,
+      "points": 0
+    }
+  },
+  {
+    "id": "29317",
+    "title": "Color Wars",
+    "hashes": [
+      {
+        "md5": "d989d1f8b6375a5151aba22ce766a970",
+        "name": "Color Wars (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12890",
+    "title": "Cosmic Fantasy 2",
+    "hashes": [
+      {
+        "md5": "029acd762699125e33d7f795eb688969",
+        "name": "Cosmic Fantasy 2 (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "28006",
+    "title": "Cosmic Fantasy 3: Bouken Shounen Rei",
+    "hashes": [
+      {
+        "md5": "4b6cccb6ed4582ff451b3be2e3d409db",
+        "name": "Cosmic Fantasy 3 - Bouken Shounen Rei (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28007",
+    "title": "Cosmic Fantasy 4: Ginga Shounen Densetsu - Gekitou-hen",
+    "hashes": [
+      {
+        "md5": "b0466dadb19a1f688c984d03144cbe17",
+        "name": "Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28008",
+    "title": "Cosmic Fantasy 4: Ginga Shounen Densetsu - Totsunyuu-hen",
+    "hashes": [
+      {
+        "md5": "ea76f409522ca90a6dff6fc37c2d2e65",
+        "name": "Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28009",
+    "title": "Cosmic Fantasy: Bouken Shounen Yuu",
+    "hashes": [
+      {
+        "md5": "7d0a680f3759ca0ab44a1dcae7828716",
+        "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "9174",
+    "title": "Cotton: Fantastic Night Dreams",
+    "hashes": [
+      {
+        "md5": "1e17a1196f3ba16a35c4dbce71071306",
+        "name": "Fantastic Night Dreams - Cotton (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "29318",
+    "title": "Cyber City Oedo 808: Kemono no Sukusei",
+    "hashes": [
+      {
+        "md5": "09f0dc97b01bb7c5f76a3580f5642e9f",
+        "name": "Cyber City Oedo 808 - Kemono no Alignment (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28767",
+    "title": "Daisenpuu Custom",
+    "hashes": [
+      {
+        "md5": "b9fd0a3ab7b58d7e783dd7dd0c6b4e68",
+        "name": "Daisenpuu Custom (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13166",
+    "title": "Dead of the Brain 1 and 2",
+    "hashes": [
+      {
+        "md5": "e441fad7de8fdc71d25b104ae45d90fb",
+        "name": "Dead of the Brain 1&2 (Japan) (En) (v1.0e) (Dave Shadoff)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "13307",
+    "title": "Death Bringer: The Knight of Darkness",
+    "hashes": [
+      {
+        "md5": "193f7a53d03f24679b890b9d2c35b517",
+        "name": "Death Bringer - The Knight of Darkness (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28757",
+    "title": "Doraemon: Nobita no Dorabian Night",
+    "hashes": [
+      {
+        "md5": "0d6da23b1ccfea819ca3fa36def0c68a",
+        "name": "Doraemon - Nobita no Dorabian Night (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15590",
+    "title": "Double Dragon II: The Revenge",
+    "hashes": [
+      {
+        "md5": "c1ab1e21cd2db6c241235196ab2908e5",
+        "name": "Double Dragon II - The Revenge (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "13189",
+    "title": "Download 2",
+    "hashes": [
+      {
+        "md5": "9eb8f91f467550acdbf77e9f5ad20115",
+        "name": "Down Load 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "15588",
+    "title": "Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai",
+    "hashes": [
+      {
+        "md5": "c043dbb6faad3f3045d9e92a28802fa4",
+        "name": "Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15589",
+    "title": "Downtown Nekketsu Monogatari",
+    "hashes": [
+      {
+        "md5": "217f4ca4a9166c9c0f7a4b9563c00b70",
+        "name": "Downtown Nekketsu Monogatari (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16304",
+    "title": "Dragon Ball Z: Idainaru Son Goku Densetsu",
+    "hashes": [
+      {
+        "md5": "14f184cedb3415fd3f042cde55672b03",
+        "name": "Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan) (FABT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28758",
+    "title": "Dragon Half",
+    "hashes": [
+      {
+        "md5": "7c1b8fa987bec6950929b41f8cce8aec",
+        "name": "Dragon Half (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22065",
+    "title": "Dragon Knight & Graffiti",
+    "hashes": [
+      {
+        "md5": "f59130faf3ba7ee26aff9ec7214aed1a",
+        "name": "Dragon Knight & Graffiti (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "22081",
+    "title": "Dragon Knight II",
+    "hashes": [
+      {
+        "md5": "14a0319e0b87b67cb97523dd1a87b9be",
+        "name": "Dragon Knight II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 54,
+      "points": 0
+    }
+  },
+  {
+    "id": "28095",
+    "title": "Dragon Knight III",
+    "hashes": [
+      {
+        "md5": "aaf160b947136e1d6cd1f84acce2c7c8",
+        "name": "Dragon Knight III (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12889",
+    "title": "Dragon Slayer: The Legend of Heroes",
+    "hashes": [
+      {
+        "md5": "1154e293ff16c1bc4f2a52027760a639",
+        "name": "Dragon Slayer - The Legend of Heroes (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 51,
+      "points": 0
+    }
+  },
+  {
+    "id": "10197",
+    "title": "Dragon Slayer: The Legend of Heroes II",
+    "hashes": [
+      {
+        "md5": "82037b481644d934f8be1903159b9b26",
+        "name": "Dragon Slayer - The Legend of Heroes II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12891",
+    "title": "Dungeon Explorer II",
+    "hashes": [
+      {
+        "md5": "e39418148a18ed7cb75b35a4fac52978",
+        "name": "Dungeon Explorer II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14090",
+    "title": "Dungeon Master: Theron's Quest",
+    "hashes": [
+      {
+        "md5": "3e7078e2e99c13c548e5c7a668448bf6",
+        "name": "Dungeon Master - Theron's Quest (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29320",
+    "title": "Efera & Jiliora: The Emblem From Darkness",
+    "hashes": [
+      {
+        "md5": "61f7d136a50448404f219519f8f38915",
+        "name": "Efera & Jiliora - The Emblem from Darkness (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28018",
+    "title": "Eikan wa Kimi ni: Koukou Yakyuu Zenkoku Taikai",
+    "hashes": [
+      {
+        "md5": "968c121389bb5c5d73bd35084cbc3f08",
+        "name": "Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27246",
+    "title": "Emerald Dragon",
+    "hashes": [
+      {
+        "md5": "0ad8a48b9a8826805f5c1f39fb63ace7",
+        "name": "Emerald Dragon (Japan) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12886",
+    "title": "Exile",
+    "hashes": [
+      {
+        "md5": "7d4479d76b01a5c29156335d7d124844",
+        "name": "Exile (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12887",
+    "title": "Exile: Wicked Phenomenon",
+    "hashes": [
+      {
+        "md5": "61fa845acb17d08bd8954c6b98f32a31",
+        "name": "Exile - Wicked Phenomenon (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19925",
+    "title": "F1 Circus Special: Pole to Win",
+    "hashes": [
+      {
+        "md5": "756a295107e9e8d77d1043f384952366",
+        "name": "F1 Circus Special - Pole to Win (Japan) (FABT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26952",
+    "title": "F1 Team Simulation: Project F",
+    "hashes": [
+      {
+        "md5": "8e54f501d477300c36cb01c95b7561fd",
+        "name": "F1 Team Simulation - Project F (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28812",
+    "title": "Faceball",
+    "hashes": [
+      {
+        "md5": "5e310c7657fb12366f1743fe58d0ad17",
+        "name": "Faceball (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29321",
+    "title": "Farjius no Jakoutei: Neo Metal Fantasy",
+    "hashes": [
+      {
+        "md5": "c7a5c5f58958e705631da49219404793",
+        "name": "Farjius no Jakoutei - Neo Metal Fantasy (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13133",
+    "title": "Fausseté Amour",
+    "hashes": [
+      {
+        "md5": "a85ef88465f287c7095ad9a6a1c26ce6",
+        "name": "Faussete Amour (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "14247",
+    "title": "Fiend Hunter",
+    "hashes": [
+      {
+        "md5": "1e094228cb18865d53b03d175d9ae04d",
+        "name": "Fiend Hunter (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9165",
+    "title": "Fighting Street",
+    "hashes": [
+      {
+        "md5": "1f674638e2aa39c45a955a608b90181a",
+        "name": "Fighting Street (Japan) (Rev 4)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "14104",
+    "title": "Final Zone II",
+    "hashes": [
+      {
+        "md5": "8eee6c4f0210aec421fbb1b0fc767b78",
+        "name": "Final Zone II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "29695",
+    "title": "Flash Hiders",
+    "hashes": [
+      {
+        "md5": "cece5e45b4fe344d074796c34ba71228",
+        "name": "Flash Hiders (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9166",
+    "title": "Forgotten Worlds",
+    "hashes": [
+      {
+        "md5": "4abb334951941ab24c798ac7cee314b7",
+        "name": "Forgotten Worlds (USA) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22507",
+    "title": "Formation Soccer 95 della Serie A",
+    "hashes": [
+      {
+        "md5": "35ac93a79accbfdd70d9bc58af960e8d",
+        "name": "Formation Soccer 95 della Serie A (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16302",
+    "title": "Fray in Magical Adventure CD: Xak Gaiden",
+    "hashes": [
+      {
+        "md5": "246d017966335fb2bcc5ce4616722dd7",
+        "name": "In Magical Adventure - Fray CD - Xak Gaiden (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28759",
+    "title": "Fushigi no Umi no Nadia: The Secret of Blue Water",
+    "hashes": [
+      {
+        "md5": "471c3e8b520b49b2dccfc0a9bafcff2d",
+        "name": "Fushigi no Umi no Nadia - The Secret of Blue Water (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13195",
+    "title": "Gain Ground SX",
+    "hashes": [
+      {
+        "md5": "98433e7f28d63a6e33192807d7ebd0a9",
+        "name": "Gain Ground SX (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28821",
+    "title": "Galaxy Deka Gayvan",
+    "hashes": [
+      {
+        "md5": "00d14ae0dfc10ea697b198689da15b7c",
+        "name": "Galaxy Deka Gayvan (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28760",
+    "title": "Garou Densetsu 2: Aratanaru Tatakai",
+    "hashes": [
+      {
+        "md5": "ad48889cc1be550f470cb993148a8bfa",
+        "name": "Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28761",
+    "title": "Garou Densetsu Special",
+    "hashes": [
+      {
+        "md5": "d18d369af61267c23af45fdf9bce357b",
+        "name": "Garou Densetsu Special (Japan) (FABT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8866",
+    "title": "Gate of Thunder",
+    "hashes": [
+      {
+        "md5": "2fa9f811db92264e29d00135d265e431",
+        "name": "Gate of Thunder (Japan) (FACT, FADT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 50,
+      "points": 0
+    }
+  },
+  {
+    "id": "29696",
+    "title": "Genocide",
+    "hashes": [
+      {
+        "md5": "6b8af04a24701602e39e446c7b8c4e5a",
+        "name": "Genocide (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29697",
+    "title": "Gensou Tairiku Auleria",
+    "hashes": [
+      {
+        "md5": "d057f512a252f3de868b010a8daaab52",
+        "name": "Gensou Tairiku Auleria (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28762",
+    "title": "Ghost Sweeper Mikami",
+    "hashes": [
+      {
+        "md5": "aeff1ebbb7be99b549d7cdfac6b7b63e",
+        "name": "GS (Ghost Sweeper) Mikami (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8868",
+    "title": "Ginga Fukei Densetsu Sapphire",
+    "hashes": [
+      {
+        "md5": "b01d1404a3a2370e2099a4cf68b5a99f",
+        "name": "Ginga Fukei Densetsu Sapphire (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "13615",
+    "title": "Ginga Ojousama Densetsu Yuna",
+    "hashes": [
+      {
+        "md5": "12888594bfafea9afa707ce6c2eb75db",
+        "name": "Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "87c94b395f18fa2bc467c8c6d1c9688d",
+        "name": "Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24328",
+    "title": "Ginga Ojousama Densetsu Yuna 2",
+    "hashes": [
+      {
+        "md5": "634534d7669549e620102afc1ebb54cb",
+        "name": "Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.3) (Supper)",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28813",
+    "title": "God Panic: Shijou Saikyou no Gundan",
+    "hashes": [
+      {
+        "md5": "ed23bb5432cbef9d39a754062c5c7c56",
+        "name": "God Panic - Shijou Saikyou no Gundan (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6204",
+    "title": "Godzilla | Gojira: Bakutou Retsuden",
+    "hashes": [
+      {
+        "md5": "06d22a4f258f931d4e2c8783fa484906",
+        "name": "Godzilla (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 51,
+      "points": 0
+    }
+  },
+  {
+    "id": "13196",
+    "title": "Golden Axe",
+    "hashes": [
+      {
+        "md5": "ed4644e14ad30b9eb22569b9c73a50e9",
+        "name": "Golden Axe (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "13414",
+    "title": "Gotzendiener",
+    "hashes": [
+      {
+        "md5": "ac3500d1a4cd9efc7fe97a3bbb120ad0",
+        "name": "Goetzendiener (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "8865",
+    "title": "Gradius II: Gofer no Yabou",
+    "hashes": [
+      {
+        "md5": "190ac11eb121e8a47b26dc09502cc0f3",
+        "name": "Gradius II - Gofer no Yabou (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "29698",
+    "title": "Gulclight TDF 2",
+    "hashes": [
+      {
+        "md5": "382d71b120313f6609f58f4904b0e8d0",
+        "name": "Gulclight TDF 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14139",
+    "title": "Gyuwambler Jiko Chushinha",
+    "hashes": [
+      {
+        "md5": "bf2bf3cb9d96aedc76c1a180a182d38b",
+        "name": "Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14143",
+    "title": "Gyuwambler Jiko Chushinha: Mahjong Puzzle Collection",
+    "hashes": [
+      {
+        "md5": "676e6fee24ce3a512a035f94368981da",
+        "name": "Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28814",
+    "title": "Hawk F-123",
+    "hashes": [
+      {
+        "md5": "42df5abbcfb2f51ee19fa2b0645ba7ff",
+        "name": "Hawk F-123 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28815",
+    "title": "Hellfire S: The Another Story",
+    "hashes": [
+      {
+        "md5": "ad7234b258bd02499a4b55e81bf3cbc4",
+        "name": "Hellfire S - The Another Story (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29699",
+    "title": "High Grenadier",
+    "hashes": [
+      {
+        "md5": "8f2c4cf3bce51c56e775f83eef584acf",
+        "name": "High Grenadier (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28826",
+    "title": "Hihou Densetsu: Chris no Bouken",
+    "hashes": [
+      {
+        "md5": "c9e0db42be0c9dbb72acb1d148e302a7",
+        "name": "Hihou Densetsu - Chris no Bouken (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "5243",
+    "title": "Horror Story",
+    "hashes": [
+      {
+        "md5": "1d526d36a6dcb360b27306ebd2d509ad",
+        "name": "Horror Story (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28257",
+    "title": "Human Sports Festival",
+    "hashes": [
+      {
+        "md5": "224b3677d8aba8c54efa470a63423479",
+        "name": "Human Sports Festival (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16981",
+    "title": "Hyper Dyne Side Arms Special",
+    "hashes": [
+      {
+        "md5": "6267a07726df26efaecb0a927c03bd88",
+        "name": "Hyper Dyne - SideArms Special (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29700",
+    "title": "Hyper Wars",
+    "hashes": [
+      {
+        "md5": "7b41a71423bdd76ae371e03371251dcc",
+        "name": "Hyper Wars (Japan) (SAAS)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16982",
+    "title": "Image Fight II: Operation Deepstriker",
+    "hashes": [
+      {
+        "md5": "c5a0525d72e419595bb314e17034e1f1",
+        "name": "ImageFight II - Operation Deepstriker (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8877",
+    "title": "It Came from the Desert",
+    "hashes": [
+      {
+        "md5": "29cf39ac2c4d78395009a3eccc4faa86",
+        "name": "It Came from the Desert (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14091",
+    "title": "J.B. Harold: Murder Club",
+    "hashes": [
+      {
+        "md5": "7912227160569dbbe7dff90315864c4e",
+        "name": "J. B. Harold Murder Club (USA) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14092",
+    "title": "Jack Nicklaus: Turbo Golf",
+    "hashes": [
+      {
+        "md5": "3314fbcc7d7a36fe3a80b03eed948097",
+        "name": "Jack Nicklaus Turbo Golf (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29701",
+    "title": "Jantei Monogatari",
+    "hashes": [
+      {
+        "md5": "7d499b0e4f536daa6dfb4a548520b992",
+        "name": "Jantei Monogatari (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29702",
+    "title": "Jantei Monogatari 2: Uchuu Tantei Diban - Kanketsu-hen",
+    "hashes": [
+      {
+        "md5": "a364dac79ac6cce6c7852d00529a4029",
+        "name": "Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29703",
+    "title": "Jantei Monogatari 2: Uchuu Tantei Diban - Shutsudou-hen",
+    "hashes": [
+      {
+        "md5": "562245fd3e9da635d343205709edadd8",
+        "name": "Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29704",
+    "title": "Jantei Monogatari 3: Saver Angels",
+    "hashes": [
+      {
+        "md5": "d32de041e26ac6ab497ce1b1c235f720",
+        "name": "Jantei Monogatari 3 - Saver Angels (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6373",
+    "title": "Jim Power in Mutant Planet",
+    "hashes": [
+      {
+        "md5": "182a9fe0dd91f56bf9d0db6f144a2876",
+        "name": "Jim Power in Mutant Planet (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14089",
+    "title": "John Madden Duo CD Football",
+    "hashes": [
+      {
+        "md5": "6906ccfe35b6f007810aaa3d814f3964",
+        "name": "John Madden Duo CD Football (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28822",
+    "title": "Juuouki",
+    "hashes": [
+      {
+        "md5": "27fb01740a50bcd3c67564946ec7dee0",
+        "name": "Juuouki (Japan) (Rev 5)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "13646",
+    "title": "Kaizou Choujin Shubibinman 3: Ikai no Princess",
+    "hashes": [
+      {
+        "md5": "427c5e4324849ff81341d2be8559c49c",
+        "name": "Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26368",
+    "title": "Kawa no Nushi Tsuri: Shizen-ha",
+    "hashes": [
+      {
+        "md5": "840295d9378135a684465e67d9e9671b",
+        "name": "Kawa no Nushitsuri - Shizen-ha (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13647",
+    "title": "Kaze Kiri: Ninja Action",
+    "hashes": [
+      {
+        "md5": "843b83a35c05dd2f873c82457e2bcd64",
+        "name": "Kaze Kiri - Ninja Action (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14465",
+    "title": "Kiaidan 00",
+    "hashes": [
+      {
+        "md5": "917cefe81afcb5bca6c6cc589be8098a",
+        "name": "Kiaidan 00 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31634",
+    "title": "KO Seiki Beast Sanjuushi: Gaia Fukkatsu - Kanketsu-hen",
+    "hashes": [
+      {
+        "md5": "8c349b2dc8ea35343f5a0b8bd8eddd69",
+        "name": "KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33422",
+    "title": "Kuusou Kagaku Sekai Gulliver Boy",
+    "hashes": [
+      {
+        "md5": "e87019d624527573a894312c7cb2f6a3",
+        "name": "Kuusou Kagaku Sekai Gulliver Boy (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8841",
+    "title": "L-DIS",
+    "hashes": [
+      {
+        "md5": "1c2f4cd16cc7f711e5d0ab87fb96f2b0",
+        "name": "L-Dis (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29705",
+    "title": "Lady Phantom",
+    "hashes": [
+      {
+        "md5": "b9d2d791685f53a0e90c37497eec0d0d",
+        "name": "Lady Phantom (Japan) (FABT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29706",
+    "title": "Langrisser: Hikari no Matsuei",
+    "hashes": [
+      {
+        "md5": "1e538da240114afe27d6a20e7acc3bfc",
+        "name": "Langrisser - Hikari no Matsuei (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30036",
+    "title": "Laplace no Ma",
+    "hashes": [
+      {
+        "md5": "1e8a3b7e50afacf4e4c9baa43d30627a",
+        "name": "Laplace no Ma (Japan) (Rev 3)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14093",
+    "title": "Last Alert",
+    "hashes": [
+      {
+        "md5": "533b185ab58e3e0c1e1108af83d2a9b2",
+        "name": "Last Alert (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29707",
+    "title": "Last Armageddon",
+    "hashes": [
+      {
+        "md5": "cd7679f74eedca29090882e5ca1067cd",
+        "name": "Last Armageddon (Japan) (Rev 6)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "4706",
+    "title": "Legend of Xanadu",
+    "hashes": [
+      {
+        "md5": "5008131da43b04138c2497c1c9b7b731",
+        "name": "Legend of Xanadu - Kaze no Densetsu Xanadu (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8717",
+    "title": "Legend of Xanadu 2",
+    "hashes": [
+      {
+        "md5": "c037d4f185def2940ad92daeaad75b63",
+        "name": "Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28816",
+    "title": "Legion",
+    "hashes": [
+      {
+        "md5": "0d3b61ea6116426ee31b2e6f3cf7ff16",
+        "name": "Legion (Japan) (Rev 4)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28763",
+    "title": "Lemmings",
+    "hashes": [
+      {
+        "md5": "bfe9873eea8f4203e20c0713ab897239",
+        "name": "Lemmings (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28864",
+    "title": "Linda³",
+    "hashes": [
+      {
+        "md5": "f096bd90b78db4c52d65fffea983eb27",
+        "name": "Linda^3 (Japan) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9531",
+    "title": "Loom",
+    "hashes": [
+      {
+        "md5": "c2d6798a81893b3003b5e96a343789be",
+        "name": "Loom (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "30010",
+    "title": "Lord of Wars",
+    "hashes": [
+      {
+        "md5": "bd10b3d1e014962794237d6444589f26",
+        "name": "Lord of Wars (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14094",
+    "title": "Lords of the Rising Sun",
+    "hashes": [
+      {
+        "md5": "eaa1d008e85b482ee92aac50caf6fcd2",
+        "name": "Lords of the Rising Sun (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8867",
+    "title": "Lords of Thunder",
+    "hashes": [
+      {
+        "md5": "e89383d69ad11d101a6897e11d1754b4",
+        "name": "Lords of Thunder (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 59,
+      "points": 0
+    }
+  },
+  {
+    "id": "5207",
+    "title": "Mad Stalker: Full Metal Force",
+    "hashes": [
+      {
+        "md5": "4e44f2f82bf6f794effd87d92792bcd2",
+        "name": "Mad Stalker - Full Metal Force (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20226",
+    "title": "Madou Monogatari I: Honoo no Sotsuenji",
+    "hashes": [
+      {
+        "md5": "c616f83ddc347619bcf424a9cb213e66",
+        "name": "Madou Monogatari I - Honoo no Sotsuenji (Japan) (En) (v1.0) (LIPEMCO! Translations)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14095",
+    "title": "Magical Dinosaur Tour",
+    "hashes": [
+      {
+        "md5": "4bd3b785bb9beb1d7ddcc0d75eff7839",
+        "name": "Magical Dinosaur Tour (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28016",
+    "title": "Martial Champion",
+    "hashes": [
+      {
+        "md5": "ea09d4fe262c2f01b4787124bcad7062",
+        "name": "Martial Champion (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30012",
+    "title": "Mashou Denki: La Valeur",
+    "hashes": [
+      {
+        "md5": "31e9402acf97b25c542de1c4f9c7513a",
+        "name": "Mashou Denki - La Valeur (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30011",
+    "title": "Master of Monsters",
+    "hashes": [
+      {
+        "md5": "f13db7d5bfb0a87be7d95158b476ebd8",
+        "name": "Master of Monsters (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30013",
+    "title": "Mateki Densetsu Astralius",
+    "hashes": [
+      {
+        "md5": "42be440601481aade630aafc6d00a41a",
+        "name": "Mateki Densetsu Astralius (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29947",
+    "title": "Megami Paradise",
+    "hashes": [
+      {
+        "md5": "f1c8b712adc266bcff42a49b230faa65",
+        "name": "Megami Paradise (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28817",
+    "title": "Metamor Jupiter",
+    "hashes": [
+      {
+        "md5": "f87940545bd98495a56713e28cfc0a28",
+        "name": "Metamor Jupiter (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28764",
+    "title": "Might and Magic",
+    "hashes": [
+      {
+        "md5": "d8849fb950dfd6f794505beb81001934",
+        "name": "Might and Magic (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14096",
+    "title": "Might and Magic III: Isles of Terra",
+    "hashes": [
+      {
+        "md5": "9a5a705b23f4a9ab99a3d372eec24b83",
+        "name": "Might and Magic III - Isles of Terra (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 180,
+      "points": 0
+    }
+  },
+  {
+    "id": "28765",
+    "title": "Minesweeper",
+    "hashes": [
+      {
+        "md5": "55272fd196511abda5f6f868c287f6da",
+        "name": "Minesweeper (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28766",
+    "title": "Mirai Shounen Conan",
+    "hashes": [
+      {
+        "md5": "4628946aacc2da48399f807eac7c0eea",
+        "name": "Mirai Shounen Conan (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13306",
+    "title": "Monster Lair",
+    "hashes": [
+      {
+        "md5": "387a34b07aeb78b01fa43af74467cd40",
+        "name": "Monster Lair (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "29713",
+    "title": "Monster Lair [Subset - Multi]",
+    "hashes": [
+      {
+        "md5": "fba17fbdac86949f29b0741eec404fd3",
+        "name": "Monster Lair [Subset - Multi]",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 31,
+      "points": 0
+    }
+  },
+  {
+    "id": "25616",
+    "title": "Monster Maker: Yami no Ryuukishi",
+    "hashes": [
+      {
+        "md5": "71c2655fe273edb520d093431081964c",
+        "name": "Monster Maker - Yami no Ryuukishi (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30070",
+    "title": "Moto Roader MC",
+    "hashes": [
+      {
+        "md5": "a8cd7550428474bed206008d34d07b91",
+        "name": "Motoroader MC (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13188",
+    "title": "Motteke Tamago",
+    "hashes": [
+      {
+        "md5": "caecf273fe97d88aeb6d0c8c9fd43cb9",
+        "name": "Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "14480",
+    "title": "Mugen Senshi Valis: The Legend of a Fantasm Soldier",
+    "hashes": [
+      {
+        "md5": "06f0e44efa25ba6e6a9cf7f5b08ec782",
+        "name": "Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 60,
+      "points": 0
+    }
+  },
+  {
+    "id": "28818",
+    "title": "Mystic Formula",
+    "hashes": [
+      {
+        "md5": "55f1f8a27667552e783f479ec99f94c0",
+        "name": "Mystic Formula (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15587",
+    "title": "Nekketsu Koukou Dodgeball-bu: CD Soccer-hen",
+    "hashes": [
+      {
+        "md5": "6c877c5b7735630052fb9b9f91df7152",
+        "name": "Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30071",
+    "title": "Neo Nectaris",
+    "hashes": [
+      {
+        "md5": "520c2e39e63be38d7761c80de1fe9650",
+        "name": "Neo Nectaris (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28258",
+    "title": "No-Ri-Ko",
+    "hashes": [
+      {
+        "md5": "105e3ff282040c6a5a4e70dbcf22c539",
+        "name": "No-Ri-Ko (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30072",
+    "title": "Nobunaga no Yabou: Bushou Fuuunroku",
+    "hashes": [
+      {
+        "md5": "c528b5bcc570aebdd45024ad62ba514f",
+        "name": "Nobunaga no Yabou - Bushou Fuuunroku (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28768",
+    "title": "Patlabor: Chapter of Griffon",
+    "hashes": [
+      {
+        "md5": "11b64dfa6dede11ecec7a543fd38d71f",
+        "name": "Patlabor - Chapter of Griffon (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28827",
+    "title": "Pop'n Magic",
+    "hashes": [
+      {
+        "md5": "5a0c0189c69df36d485dceb312f5c367",
+        "name": "Pop'n Magic (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9882",
+    "title": "Popful Mail",
+    "hashes": [
+      {
+        "md5": "a0fef3e9b4f74bf51c4cc6dd6b7f9ff7",
+        "name": "PopfulMail (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 113,
+      "points": 0
+    }
+  },
+  {
+    "id": "30095",
+    "title": "Populous: The Promised Lands",
+    "hashes": [
+      {
+        "md5": "8771e83678353926424053d268f9186f",
+        "name": "Populous - The Promised Lands (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9021",
+    "title": "Prince of Persia",
+    "hashes": [
+      {
+        "md5": "197a96c252a12ba83c3770914aa1b81f",
+        "name": "Prince of Persia (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "28769",
+    "title": "Princess Maker 1",
+    "hashes": [
+      {
+        "md5": "aa05ef5ad368df3e5e0622774048ebc4",
+        "name": "Princess Maker 1 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28770",
+    "title": "Princess Maker 2",
+    "hashes": [
+      {
+        "md5": "a09265322fc3e3cb4b341f40ec77e38a",
+        "name": "Princess Maker 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22176",
+    "title": "Private Eye dol",
+    "hashes": [
+      {
+        "md5": "456708e57fac0f596cfbb6407a516378",
+        "name": "Private Eye dol (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8b18b024b03f7b1b5870a8e20f131f19",
+        "name": "Private Eye Dol (Japan) (En) (v1.0) (Supper)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28771",
+    "title": "Psychic Storm",
+    "hashes": [
+      {
+        "md5": "7207f73e10dac967879e423fb71d1537",
+        "name": "Psychic Storm (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13185",
+    "title": "Puyo Puyo CD",
+    "hashes": [
+      {
+        "md5": "c9d0afcd0f73b7d718de90aeac84fa68",
+        "name": "Puyo Puyo CD (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "13186",
+    "title": "Puyo Puyo CD Tsuu",
+    "hashes": [
+      {
+        "md5": "a55c7b46bed86d1c89dcc51b03a4e09c",
+        "name": "Puyo Puyo CD Tsuu (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29708",
+    "title": "Quest of Jongmaster: Janshin Densetsu",
+    "hashes": [
+      {
+        "md5": "f191258b7ed1966645fa19a6af9cabe2",
+        "name": "Quest of Jongmaster - Janshin Densetsu (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30096",
+    "title": "Quiz Avenue",
+    "hashes": [
+      {
+        "md5": "086d918b415b8822216f9312afb7a9fd",
+        "name": "Quiz Avenue (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30097",
+    "title": "Quiz Avenue II",
+    "hashes": [
+      {
+        "md5": "62bd8d27b44689683ed9f934dd0dc6f8",
+        "name": "Quiz Avenue II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30098",
+    "title": "Quiz Avenue III",
+    "hashes": [
+      {
+        "md5": "389ea663bb74f9d0e060478b5a869715",
+        "name": "Quiz Avenue III (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8864",
+    "title": "R-Type Complete",
+    "hashes": [
+      {
+        "md5": "f36f5b025322dd874f0d0fc5f109c615",
+        "name": "R-Type Complete CD (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "13197",
+    "title": "Rainbow Islands",
+    "hashes": [
+      {
+        "md5": "b5987e7d26bfbe11220fa95360c9b64e",
+        "name": "Rainbow Islands - The Story of Bubble Bobble 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29315",
+    "title": "Rally Championship",
+    "hashes": [
+      {
+        "md5": "d7a740a56628e2eb246e8230f5924d14",
+        "name": "Rally Championship (Japan) (FABT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28772",
+    "title": "Ranma ½",
+    "hashes": [
+      {
+        "md5": "2806b9ecd43fa04e8d6f8700a7001094",
+        "name": "Ranma 1-2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28773",
+    "title": "Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu!",
+    "hashes": [
+      {
+        "md5": "5ce80ded89b9d195dfc9ad9ebf340ad3",
+        "name": "Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28774",
+    "title": "Ranma ½: Toraware no Hanayome",
+    "hashes": [
+      {
+        "md5": "2b8997a68af5fadf562795ea86469bff",
+        "name": "Ranma 1-2 - Toraware no Hanayome (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18737",
+    "title": "Rayxanber II",
+    "hashes": [
+      {
+        "md5": "5cf2e2714530975c08d38b11b80855a3",
+        "name": "Rayxanber II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28775",
+    "title": "Rayxanber III",
+    "hashes": [
+      {
+        "md5": "f7ac829c4a1953d751dbb242dba87efc",
+        "name": "Rayxanber III (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28776",
+    "title": "Record of Lodoss War",
+    "hashes": [
+      {
+        "md5": "61fa9a3cf7363e1fdf8d6d91d3687b99",
+        "name": "Record of Lodoss War (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28777",
+    "title": "Record of Lodoss War II",
+    "hashes": [
+      {
+        "md5": "b4a323eb2e70f7510cc7ca22615e301e",
+        "name": "Record of Lodoss War II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28823",
+    "title": "Renny Blaster",
+    "hashes": [
+      {
+        "md5": "d290a0f72defa899d1fb44b456f77d3f",
+        "name": "Renny Blaster (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14097",
+    "title": "Riot Zone",
+    "hashes": [
+      {
+        "md5": "57f60650daee42df3689de5fc0e82b2c",
+        "name": "Riot Zone (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32378",
+    "title": "Road Spirits",
+    "hashes": [
+      {
+        "md5": "952fbe0922d733d02c32f6f2dd8f12fe",
+        "name": "Road Spirits (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28778",
+    "title": "Ryuuko no Ken",
+    "hashes": [
+      {
+        "md5": "991d30c6bd4a4760427c63f30cd413b4",
+        "name": "Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14637",
+    "title": "Seirei Senshi Spriggan",
+    "hashes": [
+      {
+        "md5": "fd49772941ca4e58b06b9bea02f588df",
+        "name": "Seirei Senshi Spriggan (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 70,
+      "points": 0
+    }
+  },
+  {
+    "id": "31578",
+    "title": "Seiryuu Densetsu: Monbit",
+    "hashes": [
+      {
+        "md5": "b892ef4b35a6b50e9b4c773572057099",
+        "name": "Seiryuu Densetsu - Monbit (Japan) (Rev 4)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30099",
+    "title": "Seisenshi Denshou: Jantaku no Kishi",
+    "hashes": [
+      {
+        "md5": "797a9a1781ebbbe29ae422cb9af13279",
+        "name": "Seisenshi Denshou - Jantaku no Kishi (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12841",
+    "title": "Shadow of the Beast",
+    "hashes": [
+      {
+        "md5": "bd5f54e4403f76846c4970f93d5056cf",
+        "name": "Shadow of the Beast (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "26c91b29ae514cac6acb50b420fb26a9",
+        "name": "Shadow of the Beast - Mashou no Okite (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 27,
+      "points": 0
+    }
+  },
+  {
+    "id": "13187",
+    "title": "Shanghai II",
+    "hashes": [
+      {
+        "md5": "1062a9cbaebf758318892535432d9525",
+        "name": "Shanghai II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "13309",
+    "title": "Shanghai III: Dragon's Eye",
+    "hashes": [
+      {
+        "md5": "fb24b18c853d867ef9aecd5125e37e83",
+        "name": "Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "9874",
+    "title": "Shapeshifter",
+    "hashes": [
+      {
+        "md5": "a2fe587695345dd0251b371856278ddf",
+        "name": "Shape Shifter (NA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "14098",
+    "title": "Sherlock Holmes: Consulting Detective",
+    "hashes": [
+      {
+        "md5": "d754989fef7446723f8e19b585f08922",
+        "name": "Sherlock Holmes - Consulting Detective (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14099",
+    "title": "Sherlock Holmes: Consulting Detective Vol. 2",
+    "hashes": [
+      {
+        "md5": "f222ab8a74ee779071d55d6c02463168",
+        "name": "Sherlock Holmes - Consulting Detective Vol. II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7903",
+    "title": "Shin Megami Tensei",
+    "hashes": [
+      {
+        "md5": "a8116538906c30f8d9fc3e61af1ec54d",
+        "name": "Shin Megami Tensei (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14100",
+    "title": "SimEarth: The Living Planet",
+    "hashes": [
+      {
+        "md5": "d2bec9876932f66bd04db1d6616ff27f",
+        "name": "SimEarth - The Living Planet (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14640",
+    "title": "Snatcher",
+    "hashes": [
+      {
+        "md5": "8539685906450b31c1ad9db707733ffc",
+        "name": "Snatcher CD-ROMantic (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8994",
+    "title": "Sorcerian",
+    "hashes": [
+      {
+        "md5": "cc3cdfd7b501cb5e46e941dd67c40a26",
+        "name": "Sorcerian (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28780",
+    "title": "Space Adventure Cobra II: Densetsu no Otoko",
+    "hashes": [
+      {
+        "md5": "643841ef3bdaaa560a136cfefbaced8a",
+        "name": "Space Adventure Cobra II - Densetsu no Otoko (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28779",
+    "title": "Space Adventure Cobra: Kokuryuuou no Densetsu",
+    "hashes": [
+      {
+        "md5": "e244ce303c57019ad8f141e73781c11e",
+        "name": "Space Adventure Cobra - Kokuryuuou no Densetsu (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13191",
+    "title": "Space Invaders: The Original Game",
+    "hashes": [
+      {
+        "md5": "e76b5655a77f61cbce982a583a650f37",
+        "name": "Space Invaders - The Original Game (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7961",
+    "title": "Splash Lake",
+    "hashes": [
+      {
+        "md5": "e6910e893ba3028336254113113850a9",
+        "name": "Splash Lake - Ostrich Daibouken (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "16983",
+    "title": "Spriggan Mark 2: Re-Terraform Project",
+    "hashes": [
+      {
+        "md5": "cc641edcc091910df5e915bb1af298a4",
+        "name": "Spriggan Mark 2 - Re Terraform Project (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14028",
+    "title": "Star Parodier",
+    "hashes": [
+      {
+        "md5": "a99711ee026979c45612fc3918509e30",
+        "name": "Star Parodier (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 47,
+      "points": 0
+    }
+  },
+  {
+    "id": "16984",
+    "title": "Startling Odyssey",
+    "hashes": [
+      {
+        "md5": "e58f17e5c72b79bf2993d829a9f1a0ce",
+        "name": "Startling Odyssey (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16985",
+    "title": "Startling Odyssey II: Maryuu Sensou",
+    "hashes": [
+      {
+        "md5": "8f8783064f8e97d0ebf437c00aad39fa",
+        "name": "Startling Odyssey II - Maryuu Sensou (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 48,
+      "points": 0
+    }
+  },
+  {
+    "id": "8560",
+    "title": "Steam Heart's",
+    "hashes": [
+      {
+        "md5": "8c6b0f93db82c2de485e8c63cd65570f",
+        "name": "Steam-Heart's (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "8213",
+    "title": "Strider Hiryuu",
+    "hashes": [
+      {
+        "md5": "d31597b7046f98ec859de1ea29d48a33",
+        "name": "Strider Hiryuu (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16986",
+    "title": "Summer Carnival '92: Alzadick",
+    "hashes": [
+      {
+        "md5": "c279f880841ca158769beb6de6098959",
+        "name": "Summer Carnival '92 - Alzadick (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "9871",
+    "title": "Summer Carnival '93: Nexzr Special",
+    "hashes": [
+      {
+        "md5": "471054c4638ecd62b358ca1e1d4e1773",
+        "name": "Summer Carnival '93 - NEXZR Special (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "14027",
+    "title": "Super Air Zonk: Rockabilly-Paradise",
+    "hashes": [
+      {
+        "md5": "a04fd2342bf87e20dbd56a5054a8f960",
+        "name": "Super Air Zonk - Rockabilly-Paradise (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30737",
+    "title": "Super Albatross",
+    "hashes": [
+      {
+        "md5": "f51fe62bea415410cc87f524f7088e0b",
+        "name": "Super Albatross (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28259",
+    "title": "Super Daisenryaku",
+    "hashes": [
+      {
+        "md5": "a8db44399b6acaa17408206fc2a74990",
+        "name": "Super Daisenryaku (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13310",
+    "title": "Super Darius",
+    "hashes": [
+      {
+        "md5": "a306fea36fc12b50c1ba00708cdad1ed",
+        "name": "Super Darius (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13311",
+    "title": "Super Darius II",
+    "hashes": [
+      {
+        "md5": "c7010cc88f78dc5417f6ba96d19a9c04",
+        "name": "Super Darius II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28781",
+    "title": "Super Raiden",
+    "hashes": [
+      {
+        "md5": "3a483376cdfe569064c3afc3c3bd2b8a",
+        "name": "Super Raiden (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31533",
+    "title": "Super Real Mahjong PII-III Custom",
+    "hashes": [
+      {
+        "md5": "e3c2ae2b4c7506166eb85ad3e80deead",
+        "name": "Super Real Mahjong PII-III Custom (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30738",
+    "title": "Super Schwarzschild",
+    "hashes": [
+      {
+        "md5": "e8f615f92ed8825c478df3c818183bb5",
+        "name": "Super Schwarzschild (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14101",
+    "title": "Syd Mead's Terraforming",
+    "hashes": [
+      {
+        "md5": "b40072c20045c786d53d190d59d14b20",
+        "name": "SydMead's TerraForming (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13134",
+    "title": "Sylphia",
+    "hashes": [
+      {
+        "md5": "979c98d2ab744520ba3a8a8d93c0571b",
+        "name": "Sylphia (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 60,
+      "points": 0
+    }
+  },
+  {
+    "id": "28782",
+    "title": "Tenchi Muyo! Ryououki",
+    "hashes": [
+      {
+        "md5": "cfd7aa4943a071ff841b6d9eedc0c507",
+        "name": "Tenchi Muyou! Ryououki (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28783",
+    "title": "Tenchi o Kurau",
+    "hashes": [
+      {
+        "md5": "bdb908535d5886804da28897a64deaeb",
+        "name": "Tenchi o Kurau (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14642",
+    "title": "Tengai Makyou II: Manji Maru",
+    "hashes": [
+      {
+        "md5": "f42885c5d917f744f5e54238735f9d0d",
+        "name": "Far East of Eden - Tengai Makyou II - Manji Maru (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13193",
+    "title": "Tengai Makyou: Fuun Kabuki-den",
+    "hashes": [
+      {
+        "md5": "5ea1e6a2263f14613cdede627379494d",
+        "name": "Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27679",
+    "title": "Tengai Makyou: Ziria",
+    "hashes": [
+      {
+        "md5": "6a5357c92dd8313ca3ebc80593f77cea",
+        "name": "Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "80703df09e4bfb3f46fabd4cc1c359ce",
+        "name": "Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0ad5651a92e838d5174ebc3078440200",
+        "name": "Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 123,
+      "points": 0
+    }
+  },
+  {
+    "id": "28784",
+    "title": "Tenshi no Uta",
+    "hashes": [
+      {
+        "md5": "bffcbcaaed721b5797651baa4faf45ec",
+        "name": "Tenshi no Uta (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28005",
+    "title": "Tenshi no Uta II: Datenshi no Sentaku",
+    "hashes": [
+      {
+        "md5": "c7a1c6f28f55c89f31bfa4248ae25c31",
+        "name": "Tenshi no Uta II - Datenshi no Sentaku (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13190",
+    "title": "The Addams Family",
+    "hashes": [
+      {
+        "md5": "561cdc0c3c76557a731bbf35444aeb30",
+        "name": "Addams Family, The (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28015",
+    "title": "The Atlas: Renaissance Voyager",
+    "hashes": [
+      {
+        "md5": "b421cf9bb4936f419ca60df945c42d8d",
+        "name": "Atlas, The - Renaissance Voyager (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30739",
+    "title": "The Davis Cup Tennis",
+    "hashes": [
+      {
+        "md5": "1e17510a620b15f03cde3de7e5d4bacb",
+        "name": "Davis Cup Tennis, The (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2603",
+    "title": "The Dynastic Hero",
+    "hashes": [
+      {
+        "md5": "d120a2d1099b1101a1897b8cb3996f83",
+        "name": "Dynastic Hero, The (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "30740",
+    "title": "The Kick Boxing",
+    "hashes": [
+      {
+        "md5": "f34d89169022582c39b7d5be2bbfe886",
+        "name": "Kick Boxing, The (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8851",
+    "title": "The Manhole",
+    "hashes": [
+      {
+        "md5": "d676d3db9c23c506048e9980d7c627db",
+        "name": "Manhole, The (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 43,
+      "points": 0
+    }
+  },
+  {
+    "id": "28828",
+    "title": "Todd's Adventures in Slime World",
+    "hashes": [
+      {
+        "md5": "468ee1dfde9214dc76777769b393166d",
+        "name": "Todd's Adventures in Slime World (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14641",
+    "title": "Tokimeki Memorial",
+    "hashes": [
+      {
+        "md5": "5c6f1b169d6aa37cbf8e4c5b2557e89b",
+        "name": "Tokimeki Memorial (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28785",
+    "title": "Top o Nerae! GunBuster Vol. 1",
+    "hashes": [
+      {
+        "md5": "9d31acec09010a6a17d0d8efd103dc30",
+        "name": "Top o Nerae! GunBuster Vol. 1 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28786",
+    "title": "Top o Nerae! GunBuster Vol. 2",
+    "hashes": [
+      {
+        "md5": "7cb6ec31eb0ec94b90465b316c9f0f20",
+        "name": "Top o Nerae! GunBuster Vol. 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28810",
+    "title": "Travel Epuru",
+    "hashes": [
+      {
+        "md5": "65ae6e2d2122b1465b6c0694e861a4fe",
+        "name": "Travel Eple (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 53,
+      "points": 0
+    }
+  },
+  {
+    "id": "30741",
+    "title": "Travellers! Densetsu o Buttobase",
+    "hashes": [
+      {
+        "md5": "40f5143ac451fd196e402a59cbf0bdee",
+        "name": "Travellers! Densetsu o Buttobase (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28787",
+    "title": "Uchuu Senkan Yamato",
+    "hashes": [
+      {
+        "md5": "0d99accf9efb73a8f35cc05d9c503ecc",
+        "name": "Uchuu Senkan Yamato (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28788",
+    "title": "Urusei Yatsura: Stay with You",
+    "hashes": [
+      {
+        "md5": "d99689bceea7735860dd6aac904461e0",
+        "name": "Urusei Yatsura - Stay with You (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12892",
+    "title": "Valis II",
+    "hashes": [
+      {
+        "md5": "8c5932e35676429dcf9ed7331b941f58",
+        "name": "Valis II (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "12893",
+    "title": "Valis III",
+    "hashes": [
+      {
+        "md5": "4dcba80f9d31634d90447c66e033d062",
+        "name": "Valis III (Japan, USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "16987",
+    "title": "Valis IV",
+    "hashes": [
+      {
+        "md5": "22a58f0f9169be2f9d18634d7c0234b9",
+        "name": "Valis IV (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "12888",
+    "title": "Vasteel",
+    "hashes": [
+      {
+        "md5": "f4e63bd19d179d54a1d4417781a1aacf",
+        "name": "Vasteel (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 71,
+      "points": 0
+    }
+  },
+  {
+    "id": "30742",
+    "title": "Vasteel 2",
+    "hashes": [
+      {
+        "md5": "e61d57dafc517e6e01df54011adbd3a8",
+        "name": "Vasteel 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28789",
+    "title": "Where in the World Is Carmen Sandiego?",
+    "hashes": [
+      {
+        "md5": "54e7c505bcc5a2e6115dc69472370fe5",
+        "name": "Where in the World Is Carmen Sandiego (Japan) (En,Ja)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28790",
+    "title": "Wizardry I-II",
+    "hashes": [
+      {
+        "md5": "5dde577754f18e3f6fa70059c79819b4",
+        "name": "Wizardry I, II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28791",
+    "title": "Wizardry III-IV",
+    "hashes": [
+      {
+        "md5": "4a63b240fa042491931be329864aa1fb",
+        "name": "Wizardry III, IV (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28792",
+    "title": "Wizardry V: Heart of the Maelstrom",
+    "hashes": [
+      {
+        "md5": "d7cd39a36722c1c267213ea33c223001",
+        "name": "Wizardry V - Heart of the Maelstrom (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28793",
+    "title": "World Heroes 2",
+    "hashes": [
+      {
+        "md5": "4b2cd808dcc41722aa4e272a86de1d2d",
+        "name": "World Heroes 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14933",
+    "title": "Wrestling Universe: Fire Pro Joshi - Doumu Chou Taisen - Zenjo vs. JWP",
+    "hashes": [
+      {
+        "md5": "a5d90c857cbe28c6f6e3d29bf4e5a829",
+        "name": "Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo vs. JWP (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13415",
+    "title": "Xak III: The Eternal Recurrence",
+    "hashes": [
+      {
+        "md5": "4a172b994fbb95dbf5e34256b86aeacb",
+        "name": "Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 39,
+      "points": 0
+    }
+  },
+  {
+    "id": "28795",
+    "title": "YaWaRa! 2: A Fashionable Judo Girl!",
+    "hashes": [
+      {
+        "md5": "b9a432bb88fd94aeb0dc0882ad50ba94",
+        "name": "YaWaRa! 2 - A Fashionable Judo Girl! (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28794",
+    "title": "YaWaRa! A Fashionable Judo Girl!",
+    "hashes": [
+      {
+        "md5": "e7bf4f011ff01d8888af6faf8efc8e0a",
+        "name": "YaWaRa! A Fashionable Judo Girl! (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8838",
+    "title": "Ys III: Wanderers from Ys",
+    "hashes": [
+      {
+        "md5": "5f00e6cf276b34927c819b376ba27cc4",
+        "name": "Ys III - Wanderers from Ys (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "8839",
+    "title": "Ys IV: The Dawn of Ys",
+    "hashes": [
+      {
+        "md5": "b77ae59195812ed30d1d5dd29cee1510",
+        "name": "Ys IV - The Dawn of Ys (Japan) (Rev 3)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f17f1c4108d55ca132515fa0bab27088",
+        "name": "Ys IV - The Dawn of Ys - English (Japan) (En) (v0.95) (NightWolve)",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 90,
+      "points": 0
+    }
+  },
+  {
+    "id": "6700",
+    "title": "Ys: Book I & II",
+    "hashes": [
+      {
+        "md5": "e9f07a66e2e793bdbf8538ac110bfb7c",
+        "name": "Ys Book I & II (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 142,
+      "points": 0
+    }
+  },
+  {
+    "id": "15486",
+    "title": "Yu Yu Hakusho: Yami Shoubu!! Ankoku Bujutsu-kai",
+    "hashes": [
+      {
+        "md5": "28b05d56b1b433587024ccfea261886c",
+        "name": "Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30744",
+    "title": "Zan: Kagerou no Toki",
+    "hashes": [
+      {
+        "md5": "15f869602d6f2c3050b50bc22d0bb726",
+        "name": "Zan - Kagerou no Toki (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13192",
+    "title": "Zero Wing",
+    "hashes": [
+      {
+        "md5": "4636cd6068083d13c1b8280f9703c27b",
+        "name": "Zero Wing (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25256",
+    "title": "Zero4 Champ II",
+    "hashes": [
+      {
+        "md5": "fcade24a2ec3806e6ac987462e559446",
+        "name": "Zero 4 Champ II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

@@ -1,0 +1,5958 @@
+[
+  {
+    "id": "31315",
+    "title": "~Homebrew~ Ascend",
+    "hashes": [
+      {
+        "md5": "5def00835e061a54fe6d1fa2d5a8d2b0",
+        "name": "Ascend (2022) (Inufuto).d88",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "17716",
+    "title": "~Homebrew~ Hachinoid",
+    "hashes": [
+      {
+        "md5": "249870e7657a87a5d0e6256c5c43418a",
+        "name": "Hachinoid (v1.0.1) (2021) (bent).d88",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28625",
+    "title": "~Homebrew~ Hopman",
+    "hashes": [
+      {
+        "md5": "17fce162c8ac66bad21bb8e801bd8bb3",
+        "name": "Hopman (2023) (Inufuto).d88",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "19756",
+    "title": "~Z~ Mario Bros. Special",
+    "hashes": [
+      {
+        "md5": "824b0669c511a7b56c81cf678b22229b",
+        "name": "Mario Bros. Special {V1 mode}",
+        "labels": [],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6978",
+    "title": "177",
+    "hashes": [
+      {
+        "md5": "6675451bad0928cc3f05aa241a6f067f",
+        "name": "177 {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "14192",
+    "title": "1942",
+    "hashes": [
+      {
+        "md5": "1c00b209336018c7bf618a11d63b57d7",
+        "name": "1942 {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "30810",
+    "title": "2001: A Space Odyssey",
+    "hashes": [
+      {
+        "md5": "34707355461ba7624b11030acfab22e1",
+        "name": "2001 A Space Odyssey.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30811",
+    "title": "Abyss",
+    "hashes": [
+      {
+        "md5": "4719cde8025bf5b65c672efe7ae8eb3a",
+        "name": "Abyss (Disk 1) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30812",
+    "title": "Abyss II: Tears of Emperor",
+    "hashes": [
+      {
+        "md5": "12134da64c088c120251c7aeb3070581",
+        "name": "Abyss II - Tears of Emperor (Game disk) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27346",
+    "title": "Akemi",
+    "hashes": [
+      {
+        "md5": "dbc350da5712b30f523cc727c93171cf",
+        "name": "Akemi.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27347",
+    "title": "Akuryou no Machi",
+    "hashes": [
+      {
+        "md5": "71907bbf1a390c35fb30696fb6d5fbe1",
+        "name": "Akuryou no Machi (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30813",
+    "title": "Albatross",
+    "hashes": [
+      {
+        "md5": "0277023ab7aed301b8c4fb552837f160",
+        "name": "Albatross (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30836",
+    "title": "Alice-tachi no Gogo Vol. 1",
+    "hashes": [
+      {
+        "md5": "33c6528aa913b240817410b31556be44",
+        "name": "Alice-tachi no Gogo Vol. 1 (System disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fc40d59e5bd3e42aecce8d36c11e8b89",
+        "name": "Alice-tachi no Gogo Vol. 1 (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27350",
+    "title": "Alley Cat",
+    "hashes": [
+      {
+        "md5": "e4870471e3725f190cd3a6cfabc65d2c",
+        "name": "Alley Cat {V1S mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32551",
+    "title": "Alpha",
+    "hashes": [
+      {
+        "md5": "32b84c20140f7ec4dff5ff6753c2eb86",
+        "name": "Alpha.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31189",
+    "title": "American Truck",
+    "hashes": [
+      {
+        "md5": "7309672ed6318695d1e6a1e319d709f1",
+        "name": "American Truck (SR) [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "27348",
+    "title": "Anzu Fly!",
+    "hashes": [
+      {
+        "md5": "544b4bc14b46ff6a5aef9087834120e3",
+        "name": "Anzu Fly! (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30814",
+    "title": "Arcus",
+    "hashes": [
+      {
+        "md5": "443ad1167ad5c518a0db8afccee2ea0f",
+        "name": "Arcus (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30815",
+    "title": "Arcus II",
+    "hashes": [
+      {
+        "md5": "87a30d8c029c7d9496fc7befe4d00070",
+        "name": "Arcus II - Silent Symphony (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27349",
+    "title": "Area PC-88 - The Last Red Fighter",
+    "hashes": [
+      {
+        "md5": "3e69b338f01017069d4a73ebf0707b55",
+        "name": "Area PC-88 - The Last Red Fighter.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30874",
+    "title": "Arguice no Tsubasa",
+    "hashes": [
+      {
+        "md5": "f3c18770cc5579da242eaf867ad615c4",
+        "name": "Arguice no Tsubasa (Disk 1 - Game).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30809",
+    "title": "Arkanoid",
+    "hashes": [
+      {
+        "md5": "82665654413828ecb9f59f9ee72cc27d",
+        "name": "Arkanoid.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "13745",
+    "title": "Asteka",
+    "hashes": [
+      {
+        "md5": "604d4d007d9b8d02e56aa0055c0f1224",
+        "name": "Asteka {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14666",
+    "title": "AY-2: Olion 80",
+    "hashes": [
+      {
+        "md5": "a14bcfb1dcc25bd535fa57d9d00d7602",
+        "name": "AY-2 - Olion 80.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30816",
+    "title": "Aztec",
+    "hashes": [
+      {
+        "md5": "22e30c9cf41ca83fa26190a8d14d0832",
+        "name": "Aztec {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15420",
+    "title": "Balance of Power",
+    "hashes": [
+      {
+        "md5": "31c2cb9ffa9fa11df77fbc05c42122e0",
+        "name": "Balance of Power (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "dd8a35ee63bbc3616b19e57c8408a39f",
+        "name": "Balance of Power (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14193",
+    "title": "Balloon Fight",
+    "hashes": [
+      {
+        "md5": "217d98cd080c974f94070a8c759153d3",
+        "name": "Balloon Fight.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "27351",
+    "title": "Bandits 9",
+    "hashes": [
+      {
+        "md5": "25ab52603d6c4d0b3fd0b000bcbef3d0",
+        "name": "Bandits 9.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30817",
+    "title": "Battle Bunnygirl",
+    "hashes": [
+      {
+        "md5": "87afb27f1ea483d2e7cfd855e0a75e88",
+        "name": "Battle Bunnygirl (System disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17483",
+    "title": "Battle Skin Panic",
+    "hashes": [
+      {
+        "md5": "1f37c90372f768650491d33325a1e396",
+        "name": "Battle Skin Panic (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "27d347480cc6dac3768297b6fd9defff",
+        "name": "Battle Skin Panic (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5205c480ce8b60ab3200067ae2d8923d",
+        "name": "Battle Skin Panic (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b89932234465e1bb1aa710bc8759b615",
+        "name": "Battle Skin Panic (Disk A) [Alt 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "32648",
+    "title": "Blue Mint",
+    "hashes": [
+      {
+        "md5": "e4a9591b33c0da0668458445142e3e27",
+        "name": "Blue Mint.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "14194",
+    "title": "Bomb Jack",
+    "hashes": [
+      {
+        "md5": "d00e07046291efda14a076b870d26fd5",
+        "name": "Bomb Jack.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "17355",
+    "title": "Bomber Man",
+    "hashes": [
+      {
+        "md5": "409ab6a01d891be3149b972f8d008a0a",
+        "name": "[Compilation] N88 BASIC pack.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32287",
+    "title": "Bruce Lee",
+    "hashes": [
+      {
+        "md5": "89934564001dd06a8ba47eb91f9ee0e2",
+        "name": "Bruce Lee {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29337",
+    "title": "Cannon Ball",
+    "hashes": [
+      {
+        "md5": "9879232e3bb9be148e7f7b808ccb4e7c",
+        "name": "Cannon Ball {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13983",
+    "title": "Carmine",
+    "hashes": [
+      {
+        "md5": "62abe11e6aaa2252ed9abff4175094d6",
+        "name": "Carmine (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25310",
+    "title": "Chack'n Pop",
+    "hashes": [
+      {
+        "md5": "3c39e5b538f938465bb87b86b613f610",
+        "name": "Chack'n Pop [Set 1] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11131",
+    "title": "Championship Lode Runner",
+    "hashes": [
+      {
+        "md5": "2164fef4b037e7144ce969239b6c1c02",
+        "name": "Championship Lode Runner [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31309",
+    "title": "Chaos Angels",
+    "hashes": [
+      {
+        "md5": "f6192756f37fda7e8e37c09674a6a828",
+        "name": "Chaos Angels [Set 2] (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31162",
+    "title": "Choplifter",
+    "hashes": [
+      {
+        "md5": "89b47d7cf7e794d62cdbabe98bb12a8a",
+        "name": "Choplifter {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "14928",
+    "title": "Choro Q Holiday Puzzle",
+    "hashes": [
+      {
+        "md5": "5ceb3452093a933175f9f29022e84587",
+        "name": "Choro Q Holiday Puzzle.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "13707",
+    "title": "Choujikuu Yousai Macross: Countdown",
+    "hashes": [
+      {
+        "md5": "e1643a1d839f652978818f4bd281d5c5",
+        "name": "Choujikuu Yousai Macross - Countdown.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14195",
+    "title": "Columns",
+    "hashes": [
+      {
+        "md5": "e06afcb8666f6a3cf860045f341ce98e",
+        "name": "Columns (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6752",
+    "title": "Computer the Golf",
+    "hashes": [
+      {
+        "md5": "8801b3fd121300a193df4096a023c68b",
+        "name": "Computer the Golf (Japan) (En) (v1.0) (Geofront).t88",
+        "labels": [
+          "rapatches",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "13984",
+    "title": "Cosmic Psycho",
+    "hashes": [
+      {
+        "md5": "6c8b6f194de7a8973290568af931776a",
+        "name": "Cosmic Psycho (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13710",
+    "title": "Cosmic Soldier",
+    "hashes": [
+      {
+        "md5": "95a5d15e1556485bc780c26fb94c9570",
+        "name": "Cosmic Soldier (Kogado) [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8411",
+    "title": "Crisis in the Galaxy Kartith",
+    "hashes": [
+      {
+        "md5": "42708acdd9a7deb70322024d74ad4065",
+        "name": "Crisis (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14132",
+    "title": "Cuby Panic",
+    "hashes": [
+      {
+        "md5": "3876a310798ae116e21e09701eec8f09",
+        "name": "Cuby Panic.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "13989",
+    "title": "Cyber Block Metal Orange",
+    "hashes": [
+      {
+        "md5": "f2459e0da5cf90af376fee954097554b",
+        "name": "Metal Orange (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1e31b73f60328d6fd735443d5c9a70cc",
+        "name": "Metal Orange (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "beb7a8768362b03e671c8e69415e0870",
+        "name": "Metal Orange (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e06e28e0ef60a3d46f8b5337cd9da816",
+        "name": "Metal Orange (Disk D).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30838",
+    "title": "Daisenryaku 88",
+    "hashes": [
+      {
+        "md5": "e029aafbaaa8c13794b9d53af5ba9867",
+        "name": "Daisenryaku 88 (Data disk) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "2f12b1a9b5cfa2e6a34c432db55bd09e",
+        "name": "Daisenryaku 88 (Game disk) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30840",
+    "title": "Daisenryaku II: Campaign Version",
+    "hashes": [
+      {
+        "md5": "285328603ad65e96a6712392ae9262c1",
+        "name": "Daisenryaku II - Campaign Version (Campaign user disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6a8427fd916d81fbf0e4555c0e302c53",
+        "name": "Daisenryaku II - Campaign Version (Game disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0ec2d961b13845b575794b5953cff95a",
+        "name": "Daisenryaku II - Campaign Version (Game disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7dc8024a805d5e341899f3c04ce45b31",
+        "name": "Daisenryaku II - Campaign Version (Game disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d68679447fb553ea74d4bcd49ffc37b9",
+        "name": "Daisenryaku II - Campaign Version (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13974",
+    "title": "Demons Ring",
+    "hashes": [
+      {
+        "md5": "30dc0c9c55caf0f8fb1aa9845e9554f8",
+        "name": "Demon's Ring (Disk A) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15688",
+    "title": "Desney Land",
+    "hashes": [
+      {
+        "md5": "397b0f7f50e7159ab5a66124245cff56",
+        "name": "Dezeni Land [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30825",
+    "title": "Dezeni Land",
+    "hashes": [
+      {
+        "md5": "12630a30e469a9b28000276f83324a13",
+        "name": "Dezeni Land.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30826",
+    "title": "Dezeni World",
+    "hashes": [
+      {
+        "md5": "b951d24c58e13ce81267cfcac433c6d0",
+        "name": "Dezeni World (mkII) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "283563f6202914596439481f86c7b42d",
+        "name": "Dezeni World.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "30902",
+    "title": "Dig Dug",
+    "hashes": [
+      {
+        "md5": "a38ec46f6c9d59697ad38bb3e4d5872d",
+        "name": "Dig Dug {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "30860",
+    "title": "Dig Dug (SR)",
+    "hashes": [
+      {
+        "md5": "ca6f70e8c0e38472c45a59e8e14c191f",
+        "name": "Dig Dug (SR).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13985",
+    "title": "Digital Devil Story: Megami Tensei",
+    "hashes": [
+      {
+        "md5": "7ede109c078aa2b3fd052f537b9fa1c8",
+        "name": "Digital Devil Story - Megami Tensei (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "28aa5361383283482912682635a2e934",
+        "name": "Digital Devil Story - Megami Tensei (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 39,
+      "points": 0
+    }
+  },
+  {
+    "id": "13975",
+    "title": "Dinosaur",
+    "hashes": [
+      {
+        "md5": "38b7db0bbed81a25a879f1ce15916c0c",
+        "name": "Dinosaur (Program disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14153",
+    "title": "Dome",
+    "hashes": [
+      {
+        "md5": "7f485a99a0157916f096983a0f1b4f4f",
+        "name": "Dome (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6812",
+    "title": "Donkey Kong 3: Dai Gyakushu",
+    "hashes": [
+      {
+        "md5": "2c371a4e9085410c6b457e0db5e68e88",
+        "name": "Donkey Kong 3 - The Great Counterattack {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "14236",
+    "title": "DoorDoor",
+    "hashes": [
+      {
+        "md5": "21d67a1e6ce5d2ca3244e2d07ffc04b9",
+        "name": "Door Door {V1 mode}.cmt",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "2d6208af8fb0f9f1e00e9769dbf95a71",
+        "name": "Door Door {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9696",
+    "title": "Dragon City X Shitei",
+    "hashes": [
+      {
+        "md5": "3030828333702f8ee4e6eed7d0316ff5",
+        "name": "Dragon City X Shitei (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21935",
+    "title": "Dragon Knight",
+    "hashes": [
+      {
+        "md5": "345022a2b320faa48e174f1604a08070",
+        "name": "Dragon Knight (Disk A) [Alt 4].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "22063",
+    "title": "Dragon Knight II",
+    "hashes": [
+      {
+        "md5": "75793c796b6b8bd88698eec24842d7b5",
+        "name": "Dragon Knight II (Disk A) [Alt 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 54,
+      "points": 0
+    }
+  },
+  {
+    "id": "13705",
+    "title": "Dragon Slayer Level 1.1",
+    "hashes": [
+      {
+        "md5": "8086bfe5e0a905e77ffef517aca77da1",
+        "name": "Dragon Slayer (Level 1.1) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 73,
+      "points": 0
+    }
+  },
+  {
+    "id": "14152",
+    "title": "Dragon Slayer Level 2.0",
+    "hashes": [
+      {
+        "md5": "87417127a5ba7ac8dd9a67bb9f83ef6c",
+        "name": "Dragon Slayer (Level 2.0) {V1 mode} (Clean Save Data) (Euclide) (1.0).d88",
+        "labels": [
+          "neokobe",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "13976",
+    "title": "Dragon Slayer: The Legend of Heroes",
+    "hashes": [
+      {
+        "md5": "3f15beb187c9ec304ee8f61c4704377e",
+        "name": "Dragon Slayer - The Legend of Heroes (Eiyuu Densetsu) (Program disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13977",
+    "title": "Dragon Slayer: The Legend of Heroes II",
+    "hashes": [
+      {
+        "md5": "032fcade95c120d1930b2d9579712dda",
+        "name": "Dragon Slayer - The Legend of Heroes (Eiyuu Densetsu) II (Start disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22559",
+    "title": "Dynamite Bowl",
+    "hashes": [
+      {
+        "md5": "9f587e86e51ec9c0fe6f6d8b71de86df",
+        "name": "Dynamite Bowl.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "30861",
+    "title": "Eggy",
+    "hashes": [
+      {
+        "md5": "06b6bf34be7f230178f919bbf25bb8bf",
+        "name": "Eggy.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30854",
+    "title": "Eiyuu Densetsu Saga",
+    "hashes": [
+      {
+        "md5": "c8d41ee181170b67ca986cf20d7b4004",
+        "name": "Eiyuu Densetsu Saga (Disk A) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "220fea8059a490fab81b9a1d0752426e",
+        "name": "Eiyuu Densetsu Saga (Disk B) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c002accf28fc4c9690c8604319319acb",
+        "name": "Eiyuu Densetsu Saga (Disk C) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32552",
+    "title": "Elthlead",
+    "hashes": [
+      {
+        "md5": "9644c68571bb588f817c1acbc86f8b04",
+        "name": "Elthlead.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30853",
+    "title": "Emerald Dragon",
+    "hashes": [
+      {
+        "md5": "11c9399da13a5347743f2d1b928f94fa",
+        "name": "Emerald Dragon (Data disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5cc13c305f8b3a22c046338cac8c4610",
+        "name": "Emerald Dragon (Ending disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "58716b6b3a7c571e95cc0aacb7c5f76b",
+        "name": "Emerald Dragon (Opening disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b4fac87034d1c7a52da4b254e2044084",
+        "name": "Emerald Dragon (System disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "61134d3fedff0b90e851652f5a846b3c",
+        "name": "Emerald Dragon (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9099316ddcda0f756823d0d747ea3db0",
+        "name": "Emerald Dragon (Visual disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0315963c8b1b8b0095f54efbd2753bfc",
+        "name": "Emerald Dragon (Visual disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14107",
+    "title": "Emmy",
+    "hashes": [
+      {
+        "md5": "c3fd72c922d4f9fd581d41b19b65772c",
+        "name": "Emmy.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "14659",
+    "title": "Emmy II",
+    "hashes": [
+      {
+        "md5": "e6a973a29382727ee82c50bca13039de",
+        "name": "Emmy II {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31303",
+    "title": "Ever Green",
+    "hashes": [
+      {
+        "md5": "3c0dc61c00ced48fea9173abee0b8b2a",
+        "name": "Ever Green.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "30829",
+    "title": "Excitebike",
+    "hashes": [
+      {
+        "md5": "4f8777b899ec20720353fa0012476a48",
+        "name": "Excitebike.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "14665",
+    "title": "Fan Fun",
+    "hashes": [
+      {
+        "md5": "a827214e2ce7c82ec619d9d647f1f383",
+        "name": "Fan Fun.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e058325be20be75f90f40d2c7ed623d1",
+        "name": "Fan Fun.n80",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "17516",
+    "title": "Fangs: The Saga of Wolf Blood",
+    "hashes": [
+      {
+        "md5": "4f15fcab6830cfc1961c8bfd1f1ee648",
+        "name": "Fangs (Disk 6).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "667d7af4874549a0c2dbcaa5b528445d",
+        "name": "Fangs (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "896731b1a0579050faf08908e2b11b49",
+        "name": "Fangs (Disk 5).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8f2a53c24e20b753c8c8141c6f01a93b",
+        "name": "Fangs (Disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "947642c1da1ae1e0cd9b744a06b64eec",
+        "name": "Fangs (Disk 4).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9645671a9ae60a2bce89ade8ba8c4f9c",
+        "name": "Fangs (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 83,
+      "points": 0
+    }
+  },
+  {
+    "id": "13990",
+    "title": "Final Crisis",
+    "hashes": [
+      {
+        "md5": "1486b21aaf38c018229d3867c186a2bb",
+        "name": "Final Crisis (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7dfd1a416f0e1434bbbddb87d19dc4d1",
+        "name": "Final Crisis (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c7a225228ab2f24535b30d816883645d",
+        "name": "Final Crisis (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "13986",
+    "title": "Final Zone",
+    "hashes": [
+      {
+        "md5": "6c387d137f3d1161370ac98d95c08741",
+        "name": "Final Zone (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30831",
+    "title": "Fire Ball",
+    "hashes": [
+      {
+        "md5": "d5d324e5886d89b2978d5b1987d49217",
+        "name": "Fire Ball {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14137",
+    "title": "Fire Hawk: Thexder - The Second Contact",
+    "hashes": [
+      {
+        "md5": "3d103a49bd937f1086827e3374adc782",
+        "name": "Fire Hawk - Thexder 2 (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33474",
+    "title": "Flappy",
+    "hashes": [
+      {
+        "md5": "eb63ca7ebd38357d8eb5f793296564b0",
+        "name": "Flappy {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "250308b334a42e5ad19df56593a17092",
+        "name": "Flappy [Set 1] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "dc486220d22e36877b164f89397b10f7",
+        "name": "Flappy [Set 2] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30862",
+    "title": "Flicky",
+    "hashes": [
+      {
+        "md5": "568a050e947538b0dcac87696af64804",
+        "name": "Flicky {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30863",
+    "title": "Front Line",
+    "hashes": [
+      {
+        "md5": "971ccddc493e00489962df1200bad281",
+        "name": "Front Line {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28558",
+    "title": "Fruit Panic",
+    "hashes": [
+      {
+        "md5": "b2ceee3005dc0a1d96389e5b2a2a42f7",
+        "name": "Fruit Panic [Set 1] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "32989",
+    "title": "Gai Flame",
+    "hashes": [
+      {
+        "md5": "7669caf3dfc63e8d08cc97b8a87606d8",
+        "name": "Gaiflame (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "038eb16e5b73a987bc6e56ea2ce73472",
+        "name": "Gaiflame (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32990",
+    "title": "Gaia no Monshou",
+    "hashes": [
+      {
+        "md5": "baccc3f35d26b2d9b3c22b5cb2653a86",
+        "name": "Gaia no Monshou (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6645be79fb06c9305d6524ce8d11e501",
+        "name": "Gaia no Monshou (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13741",
+    "title": "Galactic Wars",
+    "hashes": [
+      {
+        "md5": "af5d87a9ba92e99672fe6914d2447d8d",
+        "name": "Galactic Wars {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ddf7a3ae8933b8392225f47604419b87",
+        "name": "Galactic Wars (Japan) (En) (v1.0) (Geofront).d88",
+        "labels": [
+          "neokobe",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14196",
+    "title": "Galaxian",
+    "hashes": [
+      {
+        "md5": "082e581be6f2d16b7d734f90ef7bd2c4",
+        "name": "Galaxian {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "30859",
+    "title": "Gall Force",
+    "hashes": [
+      {
+        "md5": "53c6fc87f3f73b5fbae416298c008ea8",
+        "name": "Gall Force (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bceaff8d6601c25dbef0e74efdadd789",
+        "name": "Gall Force (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "2ef9939c87fe4608f6bac4d373aee75a",
+        "name": "Gall Force (Disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30852",
+    "title": "Gandhara: Buddha no Seisen",
+    "hashes": [
+      {
+        "md5": "697ba1905c5303143ac7940fa713cf5d",
+        "name": "Gandhara (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5558fc394ff29989052e5b54eee923df",
+        "name": "Gandhara (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13754",
+    "title": "Genesis: Beyond the Revelation",
+    "hashes": [
+      {
+        "md5": "3cb80a87a6f236821f1c4fee0a6d83e8",
+        "name": "Genesis [Set 1] (En) (Mike Curious) (0.1).d88",
+        "labels": [
+          "neokobe",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f968098a13aa41884916e99f081f4a6d",
+        "name": "Genesis [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 67,
+      "points": 0
+    }
+  },
+  {
+    "id": "30856",
+    "title": "Ginga Eiyuu Densetsu",
+    "hashes": [
+      {
+        "md5": "79642afe73ecea24580a1ead36376d9a",
+        "name": "Ginga Eiyuu Densetsu (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e5fb573890de8935c3dbb40ff69c6e19",
+        "name": "Ginga Eiyuu Densetsu (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a60fd3339ee961a1aee0db197b022b05",
+        "name": "Ginga Eiyuu Densetsu (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9c06a9351ea867b3aaa72928cb86b0c8",
+        "name": "Ginga Eiyuu Densetsu (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30858",
+    "title": "Ginga Eiyuu Densetsu II",
+    "hashes": [
+      {
+        "md5": "91be90e3750f7034cd25471cb88fdaae",
+        "name": "Ginga Eiyuu Densetsu II (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "81f4191e6bf5e65e7abef019e9b8f0f2",
+        "name": "Ginga Eiyuu Densetsu II (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1f79a69ab1eed155c2f323ddfde8dae4",
+        "name": "Ginga Eiyuu Densetsu II (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a922807d11ede2080fb66c97c844efe4",
+        "name": "Ginga Eiyuu Densetsu II (Disk D).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f27f188a2f8742612690da3e1a429a19",
+        "name": "Ginga Eiyuu Densetsu II (Disk E).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0a3ac61163b4d65b49738cb3a8b04fa4",
+        "name": "Ginga Eiyuu Densetsu II (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14122",
+    "title": "Goumon Master",
+    "hashes": [
+      {
+        "md5": "1dc6f25b21c7737ac37b3724f52a6d25",
+        "name": "Goumon Master.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13987",
+    "title": "Gradius",
+    "hashes": [
+      {
+        "md5": "af69e0d2474531f0f1b55e59e919c553",
+        "name": "Gradius.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14235",
+    "title": "Great Adventure TcOOL Version 2.00",
+    "hashes": [
+      {
+        "md5": "edef0564006bb5bd66f789a7b6c27138",
+        "name": "Adventure Tsukuuru mkII (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30864",
+    "title": "Grobda",
+    "hashes": [
+      {
+        "md5": "fd5b64cfcc7c168a62489dfb8ecb2476",
+        "name": "Grobda.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30857",
+    "title": "Guin Saga: Hyoutou no Kamen",
+    "hashes": [
+      {
+        "md5": "2ce34a0e0c7f0794aaebcfe2530115e3",
+        "name": "Guin Saga - Hyoutou no Kamen (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7c579c6a671f5c22303941fa75754d19",
+        "name": "Guin Saga - Hyoutou no Kamen (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30865",
+    "title": "Gumball",
+    "hashes": [
+      {
+        "md5": "70f7088aba2289fd07c40d6bcf738408",
+        "name": "Gumball {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14138",
+    "title": "Harakiri",
+    "hashes": [
+      {
+        "md5": "3d566542e57d5d3d3dd0140df54b5ead",
+        "name": "Harakiri (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13942",
+    "title": "Hard Rank",
+    "hashes": [
+      {
+        "md5": "05c20126e9d4dbdae4c1e8627a8b1d9f",
+        "name": "Hard Rank (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "576349956ad4a706e1b90ddc9c1fbc2a",
+        "name": "Hard Rank (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 48,
+      "points": 0
+    }
+  },
+  {
+    "id": "14661",
+    "title": "Hashire! Skyline (1984)",
+    "hashes": [
+      {
+        "md5": "9b4f106d60e8fa4240f2582cb5df7a4b",
+        "name": "Hashire! Skyline [Alt 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14680",
+    "title": "Hashire! Skyline (1985)",
+    "hashes": [
+      {
+        "md5": "062ff9082e22617c76575bed306130be",
+        "name": "Hashire! Skyline [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "160b01fd5075ec549e5142158e397125",
+        "name": "Hashire! Skyline [Set 2].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "2752397f434d48ef3572a4bed84043e2",
+        "name": "Hashire! Skyline.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30855",
+    "title": "Herzog",
+    "hashes": [
+      {
+        "md5": "424476def1ae7bfb42b0b7ef7f547dee",
+        "name": "Herzog.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14647",
+    "title": "Hokuto no Ken: Violence Gekiga Adventure",
+    "hashes": [
+      {
+        "md5": "8b4ff7902a0a0e90b9ae59d8e7771284",
+        "name": "Hokuto no Ken (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27377",
+    "title": "Hole in One",
+    "hashes": [
+      {
+        "md5": "ba285603b98f26200bfff09eab30dfb3",
+        "name": "Hole in One {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13979",
+    "title": "Horror House",
+    "hashes": [
+      {
+        "md5": "9c76a2e7e8224d9bc5a3ca0dd0093e3d",
+        "name": "Horror House {V1 mode, MON R, press S} (Japan) (En) (v1.1) (Umbrella Terms).t88",
+        "labels": [
+          "neokobe",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "7981",
+    "title": "Horror House Part II",
+    "hashes": [
+      {
+        "md5": "727dac2d025386fd1651e733870885e3",
+        "name": "Kyouki no Yakata - Horror House Part-II {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13708",
+    "title": "Hover Attack",
+    "hashes": [
+      {
+        "md5": "40c9e1c51abaa00c7153be7eda9f6993",
+        "name": "Hover Attack {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13684",
+    "title": "Hydlide",
+    "hashes": [
+      {
+        "md5": "a62b04973732fed5038989c61b61bbbe",
+        "name": "Hydlide {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "14244",
+    "title": "Hydlide 3: The Space Memories",
+    "hashes": [
+      {
+        "md5": "06a8d8b42d531917a0d8df434f86ddfe",
+        "name": "Hydlide 3 (Disk A) [Alt 3].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14243",
+    "title": "Hydlide II: Shrine of Darkness",
+    "hashes": [
+      {
+        "md5": "1fed914fd693b14dca4ea00026f72248",
+        "name": "Hydlide II [Alt 2] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e8f1aa4bcd196a6f7892b9b5e7d354ca",
+        "name": "Hydlide II {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "30828",
+    "title": "Ice Climber",
+    "hashes": [
+      {
+        "md5": "85831fe9365d42f8535c11a9e649f25a",
+        "name": "Ice Climber.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 49,
+      "points": 0
+    }
+  },
+  {
+    "id": "30837",
+    "title": "Inindou: Datou Nobunaga",
+    "hashes": [
+      {
+        "md5": "207d7b2a211bc8ec1cdefadf5f71364e",
+        "name": "Inindou - Datou Nobunaga (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8a98e62603f574dea5fb22afc1a9e79d",
+        "name": "Inindou - Datou Nobunaga (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6c34d2c255f993393da5aac988cbd1c6",
+        "name": "Inindou - Datou Nobunaga (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ca76dfee37cb1c1ee179f00513b54004",
+        "name": "Inindou - Datou Nobunaga (Disk D).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cfe66b3651bdc36e02c78a8e08b8b19e",
+        "name": "Inindou - Datou Nobunaga (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13743",
+    "title": "Joshi Daisei Private",
+    "hashes": [
+      {
+        "md5": "6c911f359a383ce501533d90200df4a3",
+        "name": "Joshidaisei Private (Private Stripper) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "14014",
+    "title": "Kawanakajima no Kassen",
+    "hashes": [
+      {
+        "md5": "0087603433b62a1a8c0e6e82dc0eb318",
+        "name": "Kawanakajima no Kassen.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31333",
+    "title": "Kaze no Tani no Nausicaa",
+    "hashes": [
+      {
+        "md5": "ef85ca5be03c2933d7a76b57de38c919",
+        "name": "Kaze no Tani no Nausicaa [bad sectors] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30887",
+    "title": "Kidou Senshi Gundam Part 1: Gundam Taichi ni Tatsu",
+    "hashes": [
+      {
+        "md5": "f8e1ac1c9e92814602a1b516e9adcf0c",
+        "name": "Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (Game disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "89c0682bcdf2c80a3cbb829d9a258960",
+        "name": "Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (PCM disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "30819",
+    "title": "King's Knight Special",
+    "hashes": [
+      {
+        "md5": "bd60f2e3dcc2d25225670fd54e330118",
+        "name": "King's Knight Special (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14197",
+    "title": "Klax",
+    "hashes": [
+      {
+        "md5": "09902d93b9f767e3c4c1d383f5105e31",
+        "name": "Klax.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30913",
+    "title": "Knither: Demon Crystal II",
+    "hashes": [
+      {
+        "md5": "01e64aaf482eabf2f0cedb6d5b6dc0e9",
+        "name": "Knither - Demon Crystal II.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "30827",
+    "title": "Lamia 1999",
+    "hashes": [
+      {
+        "md5": "80787ab33f3e28fa7d40693ef3638ff7",
+        "name": "Lamia 1999 (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31423",
+    "title": "Lock On",
+    "hashes": [
+      {
+        "md5": "eb90117ac001a9518e79a8df2d903e5e",
+        "name": "Lock On.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "14682",
+    "title": "Lode Runner",
+    "hashes": [
+      {
+        "md5": "1f72e49c49733c670f58d11d98e4bc1b",
+        "name": "Lode Runner {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9138",
+    "title": "Lunar Ball",
+    "hashes": [
+      {
+        "md5": "17018d645592852a74e5ad965388f94e",
+        "name": "Lunar Ball {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "22084",
+    "title": "Macadam: Futari Yogari",
+    "hashes": [
+      {
+        "md5": "2bc8ff613a399cc8000cc79f298d9d50",
+        "name": "Macadam {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25815",
+    "title": "Magnet Girl",
+    "hashes": [
+      {
+        "md5": "f1296ead6a441f087120b3e2eab016a9",
+        "name": "Magnet Girl.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "30867",
+    "title": "Magnet World 2",
+    "hashes": [
+      {
+        "md5": "69513f2ea19b19dabc1727b819d8d059",
+        "name": "Magnet World 2.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 27,
+      "points": 0
+    }
+  },
+  {
+    "id": "30824",
+    "title": "Magnet World Final",
+    "hashes": [
+      {
+        "md5": "023f5b0818e6dad5c987c41ea1c81dc8",
+        "name": "Magnet World Final.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "28895",
+    "title": "Makaimura",
+    "hashes": [
+      {
+        "md5": "06901a21b5a11b88edcf09ab381906e0",
+        "name": "Makaimura.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "30716",
+    "title": "Mappy (PC-8801 Version)",
+    "hashes": [
+      {
+        "md5": "61ca405fb5063c7e0b5e157a888beb3a",
+        "name": "Mappy.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "30875",
+    "title": "Märchen Veil",
+    "hashes": [
+      {
+        "md5": "c162e1965688ba546e4402920625325e",
+        "name": "Marchen Veil.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14121",
+    "title": "Marine Alien",
+    "hashes": [
+      {
+        "md5": "64b282b08e51eed92b6cdd386a5d2fd0",
+        "name": "Marine Alien (1980-08) (IO Magazine Vol. 5 No. 8)/MA.cmt",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "17770",
+    "title": "Mario Bros. Special (PC-8001 Version)",
+    "hashes": [
+      {
+        "md5": "dbf318cb9c8af6e7a4e21cccd98feb00",
+        "name": "Mario Bros. Special (1984) (Hudson Soft) (PC-8001mkII, YB-5006).t88",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13753",
+    "title": "Mario Bros. Special (PC-8801 Version)",
+    "hashes": [
+      {
+        "md5": "dc66bcd1034c08879a2a47a10e6c95c8",
+        "name": "Mario Bros. Special [Set 1] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "32708",
+    "title": "Might and Magic: Book One - Secret of the Inner Sanctum",
+    "hashes": [
+      {
+        "md5": "668faec0717e1c8d5b905ac60f3d7563",
+        "name": "Might and Magic (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8456e1a011bd2ae184fc04e0fc8e9363",
+        "name": "Might and Magic (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "db318685ccaec6a9b356d66d045aa020",
+        "name": "Might and Magic (Disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f7490323e546ba193e231f584b696a65",
+        "name": "Might and Magic (Disk 4).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32709",
+    "title": "Might and Magic: Book Two - Gates to Another World",
+    "hashes": [
+      {
+        "md5": "629ad70a7f661c9332818941e6520952",
+        "name": "Might and Magic Book Two (Player disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "583d3c2302e023b5c06deb009ba691ea",
+        "name": "Might and Magic Book Two (Program disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "931a09ff3c90e04878fb101951946017",
+        "name": "Might and Magic Book Two (Scenario disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d011777797701a3aec383a9c2094221c",
+        "name": "Might and Magic Book Two (Scenario disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e06e31acdebc797caf0c7bdb41c11a2b",
+        "name": "Might and Magic Book Two (Utility disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23554",
+    "title": "Minky Momo no Panic Ball",
+    "hashes": [
+      {
+        "md5": "e7c22b3f0deca65ecdc2124477877452",
+        "name": "Minky Momo no Panic Ball {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "30868",
+    "title": "Misty Blue",
+    "hashes": [
+      {
+        "md5": "29f5c1c3482ad59fdc2bbb4ce3423288",
+        "name": "Misty Blue (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7314",
+    "title": "Mobile Suit Zeta Gundam",
+    "hashes": [
+      {
+        "md5": "840c07405084eccf0dcb4a542f73be72",
+        "name": "Mobile Suit Zeta Gundam.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "29806",
+    "title": "Motoko-hime Adventure",
+    "hashes": [
+      {
+        "md5": "ae0f8ee8882f33bba6c49b9d7ffac7a5",
+        "name": "Motoko-hime Adventure {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14151",
+    "title": "Mugen no Shinzou",
+    "hashes": [
+      {
+        "md5": "30bec2bafb30f4034faaf4770ed7b4c0",
+        "name": "Mugen no Shinzou [Set 02] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cc2bd48f0160f246aeb55390f92d7ec4",
+        "name": "Mugen no Shinzou.d88",
+        "labels": [
+          "egg"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30869",
+    "title": "Mugen Senshi Valis",
+    "hashes": [
+      {
+        "md5": "e906cb665c3139e8e321e6bf4c7e5148",
+        "name": "Mugen Senshi Valis (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14119",
+    "title": "NEC N-88 BASIC (Disk Version)",
+    "hashes": [
+      {
+        "md5": "184847072542c32064e63f42dda44c5c",
+        "name": "[OS] PC-8801mkIISR system disk (N88 BASIC).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32553",
+    "title": "New Godzilla",
+    "hashes": [
+      {
+        "md5": "debcfeece311e133a6da03eaeb08a787",
+        "name": "New Godzilla (Disk A) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3299b81d6d88e2e30146ecf94bef8ed8",
+        "name": "New Godzilla (Disk B) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30830",
+    "title": "New Rally-X",
+    "hashes": [
+      {
+        "md5": "cf6dc67d32868c0dca89c2bcd94d912d",
+        "name": "New Rally-X.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "30833",
+    "title": "Nightlife",
+    "hashes": [
+      {
+        "md5": "52ce540799528d35585b33950164a599",
+        "name": "Nightlife (Japan) (En) (v1.0) (Umbrella Terms).d88",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26926",
+    "title": "Nintendo no Golf",
+    "hashes": [
+      {
+        "md5": "a2558e8b836005fc2b869c0edfb9d89a",
+        "name": "Nintendo no Golf.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "27378",
+    "title": "Nintendo no Tennis",
+    "hashes": [
+      {
+        "md5": "8cf31bf1e408f4e6cfc360bac24ad6d5",
+        "name": "Nintendo no Tennis.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "13711",
+    "title": "Nobunaga no Yabou",
+    "hashes": [
+      {
+        "md5": "69ea3e13bec21b4b8a4064a3b04242a9",
+        "name": "Nobunaga no Yabou {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30806",
+    "title": "Nobunaga no Yabou: Bushou Fuuunroku",
+    "hashes": [
+      {
+        "md5": "0e9e821442f4228fe63a35a56518da89",
+        "name": "Nobunaga no Yabou - Bushou Fuuunroku (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "26aecede42153a69200bf9f0c9fe796c",
+        "name": "Nobunaga no Yabou - Bushou Fuuunroku (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6e21f5a2bf907a0f3844e6947972d423",
+        "name": "Nobunaga no Yabou - Bushou Fuuunroku (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "12ed863939f04b0a59322056d74373c1",
+        "name": "Nobunaga no Yabou - Bushou Fuuunroku (Save disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30805",
+    "title": "Nobunaga no Yabou: Sengoku Gunyuuden",
+    "hashes": [
+      {
+        "md5": "859e37b741484ef2adf07a0959c82cc6",
+        "name": "Nobunaga no Yabou - Sengoku Gunyuuden (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bcedd8bbb6c136833034b441a08db451",
+        "name": "Nobunaga no Yabou - Sengoku Gunyuuden (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0298515724df0e3086e5855b7e95288b",
+        "name": "Nobunaga no Yabou - Sengoku Gunyuuden (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e72badc9b8c25186b94cf960467863c2",
+        "name": "Nobunaga no Yabou - Sengoku Gunyuuden (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30804",
+    "title": "Nobunaga no Yabou: Zenkoku-ban",
+    "hashes": [
+      {
+        "md5": "2ea1c7695e721a7b21a9b4cb38c78bd3",
+        "name": "Nobunaga no Yabou - Zenkoku-ban (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5152c48eddf7441642f4f6384de53dd0",
+        "name": "Nobunaga no Yabou - Zenkoku-ban (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25322",
+    "title": "Nuts & Milk",
+    "hashes": [
+      {
+        "md5": "dd04ed20fa30d66226336d8406d3f99d",
+        "name": "Nuts & Milk {V1 mode}.t88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17772",
+    "title": "Pac-Man",
+    "hashes": [
+      {
+        "md5": "1e7bbbcf38ef36656377cde6a6af7c4a",
+        "name": "Pac-Man.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "14198",
+    "title": "Pachicom",
+    "hashes": [
+      {
+        "md5": "75c93216ef90d9c19ba9c66fc601e624",
+        "name": "Pachicom.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6c017a815aee84db94db446c249504e7",
+        "name": "Pachicom [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13744",
+    "title": "Panorama Toh",
+    "hashes": [
+      {
+        "md5": "f20be9990e5c2d28711dc8f01776c67d",
+        "name": "Panorama Toh {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30903",
+    "title": "PCG Dig Dug",
+    "hashes": [
+      {
+        "md5": "c098918dbf10214b1542bfe9d25d4a01",
+        "name": "PCG Dig Dug.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14927",
+    "title": "Peeping Scandals",
+    "hashes": [
+      {
+        "md5": "7182e519f0ee9f00f88482f473758e5a",
+        "name": "Peeping Scandals (User disk) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a97fae6a8950bf93f8f687a0258deaa4",
+        "name": "Peeping Scandals {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33024",
+    "title": "Phantasie",
+    "hashes": [
+      {
+        "md5": "f235de2d4cc5161a29e9b9c379694f1c",
+        "name": "Phantasie (Disk 1 - Program).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "396ffdec593b247923cbf3d6f1f9cf0b",
+        "name": "Phantasie (Disk 2 - Player).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33025",
+    "title": "Phantasie II",
+    "hashes": [
+      {
+        "md5": "79ef7c4121de3e6ed591b4a7bc2a9582",
+        "name": "Phantasie II (Disk 1 - Program).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0bba405fd72489d62d9709714af03417",
+        "name": "Phantasie II (Disk 2 - Player).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a84752dbd63c8e22731be66c13b5962f",
+        "name": "Phantasie II (Disk 3 - Utility).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33026",
+    "title": "Phantasie III",
+    "hashes": [
+      {
+        "md5": "78bafd43f3334820bca1a919e56728cc",
+        "name": "Phantasie III (Disk 1 - Program).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5bde3e92074b4436713ed78e5875fe23",
+        "name": "Phantasie III (Disk 2 - Player).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d1d56037b6e9b6982f5f05f8dae99c29",
+        "name": "Phantasie III (Disk 3 - Utility).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33027",
+    "title": "Phantasie IV",
+    "hashes": [
+      {
+        "md5": "c5a0011731a78f3a7b6fdd787d74507e",
+        "name": "Phantasie IV (Disk 1 - Player).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fda9b2b64db359c249151e91ced7c9dc",
+        "name": "Phantasie IV (Disk 2 - Scenario 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9ebcc130473a4d5a2587acb1deeeeb44",
+        "name": "Phantasie IV (Disk 3 - Scenario 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30925",
+    "title": "Pipe Dream",
+    "hashes": [
+      {
+        "md5": "e83d6e581dd740ce89787b146f6973a1",
+        "name": "Pipe Dream (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32286",
+    "title": "Pirates!",
+    "hashes": [
+      {
+        "md5": "53c91ac49d25f95c3e19b9a3b9401bbf",
+        "name": "Pirates! (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ebe2408c5c9ce280c422584c758e0b4b",
+        "name": "Pirates! (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "276a9ad1de2640f42624c479fd9f3e5a",
+        "name": "Pirates! (Disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d3e50ddf93fcee35f624c857640e2567",
+        "name": "Pirates! (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13742",
+    "title": "Popful Mail",
+    "hashes": [
+      {
+        "md5": "b80b972d465f6bbd2203c38f94c9a841",
+        "name": "Popful Mail (Opening disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fd7a73cdc55d65a8499901de55bb0d5b",
+        "name": "Popful Mail (Program disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6967",
+    "title": "Produce",
+    "hashes": [
+      {
+        "md5": "5bce36b40478320f5cd2b02aea45c6b1",
+        "name": "Produce.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13777",
+    "title": "Punch Ball Mario Bros.",
+    "hashes": [
+      {
+        "md5": "52def00692358027f26fb1d596f829cf",
+        "name": "Punch Ball Mario Bros. {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bca101651484195a0d55a71a06108e5a",
+        "name": "Punch Ball Mario Bros. [Set 1] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "19755",
+    "title": "Puzzle Kana?",
+    "hashes": [
+      {
+        "md5": "7b8387228e629fffe80fc103f30962e4",
+        "name": "Puzzle Kana.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "31627",
+    "title": "Rance II: Hangyaku no Shoujo-tachi",
+    "hashes": [
+      {
+        "md5": "ad411e49c626dda71160cf44196982f9",
+        "name": "Rance II (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8b0ead590ac5f0c9aee19bde7c768e22",
+        "name": "Rance II (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7d5ecd32237022253d7097e22fa06e67",
+        "name": "Rance II (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "10ada0a13fd1f2a21ac4336298bf0a86",
+        "name": "Rance II (Disk D).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "71e119f7158c5935b5bbf414cb7f618a",
+        "name": "Rance II (Disk E).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "904a77824daf04ce15ec4196dd3d373b",
+        "name": "Rance II (Disk F).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "49d96fa05f28bbde74efd29e24187f16",
+        "name": "Rance II (Disk G).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9c1f26dba3f478e1a502163d566502fd",
+        "name": "Rance II (Disk H).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31626",
+    "title": "Rance: Hikari o Motomete",
+    "hashes": [
+      {
+        "md5": "43f7c2715c85231b9b2b38a9c7c332ba",
+        "name": "Rance (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "db8ce2e0c607b39d72220c7b3cf966a8",
+        "name": "Rance (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "83f30719b57f99c980dd01cd847b1b14",
+        "name": "Rance (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8383ed826695f5b78dce53277cb3bc0c",
+        "name": "Rance (Disk D).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14020",
+    "title": "Red Stack",
+    "hashes": [
+      {
+        "md5": "1ae481ca1e2b383d077709949eda169d",
+        "name": "Red Stack (Japan) (Project Egg Download).d88",
+        "labels": [
+          "egg"
+        ],
+        "status": null
+      },
+      {
+        "md5": "99308a38ca6714a02110b0888932c473",
+        "name": "Red Stack (1985) (Cosmos Computer)).d88",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "28276",
+    "title": "Relics",
+    "hashes": [
+      {
+        "md5": "6048c7c987a1646bb03d40c2a3539684",
+        "name": "Relics (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cca82072da17913b8ebd85a1ecbde6dc",
+        "name": "Relics (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30885",
+    "title": "Revolter",
+    "hashes": [
+      {
+        "md5": "71b7cff0d481bf5f94f03b344cdb7efc",
+        "name": "Revolter (v1.01) (Disk A) {4MHz}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a88374206826fb45e8bacc0f16736bb3",
+        "name": "Revolter (v1.01) (Disk B) {4MHz}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "6977",
+    "title": "Rogue",
+    "hashes": [
+      {
+        "md5": "ed791512b651b0a787c798dcfa5e22d4",
+        "name": "Rogue.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 47,
+      "points": 0
+    }
+  },
+  {
+    "id": "13739",
+    "title": "Romancia",
+    "hashes": [
+      {
+        "md5": "2f21c7bbedb1b86bf45304ba70867e57",
+        "name": "Romancia.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15687",
+    "title": "Salad no Kuni no Tomato-hime",
+    "hashes": [
+      {
+        "md5": "6cd8b4b82d145caf7ec304a800646630",
+        "name": "Salad no Kuni no Tomato-hime [Set 1] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "95149131b583294a63417d7856d17e3c",
+        "name": "Salad no Kuni no Tomato-hime {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30807",
+    "title": "Saziri",
+    "hashes": [
+      {
+        "md5": "3f23ef213c139ce281da0dbc506a5b93",
+        "name": "Saziri (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0f9eef8c4cbd7c7a09fbf3d212615021",
+        "name": "Saziri (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20312",
+    "title": "Seiko-chan SOS",
+    "hashes": [
+      {
+        "md5": "06fedfb090c1e47f7c61cd8529f70f56",
+        "name": "Seiko-chan SOS {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30876",
+    "title": "Seilane",
+    "hashes": [
+      {
+        "md5": "6172dfda12bcad8e2a65e00dd1614fdd",
+        "name": "Seilane (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25816",
+    "title": "Shampoo",
+    "hashes": [
+      {
+        "md5": "44f3480628d3203f7acbf0025bc4b336",
+        "name": "Shampoo [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "30889",
+    "title": "Shanghai II",
+    "hashes": [
+      {
+        "md5": "e5b77f3a077fae0d44ccd6bdfd850f30",
+        "name": "Shanghai II [Set 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "30834",
+    "title": "Shin Taketori Monogatari",
+    "hashes": [
+      {
+        "md5": "c1a92bff47173c5800cd7d6d6f9c5bce",
+        "name": "Shin Taketori Monogatari (User disk) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28557",
+    "title": "Shuten Douji",
+    "hashes": [
+      {
+        "md5": "9cdaf3341e5401b17981bb0a74959df0",
+        "name": "Shutendoji (Disk 1) [Alt 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14133",
+    "title": "Silpheed",
+    "hashes": [
+      {
+        "md5": "d2bf8ef1abf7bb47e54da38a286f4ac8",
+        "name": "Silpheed (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "13686",
+    "title": "Snatcher",
+    "hashes": [
+      {
+        "md5": "bb64ffcef2b7c7e41c2eae92298549b0",
+        "name": "Snatcher (System disk) [Alt 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14135",
+    "title": "Solitaire Royale",
+    "hashes": [
+      {
+        "md5": "ee4c7205d56384f37414f7f199484ece",
+        "name": "Solitaire Royale.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "13978",
+    "title": "Sorcerian",
+    "hashes": [
+      {
+        "md5": "25416a15b12d22ee2380bea6433bc9cc",
+        "name": "Sorcerian (Program disk v1.1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14405",
+    "title": "Soukoban",
+    "hashes": [
+      {
+        "md5": "e9ff3dfb280a795bf2ca8ade11be5683",
+        "name": "Soukoban {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "19739",
+    "title": "Soukoban Perfect",
+    "hashes": [
+      {
+        "md5": "195749805c96c44cd08fdaf903788432",
+        "name": "Soukoban Perfect (Game disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30884",
+    "title": "Space Harrier",
+    "hashes": [
+      {
+        "md5": "b327fabd0e95fb0b0948b5b9bc410c1a",
+        "name": "Space Harrier (Disk 1) [Alt 2].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "14199",
+    "title": "Spy vs. Spy",
+    "hashes": [
+      {
+        "md5": "2bbf14f115a1d85a089cfcf87659341c",
+        "name": "Spy vs. Spy {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30870",
+    "title": "Star Cruiser",
+    "hashes": [
+      {
+        "md5": "1e4bd066cc628f13e07cc5b106c0b017",
+        "name": "Star Cruiser (Disk A - Game).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13980",
+    "title": "Star Trader",
+    "hashes": [
+      {
+        "md5": "2bb88da86e58ba0b7dd9805a8fd090ba",
+        "name": "Star Trader (Program disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30841",
+    "title": "Summer Games",
+    "hashes": [
+      {
+        "md5": "20e4c001b5fdfd4a79c1fe9b67a488ae",
+        "name": "Summer Games.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30839",
+    "title": "Super Daisenryaku",
+    "hashes": [
+      {
+        "md5": "c75db9fbba2f7275414af5cb85d6348f",
+        "name": "Super Daisenryaku (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5890695fb5dc90a6b172c3244555a524",
+        "name": "Super Daisenryaku (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c76be32b16bf7a485c9bf322eaf11636",
+        "name": "Super Daisenryaku (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6777",
+    "title": "Super Horoscope Kanji Version",
+    "hashes": [
+      {
+        "md5": "3e0a5922fb1f49609b2d1c36d52edd15",
+        "name": "Super Horoscope {V1 mode}.d88 ",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13787",
+    "title": "Super Jack",
+    "hashes": [
+      {
+        "md5": "05f2a5bdc7ab885b5da760276154a6ce",
+        "name": "Super Jack [Set 2] (En) (JPN Translations) (0.9.1).d88",
+        "labels": [
+          "neokobe",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "806ac9c875076375f63de1cb0aad2d34",
+        "name": "Super Jack.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d2aff22e02df81eea501e13d75a3da28",
+        "name": "Super Jack [Set 2].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "13685",
+    "title": "Super Mario Bros. Special",
+    "hashes": [
+      {
+        "md5": "ae02fab35b9e4374353d927435e64693",
+        "name": "Super Mario Bros. Special [Alt 2].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b91d5929e5d62ac34b0f7732236cb492",
+        "name": "Super Mario Bros. Special [Alt 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "30871",
+    "title": "Super Pitfall",
+    "hashes": [
+      {
+        "md5": "1b830c4b55621c3807e77927221e6e02",
+        "name": "Super Pitfall.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "13746",
+    "title": "Taiyou no Shinden: Asteka II",
+    "hashes": [
+      {
+        "md5": "e8519828145b95bdbf8f6d9101670d84",
+        "name": "Templo del Sol - Asteka II (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30872",
+    "title": "Teitoku no Ketsudan | P.T.O.: Pacific Theater of Operations",
+    "hashes": [
+      {
+        "md5": "10cae16e5d2d45d5b016f59f8184f8ea",
+        "name": "Teitoku no Ketsudan (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13747",
+    "title": "Telenet Music Box",
+    "hashes": [
+      {
+        "md5": "0e03bc5a0ca5d3756d154f1de40f9876",
+        "name": "Telenet Music Box (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bbfdb481c69c5f58a227da667adbcd16",
+        "name": "Telenet Music Box (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "29805",
+    "title": "Tetras",
+    "hashes": [
+      {
+        "md5": "487c1d6b9750508442e4cb93c30b8991",
+        "name": "Tetras.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "14200",
+    "title": "Tetris (BPS)",
+    "hashes": [
+      {
+        "md5": "fd6199123cff370e7f2694c350615ee1",
+        "name": "Tetris (BPS).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 77,
+      "points": 0
+    }
+  },
+  {
+    "id": "32651",
+    "title": "The Black Bass",
+    "hashes": [
+      {
+        "md5": "813c0f423589cab64fc91277fc7d4f14",
+        "name": "The Black Bass {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14390",
+    "title": "The Black Onyx",
+    "hashes": [
+      {
+        "md5": "158aaba2b430d1e3985b2bf307b12cbd",
+        "name": "The Black Onyx [Set 1] {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "907babb78b5bbbbebeef2b1b1f52212e",
+        "name": "Black Onyx, The (Japan) (Game Disk) (En) (v1.0) (LordKarnov42).d88",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13939",
+    "title": "The Castle",
+    "hashes": [
+      {
+        "md5": "b8288592592e960d7b505943491db7dc",
+        "name": "The Castle.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "32549",
+    "title": "The Death Trap",
+    "hashes": [
+      {
+        "md5": "58a432af8abdba1ae079e2bd9b6fac2e",
+        "name": "The Death Trap (Disk A) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "21d353bb43e074d867c198240240a07e",
+        "name": "The Death Trap (Disk B) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3ddb10888c637eaf0c6c49cc4764c7fd",
+        "name": "The Death Trap (Disk C) {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30818",
+    "title": "The Dragon & Princess",
+    "hashes": [
+      {
+        "md5": "4a70d47b026967ca8cfc93e261355565",
+        "name": "Dragon & Princess, The (Japan) (En) (v1.01) (NLeseul).d88",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13973",
+    "title": "The Scheme",
+    "hashes": [
+      {
+        "md5": "6d88a725bf097c4a7ffbc3817936a757",
+        "name": "The Scheme (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8dab8eb445c9b7d4dd143b1df75017a6",
+        "name": "The Scheme (music mode) (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b170f9e16671c8c3e14345b75d80b9a5",
+        "name": "The Scheme [Set 2] (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ef20128a5f6431115903a5ec455f48ad",
+        "name": "The Scheme (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "30832",
+    "title": "The Spider",
+    "hashes": [
+      {
+        "md5": "83275e2f92d815f61406ec649124d9cd",
+        "name": "The Spider {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31638",
+    "title": "The Story of Melroon",
+    "hashes": [
+      {
+        "md5": "0bae04c8af669cf821f4ca72e85dc4fd",
+        "name": "The Story of Melroon (Disk A - System).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6284c21789f44caf50cc1068ce77028d",
+        "name": "The Story of Melroon (Disk B - Data).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7ada2d41e395cd316cd230ebb58ada79",
+        "name": "The Story of Melroon (Disk C - Data).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e8b28d5c11e8fab063d9ffeea8b3b008",
+        "name": "The Story of Melroon (Disk D - Data).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e81e91f9e951ac65a6092fbe16698407",
+        "name": "The Story of Melroon (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13709",
+    "title": "Thexder",
+    "hashes": [
+      {
+        "md5": "56b193d0d4beeeb00f01e56ce5df1081",
+        "name": "Thexder.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 34,
+      "points": 0
+    }
+  },
+  {
+    "id": "25323",
+    "title": "Thunder Force",
+    "hashes": [
+      {
+        "md5": "1a23ddb5aae763edc765013bd0cccefe",
+        "name": "Thunder Force {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "30808",
+    "title": "Topple Zip",
+    "hashes": [
+      {
+        "md5": "7a61df0cdf5644186b6bc9d138f002f3",
+        "name": "Topple Zip {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "30877",
+    "title": "Tritorn",
+    "hashes": [
+      {
+        "md5": "20fd0574df93f54f3c4f737f8a1358fb",
+        "name": "Tritorn {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30847",
+    "title": "Ultima I: The First Age of Darkness",
+    "hashes": [
+      {
+        "md5": "72dde2073544a44525b9279a9cea0fec",
+        "name": "Ultima (Pony Canyon) (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "93e764f0eeb1ecfaeb140fae41cd98cf",
+        "name": "Ultima (Pony Canyon) (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "90b7d0aecc422035b8bb84389637f77c",
+        "name": "Ultima (Pony Canyon) (Disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4a357eded4b8e169830830b71c87b4f5",
+        "name": "Ultima (Pony Canyon) (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27702",
+    "title": "Ultima II: The Revenge of the Enchantress",
+    "hashes": [
+      {
+        "md5": "bc5b6118539150dea9146ddc50d68eb7",
+        "name": "Ultima II (Pony Canyon) (Disk 1 - System).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3a85ff92a4e53db420ccd81b8bee6eb0",
+        "name": "Ultima II (Pony Canyon) (Disk 2 - Another).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5d6fdc06d25431c99025ae200158c945",
+        "name": "Ultima II (Pony Canyon) (Disk 3 - World).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "26af741aa2fe7d222fba31e3987fc88b",
+        "name": "Ultima II (Pony Canyon) (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30848",
+    "title": "Ultima III: Exodus",
+    "hashes": [
+      {
+        "md5": "5d3a7d4b5dd3030fcc670a49d26a0a33",
+        "name": "Ultima III (Pony Canyon) (Disk 1 - Scenario).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5a321e1ed208161e504bbfa61253dc4f",
+        "name": "Ultima III (Pony Canyon) (Disk 2 - User System).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fb1aabf89bc0ea9908c47a82d3eec75b",
+        "name": "Ultima III (Pony Canyon) (Disk 3 - Master System).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27703",
+    "title": "Ultima IV: Quest of the Avatar",
+    "hashes": [
+      {
+        "md5": "aaaa77c33c0d2a37bb78c05e044760c8",
+        "name": "Ultima IV (Disk 1 - Ultima).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "2a82b5d6d1fd5d179178a390e7c1162f",
+        "name": "Ultima IV (Disk 2 - Britannia).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6e801375632971fbf7eacb91828dc6f8",
+        "name": "Ultima IV (Disk 3 - Towne).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a04cd9189e864ca1235f886c6e4fe63b",
+        "name": "Ultima IV (Disk 4 - Underworld).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "010e6150136a4d10cd147a629059203e",
+        "name": "Ultima IV (Disk 5 - Netherworld).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30835",
+    "title": "Underground Monster",
+    "hashes": [
+      {
+        "md5": "9e01b26e07dc14bdad6ff96d1bb640fa",
+        "name": "Underground Monster (Japan) (En) (v1.0) (Umbrella Terms).d88",
+        "labels": [
+          "neokobe",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31385",
+    "title": "Urusei Yatsura: Koi no Survival Birthday",
+    "hashes": [
+      {
+        "md5": "5243c80342f52cf47e6aea8bfcea7445",
+        "name": "Urusei Yatsura - Koi no Survival Birthday (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4bbafc04a0ca52a12229e4e94bd8ccae",
+        "name": "Urusei Yatsura - Koi no Survival Birthday (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9985622b67c223ef72727f3b5c7a2a36",
+        "name": "Urusei Yatsura - Koi no Survival Birthday (Disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fae1ad67f17d1f97dba88ad7244324ab",
+        "name": "Urusei Yatsura - Koi no Survival Birthday (User disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14136",
+    "title": "Veigues: Tactical Gladiator",
+    "hashes": [
+      {
+        "md5": "e461736d33c7a233392a877904d33303",
+        "name": "Veigues (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13982",
+    "title": "Wanderers from Ys",
+    "hashes": [
+      {
+        "md5": "28c2e77e4d80b869604d243527d3a9f5",
+        "name": "Ys III - Wanderers from Ys (Data disk 3 - Opening).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9624e437532e6ea60f7a55f5aa0c04f3",
+        "name": "Ys III - Wanderers from Ys (Data disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a3b7b1f53b7e075cc9ac05a0f5f04c25",
+        "name": "Ys III - Wanderers from Ys (Data disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b8a8b191f89bf70e8539843321a69cf1",
+        "name": "Ys III - Wanderers from Ys (Scenario disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "30873",
+    "title": "WiBArM",
+    "hashes": [
+      {
+        "md5": "ea0ad0fb5e4f89506a70621123bc2558",
+        "name": "Wibarm.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32550",
+    "title": "Will: The Death Trap II",
+    "hashes": [
+      {
+        "md5": "4b68e64831e3dbb189c283369e033053",
+        "name": "Will - The Death Trap II.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30842",
+    "title": "Winter Games",
+    "hashes": [
+      {
+        "md5": "23f20bcc412bdbc607ffac6e9b5aab6c",
+        "name": "Winter Games {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30843",
+    "title": "Wizardry II: Knight of Diamonds",
+    "hashes": [
+      {
+        "md5": "6ae1905a5b52b1e1b9ff8250d73b7f1c",
+        "name": "Wizardry II (Duplicate disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1dbae60966d8705fa43c76db29ef974d",
+        "name": "Wizardry II (Master disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30844",
+    "title": "Wizardry III: Legacy of Llylgamyn",
+    "hashes": [
+      {
+        "md5": "6153c0dc4417d31ae4da73d7a1def412",
+        "name": "Wizardry III (Master disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "273b0a014885eb8683b1eb9d9d140dd7",
+        "name": "Wizardry III (Duplicate disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30845",
+    "title": "Wizardry IV: The Return of Werdna",
+    "hashes": [
+      {
+        "md5": "0b4d890284b34b88297572793868a2bb",
+        "name": "Wizardry IV (Master disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "917a45ebe0faaa4deba558a7968f63c1",
+        "name": "Wizardry IV (Master disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ce40ab44efbe2e2399d5e4409f6e1cf8",
+        "name": "Wizardry IV (Master disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "19f00fc03796b49f8dd549d183e35e07",
+        "name": "Wizardry IV (Duplicate disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8f3a4d7c5f9dbbdf8e743aff960094d1",
+        "name": "Wizardry IV (Duplicate disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6db55b9acabd697b91c1c3005ec3d0e5",
+        "name": "Wizardry IV (Duplicate disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30846",
+    "title": "Wizardry V: Heart of the Maelstrom",
+    "hashes": [
+      {
+        "md5": "29a8d00a211f46b5107c9f6e8d906efe",
+        "name": "Wizardry V (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b68c28c79d76a2501f522d54823776c0",
+        "name": "Wizardry V (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7266693a998432280ecdc7674439db79",
+        "name": "Wizardry V (Disk C).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fe178efc5d2c885d95509658dd85e6c1",
+        "name": "Wizardry V (Disk D).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13937",
+    "title": "Wizardry: Proving Grounds of the Mad Overlord",
+    "hashes": [
+      {
+        "md5": "17c0cc341d1ed3bffeeb718ee82ee44e",
+        "name": "Wizardry (Duplicate disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b3096d44da362c99fdcd5c7aafb260bf",
+        "name": "Wizardry (Master disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9385",
+    "title": "Woody Poco",
+    "hashes": [
+      {
+        "md5": "d729da38a871b9b4428a6a2c52c63c1c",
+        "name": "Woody Poco.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "42c40261ecbf98a31b4dac5266053267",
+        "name": "Woody Poco [Set 1].d88",
+        "labels": [
+          "neokobe",
+          "main"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28056",
+    "title": "World Golf",
+    "hashes": [
+      {
+        "md5": "00655ab95d359e866ddfd4a351223c5c",
+        "name": "World Golf {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28057",
+    "title": "World Golf II",
+    "hashes": [
+      {
+        "md5": "d664dc25291c79df03258f9ea206c1c8",
+        "name": "World Golf II (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "be8b591b01bbd6d01256f61eb028676e",
+        "name": "World Golf II (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28058",
+    "title": "World Golf III",
+    "hashes": [
+      {
+        "md5": "666b09bfea159097eb46f56971f4343c",
+        "name": "World Golf III (System disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6bda2179396d381a91c9116a4650b550",
+        "name": "World Golf III (Course disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d634c8b9ef2d56c2ea26d689dd46a9d5",
+        "name": "World Golf III (Course disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ad8c58b62109dbcd6c79754ea4c9d33c",
+        "name": "World Golf III (Course disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8aa04898a4eb16a370a8da0dcd1ab64c",
+        "name": "World Golf III (Course disk 4).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30850",
+    "title": "Xak II: Rising of the Redmoon",
+    "hashes": [
+      {
+        "md5": "9d04a20d8f1334b7513db11311279586",
+        "name": "Xak II (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "54ae80f9e95452d97dbff661889b76a0",
+        "name": "Xak II (Disk 2).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0fb6449f696c3fdde8270dd83fb3cab2",
+        "name": "Xak II (Disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7113a3aba93d562d75db2baa7aab330e",
+        "name": "Xak II (Disk 4).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3bace91455ab6535bb051def81e13cb6",
+        "name": "Xak II (Disk 5).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "14be04b82a1454f365dcf551e6b785b0",
+        "name": "Xak II (Disk 6).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "26a95bea4e5b545bd2e9a37099579e41",
+        "name": "Xak II (Disk 7).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30851",
+    "title": "Xak Precious Package: The Tower of Gazzel",
+    "hashes": [
+      {
+        "md5": "642ce8b3e5d18a90c54f7e84aacd6522",
+        "name": "Xak - The Tower of Gazzel (Disk 1 - Demo disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0f9ec7521a3dc146b5ec9bc994b69453",
+        "name": "Xak - The Tower of Gazzel (Disk 2 - Demo disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5a9be9b6d77bf26074d5ff480ea64e42",
+        "name": "Xak - The Tower of Gazzel (Disk 3).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "24e16ad793c41e74a22c24ec5df27b25",
+        "name": "Xak - The Tower of Gazzel (Disk 4 - Program disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d1eff51c6cbe8fdf632fd4060b45994b",
+        "name": "Xak - The Tower of Gazzel (Disk 5).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4fdddad5d480a9622720c05652e24d63",
+        "name": "Xak - The Tower of Gazzel (Disk 6).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13988",
+    "title": "Xak: The Art of Visual Stage",
+    "hashes": [
+      {
+        "md5": "b2c7984608452b100f877cc1fa4785b0",
+        "name": "Xak (Disk 1).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13706",
+    "title": "Xanadu",
+    "hashes": [
+      {
+        "md5": "6108ac1bd2d86c899756a69693d7f230",
+        "name": "Xanadu [Set 1] (Disk A - Program).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cbc04cb70d3410636b79af7c3d2d3d44",
+        "name": "Xanadu (Disk A - Program) [Alt 1].d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 61,
+      "points": 0
+    }
+  },
+  {
+    "id": "13981",
+    "title": "Xanadu Scenario II",
+    "hashes": [
+      {
+        "md5": "806cbd07cac92882eb9f78ff2ac20777",
+        "name": "Xanadu Scenario II (Disk D - Program).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30866",
+    "title": "Xevious",
+    "hashes": [
+      {
+        "md5": "02d523acda38a66345d09cfc1bba01cd",
+        "name": "Xevious {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17400",
+    "title": "Yellow Lemon",
+    "hashes": [
+      {
+        "md5": "ae4f3d7928eed3dab2c5da126c47c19f",
+        "name": "Yellow Lemon {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30878",
+    "title": "Youkai Tantei Chima Chima",
+    "hashes": [
+      {
+        "md5": "b8a77fea4b1cfd9ff95d506e6ab2511b",
+        "name": "Youkai Tantei Chima Chima {V1 mode}.d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6976",
+    "title": "YoukaiDen",
+    "hashes": [
+      {
+        "md5": "0490e79a00ffb44d12c779e07d50ab73",
+        "name": "Youkiden (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13682",
+    "title": "Ys",
+    "hashes": [
+      {
+        "md5": "734fe755f206208b2de2fdf9a4c60ca4",
+        "name": "Ys [Set 1] (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8be6d4d610808cc192b53103f72a40f5",
+        "name": "Ys [Set 1] (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b838e8767516ffaa5b469bb9e319f5a5",
+        "name": "Ys (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "13855",
+    "title": "Ys II",
+    "hashes": [
+      {
+        "md5": "09a2d928953001f81a16d189e97e45e8",
+        "name": "Ys II (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "09af339f48e5f8c70e3967d8eb0645e2",
+        "name": "Ys II [Set 1] (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "333568562d78f8e9a849776f02454f27",
+        "name": "Ys II [Set 1] (Program disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "91f88b9e8db38509dd6cb0751a0535c9",
+        "name": "Ys II (Program disk).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c085bdfbb700c0f9e93ee39bc522163e",
+        "name": "Ys II [Set 1] (Disk B).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d4646d4e1fd57dc998f87b679719bc36",
+        "name": "Ys II (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "14134",
+    "title": "Zeliard",
+    "hashes": [
+      {
+        "md5": "a3635d1d6cbce579b09c2bd48411edcc",
+        "name": "Zeliard (Disk A).d88",
+        "labels": [
+          "neokobe"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

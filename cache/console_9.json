@@ -1,0 +1,3686 @@
+[
+  {
+    "id": "24129",
+    "title": "~Hack~ Sonic the Hedgehog: Megamix",
+    "hashes": [
+      {
+        "md5": "3c12feaa765ff91a126aa62c7eb24de7",
+        "name": "Sonic MegaMix (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 46,
+      "points": 0
+    }
+  },
+  {
+    "id": "5",
+    "title": "~Homebrew~ Mighty Mighty Missile!",
+    "hashes": [
+      {
+        "md5": "c3f476595c1151bde8b87e7a8e2c5c30",
+        "name": "Mighty Mighty Missile (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 56,
+      "points": 0
+    }
+  },
+  {
+    "id": "14766",
+    "title": "~Homebrew~ Riley's Letter Recycle",
+    "hashes": [
+      {
+        "md5": "85fce84ca1245733aac68a1ec28041e4",
+        "name": "Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur)",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "10096",
+    "title": "~Prototype~ Penn & Teller's Smoke and Mirrors",
+    "hashes": [
+      {
+        "md5": "3366c149ddd7b8266deb4a729e804118",
+        "name": "Penn & Teller's Smoke and Mirrors (USA) (Disc 1)",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b27c343ec2d3baba714a3667017c290c",
+        "name": "Penn & Teller's Smoke and Mirrors (USA) (Disc 2)",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "16048",
+    "title": "~Prototype~ Super Strike Trilogy",
+    "hashes": [
+      {
+        "md5": "d1a6f85500a8bce204d97d2eccddb5fc",
+        "name": "Super Strike Trilogy (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32756",
+    "title": "~Prototype~ Timecop",
+    "hashes": [
+      {
+        "md5": "420241acb2d4fe4d47c2a3c70efd5dd3",
+        "name": "TimeCop (Europe) (Demo)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33140",
+    "title": "~Unlicensed~ Battle Frenzy",
+    "hashes": [
+      {
+        "md5": "38bb5e72eb5225d645ad8353c357bef6",
+        "name": "Battle Frenzy (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33142",
+    "title": "~Unlicensed~ Burning Fists - Force Striker",
+    "hashes": [
+      {
+        "md5": "f32ec0553df747c94a2d3babc90e3af5",
+        "name": "Burning Fists - Force Striker (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29378",
+    "title": "~Unlicensed~ Citizen X",
+    "hashes": [
+      {
+        "md5": "8659fb8a92f8434ec24d9d745cd481bb",
+        "name": "Citizen X (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33137",
+    "title": "~Unlicensed~ Marko",
+    "hashes": [
+      {
+        "md5": "29d72665d14487a0e6d41a70e9d5cd4e",
+        "name": "Marko (USA) (Unl)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31406",
+    "title": "3x3 Eyes: Seima Densetsu",
+    "hashes": [
+      {
+        "md5": "005d92de8e2d12b6d1d030103a86ae53",
+        "name": "Seima Densetsu 3x3 Eyes (Japan, Korea)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33143",
+    "title": "A-Rank Thunder - Tanjou-hen",
+    "hashes": [
+      {
+        "md5": "5578e4d1d918e360b6b3c0ff731b0892",
+        "name": "A-Rank Thunder - Tanjou-hen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33120",
+    "title": "A-X-101",
+    "hashes": [
+      {
+        "md5": "9ce5c1fa3eb8892e9493b7bf4d84138f",
+        "name": "A-X-101 (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27248",
+    "title": "After Armageddon Gaiden: Majuu Toushouden Eclipse",
+    "hashes": [
+      {
+        "md5": "3bf65d546ba6a974658b1fed8ca354b6",
+        "name": "After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10066",
+    "title": "After Burner III",
+    "hashes": [
+      {
+        "md5": "0bab2563af94a738a1337d271d565b93",
+        "name": "After Burner III (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16007",
+    "title": "AH-3 ThunderStrike | Thunderhawk",
+    "hashes": [
+      {
+        "md5": "aed2a9d6397feef628a62b75f9101bab",
+        "name": "AH3 - Thunderstrike (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32491",
+    "title": "Aisle Lord",
+    "hashes": [
+      {
+        "md5": "15633f08018318176bda26f38c94b659",
+        "name": "Aisle Lord (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33116",
+    "title": "Alshark",
+    "hashes": [
+      {
+        "md5": "73b21159c2fa23dd0894da2bcff59749",
+        "name": "Alshark (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16040",
+    "title": "Android Assault: The Revenge of Bari-Arm",
+    "hashes": [
+      {
+        "md5": "e6432a363b5e4c5fcd0b1901faf1a3c2",
+        "name": "Android Assault - The Revenge of Bari-Arm (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "10338",
+    "title": "Anett Futatabi",
+    "hashes": [
+      {
+        "md5": "1602f9217f81c10152afaa1ec928e0ec",
+        "name": "Annett Futatabi (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16041",
+    "title": "Arcus I - II - III",
+    "hashes": [
+      {
+        "md5": "3d5420d42fb379f8741357ead446ffd1",
+        "name": "Arcus I, II, III (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33121",
+    "title": "Arslan Senki",
+    "hashes": [
+      {
+        "md5": "d068ae93666f1baf3f0b6b0ca4362045",
+        "name": "Arslan Senki (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33117",
+    "title": "Bakuden - The Unbalanced Zone",
+    "hashes": [
+      {
+        "md5": "1e08ae64a1d5a886387251535db02bda",
+        "name": "Bakuden - The Unbalanced Zone (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10064",
+    "title": "Batman Returns",
+    "hashes": [
+      {
+        "md5": "ad350998d1886ccf9e578de77071779c",
+        "name": "Batman Returns (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14141",
+    "title": "BattleCorps",
+    "hashes": [
+      {
+        "md5": "cdd76439ed11376ee7d78ce30f2cb372",
+        "name": "Battlecorps (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15686",
+    "title": "BC Racers",
+    "hashes": [
+      {
+        "md5": "6d14797a2108c284e27dfac0657b6692",
+        "name": "BC Racers (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 69,
+      "points": 0
+    }
+  },
+  {
+    "id": "33122",
+    "title": "Bill Walsh College Football",
+    "hashes": [
+      {
+        "md5": "0d61eef7aaba3942dcd21b6b4ac47aa3",
+        "name": "Bill Walsh College Football (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16044",
+    "title": "Black Hole Assault",
+    "hashes": [
+      {
+        "md5": "fb9bf17e153dcdd0c0633830995228af",
+        "name": "Blackhole Assault (Europe)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16045",
+    "title": "Bouncers",
+    "hashes": [
+      {
+        "md5": "fd7720c80cb080541cfbddaca02c173a",
+        "name": "Bouncers (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16008",
+    "title": "Bram Stoker's Dracula",
+    "hashes": [
+      {
+        "md5": "4cdf3056049a8876a4ded1d767e13554",
+        "name": "Bram Stoker's Dracula (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33141",
+    "title": "Brutal - Paws of Fury",
+    "hashes": [
+      {
+        "md5": "f551034768405cef3fd7c908377e80fe",
+        "name": "Brutal - Paws of Fury (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16478",
+    "title": "Cadillacs and Dinosaurs: The Second Cataclysm",
+    "hashes": [
+      {
+        "md5": "033544049be92f9bde40a6c078d37746",
+        "name": "Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15525",
+    "title": "Captain Tsubasa",
+    "hashes": [
+      {
+        "md5": "172db4ff987ba4670c2507d9993e966e",
+        "name": "Captain Tsubasa (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16012",
+    "title": "Championship Soccer '94 | Sensible Soccer",
+    "hashes": [
+      {
+        "md5": "39a0a21a1255226be362073b152da857",
+        "name": "Sensible Soccer (Europe)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "98b0c397c6b8e2a7f091e721ed888f50",
+        "name": "Championship Soccer '94 (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16009",
+    "title": "Chuck Rock",
+    "hashes": [
+      {
+        "md5": "1d82340d7ce33385951b16fe1f5ad4c1",
+        "name": "Chuck Rock (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16010",
+    "title": "Chuck Rock II: Son of Chuck",
+    "hashes": [
+      {
+        "md5": "a4b142a5557a0510a66fb58ea6be2080",
+        "name": "Chuck Rock II - Son of Chuck (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12806",
+    "title": "Cliffhanger",
+    "hashes": [
+      {
+        "md5": "12528701985a89e3b2b4731512a004b9",
+        "name": "Cliffhanger (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16011",
+    "title": "Cobra Command",
+    "hashes": [
+      {
+        "md5": "7eb7f731f2fa52e276e3d6c4f481f234",
+        "name": "Cobra Command (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14387",
+    "title": "Corpse Killer",
+    "hashes": [
+      {
+        "md5": "8dde7057eb69e1c06fd0100a00d7d9f9",
+        "name": "Corpse Killer (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28010",
+    "title": "Cosmic Fantasy Stories",
+    "hashes": [
+      {
+        "md5": "7acc48b64cded627197f26e4c6e0512b",
+        "name": "Cosmic Fantasy Stories (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10099",
+    "title": "Crime Patrol",
+    "hashes": [
+      {
+        "md5": "7f39d78927c00bc6859bad1953643b54",
+        "name": "Crime Patrol (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "16013",
+    "title": "Cyborg 009",
+    "hashes": [
+      {
+        "md5": "98276a4778e2e0263a19a724129ac1d8",
+        "name": "Cyborg 009 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32492",
+    "title": "Daihoushinden",
+    "hashes": [
+      {
+        "md5": "d7e3a5052b396e99eccdbf9c991d959d",
+        "name": "Daihoushinden (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15998",
+    "title": "Dark Wizard",
+    "hashes": [
+      {
+        "md5": "6a480004891ae5d942e62afdbbbd1b52",
+        "name": "Dark Wizard (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33118",
+    "title": "Death Bringer",
+    "hashes": [
+      {
+        "md5": "5f7e76c3f04c85865834829369fa929e",
+        "name": "Death Bringer (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18497",
+    "title": "Demolition Man",
+    "hashes": [
+      {
+        "md5": "e8a591459675bc15793b36847491c194",
+        "name": "Demolition Man (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33119",
+    "title": "Devastator",
+    "hashes": [
+      {
+        "md5": "7bbda98f4c6527f681e15e0032a17e85",
+        "name": "Devastator (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10222",
+    "title": "Double Switch",
+    "hashes": [
+      {
+        "md5": "2b993293168b46a43f6a30683e1b85f3",
+        "name": "Double Switch (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10022",
+    "title": "Dracula Unleashed",
+    "hashes": [
+      {
+        "md5": "1e5609b304f3b0b023caac37b2f995f0",
+        "name": "Dracula Unleashed (USA) (Disc 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8309d2aed7f5bcac384ab5a5913cb5c0",
+        "name": "Dracula Unleashed (USA) (Disc 2)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "12807",
+    "title": "Dragon's Lair",
+    "hashes": [
+      {
+        "md5": "5f2be574b796fadd87574b7287138569",
+        "name": "Dragon's Lair (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17007",
+    "title": "Dune",
+    "hashes": [
+      {
+        "md5": "b0e9b92afa241dfe4ecef261fba4e227",
+        "name": "Dune (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15978",
+    "title": "Dungeon Explorer",
+    "hashes": [
+      {
+        "md5": "6a5efcaf25d32a8330fd623f21f7a00d",
+        "name": "Dungeon Explorer (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "27658",
+    "title": "Dungeon Master II: Skullkeep",
+    "hashes": [
+      {
+        "md5": "ac7d80dee578e35e7011b54c5f0fb993",
+        "name": "Dungeon Master II - Skullkeep (USA) (RE3)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33139",
+    "title": "Dynamic Country Club",
+    "hashes": [
+      {
+        "md5": "4a2588efc1c104d028327dd8eb892a4f",
+        "name": "Dynamic Country Club (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16018",
+    "title": "Earnest Evans",
+    "hashes": [
+      {
+        "md5": "d9fb5e8f32e161bc62d52c9bea7a9ca1",
+        "name": "Earnest Evans (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "14144",
+    "title": "Earthworm Jim: Special Edition",
+    "hashes": [
+      {
+        "md5": "fbd25c6c1f42973b214ace4646c8632a",
+        "name": "Earthworm Jim - Special Edition (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 175,
+      "points": 0
+    }
+  },
+  {
+    "id": "16019",
+    "title": "Ecco the Dolphin",
+    "hashes": [
+      {
+        "md5": "1f44b55f4a15e242957640518955b71c",
+        "name": "Ecco the Dolphin (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1f9896c6fc87315538aead49d345178b",
+        "name": "Ecco the Dolphin (Europe)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16020",
+    "title": "Ecco: The Tides of Time",
+    "hashes": [
+      {
+        "md5": "07902494ece5bebeaf77df1cd3759191",
+        "name": "Ecco - The Tides of Time (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33144",
+    "title": "Egawa Suguru no Super League CD",
+    "hashes": [
+      {
+        "md5": "e4bc7d4d2cfc512c61da4a5b87ca297c",
+        "name": "Egawa Suguru no Super League CD (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16014",
+    "title": "ESPN Baseball Tonight",
+    "hashes": [
+      {
+        "md5": "cafe8de2b10583f7e78a40d355ead8c5",
+        "name": "ESPN Baseball Tonight (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16015",
+    "title": "ESPN National Hockey Night",
+    "hashes": [
+      {
+        "md5": "7faf3c75d289303060453d643ba42f08",
+        "name": "ESPN National Hockey Night (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16016",
+    "title": "ESPN NBA Hangtime '95",
+    "hashes": [
+      {
+        "md5": "3ab12d688927ca2c25ca7759fc900b77",
+        "name": "ESPN NBA Hangtime '95 (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16017",
+    "title": "ESPN Sunday Night NFL",
+    "hashes": [
+      {
+        "md5": "cece0d52aaec9983a9bf3e5bc9914e23",
+        "name": "ESPN Sunday Night NFL (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16021",
+    "title": "Eternal Champions: Challenge from the Dark Side",
+    "hashes": [
+      {
+        "md5": "59f664ff7637ce4f8fbbe2b77c66c487",
+        "name": "Eternal Champions - Challenge from the Dark Side (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 113,
+      "points": 0
+    }
+  },
+  {
+    "id": "14617",
+    "title": "Eye of the Beholder",
+    "hashes": [
+      {
+        "md5": "59608bf529e780c51684555300111d55",
+        "name": "Eye of the Beholder (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19845",
+    "title": "F1 Circus CD",
+    "hashes": [
+      {
+        "md5": "f9d91058568d67534764a1bef986c414",
+        "name": "F1 Circus CD (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16023",
+    "title": "Fahrenheit",
+    "hashes": [
+      {
+        "md5": "6ee47c73c5d8a8227de2814d20d49b04",
+        "name": "Fahrenheit (USA) (Disc 1) (Key Disc) (Sega CD)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9cd39bd9232bf8b00003f86fc50244ce",
+        "name": "Fahrenheit (USA) (Disc 2) (32X CD)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16024",
+    "title": "Fatal Fury Special",
+    "hashes": [
+      {
+        "md5": "4e086207542563f208422e76f48d7ddc",
+        "name": "Fatal Fury Special (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16022",
+    "title": "FIFA International Soccer",
+    "hashes": [
+      {
+        "md5": "3ec5d2f71eb8964c3c85b0e252d6787f",
+        "name": "FIFA International Soccer (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10070",
+    "title": "Final Fight CD",
+    "hashes": [
+      {
+        "md5": "26ae70cce7a0e7f4b2b2e9edb78a399c",
+        "name": "Final Fight CD (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "15557",
+    "title": "Flashback: The Quest for Identity",
+    "hashes": [
+      {
+        "md5": "9e622c639d62cebd0a027ff788fb820d",
+        "name": "Flashback - The Quest for Identity (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "14145",
+    "title": "Formula One World Championship: Beyond the Limit",
+    "hashes": [
+      {
+        "md5": "7d062b84c7496a6c87f97799f57761f1",
+        "name": "Formula One World Championship - Beyond the Limit (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20440",
+    "title": "Game no Kanzume: Sega Games Can Vol. 1",
+    "hashes": [
+      {
+        "md5": "a0542fd897d36e4ca1f3fc3de566463c",
+        "name": "Game no Kandume Vol. 1 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20441",
+    "title": "Game no Kanzume: Sega Games Can Vol. 2",
+    "hashes": [
+      {
+        "md5": "057bcab2695ed226223781186a022c3a",
+        "name": "Game no Kandume Vol. 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32490",
+    "title": "Gen'ei Toshi: Illusion City",
+    "hashes": [
+      {
+        "md5": "382a3de2ba1427b7e74edde54d6dcbeb",
+        "name": "Gen'ei Toshi - Illusion City (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17008",
+    "title": "Ground Zero Texas",
+    "hashes": [
+      {
+        "md5": "0a3b03f3aa306bf76ee78dc1ee130712",
+        "name": "Ground Zero Texas (USA) (Disc 2)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ce35f52d95bfc57be16a2b03f741e146",
+        "name": "Ground Zero Texas (USA) (Disc 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "12873",
+    "title": "Heart of the Alien",
+    "hashes": [
+      {
+        "md5": "a97bcc6366ed14d65978a99990e04319",
+        "name": "Heart of the Alien - Out of This World Parts I and II (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16026",
+    "title": "Heavy Nova",
+    "hashes": [
+      {
+        "md5": "a668cbc6c9b5702fc1593be5911bb399",
+        "name": "Heavy Nova (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10029",
+    "title": "Heimdall",
+    "hashes": [
+      {
+        "md5": "00b02db889fc192478662f08883a0413",
+        "name": "Heimdall (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16027",
+    "title": "Hook",
+    "hashes": [
+      {
+        "md5": "afbd94dbd4b515328b277b7cf0b1ecb6",
+        "name": "Hook (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17009",
+    "title": "Iron Helix",
+    "hashes": [
+      {
+        "md5": "31779e90353f3a234392fa4c71011160",
+        "name": "Iron Helix (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14208",
+    "title": "Jaguar XJ220",
+    "hashes": [
+      {
+        "md5": "3cdeb65218bf3434a6fd64ab062be44f",
+        "name": "Jaguar XJ220 (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16037",
+    "title": "Jeopardy!",
+    "hashes": [
+      {
+        "md5": "9a163ef05322da9dd903e282c139e18e",
+        "name": "Jeopardy! (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "33138",
+    "title": "Joe Montana's NFL Football",
+    "hashes": [
+      {
+        "md5": "4dfdd3a83222f6b60bcadd1bafc5f405",
+        "name": "Joe Montana's NFL Football (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17075",
+    "title": "Jurassic Park",
+    "hashes": [
+      {
+        "md5": "11ed30d2074ccd20ac6187d8271ca6e8",
+        "name": "Jurassic Park (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "10069",
+    "title": "Keio Flying Squadron",
+    "hashes": [
+      {
+        "md5": "4e68b8b035ac1821a71089bda99625a6",
+        "name": "Keio Flying Squadron (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "14142",
+    "title": "Kids on Site",
+    "hashes": [
+      {
+        "md5": "0bb113c5b12529830b5e2d471d75e3fa",
+        "name": "Kids on Site (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16028",
+    "title": "Lethal Enforcers",
+    "hashes": [
+      {
+        "md5": "b9b390d81457bf4699c2d877e7069e8d",
+        "name": "Lethal Enforcers (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16029",
+    "title": "Lethal Enforcers II: Gun Fighters",
+    "hashes": [
+      {
+        "md5": "1c7aaa53bd684af2803152cbc4c9ab27",
+        "name": "Lethal Enforcers II - Gun Fighters (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21474",
+    "title": "Links: The Challenge of Golf",
+    "hashes": [
+      {
+        "md5": "330d9ace4eb98e5cf418ea8472517960",
+        "name": "Links - The Challenge of Golf (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16030",
+    "title": "Loadstar: The Legend of Tully Bodine",
+    "hashes": [
+      {
+        "md5": "95c1aadc2453bfedd9d6a0a06b82e102",
+        "name": "Loadstar - The Legend of Tully Bodine (USA, Brazil)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16031",
+    "title": "Lords of Thunder",
+    "hashes": [
+      {
+        "md5": "9d7b20d30326563892681ebc0ad0af7e",
+        "name": "Lords of Thunder (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 59,
+      "points": 0
+    }
+  },
+  {
+    "id": "14146",
+    "title": "Lunar: Eternal Blue",
+    "hashes": [
+      {
+        "md5": "9f173a8aedd5cca2667dba81ddaddae5",
+        "name": "Lunar - Eternal Blue (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 90,
+      "points": 0
+    }
+  },
+  {
+    "id": "10563",
+    "title": "Lunar: The Silver Star",
+    "hashes": [
+      {
+        "md5": "e4255ce2c677003b33e4d7798b27cacd",
+        "name": "Lunar - The Silver Star (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 90,
+      "points": 0
+    }
+  },
+  {
+    "id": "16033",
+    "title": "Mad Dog II: The Lost Gold",
+    "hashes": [
+      {
+        "md5": "a7fad1b490afa05caa0801980ee4259c",
+        "name": "Mad Dog II - The Lost Gold (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16032",
+    "title": "Mad Dog McCree",
+    "hashes": [
+      {
+        "md5": "69dc2a80594b0242e282a3b5ea99b6a6",
+        "name": "Mad Dog McCree (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "23911",
+    "title": "Make My Video Series",
+    "hashes": [
+      {
+        "md5": "2443b9ca11a3e5efed2417c1da865fe6",
+        "name": "Make My Video - Kris Kross (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "31a75e7ec30ace5060593b526306f9b1",
+        "name": "Make My Video - Marky Mark and the Funky Bunch (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b6d6dc841ced34dab4b40ea112f711a2",
+        "name": "Make My Video - INXS (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "efc484956183811fbb30fae4405dc0e3",
+        "name": "Power Factory (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16000",
+    "title": "Mansion of Hidden Souls",
+    "hashes": [
+      {
+        "md5": "51b18d3e4a6581d667a467bf1c9fc406",
+        "name": "Mansion of Hidden Souls (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "16035",
+    "title": "Marko's Magic Football",
+    "hashes": [
+      {
+        "md5": "64e44e712cd3f026da1abce16cc39de2",
+        "name": "Marko's Magic Football (Europe) (En,Fr,De,Es)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16005",
+    "title": "Mary Shelley's Frankenstein",
+    "hashes": [
+      {
+        "md5": "f48c5da08c3cb97c266d4a91617f7ac9",
+        "name": "Mary Shelley's Frankenstein (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14209",
+    "title": "MegaRace",
+    "hashes": [
+      {
+        "md5": "b111ff79baa4e42536429bb4aebdd578",
+        "name": "MegaRace (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16034",
+    "title": "Mickey Mania: The Timeless Adventures of Mickey Mouse",
+    "hashes": [
+      {
+        "md5": "0de3f1c9f358f35eb589125d07b11f42",
+        "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "54339f3c874613f830a49001098bc725",
+        "name": "Mickey Mania (Europe)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33136",
+    "title": "Microcosm",
+    "hashes": [
+      {
+        "md5": "38152d724bf0c92af0c5008f9b90b489",
+        "name": "Microcosm (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33135",
+    "title": "Midnight Raiders",
+    "hashes": [
+      {
+        "md5": "94956568ce9796f9e5b047d60b5549f3",
+        "name": "Midnight Raiders (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32713",
+    "title": "Might and Magic III: Isles of Terra",
+    "hashes": [
+      {
+        "md5": "b3928abd498104c493701a9bf5570341",
+        "name": "Might and Magic III - Isles of Terra (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14768",
+    "title": "Mighty Morphin Power Rangers",
+    "hashes": [
+      {
+        "md5": "85c428698e2155b5c27d33726a829253",
+        "name": "Mighty Morphin Power Rangers (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "15402",
+    "title": "Mortal Kombat",
+    "hashes": [
+      {
+        "md5": "42f6c9c6512d0262392d4be743d9ea11",
+        "name": "Mortal Kombat (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "16050",
+    "title": "NBA Jam",
+    "hashes": [
+      {
+        "md5": "408ee50fe04df5ec2fcdca9ed9d2049e",
+        "name": "NBA Jam (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33134",
+    "title": "NFL's Greatest - San Francisco vs. Dallas 1978-1993",
+    "hashes": [
+      {
+        "md5": "a399633fac153668829e4ebaddd4ae94",
+        "name": "NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16051",
+    "title": "NHL '94 | NHL Hockey '94",
+    "hashes": [
+      {
+        "md5": "0b9d6fadf94c8d6ffec319f2e98122cb",
+        "name": "NHL '94 (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6269cd99b388b6f37a274b4e1daefb7d",
+        "name": "NHL Hockey '94 (Europe)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16055",
+    "title": "Night Striker",
+    "hashes": [
+      {
+        "md5": "8710429ca1c98c1f6a079497bbf09295",
+        "name": "Night Striker (Japan, Korea)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17011",
+    "title": "Night Trap",
+    "hashes": [
+      {
+        "md5": "3110d9f656697adb3cbf5f1cb0d77e6f",
+        "name": "Night Trap (USA) (Disc 1)+(Disc 2)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 27,
+      "points": 0
+    }
+  },
+  {
+    "id": "33133",
+    "title": "Novastorm",
+    "hashes": [
+      {
+        "md5": "a44d53716421ab1e926aff1c51da7b6c",
+        "name": "Novastorm (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16001",
+    "title": "Panic!",
+    "hashes": [
+      {
+        "md5": "070c46f42e72548c5df0c05fa58ed838",
+        "name": "Panic! (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16036",
+    "title": "Pitfall: The Mayan Adventure",
+    "hashes": [
+      {
+        "md5": "bfe0d87c045a6198aad7133f37a754ed",
+        "name": "Pitfall - The Mayan Adventure (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10084",
+    "title": "Popful Mail",
+    "hashes": [
+      {
+        "md5": "9e155928a45983bb845f800ba6908f96",
+        "name": "Popful Mail (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 70,
+      "points": 0
+    }
+  },
+  {
+    "id": "28632",
+    "title": "Power Monger",
+    "hashes": [
+      {
+        "md5": "fd8573de94cbe85864d31a92cc33012e",
+        "name": "Power Monger (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10061",
+    "title": "Prince of Persia",
+    "hashes": [
+      {
+        "md5": "8ed2c4e438e1ce4019e186120aa77840",
+        "name": "Prince of Persia (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "14479",
+    "title": "Prize Fighter",
+    "hashes": [
+      {
+        "md5": "a72581425cbcaf566ab74c44bcc968ce",
+        "name": "Prize Fighter (USA) (Disc 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f6681bb8b7fe92e8c82a1520c48fdc21",
+        "name": "Prize Fighter (USA) (Disc 2)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16002",
+    "title": "Puggsy",
+    "hashes": [
+      {
+        "md5": "75f3a865d46b79306f951b2dcec058eb",
+        "name": "Puggsy (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33145",
+    "title": "Quiz Tonosama no Yabou",
+    "hashes": [
+      {
+        "md5": "a6fff63605e832c4767d9bd916746e8b",
+        "name": "Quiz Tonosama no Yabou (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25913",
+    "title": "Racing Aces",
+    "hashes": [
+      {
+        "md5": "d5eb1c401b87c9fa82657c59c4692c3e",
+        "name": "Racing Aces (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16003",
+    "title": "Radical Rex",
+    "hashes": [
+      {
+        "md5": "b4f33dda22f00c5b6c4017bcbe5a4641",
+        "name": "Radical Rex (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 34,
+      "points": 0
+    }
+  },
+  {
+    "id": "33146",
+    "title": "Ranma ½: Byakuran Aika",
+    "hashes": [
+      {
+        "md5": "2b2e58c6d389fc0fb3de9ed1048152fc",
+        "name": "Ranma 1-2 - Byakuranaika (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33132",
+    "title": "RDF - Global Conflict",
+    "hashes": [
+      {
+        "md5": "2432133f976787c08445bcee861da510",
+        "name": "RDF - Global Conflict (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12876",
+    "title": "Revenge of the Ninja",
+    "hashes": [
+      {
+        "md5": "3226ece45f8564751e3d05c399ff3ef3",
+        "name": "Revenge of the Ninja (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25914",
+    "title": "Revengers of Vengeance",
+    "hashes": [
+      {
+        "md5": "cf8116a12b94300a0cd9d3e8d2a69339",
+        "name": "Revengers of Vengeance (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12870",
+    "title": "Rise of the Dragon",
+    "hashes": [
+      {
+        "md5": "367a921f8d55f1a4693389a33bd1fcac",
+        "name": "Rise of the Dragon (USA) (Rerelease) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "20442",
+    "title": "Road Avenger",
+    "hashes": [
+      {
+        "md5": "c12b678530e73402d3cb83d6e3eabdde",
+        "name": "Road Avenger (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "33147",
+    "title": "Road Blaster FX",
+    "hashes": [
+      {
+        "md5": "125ecf324081bdcb2b6f9c308de0a9d9",
+        "name": "Road Blaster FX (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15564",
+    "title": "Road Rash",
+    "hashes": [
+      {
+        "md5": "211ade60b28992129345fa065dd869c1",
+        "name": "Road Rash (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 40,
+      "points": 0
+    }
+  },
+  {
+    "id": "10068",
+    "title": "Robo Aleste | Dennin Aleste: Nobunaga and His Ninja Force",
+    "hashes": [
+      {
+        "md5": "71967ae1a3446731e64ca18a5539191d",
+        "name": "Dennin Aleste - Nobunaga and His Ninja Force (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "96128820faad3fc8e5d06e0f0b4ae378",
+        "name": "Robo Aleste (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "17010",
+    "title": "Samurai Shodown",
+    "hashes": [
+      {
+        "md5": "88a45e257d08dd7eec466a1994bbb596",
+        "name": "Samurai Shodown (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "32493",
+    "title": "Seirei Shinseiki: Fhey Area",
+    "hashes": [
+      {
+        "md5": "2a633f066561ebd101f6610ec0bd0eb4",
+        "name": "Seirei Shinseiki - Fhey Area (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33148",
+    "title": "Sengoku Denshou",
+    "hashes": [
+      {
+        "md5": "351e3107f76ec9b76683a22dc8b15d36",
+        "name": "Sengoku Denshou (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10583",
+    "title": "Sewer Shark",
+    "hashes": [
+      {
+        "md5": "76745a0f053dfb1f06ffd5d27639e88e",
+        "name": "Sewer Shark (USA) (Not for Resale)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e3e0b93a9e1a945fad7b99a520cd0cbd",
+        "name": "Sewer Shark (USA) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "16046",
+    "title": "Shadow of the Beast II",
+    "hashes": [
+      {
+        "md5": "ee68bfea6a26989bd14b1cbfeb4ca061",
+        "name": "Shadow of the Beast II (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10074",
+    "title": "Shadowrun",
+    "hashes": [
+      {
+        "md5": "e16a01794bbd2f1d2c934e0109db30bd",
+        "name": "Shadowrun (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33130",
+    "title": "Sherlock Holmes: Consulting Detective",
+    "hashes": [
+      {
+        "md5": "cb1ada19197ec469d7e4f3fbdf3dcbfa",
+        "name": "Sherlock Holmes - Consulting Detective (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33131",
+    "title": "Sherlock Holmes: Consulting Detective Vol. II",
+    "hashes": [
+      {
+        "md5": "79aa2fea650ddd2117642abf22f2dd32",
+        "name": "Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14211",
+    "title": "Shin Megami Tensei",
+    "hashes": [
+      {
+        "md5": "ede616d69f7a03e5d23418883063b994",
+        "name": "Shin Megami Tensei (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10569",
+    "title": "Shining Force CD",
+    "hashes": [
+      {
+        "md5": "3d13caa66daad4cc3fffa47f066710a5",
+        "name": "Shining Force CD (USA) (3R)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 112,
+      "points": 0
+    }
+  },
+  {
+    "id": "12872",
+    "title": "Silpheed",
+    "hashes": [
+      {
+        "md5": "260a58e3f33816178e0a9a632af9d188",
+        "name": "Silpheed (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "33149",
+    "title": "SimEarth",
+    "hashes": [
+      {
+        "md5": "ff4d7c2a200d96911fec3a9fa32cc240",
+        "name": "SimEarth (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17690",
+    "title": "Slam City with Scottie Pippen",
+    "hashes": [
+      {
+        "md5": "34120a67576da955387224013f3464a9",
+        "name": "Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "44ba1efaf052f75f7f1433a632053ec7",
+        "name": "Slam City with Scottie Pippen (USA, Brazil) (Disc 4) (Smash)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5a618c674babae91c275bac05a1b47c3",
+        "name": "Slam City with Scottie Pippen (USA, Brazil) (Disc 3) (Mad Dog) (RE-1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7040621f5311533e7a9c1c27cecfd41a",
+        "name": "Slam City with Scottie Pippen (USA, Brazil) (Disc 2) (Juice) (RE-1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a2cd306851ecefd70846522c8953c55d",
+        "name": "Slam City with Scottie Pippen (USA) (Disc 2) (Juice) (Sega CD 32X)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a4f4e4f33afdbcbbbbc4e391174f11e9",
+        "name": "Slam City with Scottie Pippen (USA, Brazil) (Disc 1) (Fingers) (RE-1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cd211af11766c83f3068d21069892d71",
+        "name": "Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f0c1a4be196626d015019a00ae1d3612",
+        "name": "Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (Sega CD 32X)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10067",
+    "title": "Snatcher",
+    "hashes": [
+      {
+        "md5": "38318ed1f6f7732a3fa2495288f6da24",
+        "name": "Snatcher (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "125672bbd8581cdccb9ac51ea46cc3e1",
+        "name": "Snatcher (USA) (Es) (3lm4dn0)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 66,
+      "points": 0
+    }
+  },
+  {
+    "id": "10564",
+    "title": "Sol-Feace",
+    "hashes": [
+      {
+        "md5": "931219b53e97b86e8f18cf4c112c8500",
+        "name": "Sol-Feace (Europe)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "10062",
+    "title": "Sonic CD",
+    "hashes": [
+      {
+        "md5": "204f8d81ecf13aa7dc75cbafaf4c4ca3",
+        "name": "Sonic The Hedgehog CD (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9098e511e738cc6492989342562d36b6",
+        "name": "Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC)",
+        "labels": [
+          "redump",
+          "rapatches",
+          "rhdn"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a17215f3dafcc420ef25a1d1fc65c2e8",
+        "name": "Sonic CD (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 102,
+      "points": 0
+    }
+  },
+  {
+    "id": "15992",
+    "title": "Soul Star",
+    "hashes": [
+      {
+        "md5": "cda361103444e5b53acea28a59fb5ac4",
+        "name": "SoulStar (Europe) (En,Fr,De)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15707",
+    "title": "Space Ace",
+    "hashes": [
+      {
+        "md5": "bee946414656974b365b1a2955437d7d",
+        "name": "Space Ace (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14212",
+    "title": "Star Wars Chess",
+    "hashes": [
+      {
+        "md5": "0aa9aa05e09b9c290a22dcf3c1799cab",
+        "name": "Software Toolworks' Star Wars Chess, The (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33129",
+    "title": "Star Wars: Rebel Assault",
+    "hashes": [
+      {
+        "md5": "14e37595e2c89a110cbf905dab680476",
+        "name": "Star Wars - Rebel Assault (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33128",
+    "title": "Starblade",
+    "hashes": [
+      {
+        "md5": "d8e1db57889e95a0777ea87fbbe0588d",
+        "name": "Starblade (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33127",
+    "title": "Stellar-Fire",
+    "hashes": [
+      {
+        "md5": "83c2ae359cc4e7c7ada8e5f303d0808c",
+        "name": "Stellar-Fire (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33150",
+    "title": "Supreme Warrior",
+    "hashes": [
+      {
+        "md5": "aa6091515c08d848efb7a0e6c3a2c122",
+        "name": "Supreme Warrior (USA) (Disc 1) (Fire & Earth)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "356efe645b2b2fedc04ed262698f83e1",
+        "name": "Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33126",
+    "title": "Surgical Strike",
+    "hashes": [
+      {
+        "md5": "4e27347bf0fda02f027b316cdf6aea83",
+        "name": "Surgical Strike (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33125",
+    "title": "Syndicate",
+    "hashes": [
+      {
+        "md5": "c51ee6beebd2263dfb3a16cff67f4d02",
+        "name": "Syndicate (Europe) (En,Fr,De)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33151",
+    "title": "Tenbu Mega CD Special",
+    "hashes": [
+      {
+        "md5": "6ea0996b188d8a50397a7d0089d3946c",
+        "name": "Tenbu Mega CD Special (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33152",
+    "title": "Tenkafubu - Eiyuutachi no Houkou",
+    "hashes": [
+      {
+        "md5": "dc25ffeaf2e1a2094d99efddc0c08040",
+        "name": "Tenkafubu - Eiyuutachi no Houkou (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16004",
+    "title": "The Adventures of Batman & Robin",
+    "hashes": [
+      {
+        "md5": "8d7815b041daf04db6eef8e0b5cbb83a",
+        "name": "Adventures of Batman and Robin, The (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16006",
+    "title": "The Adventures of Willy Beamish",
+    "hashes": [
+      {
+        "md5": "88e929c3c9db840c2f784d16398651d8",
+        "name": "Adventures of Willy Beamish, The (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "14852",
+    "title": "The Amazing Spider-Man vs. the Kingpin",
+    "hashes": [
+      {
+        "md5": "03cc7766d9738f00820f52b7563a8dd5",
+        "name": "Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "dde3d8f861c8e1a65c737ab454d13be4",
+        "name": "Amazing Spider-Man vs. The Kingpin, The (Europe)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 27,
+      "points": 0
+    }
+  },
+  {
+    "id": "14210",
+    "title": "The Lawnmower Man",
+    "hashes": [
+      {
+        "md5": "8b4d90416e102bfee7449d5e18947030",
+        "name": "Lawnmower Man, The (Europe)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 63,
+      "points": 0
+    }
+  },
+  {
+    "id": "15705",
+    "title": "The Masked Rider: Kamen Rider ZO",
+    "hashes": [
+      {
+        "md5": "04521eb3a053f158715230281083e812",
+        "name": "Masked Rider, The - Kamen Rider ZO (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a4b82ee01e942c71bd45c890063fe808",
+        "name": "Kamen Rider ZO (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "16025",
+    "title": "The Misadventures of Flink",
+    "hashes": [
+      {
+        "md5": "fac65e7678169ca057e6f5538758c1c4",
+        "name": "Flink (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 72,
+      "points": 0
+    }
+  },
+  {
+    "id": "21557",
+    "title": "The Ninja Warriors",
+    "hashes": [
+      {
+        "md5": "1aeafb0b8ab68fb4fb199c3c8d39e757",
+        "name": "Ninja Warriors, The (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "10065",
+    "title": "The Secret of Monkey Island",
+    "hashes": [
+      {
+        "md5": "798cf8e84327135049a465d647485435",
+        "name": "Secret of Monkey Island, The (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 54,
+      "points": 0
+    }
+  },
+  {
+    "id": "27245",
+    "title": "The Smurfs",
+    "hashes": [
+      {
+        "md5": "1dc77dbd635558b151c21841ccb57128",
+        "name": "Smurfs, The (Europe) (En,Fr,De,Es,It)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16488",
+    "title": "The Space Adventure: Cobra - The Legendary Bandit",
+    "hashes": [
+      {
+        "md5": "bf24a3dc6bd2aca3d32ef1f0dea1822b",
+        "name": "Space Adventure, The - Cobra - The Legendary Bandit (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10071",
+    "title": "The Terminator",
+    "hashes": [
+      {
+        "md5": "4b64f8013a066feb347c427778013947",
+        "name": "Terminator, The (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 53,
+      "points": 0
+    }
+  },
+  {
+    "id": "33124",
+    "title": "Theme Park",
+    "hashes": [
+      {
+        "md5": "1f4d2162b858008d52550161bda78066",
+        "name": "Theme Park (Europe) (En,Fr,De,Es)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12874",
+    "title": "Third World War",
+    "hashes": [
+      {
+        "md5": "d2998a94ab8a1e20e367feb1ee81675b",
+        "name": "Third World War (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12875",
+    "title": "Time Gal",
+    "hashes": [
+      {
+        "md5": "5f51a8eb2e5d1aa016d7b995e964d84f",
+        "name": "Time Gal (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b19158cea7aa429b4a2fba9832050954",
+        "name": "Time Gal (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 34,
+      "points": 0
+    }
+  },
+  {
+    "id": "17012",
+    "title": "Tomcat Alley",
+    "hashes": [
+      {
+        "md5": "a3c6a1817d25bdb44ae420efb1782a18",
+        "name": "Tomcat Alley (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16049",
+    "title": "Trivial Pursuit",
+    "hashes": [
+      {
+        "md5": "f84a0acc94c0674967d30740ed26d542",
+        "name": "Trivial Pursuit (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15999",
+    "title": "Ultraverse Prime",
+    "hashes": [
+      {
+        "md5": "eaa7bb525aba09528613e664d6578ea9",
+        "name": "Ultraverse Prime (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31386",
+    "title": "Urusei Yatsura: Dear My Friends",
+    "hashes": [
+      {
+        "md5": "bd155622bf6d5d5ce6881972a8b44633",
+        "name": "Urusei Yatsura - Dear My Friends (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12871",
+    "title": "Vay",
+    "hashes": [
+      {
+        "md5": "6b77f65a5a6a31c376623b629995312e",
+        "name": "Vay (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 80,
+      "points": 0
+    }
+  },
+  {
+    "id": "32489",
+    "title": "Wakusei Woodstock: Funky Horror Band",
+    "hashes": [
+      {
+        "md5": "53505240bd6e12c812cdc502de608809",
+        "name": "Wakusei Woodstock - Funky Horror Band (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33153",
+    "title": "Warau Salesman",
+    "hashes": [
+      {
+        "md5": "f9fc0e8dfd21e47ef5f30e6426162c60",
+        "name": "Warau Salesman (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15994",
+    "title": "Wheel of Fortune",
+    "hashes": [
+      {
+        "md5": "e799f31379929fc058bb3c20928d3e7c",
+        "name": "Wheel of Fortune (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "15995",
+    "title": "Who Shot Johnny Rock?",
+    "hashes": [
+      {
+        "md5": "cc2f05e730a2a04b51946b17dd83c7b0",
+        "name": "Who Shot Johnny Rock (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15996",
+    "title": "Wild Woody",
+    "hashes": [
+      {
+        "md5": "c6a92cce237d22c4f9fc7fa651ae5bdc",
+        "name": "Wild Woody (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14706",
+    "title": "Wing Commander",
+    "hashes": [
+      {
+        "md5": "e6f4bda45b2e75f6d860ba9e7a8f5531",
+        "name": "Wing Commander (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "33154",
+    "title": "Winning Post",
+    "hashes": [
+      {
+        "md5": "73b00e0460c63636bfb222d9c7246307",
+        "name": "Winning Post (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15706",
+    "title": "WireHead",
+    "hashes": [
+      {
+        "md5": "e7dee36b4e4a518cc8fc7a5348c4f777",
+        "name": "WireHead (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14850",
+    "title": "Wolfchild",
+    "hashes": [
+      {
+        "md5": "d70cf6e2a3d04274df9d14e4d55df4a2",
+        "name": "Wolfchild (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15993",
+    "title": "Wonder Dog",
+    "hashes": [
+      {
+        "md5": "ed530df3dd246970d9b5c217f10ac0f9",
+        "name": "Wonder Dog (USA) (RE)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33123",
+    "title": "WonderMega Collection",
+    "hashes": [
+      {
+        "md5": "b579258eb718b61a6df15c42b31829f5",
+        "name": "WonderMega Collection (Japan) (Rev 2)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15997",
+    "title": "World Cup USA 94",
+    "hashes": [
+      {
+        "md5": "9d17a3c47cd0a529798900b5b7585927",
+        "name": "World Cup USA '94 (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14834",
+    "title": "WWF Rage In The Cage",
+    "hashes": [
+      {
+        "md5": "5ff329e7567cd630306a5b0598abdad4",
+        "name": "WWF - Rage in the Cage (USA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33155",
+    "title": "Yumimi Mix",
+    "hashes": [
+      {
+        "md5": "a21ce60fe51e44177918fc6c7d68284c",
+        "name": "Yumimi Mix (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

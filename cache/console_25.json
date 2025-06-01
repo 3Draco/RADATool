@@ -1,0 +1,7160 @@
+[
+  {
+    "id": "11715",
+    "title": "~Demo~ Venetian Blinds",
+    "hashes": [
+      {
+        "md5": "d08fccfbebaa531c4a4fa7359393a0a9",
+        "name": "Venetian Blinds Demo (USA) (Demo).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "13317",
+    "title": "~Hack~ Tank AI",
+    "hashes": [
+      {
+        "md5": "4704e6dae883e35fe31e09e06d4ddbfc",
+        "name": "Tank AI (USA, Europe) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17048",
+    "title": "~Homebrew~ ~Demo~ Mega Man",
+    "hashes": [
+      {
+        "md5": "c74ddb744209a92382616e2fa38d1378",
+        "name": "Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "29062",
+    "title": "~Homebrew~ ~Demo~ Touhou",
+    "hashes": [
+      {
+        "md5": "494af1350a71d7de6661dac265dbbd82",
+        "name": "Touhou (USA) (Demo) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "26007",
+    "title": "~Homebrew~ Alien Force",
+    "hashes": [
+      {
+        "md5": "e204a6b63a8e6e1400fde46bbd054722",
+        "name": "Alien Force (NTSC) (Aftermarket) (Unl) (Nova32).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "26073",
+    "title": "~Homebrew~ Alien Pinball",
+    "hashes": [
+      {
+        "md5": "e8229245b82ed09ec182d74f62482002",
+        "name": "Alien Pinball (NTSC) (v1.0) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27600",
+    "title": "~Homebrew~ Amazona Adventure",
+    "hashes": [
+      {
+        "md5": "cb7f692445421db83d3b7030647aea34",
+        "name": "Amazona Adventure (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13457",
+    "title": "~Homebrew~ Amoeba Jump",
+    "hashes": [
+      {
+        "md5": "0c72cc3a6658c1abd4b735ef55fa72e4",
+        "name": "Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "539f3c42c4e15f450ed93cb96ce93af5",
+        "name": "Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "22520",
+    "title": "~Homebrew~ Anguna",
+    "hashes": [
+      {
+        "md5": "81b400ecf7ddae9c57dcd0fac503749b",
+        "name": "Anguna (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26647",
+    "title": "~Homebrew~ Baby",
+    "hashes": [
+      {
+        "md5": "795bafe9e9f4ea7a5d2c34c1a4fea992",
+        "name": "Baby (NTSC) (v3.0) (Aftermarket) (RobsomeStudios).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26027",
+    "title": "~Homebrew~ Bird & Beans",
+    "hashes": [
+      {
+        "md5": "41e0953e9e8810ce67bc7995b37bbf8b",
+        "name": "Birds and Beans (NTSC) (v2.2) (Aftermarket) (Unl) (Bluswimmer).a26",
+        "labels": [
+          "atariage",
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "26648",
+    "title": "~Homebrew~ BLT Blast",
+    "hashes": [
+      {
+        "md5": "4b69cc7a0adb28188a69508074ee3b9e",
+        "name": "BLT Blast (USA) (v20150605) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25401",
+    "title": "~Homebrew~ C.H.E.A.T.",
+    "hashes": [
+      {
+        "md5": "f0a6612088cd402fc58e5833e2c64745",
+        "name": "C.H.E.A.T. (NTSC) (v1.4) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28935",
+    "title": "~Homebrew~ Cave Raider",
+    "hashes": [
+      {
+        "md5": "e532c1a9c4110c4a359b8e7514dc5c48",
+        "name": "Cave Raider (NTSC) (v1.07) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel",
+          "atariage"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31001",
+    "title": "~Homebrew~ Conquest of Mars",
+    "hashes": [
+      {
+        "md5": "c2fbef02b6eea37d8df3e91107f89950",
+        "name": "Conquest of Mars (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27606",
+    "title": "~Homebrew~ Danger City",
+    "hashes": [
+      {
+        "md5": "3539e1c56b02f7dd49dd487de713360b",
+        "name": "Danger City (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13321",
+    "title": "~Homebrew~ Dark Mage",
+    "hashes": [
+      {
+        "md5": "6333ef5b5cbb77acd47f558c8b7a95d3",
+        "name": "Dark Mage (NTSC) (Aftermarket) (Unl) (Greg Troutman).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "33605",
+    "title": "~Homebrew~ DigiBeatz",
+    "hashes": [
+      {
+        "md5": "586e564c757288003b7f97ec25dd3430",
+        "name": "DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28142",
+    "title": "~Homebrew~ Duelo",
+    "hashes": [
+      {
+        "md5": "ecdf8cd1b01926cee3814604888503b0",
+        "name": "Duelo (NTSC) (v1.0) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22186",
+    "title": "~Homebrew~ Euchre",
+    "hashes": [
+      {
+        "md5": "6205855cc848d1f6c4551391b9bfa279",
+        "name": "Euchre (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14710",
+    "title": "~Homebrew~ Fix-It Felix Sr.",
+    "hashes": [
+      {
+        "md5": "c7490861ebf74ff1722362aaa146029f",
+        "name": "Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "db112399ab6d6402cc2b34f18ef449da",
+        "name": "Fix-It Felix Sr. (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "12795",
+    "title": "~Homebrew~ Flappy",
+    "hashes": [
+      {
+        "md5": "2d33a44e82f88d05f6c50577218c0cae",
+        "name": "Flappy (USA) (RC2) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "30038",
+    "title": "~Homebrew~ Forest",
+    "hashes": [
+      {
+        "md5": "8328e9e521e6d0d4aac2efebe2483608",
+        "name": "Forest (World) (One Player) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25982",
+    "title": "~Homebrew~ Foxy Go Go Go!",
+    "hashes": [
+      {
+        "md5": "ff27ac41047e4b4aa70b621e928ec967",
+        "name": "Foxy Go Go Go! (NTSC) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25395",
+    "title": "~Homebrew~ Furcon Frenzy",
+    "hashes": [
+      {
+        "md5": "28fd7490ddb2f24f7eb6ba97a8f67c6b",
+        "name": "Furcon Frenzy - Scribbly Gum Version (NTSC) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13140",
+    "title": "~Homebrew~ Go Fish!",
+    "hashes": [
+      {
+        "md5": "1b64dbaba6bbc1d428e59f088e8018e7",
+        "name": "Go Fish! (World) (PAL) (Aftermarket).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "787a2faebadc670a887a0e2483b8f034",
+        "name": "Go Fish! (World) (NTSC) (Aftermarket).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "11776",
+    "title": "~Homebrew~ Halo 2600",
+    "hashes": [
+      {
+        "md5": "4afa7f377eae1cafb4265c68f73f2718",
+        "name": "Halo 2600 (World) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "14709",
+    "title": "~Homebrew~ Heartbreak",
+    "hashes": [
+      {
+        "md5": "96d1ba3e42fb06cc4042f2973b0eb460",
+        "name": "Heartbreak (Europe) (PAL 60) (v20130327) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24092",
+    "title": "~Homebrew~ Hunger Shark",
+    "hashes": [
+      {
+        "md5": "919278fc296daeca578376d542166d8c",
+        "name": "Hunger Shark (USA) (v0.2.4) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "84a127ff664edff1fcd6e559eb681fa9",
+        "name": "Hunger Shark (USA) (v0.2.8) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13154",
+    "title": "~Homebrew~ INV+",
+    "hashes": [
+      {
+        "md5": "9ea8ed9dec03082973244a080941e58a",
+        "name": "INV+ (World) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "14711",
+    "title": "~Homebrew~ Joy Ride",
+    "hashes": [
+      {
+        "md5": "89a923f6f6bec64f9b6fa6ff8ea37510",
+        "name": "Joy Ride (USA) (v20130327) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f5746d4c2302ad66defe3a4da7081fbf",
+        "name": "Joy Ride (Europe) (PAL 60) (v20130327 (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26087",
+    "title": "~Homebrew~ Katamari!",
+    "hashes": [
+      {
+        "md5": "b467c468a17b82372244893d767f55e2",
+        "name": "Katamari (NTSC) (v1.3) (Aftermarket) (Unl) (Rabbit2600).a26",
+        "labels": [
+          "atariage",
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "33061",
+    "title": "~Homebrew~ Kelly Kangaroo",
+    "hashes": [
+      {
+        "md5": "c411ec2fed53fa14c1fde93a8a975345",
+        "name": "Kelly Kangaroo (USA) (v0.6) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "13400",
+    "title": "~Homebrew~ Lead",
+    "hashes": [
+      {
+        "md5": "c8c67862963ffe262b80cbb35eeee046",
+        "name": "Lead 8K (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25105",
+    "title": "~Homebrew~ Lucky Chase",
+    "hashes": [
+      {
+        "md5": "9f552e23a8d4f03c2ec7c147cf7fb921",
+        "name": "Lucky Chase (NTSC) (v20230122) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25902",
+    "title": "~Homebrew~ Meooow!",
+    "hashes": [
+      {
+        "md5": "f37fe43b6b6e81c9cb3778819caf1172",
+        "name": "Meooow! (NTSC) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "2337dee4b4ffd22d687d24a87527d8fc",
+        "name": "Meooow! (PAL) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26655",
+    "title": "~Homebrew~ Meteor Fall",
+    "hashes": [
+      {
+        "md5": "cd45895074b3579b2a923bb84143cabe",
+        "name": "Meteor Fall (NTSC) (Aftermarket) (lucascm).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26405",
+    "title": "~Homebrew~ Myst Demake",
+    "hashes": [
+      {
+        "md5": "ac8b54d6994ae6c799687cdc37e393c2",
+        "name": "Myst (VCS) (USA) (Aftermarket) (Unl).e7",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26006",
+    "title": "~Homebrew~ Nemo in Sea",
+    "hashes": [
+      {
+        "md5": "0a1eb409f15d6da08a7a11be6b4948fe",
+        "name": "Nemo in Sea (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26012",
+    "title": "~Homebrew~ Night Watch At Wilford's",
+    "hashes": [
+      {
+        "md5": "1c11a231ef51cd45075d9c3c30c9621a",
+        "name": "Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14693",
+    "title": "~Homebrew~ Oystron",
+    "hashes": [
+      {
+        "md5": "91f0a708eeb93c133e9672ad2c8e0429",
+        "name": "Oystron (World) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "20627",
+    "title": "~Homebrew~ Pac-Man | Dintar's Pac-Man",
+    "hashes": [
+      {
+        "md5": "3ddee021a7daa2fbeb620cca5d662b9d",
+        "name": "Pac-Man 8K (USA) (v5.0) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13151",
+    "title": "~Homebrew~ Pac-Man 4K",
+    "hashes": [
+      {
+        "md5": "6e88da2b704916eb04a998fed9e23a3e",
+        "name": "Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Unl) (Dennis Debro).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "26004",
+    "title": "~Homebrew~ Pakoman",
+    "hashes": [
+      {
+        "md5": "30d72f64ffdd6ab5495328507843b76d",
+        "name": "Pakoman (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28898",
+    "title": "~Homebrew~ Pineapple 2000",
+    "hashes": [
+      {
+        "md5": "49ecfe997893f3e16f6d4b836dc21c9a",
+        "name": "Pineapple 2000 (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26348",
+    "title": "~Homebrew~ Portal 2600",
+    "hashes": [
+      {
+        "md5": "d011d94d78638d09773af797df45aad8",
+        "name": "Portal (Demake) (NTSC) (Aftermarket) (Unl) (ivancilgames).a26",
+        "labels": [
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11695",
+    "title": "~Homebrew~ Princess Rescue",
+    "hashes": [
+      {
+        "md5": "104468e44898b8e9fa4a1500fde8d4cb",
+        "name": "Princess Rescue (NTSC) (v2013-07-31) (Chris Spry).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "28143",
+    "title": "~Homebrew~ Punch Chess",
+    "hashes": [
+      {
+        "md5": "47195a0fe6ccdd82f09599eb11075a11",
+        "name": "Punch Chess (NTSC) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25021",
+    "title": "~Homebrew~ Punch Out",
+    "hashes": [
+      {
+        "md5": "ea6a1cdd1b14eac02759ea6372cfc1f5",
+        "name": "Punch Out (Demake) (NTSC) (Aftermarket) (Unl) (MathanGames).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "13456",
+    "title": "~Homebrew~ Sheep It Up!",
+    "hashes": [
+      {
+        "md5": "1f6267db16ffeb90ba48890d5f84ac9e",
+        "name": "Sheep It Up! - PAL (World) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8debebc61916692e2d66f2edf4bed29c",
+        "name": "Sheep It Up! - NTSC (World) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "da3f54e89b54b0a2391d0513ab8c9861",
+        "name": "Sheep It Up! - SECAM (World) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "13382",
+    "title": "~Homebrew~ Skeleton+",
+    "hashes": [
+      {
+        "md5": "eafe8b40313a65792e88ff9f2fe2655c",
+        "name": "Skeleton+ (NTSC) (Aftermarket) (Unl) (Eric Ball).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "26387",
+    "title": "~Homebrew~ Slide Boy in Maze Land",
+    "hashes": [
+      {
+        "md5": "024e97dabc0b083c31ea52a83cca4e01",
+        "name": "Slide Boy in Maze Land (USA) (Final) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "14725",
+    "title": "~Homebrew~ Snake",
+    "hashes": [
+      {
+        "md5": "bd81069d0945f26d7ff753767208c305",
+        "name": "Snake (Rick Skrbina) (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "28224",
+    "title": "~Homebrew~ Space Barricade",
+    "hashes": [
+      {
+        "md5": "c09aeadc68448329b9e21f47e9872dc6",
+        "name": "Space Barricade (NTSC) (Aftermarket) (lott72).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22548",
+    "title": "~Homebrew~ Spies in the Night",
+    "hashes": [
+      {
+        "md5": "aecdc8da1d67ad5fd520582750e19938",
+        "name": "Spies in the Night (NTSC) (Aftermarket) (Unl) (Jared Gray West).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "20389",
+    "title": "~Homebrew~ Splatform 2600",
+    "hashes": [
+      {
+        "md5": "6216bef66edceb8a24841e6065bf233e",
+        "name": "Splatform 2600 (USA) (v1.01) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27362",
+    "title": "~Homebrew~ Stepz",
+    "hashes": [
+      {
+        "md5": "e796d7f745bf67b96d1ddbc6b5001ba7",
+        "name": "Stepz (USA) (v1.1) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28353",
+    "title": "~Homebrew~ Strike Zone Bowling",
+    "hashes": [
+      {
+        "md5": "93199a4f25c8e01af423ac280e451cb5",
+        "name": "Strike Zone Bowling (NTSC) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13141",
+    "title": "~Homebrew~ Tetris26",
+    "hashes": [
+      {
+        "md5": "0279a63d922163da5a4fde76397f3fe0",
+        "name": "Tetris26 (NTSC) (Aftermarket) (Unl) (Colin Hughes).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "14686",
+    "title": "~Homebrew~ The Angry Video Game Nerd K.O. Boxing",
+    "hashes": [
+      {
+        "md5": "6a7e6fc102bf7459f89419c548a79e2c",
+        "name": "Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 33,
+      "points": 0
+    }
+  },
+  {
+    "id": "18550",
+    "title": "~Homebrew~ Thrust+ Platinum Edition",
+    "hashes": [
+      {
+        "md5": "5e43c0391f7412ae64fae6f3742d6ee9",
+        "name": "Thrust (USA) (v1.27) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4d9c219f1e53bcecb1c3576329cb0e14",
+        "name": "Thrust (USA) (v1.60) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26649",
+    "title": "~Homebrew~ Trashmania: Classic",
+    "hashes": [
+      {
+        "md5": "13db98daa9842a0ba0db1bbc2d4e9e9d",
+        "name": "Trashmania - Classic (NTSC) (Aftermarket) (Jennifer Raye).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26650",
+    "title": "~Homebrew~ Trashmania: Remix",
+    "hashes": [
+      {
+        "md5": "24d468d81ac91c521d01c05904dcad95",
+        "name": "Trashmania - Remix (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13152",
+    "title": "~Homebrew~ Video Simon",
+    "hashes": [
+      {
+        "md5": "16f494f20af5dc803bc35939ef924020",
+        "name": "Video Simon (NTSC) (Aftermarket) (Unl) (Mark De Smet).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "11536",
+    "title": "~Homebrew~ Wall Jump Ninja",
+    "hashes": [
+      {
+        "md5": "2489359c38551a1d96cbaa4e52d8bb30",
+        "name": "Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3c56c0c5f6f97850ed0aa7bcc2a4e30e",
+        "name": "Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket) (Unl).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "26911",
+    "title": "~Homebrew~ Wall-E",
+    "hashes": [
+      {
+        "md5": "8c304722f73b9c91d3b68db6eaad690d",
+        "name": "Wall-E (USA) (v20130624) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "26910",
+    "title": "~Homebrew~ Wipeout 2600",
+    "hashes": [
+      {
+        "md5": "7088177126d7257472986b65690ce88a",
+        "name": "Wipeout 2600 (USA) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f3bb1153e493d740bf41d4e75131001b",
+        "name": "Wipeout 2600 (USA) (Faster Missiles) (Aftermarket) (Unl).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "25027",
+    "title": "~Homebrew~ Xanthiom",
+    "hashes": [
+      {
+        "md5": "bdda231978da7e14757920094693248a",
+        "name": "Xanthiom (NTSC) (v6.0) (Aftermarket) (Unl) (MathanGames).a26",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "13024",
+    "title": "~Homebrew~ Yahtzee",
+    "hashes": [
+      {
+        "md5": "d090836f0a4ea8db9ac7abb7d6adf61e",
+        "name": "Yahtzee (NTSC) (Aftermarket) (Unl) (Russell Babylon).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "11803",
+    "title": "~Homebrew~ Zippy the Porcupine",
+    "hashes": [
+      {
+        "md5": "457b03cd48ff6d895795ef043c6b0f1e",
+        "name": "Zippy the Porcupine (NTSC) (v2) (Aftermarket) (Unl) (Chris Spry).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 27,
+      "points": 0
+    }
+  },
+  {
+    "id": "17740",
+    "title": "~Prototype~ 3-D Genesis",
+    "hashes": [
+      {
+        "md5": "cac9928a84e1001817b223f0cecaa3f2",
+        "name": "3-D Genesis (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20600",
+    "title": "~Prototype~ Aquaventure",
+    "hashes": [
+      {
+        "md5": "038e1e79c3d4410defde4bfe0b99cc32",
+        "name": "Aquaventure (USA) (Proto) (1983-08-12).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26374",
+    "title": "~Prototype~ Bouncin' Baby Bunnies",
+    "hashes": [
+      {
+        "md5": "594dbc80b93fa5804e0f1368c037331d",
+        "name": "Bouncin' Baby Bunnies (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13003",
+    "title": "~Prototype~ Bugs Bunny",
+    "hashes": [
+      {
+        "md5": "a3486c0b8110d9d4b1db5d8a280723c6",
+        "name": "Bugs Bunny (USA) (Proto 2).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13022",
+    "title": "~Prototype~ Donald Duck's Speedboat",
+    "hashes": [
+      {
+        "md5": "937736d899337036de818391a87271e0",
+        "name": "Donald Duck's Speedboat (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "18717",
+    "title": "~Prototype~ Dumbo's Flying Circus",
+    "hashes": [
+      {
+        "md5": "3897744dd3c756ea4b1542e5e181e02a",
+        "name": "Dumbo's Flying Circus (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "3958",
+    "title": "~Prototype~ Elevator Action",
+    "hashes": [
+      {
+        "md5": "71f8bacfbdca019113f3f0801849057e",
+        "name": "Elevator Action (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32962",
+    "title": "~Prototype~ Fish",
+    "hashes": [
+      {
+        "md5": "42110c026e7a30c732e3f56ece48cd05",
+        "name": "Fish (NTSC) (Proto) (1983-12-22).a26",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17914",
+    "title": "~Prototype~ Garfield",
+    "hashes": [
+      {
+        "md5": "dc13df8420ec69841a7c51e41b9fbba5",
+        "name": "Garfield (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "22460",
+    "title": "~Prototype~ Holey Moley",
+    "hashes": [
+      {
+        "md5": "078e08c1ddf839067b7bc7b88dc04ac1",
+        "name": "Holey Moley (USA) (Joystick Conversion) (Prototype).a26",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13071",
+    "title": "~Prototype~ Kabobber",
+    "hashes": [
+      {
+        "md5": "b9d1e3be30b131324482345959aed5e5",
+        "name": "Kabobber (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11785",
+    "title": "~Prototype~ Pizza Chef",
+    "hashes": [
+      {
+        "md5": "d9fbf1113114fb3a3c97550a0689f10f",
+        "name": "Pizza Chef (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28159",
+    "title": "~Prototype~ Rocky and Bullwinkle",
+    "hashes": [
+      {
+        "md5": "d97fd5e6e1daacd909559a71f189f14b",
+        "name": "Rocky & Bullwinkle (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11717",
+    "title": "~Prototype~ Saboteur",
+    "hashes": [
+      {
+        "md5": "a4ecb54f877cd94515527b11e698608c",
+        "name": "Saboteur (USA) (Proto) (1983-12-20).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18769",
+    "title": "~Prototype~ Save Mary",
+    "hashes": [
+      {
+        "md5": "4d502d6fb5b992ee0591569144128f99",
+        "name": "Save Mary! (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13157",
+    "title": "~Prototype~ Save the Whales",
+    "hashes": [
+      {
+        "md5": "e377c3af4f54a51b85efe37d4b7029e6",
+        "name": "Save the Whales (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13033",
+    "title": "~Prototype~ Sinistar",
+    "hashes": [
+      {
+        "md5": "1e85f8bccb4b866d4daa9fcf89306474",
+        "name": "Sinistar (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18506",
+    "title": "~Prototype~ Snow White and the Seven Dwarfs",
+    "hashes": [
+      {
+        "md5": "75ee371ccfc4f43e7d9b8f24e1266b55",
+        "name": "Snow White and the Seven Dwarfs (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "23903",
+    "title": "~Prototype~ Sonar",
+    "hashes": [
+      {
+        "md5": "0e2f1011c993d9181f76faab4b3514db",
+        "name": "Sonar (Unknown) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15771",
+    "title": "~Prototype~ Star Wars: Return of the Jedi: Ewok Adventure",
+    "hashes": [
+      {
+        "md5": "d44d90e7c389165f5034b5844077777f",
+        "name": "Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13098",
+    "title": "~Prototype~ Tempest",
+    "hashes": [
+      {
+        "md5": "c830f6ae7ee58bcc2a6712fb33e92d55",
+        "name": "Tempest (USA) (Proto).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "13023",
+    "title": "~Prototype~ Xevious",
+    "hashes": [
+      {
+        "md5": "c6688781f4ab844852f4e3352772289b",
+        "name": "Xevious (USA) (Proto) (1983-08-02).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "13327",
+    "title": "3-D Tic-Tac-Toe",
+    "hashes": [
+      {
+        "md5": "0db4f4150fecf77e4ce72ca4d04c052f",
+        "name": "3-D Tic-Tac-Toe (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e3600be9eb98146adafdc12d91323d0f",
+        "name": "3-D Tic-Tac-Toe (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "12902",
+    "title": "Acid Drop",
+    "hashes": [
+      {
+        "md5": "17ee23e5da931be82f733917adcb6386",
+        "name": "Acid Drop (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "11778",
+    "title": "Adventure",
+    "hashes": [
+      {
+        "md5": "157bddb7192754a45372be196797f284",
+        "name": "Adventure (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4b27f5397c442d25f0c418ccdacf1926",
+        "name": "Adventure (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "16929",
+    "title": "Adventures of TRON",
+    "hashes": [
+      {
+        "md5": "ca4f8c5b4d6fb9d608bb96bc7ebd26c7",
+        "name": "Adventures of TRON (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16277",
+    "title": "Air Raid",
+    "hashes": [
+      {
+        "md5": "35be55426c1fec32dfb503b4f0651572",
+        "name": "Air Raid (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 43,
+      "points": 0
+    }
+  },
+  {
+    "id": "29580",
+    "title": "Air Raiders",
+    "hashes": [
+      {
+        "md5": "a9cb638cd2cb2e8e0643d7a67db4281c",
+        "name": "Air Raiders (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "13100",
+    "title": "Air-Sea Battle | Target Fun",
+    "hashes": [
+      {
+        "md5": "16cb43492987d2f32b423817cdaaf7c4",
+        "name": "Air-Sea Battle ~ Target Fun (Japan, USA) (En).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "16930",
+    "title": "Airlock",
+    "hashes": [
+      {
+        "md5": "4d77f291dca1518d7d8e47838695f54b",
+        "name": "Airlock (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13017",
+    "title": "Alien",
+    "hashes": [
+      {
+        "md5": "f1a0a23e6464d954e3a9579c4ccd01c8",
+        "name": "Alien (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13207",
+    "title": "Alpha Beam with Ernie",
+    "hashes": [
+      {
+        "md5": "a5d82e469a499a41cfb6e459eba89ad0",
+        "name": "Alpha Beam with Ernie (USA) (Joystick Patch) (v2011.01.10).a26",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13313",
+    "title": "Amidar",
+    "hashes": [
+      {
+        "md5": "acb7750b4d0c4bd34969802a7deb2990",
+        "name": "Amidar (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16931",
+    "title": "Armor Ambush",
+    "hashes": [
+      {
+        "md5": "a7b584937911d60c120677fe0d47f36f",
+        "name": "Armor Ambush (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16932",
+    "title": "Artillery Duel",
+    "hashes": [
+      {
+        "md5": "c77c35a6fc3c0f12bf9e8bae48cba54b",
+        "name": "Artillery Duel (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13018",
+    "title": "Assault",
+    "hashes": [
+      {
+        "md5": "de78b3a064d374390ac0710f95edde92",
+        "name": "Assault (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22893",
+    "title": "Astérix",
+    "hashes": [
+      {
+        "md5": "faebcb2ef1f3831b2fc1dbd39d36517c",
+        "name": "Asterix (Europe) (CX2696).a26",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11687",
+    "title": "Asteroids",
+    "hashes": [
+      {
+        "md5": "dd7884b4f93cab423ac471aa1935e3df",
+        "name": "Asteroids (Japan, USA) (En).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "12998",
+    "title": "Astroblast",
+    "hashes": [
+      {
+        "md5": "170e7589a48739cfb9cc782cbb0fe25a",
+        "name": "Astroblast (USA) (v1.1).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18691",
+    "title": "Atari Video Cube",
+    "hashes": [
+      {
+        "md5": "3f540a30fdee0b20aed7288e4a5ea528",
+        "name": "Atari Video Cube (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13016",
+    "title": "Atlantis",
+    "hashes": [
+      {
+        "md5": "9ad36e699ef6f45d9eb6c4cf90475c9f",
+        "name": "Atlantis (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "16933",
+    "title": "Atlantis II",
+    "hashes": [
+      {
+        "md5": "826481f6fc53ea47c9f272f7050eedf7",
+        "name": "Atlantis II (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16934",
+    "title": "Backgammon",
+    "hashes": [
+      {
+        "md5": "8556b42aa05f94bc29ff39c39b11bff4",
+        "name": "Backgammon (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11694",
+    "title": "Bank Heist",
+    "hashes": [
+      {
+        "md5": "00ce0bdd43aed84a983bef38fe7f5ee3",
+        "name": "Bank Heist (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "14407",
+    "title": "Barnstorming",
+    "hashes": [
+      {
+        "md5": "f8240e62d8c0a64a61e19388414e3104",
+        "name": "Barnstorming (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "12905",
+    "title": "Basic Math",
+    "hashes": [
+      {
+        "md5": "819aeeb9a2e11deb54e6de334f843894",
+        "name": "Basic Math (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "32881",
+    "title": "Basketball",
+    "hashes": [
+      {
+        "md5": "ab4ac994865fb16ebb85738316309457",
+        "name": "Basketball (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13138",
+    "title": "Battlezone",
+    "hashes": [
+      {
+        "md5": "41f252a66c6301f1e8ab3612c19bc5d4",
+        "name": "Battlezone (Japan, USA) (En).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "3948",
+    "title": "Beamrider",
+    "hashes": [
+      {
+        "md5": "79ab4123a83dc11d468fb2108ea09e2e",
+        "name": "Beamrider (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "17445",
+    "title": "Beany Bopper",
+    "hashes": [
+      {
+        "md5": "d0b9df57bfea66378c0418ec68cfe37f",
+        "name": "Beany Bopper (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "14759",
+    "title": "Beat 'Em & Eat 'Em",
+    "hashes": [
+      {
+        "md5": "59e96de9628e8373d1c685f5e57dcf10",
+        "name": "Beat'Em & Eat'Em (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 27,
+      "points": 0
+    }
+  },
+  {
+    "id": "16935",
+    "title": "Berenstain Bears",
+    "hashes": [
+      {
+        "md5": "ee6665683ebdb539e89ba620981cb0f6",
+        "name": "Berenstain Bears (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16936",
+    "title": "Bermuda Triangle",
+    "hashes": [
+      {
+        "md5": "b8ed78afdb1e6cfe44ef6e3428789d5f",
+        "name": "Bermuda Triangle (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "12773",
+    "title": "Berzerk",
+    "hashes": [
+      {
+        "md5": "136f75c4dd02c29283752b7e5799f978",
+        "name": "Berzerk (Japan, USA) (En).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "14499",
+    "title": "Big Bird's Egg Catch",
+    "hashes": [
+      {
+        "md5": "d22a401f0b20808196f538cc43786459",
+        "name": "Big Bird's Egg Catch (USA) (Joystick Patch).a26",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "13328",
+    "title": "Blackjack",
+    "hashes": [
+      {
+        "md5": "ff3bd0c684f7144aeaa18758d8281a78",
+        "name": "Black Jack (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13342",
+    "title": "Blueprint",
+    "hashes": [
+      {
+        "md5": "33d68c3cd74e5bc4cf0df3716c5848bc",
+        "name": "Blueprint (USA).a26 ",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16937",
+    "title": "BMX Air Master",
+    "hashes": [
+      {
+        "md5": "968efc79d500dce52a906870a97358ab",
+        "name": "BMX Air Master (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 44,
+      "points": 0
+    }
+  },
+  {
+    "id": "27942",
+    "title": "Bobby Is Going Home",
+    "hashes": [
+      {
+        "md5": "2823364702595feea24a3fbee138a243",
+        "name": "Bobby Is Going Home (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27943",
+    "title": "Boing!",
+    "hashes": [
+      {
+        "md5": "c471b97446a85304bbac021c57c2cb49",
+        "name": "Boing! (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12991",
+    "title": "Bowling",
+    "hashes": [
+      {
+        "md5": "c9b7afad3bfd922e006a6bfc1d4f3fe7",
+        "name": "Bowling (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "12912",
+    "title": "Boxing",
+    "hashes": [
+      {
+        "md5": "c3ef5c4653212088eda54dc91d787870",
+        "name": "Boxing (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "13830",
+    "title": "Breakout | Breakaway IV",
+    "hashes": [
+      {
+        "md5": "f34f08e5eb96e500e851a80be3277a56",
+        "name": "Breakout ~ Breakaway IV (Japan, USA) (En).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 40,
+      "points": 0
+    }
+  },
+  {
+    "id": "29668",
+    "title": "Bridge",
+    "hashes": [
+      {
+        "md5": "413c925c5fdcea62842a63a4c671a5f2",
+        "name": "Bridge (USA) (v1.1).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16938",
+    "title": "Buck Rogers: Planet of Zoom",
+    "hashes": [
+      {
+        "md5": "1cf59fc7b11cdbcefe931e41641772f6",
+        "name": "Buck Rogers - Planet of Zoom (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27601",
+    "title": "Bugs",
+    "hashes": [
+      {
+        "md5": "68597264c8e57ada93be3a5be4565096",
+        "name": "Bugs (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16939",
+    "title": "Bump 'n' Jump",
+    "hashes": [
+      {
+        "md5": "ab2cfcaad3daaf673b2b14fdbb8dac33",
+        "name": "Bump 'n' Jump (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13097",
+    "title": "Bumper Bash",
+    "hashes": [
+      {
+        "md5": "aa1c41f86ec44c0a44eb64c332ce08af",
+        "name": "Bumper Bash (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "13021",
+    "title": "BurgerTime",
+    "hashes": [
+      {
+        "md5": "0443cfa9872cdb49069186413275fa21",
+        "name": "BurgerTime (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16940",
+    "title": "Burning Desire",
+    "hashes": [
+      {
+        "md5": "19d6956ff17a959c48fcd8f4706a848d",
+        "name": "Burning Desire (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16207",
+    "title": "Cakewalk",
+    "hashes": [
+      {
+        "md5": "7f6533386644c7d6358f871666c86e79",
+        "name": "Cakewalk (USA).a26 ",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25881",
+    "title": "Canyon Bomber",
+    "hashes": [
+      {
+        "md5": "feedcc20bc3ca34851cd5d9e38aa2ca6",
+        "name": "Canyon Bomber (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13027",
+    "title": "Carnival",
+    "hashes": [
+      {
+        "md5": "028024fb8e5e5f18ea586652f9799c96",
+        "name": "Carnival (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "32882",
+    "title": "Casino | Poker Plus",
+    "hashes": [
+      {
+        "md5": "b816296311019ab69a21cb9e9e235d12",
+        "name": "Casino ~ Poker Plus (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16639",
+    "title": "Cat Trax",
+    "hashes": [
+      {
+        "md5": "76f66ce3b83d7a104a899b4b3354a2f2",
+        "name": "Cat Trax (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11799",
+    "title": "Centipede",
+    "hashes": [
+      {
+        "md5": "91c2098e88a6b13f977af8c003e0bca5",
+        "name": "Centipede (Japan, USA) (En).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "27944",
+    "title": "Challenge",
+    "hashes": [
+      {
+        "md5": "73158ea51d77bf521e1369311d26c27b",
+        "name": "Challenge (Canada).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13329",
+    "title": "Chase the Chuckwagon",
+    "hashes": [
+      {
+        "md5": "3e33ac10dcf2dff014bc1decf8a9aea4",
+        "name": "Chase the Chuck Wagon (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13330",
+    "title": "Checkers",
+    "hashes": [
+      {
+        "md5": "3f5a43602f960ede330cd2f43a25139e",
+        "name": "Checkers (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16785",
+    "title": "China Syndrome",
+    "hashes": [
+      {
+        "md5": "749fec9918160921576f850b2375b516",
+        "name": "China Syndrome (USA).a26 ",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12813",
+    "title": "Chopper Command",
+    "hashes": [
+      {
+        "md5": "c1cb228470a87beb5f36e90ac745da26",
+        "name": "Chopper Command (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "13058",
+    "title": "Circus Atari",
+    "hashes": [
+      {
+        "md5": "30e0ab8be713208ae9a978b34e9e8e8c",
+        "name": "Circus Atari (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a7b96a8150600b3e800a4689c3ec60a2",
+        "name": "Circus Atari (Japan, USA) (En).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "14062",
+    "title": "Combat",
+    "hashes": [
+      {
+        "md5": "4c8832ed387bbafc055320c05205bc08",
+        "name": "Combat ~ Tank-Plus (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "16259",
+    "title": "Commando",
+    "hashes": [
+      {
+        "md5": "5d2cc33ca798783dee435eb29debf6d6",
+        "name": "Commando (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 34,
+      "points": 0
+    }
+  },
+  {
+    "id": "16265",
+    "title": "Communist Mutants from Space",
+    "hashes": [
+      {
+        "md5": "2c8835aed7f52a0da9ade5226ee5aa75",
+        "name": "Communist Mutants from Space (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "13150",
+    "title": "Condor Attack",
+    "hashes": [
+      {
+        "md5": "1f21666b8f78b65051b7a609f1d48608",
+        "name": "Condor Attack (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16346",
+    "title": "Congo Bongo",
+    "hashes": [
+      {
+        "md5": "00b7b4cbec81570642283e7fc1ef17af",
+        "name": "Congo Bongo (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "17471",
+    "title": "Cookie Monster Munch",
+    "hashes": [
+      {
+        "md5": "ba403a44966fd8307aac08214ac73bdd",
+        "name": "Cookie Monster Munch (USA) (Joystick Patch).a26",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "13220",
+    "title": "Cosmic Ark",
+    "hashes": [
+      {
+        "md5": "ab5bf1ef5e463ad1cbb11b6a33797228",
+        "name": "Cosmic Ark (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "27602",
+    "title": "Cosmic Swarm",
+    "hashes": [
+      {
+        "md5": "e5f17b3e62a21d0df1ca9aee1aa8c7c5",
+        "name": "Cosmic Swarm (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13064",
+    "title": "Crackpots",
+    "hashes": [
+      {
+        "md5": "a184846d8904396830951217b47d13d9",
+        "name": "Crackpots (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "13015",
+    "title": "Crazy Climber",
+    "hashes": [
+      {
+        "md5": "55ef7b65066428367844342ed59f956c",
+        "name": "Crazy Climber (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13028",
+    "title": "Crystal Castles",
+    "hashes": [
+      {
+        "md5": "1c6eb740d3c485766cade566abab8208",
+        "name": "Crystal Castles (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "12722",
+    "title": "Custer's Revenge",
+    "hashes": [
+      {
+        "md5": "58513bae774360b96866a07ca0e8fd8e",
+        "name": "Custer's Revenge (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "27945",
+    "title": "Dancing Plate",
+    "hashes": [
+      {
+        "md5": "ece463abde92e8b89bcd867ec71751b8",
+        "name": "Dancing Plate (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13011",
+    "title": "Dark Cavern",
+    "hashes": [
+      {
+        "md5": "a422194290c64ef9d444da9d6a207807",
+        "name": "Dark Cavern (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11783",
+    "title": "Dark Chambers",
+    "hashes": [
+      {
+        "md5": "106855474c69d08c8ffa308d47337269",
+        "name": "Dark Chambers (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27603",
+    "title": "Death Trap",
+    "hashes": [
+      {
+        "md5": "4e15ddfd48bca4f0bf999240c47b49f5",
+        "name": "Death Trap (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13034",
+    "title": "Defender",
+    "hashes": [
+      {
+        "md5": "0f643c34e40e3f1daafd9c524d3ffe64",
+        "name": "Defender (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27604",
+    "title": "Demolition Herby",
+    "hashes": [
+      {
+        "md5": "d09935802d6760ae58253685ff649268",
+        "name": "Demolition Herby (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13221",
+    "title": "Demon Attack",
+    "hashes": [
+      {
+        "md5": "b12a7f63787a6bb08e683837a8ed3f18",
+        "name": "Demon Attack (USA) (Rev 1).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "11685",
+    "title": "Desert Falcon",
+    "hashes": [
+      {
+        "md5": "fd4f5536fd80f35c64d365df85873418",
+        "name": "Desert Falcon (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "27605",
+    "title": "Dice Puzzle",
+    "hashes": [
+      {
+        "md5": "9222b25a0875022b412e8da37e7f6887",
+        "name": "Dice Puzzle (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12999",
+    "title": "Dig Dug",
+    "hashes": [
+      {
+        "md5": "6dda84fb8e442ecf34241ac0d1d91d69",
+        "name": "Dig Dug (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "13004",
+    "title": "Dodge 'Em",
+    "hashes": [
+      {
+        "md5": "83bdc819980db99bf89a7f2ed6a2de59",
+        "name": "Dodge 'Em ~ Dodger Cars (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25710",
+    "title": "Dolphin",
+    "hashes": [
+      {
+        "md5": "ca09fa7406b7d2aea10d969b6fc90195",
+        "name": "Dolphin (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "13095",
+    "title": "Donkey Kong",
+    "hashes": [
+      {
+        "md5": "36b20c427975760cb9cf4a47e41369e4",
+        "name": "Donkey Kong (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "13323",
+    "title": "Donkey Kong Junior",
+    "hashes": [
+      {
+        "md5": "c8fa5d69d9e555eb16068ef87b1c9c45",
+        "name": "Donkey Kong Junior (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "13331",
+    "title": "Double Dragon",
+    "hashes": [
+      {
+        "md5": "7e2fe40a788e56765fe56a3576019968",
+        "name": "Double Dragon (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28207",
+    "title": "Dragonfire",
+    "hashes": [
+      {
+        "md5": "41810dd94bd0de1110bedc5092bef5b0",
+        "name": "Dragonfire (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "11699",
+    "title": "Dragonstomper",
+    "hashes": [
+      {
+        "md5": "90ccf4f30a5ad8c801090b388ddd5613",
+        "name": "Dragonstomper (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "14402",
+    "title": "Dragster",
+    "hashes": [
+      {
+        "md5": "77057d9d14b99e465ea9e29783af0ae3",
+        "name": "Dragster (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "11710",
+    "title": "E.T.: The Extra-Terrestrial",
+    "hashes": [
+      {
+        "md5": "615a3bf251a38eb6638cdc7ffbde5480",
+        "name": "E.T. - The Extra-Terrestrial (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "13063",
+    "title": "Egg-o-Mania",
+    "hashes": [
+      {
+        "md5": "42b2c3b4545f1499a083cfbc4a3b7640",
+        "name": "Eggomania (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15734",
+    "title": "Encounter at L-5",
+    "hashes": [
+      {
+        "md5": "dbc8829ef6f12db8f463e30f60af209f",
+        "name": "Encounter at L-5 (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12900",
+    "title": "Enduro",
+    "hashes": [
+      {
+        "md5": "94b92a882f6dbaa6993a46e2dcc58402",
+        "name": "Enduro (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "14388",
+    "title": "Entombed",
+    "hashes": [
+      {
+        "md5": "6b683be69f92958abe0e2a9945157ad5",
+        "name": "Entombed (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13316",
+    "title": "Escape from the Mindmaster",
+    "hashes": [
+      {
+        "md5": "81f4f0285f651399a12ff2e2f35bab77",
+        "name": "Escape from the Mindmaster (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13104",
+    "title": "Fantastic Voyage",
+    "hashes": [
+      {
+        "md5": "b80d50ecee73919a507498d0a4d922ae",
+        "name": "Fantastic Voyage (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13102",
+    "title": "Fast Food",
+    "hashes": [
+      {
+        "md5": "665b8f8ead0eef220ed53886fbd61ec9",
+        "name": "Fast Food (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "18718",
+    "title": "Fire Fighter",
+    "hashes": [
+      {
+        "md5": "d09f1830fb316515b90694c45728d702",
+        "name": "Fire Fighter (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30986",
+    "title": "Fire Fly",
+    "hashes": [
+      {
+        "md5": "20dca534b997bf607d658e77fbb3c0ee",
+        "name": "Fire Fly (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13005",
+    "title": "Fishing Derby",
+    "hashes": [
+      {
+        "md5": "b8865f05676e64f3bec72b9defdacfa7",
+        "name": "Fishing Derby (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "33177",
+    "title": "Flag Capture | Capture",
+    "hashes": [
+      {
+        "md5": "30512e0e83903fc05541d2f6a6a62654",
+        "name": "Flag Capture ~ Capture (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32883",
+    "title": "Football",
+    "hashes": [
+      {
+        "md5": "e549f1178e038fa88dc6d657dc441146",
+        "name": "Football (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13000",
+    "title": "Frankenstein's Monster",
+    "hashes": [
+      {
+        "md5": "15dd21c2608e0d7d9f54c0d3f08cca1f",
+        "name": "Frankenstein's Monster (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "13006",
+    "title": "Freeway",
+    "hashes": [
+      {
+        "md5": "8e0ab801b1705a740b476b7f588c6d16",
+        "name": "Freeway (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "17421",
+    "title": "Frogger",
+    "hashes": [
+      {
+        "md5": "081e2c114c9c20b61acf25fc95c71bf4",
+        "name": "Frogger (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "17422",
+    "title": "Frogger II: Threeedeep!",
+    "hashes": [
+      {
+        "md5": "27c6a2ca16ad7d814626ceea62fa8fb4",
+        "name": "Frogger II - Threeedeep! (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20375",
+    "title": "Frogs and Flies",
+    "hashes": [
+      {
+        "md5": "dcc2956c7a39fdbf1e861fc5c595da0d",
+        "name": "Frogs and Flies (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "13378",
+    "title": "Frostbite",
+    "hashes": [
+      {
+        "md5": "4ca73eb959299471788f0b685c3ba0b5",
+        "name": "Frostbite (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "13065",
+    "title": "G.I. Joe: Cobra Strike",
+    "hashes": [
+      {
+        "md5": "c1fdd44efda916414be3527a47752c75",
+        "name": "G.I. Joe - Cobra Strike (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "13014",
+    "title": "Galaxian",
+    "hashes": [
+      {
+        "md5": "211774f4c5739042618be8ff67351177",
+        "name": "Galaxian (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "16271",
+    "title": "Gangster Alley",
+    "hashes": [
+      {
+        "md5": "20edcc3aa6c189259fa7e2f044a99c49",
+        "name": "Gangster Alley (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "26113",
+    "title": "Gauntlet",
+    "hashes": [
+      {
+        "md5": "e64a8008812327853877a37befeb6465",
+        "name": "Gauntlet (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16353",
+    "title": "Ghost Manor",
+    "hashes": [
+      {
+        "md5": "2bee7f226d506c217163bad4ab1768c0",
+        "name": "Ghost Manor (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16305",
+    "title": "Ghostbusters",
+    "hashes": [
+      {
+        "md5": "e314b42761cd13c03def744b4afc7b1b",
+        "name": "Ghostbusters (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "16368",
+    "title": "Ghostbusters II",
+    "hashes": [
+      {
+        "md5": "c2b5c50ccb59816867036d7cf730bf75",
+        "name": "Ghostbusters II (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26114",
+    "title": "Glacier Patrol",
+    "hashes": [
+      {
+        "md5": "5e0c37f534ab5ccc4661768e2ddf0162",
+        "name": "Glacier Patrol (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13029",
+    "title": "Gopher",
+    "hashes": [
+      {
+        "md5": "c16c79aad6272baffb8aae9a7fff0864",
+        "name": "Gopher (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33178",
+    "title": "Gorf",
+    "hashes": [
+      {
+        "md5": "81b3bf17cf01039d311b4cd738ae608e",
+        "name": "Gorf (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13007",
+    "title": "Grand Prix",
+    "hashes": [
+      {
+        "md5": "2903896d88a341511586d69fcfc20f7d",
+        "name": "Grand Prix (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18494",
+    "title": "Gravitar",
+    "hashes": [
+      {
+        "md5": "8ac18076d01a6b63acf6e2cab4968940",
+        "name": "Gravitar (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13096",
+    "title": "Gremlins",
+    "hashes": [
+      {
+        "md5": "01cb3e8dfab7203a9c62ba3b94b4e59f",
+        "name": "Gremlins (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11611",
+    "title": "H.E.R.O.",
+    "hashes": [
+      {
+        "md5": "fca4a5be1251927027f2c24774a02160",
+        "name": "H.E.R.O. (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 47,
+      "points": 0
+    }
+  },
+  {
+    "id": "13278",
+    "title": "Halloween",
+    "hashes": [
+      {
+        "md5": "30516cfbaa1bc3b5335ee53ad811f17a",
+        "name": "Halloween (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "13332",
+    "title": "Hangman",
+    "hashes": [
+      {
+        "md5": "f16c709df0a6c52f47ff52b9d95b7d8d",
+        "name": "Hangman ~ Spelling (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "16348",
+    "title": "Haunted House",
+    "hashes": [
+      {
+        "md5": "f0a6e99f5875891246c3dbecbf2d2cea",
+        "name": "Haunted House (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "33179",
+    "title": "Home Run | Baseball",
+    "hashes": [
+      {
+        "md5": "0bfabf1e98bdb180643f35f2165995d0",
+        "name": "Home Run ~ Baseball (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14426",
+    "title": "Human Cannonball | Cannon Man",
+    "hashes": [
+      {
+        "md5": "7972e5101fa548b952d852db24ad6060",
+        "name": "Human Cannonball ~ Cannon Man (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 32,
+      "points": 0
+    }
+  },
+  {
+    "id": "32884",
+    "title": "Hunt & Score | Memory Match",
+    "hashes": [
+      {
+        "md5": "102672bbd7e25cd79f4384dd7214c32b",
+        "name": "Hunt & Score ~ Memory Match (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13209",
+    "title": "Ice Hockey",
+    "hashes": [
+      {
+        "md5": "a4c08c4994eb9d24fb78be1793e82e26",
+        "name": "Ice Hockey (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "13314",
+    "title": "Indy 500",
+    "hashes": [
+      {
+        "md5": "c5301f549d0722049bb0add6b10d1e09",
+        "name": "Indy 500 ~ Race (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17322",
+    "title": "Jawbreaker",
+    "hashes": [
+      {
+        "md5": "58a82e1da64a692fd727c25faef2ecc9",
+        "name": "Jawbreaker (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "33180",
+    "title": "Journey Escape",
+    "hashes": [
+      {
+        "md5": "718ae62c70af4e5fd8e932fee216948a",
+        "name": "Journey Escape (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13008",
+    "title": "Joust",
+    "hashes": [
+      {
+        "md5": "3276c777cbe97cdd2b4a63ffc16b7151",
+        "name": "Joust (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "11811",
+    "title": "Jr. Pac-Man",
+    "hashes": [
+      {
+        "md5": "36c29ceee2c151b23a1ad7aa04bd529d",
+        "name": "Jr. Pac-Man (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "13210",
+    "title": "Jungle Hunt",
+    "hashes": [
+      {
+        "md5": "2bb9f4686f7e08c5fcc69ec1a1c66fe7",
+        "name": "Jungle Hunt (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "12735",
+    "title": "Kaboom!",
+    "hashes": [
+      {
+        "md5": "5428cdfada281c569c74c7308c7f2c26",
+        "name": "Kaboom! (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "13001",
+    "title": "Kangaroo",
+    "hashes": [
+      {
+        "md5": "4326edb70ff20d0ee5ba58fa5cb09d60",
+        "name": "Kangaroo (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "17461",
+    "title": "Karate",
+    "hashes": [
+      {
+        "md5": "cedbd67d1ff321c996051eec843f8716",
+        "name": "Karate (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "13211",
+    "title": "Keystone Kapers",
+    "hashes": [
+      {
+        "md5": "be929419902e21bd7830a7a7d746195d",
+        "name": "Keystone Kapers (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "25623",
+    "title": "King Kong",
+    "hashes": [
+      {
+        "md5": "e21ee3541ebd2c23e817ffb449939c37",
+        "name": "King Kong (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13059",
+    "title": "Klax",
+    "hashes": [
+      {
+        "md5": "eed9eaf1a0b6a2b9bc4c8032cb43e3fb",
+        "name": "Klax (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13009",
+    "title": "Kool-Aid Man",
+    "hashes": [
+      {
+        "md5": "534e23210dd1993c828d944c6ac4d9fb",
+        "name": "Kool-Aid Man (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "13060",
+    "title": "Krull",
+    "hashes": [
+      {
+        "md5": "4baada22435320d185c95b7dd2bcdb24",
+        "name": "Krull (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16352",
+    "title": "Kung-Fu Master",
+    "hashes": [
+      {
+        "md5": "5b92a93b23523ff16e2789b820e2a4c5",
+        "name": "Kung-Fu Master (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "13010",
+    "title": "Laser Blast",
+    "hashes": [
+      {
+        "md5": "931b91a8ea2d39fe4dca1a23832b591a",
+        "name": "Laser Blast (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "13020",
+    "title": "Lock 'n' Chase",
+    "hashes": [
+      {
+        "md5": "71464c54da46adae9447926fdbfc1abe",
+        "name": "Lock 'n' Chase (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18768",
+    "title": "Mangia'",
+    "hashes": [
+      {
+        "md5": "54a1c1255ed45eb8f71414dadb1cf669",
+        "name": "Mangia' (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "11465",
+    "title": "Mario Bros.",
+    "hashes": [
+      {
+        "md5": "e908611d99890733be31733a979c62d8",
+        "name": "Mario Bros. (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 40,
+      "points": 0
+    }
+  },
+  {
+    "id": "25182",
+    "title": "Master Builder",
+    "hashes": [
+      {
+        "md5": "ae4be3a36b285c1a1dff202157e2155d",
+        "name": "Master Builder (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25343",
+    "title": "Masters of the Universe: The Power of He-Man!",
+    "hashes": [
+      {
+        "md5": "3b76242691730b2dd22ec0ceab351bc6",
+        "name": "Masters of the Universe - The Power of He-Man (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11779",
+    "title": "Math Gran Prix",
+    "hashes": [
+      {
+        "md5": "470878b9917ea0348d64b5750af149aa",
+        "name": "Math Gran Prix (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "14367",
+    "title": "Maze Craze: A Game of Cops and Robbers",
+    "hashes": [
+      {
+        "md5": "f825c538481f9a7a46d1e9bc06200aaf",
+        "name": "Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "26029",
+    "title": "Mega Force",
+    "hashes": [
+      {
+        "md5": "daeb54957875c50198a7e616f9cc8144",
+        "name": "Mega Force (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13222",
+    "title": "MegaMania",
+    "hashes": [
+      {
+        "md5": "318a9d6dda791268df92d72679914ac3",
+        "name": "MegaMania - A Space Nightmare (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "13061",
+    "title": "Midnight Magic",
+    "hashes": [
+      {
+        "md5": "f1554569321dc933c87981cf5c239c43",
+        "name": "Midnight Magic (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "13030",
+    "title": "Millipede",
+    "hashes": [
+      {
+        "md5": "3c57748c8286cf9e821ecd064f21aaa9",
+        "name": "Millipede (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "18502",
+    "title": "Miner 2049er",
+    "hashes": [
+      {
+        "md5": "3b040ed7d1ef8acb4efdeebebdaa2052",
+        "name": "Miner 2049er - Starring Bounty Bob (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32885",
+    "title": "Miniature Golf | Arcade Golf",
+    "hashes": [
+      {
+        "md5": "df62a658496ac98a3aa4a6ee5719c251",
+        "name": "Miniature Golf ~ Arcade Golf (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13170",
+    "title": "Missile Command",
+    "hashes": [
+      {
+        "md5": "3a2e2d0c6892aa14544083dfb7762782",
+        "name": "Missile Command (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "13341",
+    "title": "Montezuma's Revenge",
+    "hashes": [
+      {
+        "md5": "3347a6dd59049b15a38394aa2dafa585",
+        "name": "Montezuma's Revenge - Featuring Panama Joe (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "11686",
+    "title": "Moon Patrol",
+    "hashes": [
+      {
+        "md5": "515046e3061b7b18aa3a551c3ae12673",
+        "name": "Moon Patrol (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13212",
+    "title": "Moonsweeper",
+    "hashes": [
+      {
+        "md5": "203abb713c00b0884206dcc656caa48f",
+        "name": "Moonsweeper (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "27379",
+    "title": "Motocross",
+    "hashes": [
+      {
+        "md5": "a20b7abbcdf90fbc29ac0fafa195bd12",
+        "name": "Motocross (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11725",
+    "title": "Mouse Trap",
+    "hashes": [
+      {
+        "md5": "5678ebaa09ca3b699516dba4671643ed",
+        "name": "Mouse Trap (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "11793",
+    "title": "Mr. Do!",
+    "hashes": [
+      {
+        "md5": "0164f26f6b38a34208cd4a2d0212afc3",
+        "name": "Mr. Do! (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "11791",
+    "title": "Mr. Do!'s Castle",
+    "hashes": [
+      {
+        "md5": "97184b263722748757cfdc41107ca5c0",
+        "name": "Mr. Do!'s Castle (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30131",
+    "title": "Mr. Run and Jump",
+    "hashes": [
+      {
+        "md5": "a18c31f680d1adeb541e89508b7a5e3b",
+        "name": "Mr. Run and Jump (World).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "14260",
+    "title": "Ms. Pac-Man",
+    "hashes": [
+      {
+        "md5": "87e79cd41ce136fd4f72cc6e2c161bee",
+        "name": "Ms. Pac-Man (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "13143",
+    "title": "Night Driver",
+    "hashes": [
+      {
+        "md5": "392f00fd1a074a3c15bc96b0a57d52a1",
+        "name": "Night Driver (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13019",
+    "title": "Obélix",
+    "hashes": [
+      {
+        "md5": "133a4234512e8c4e9e8c5651469d4a09",
+        "name": "Obelix (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13066",
+    "title": "Off the Wall",
+    "hashes": [
+      {
+        "md5": "98f63949e656ff309cefa672146dc1b8",
+        "name": "Off the Wall (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13032",
+    "title": "Oink!",
+    "hashes": [
+      {
+        "md5": "c9c25fc536de9a7cdc5b9a916c459110",
+        "name": "Oink! (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "27004",
+    "title": "Oscar's Trash Race",
+    "hashes": [
+      {
+        "md5": "fa1b060fd8e0bca0c2a097dcffce93d3",
+        "name": "Oscar's Trash Race (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25284",
+    "title": "Othello",
+    "hashes": [
+      {
+        "md5": "55949cb7884f9db0f8dfcf8707c7e5cb",
+        "name": "Othello (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14259",
+    "title": "Outlaw",
+    "hashes": [
+      {
+        "md5": "890c13590e0d8d5d6149737d930e4d95",
+        "name": "Outlaw ~ Gunslinger (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13094",
+    "title": "Pac-Man",
+    "hashes": [
+      {
+        "md5": "6e372f076fb9586aff416144f5cfe1cb",
+        "name": "Pac-Man (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "11697",
+    "title": "Pepsi Invaders | Coke Wins",
+    "hashes": [
+      {
+        "md5": "212d0b200ed8b45d8795ad899734d7d7",
+        "name": "Pepsi Invaders - Coke Wins (NTSC) (Prototype).a26",
+        "labels": [
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "13219",
+    "title": "Phaser Patrol",
+    "hashes": [
+      {
+        "md5": "7dcbfd2acc013e817f011309c7504daa",
+        "name": "Phaser Patrol (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16351",
+    "title": "Phoenix",
+    "hashes": [
+      {
+        "md5": "7e52a95074a66640fcfde124fffd491a",
+        "name": "Phoenix (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "13144",
+    "title": "Pick n Pile",
+    "hashes": [
+      {
+        "md5": "da79aad11572c80a96e261e4ac6392d0",
+        "name": "Pick 'n' Pile (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13135",
+    "title": "Picnic",
+    "hashes": [
+      {
+        "md5": "17c0a63f9a680e7a61beba81692d9297",
+        "name": "Picnic (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13160",
+    "title": "Piece o' Cake",
+    "hashes": [
+      {
+        "md5": "d3423d7600879174c038f53e5ebbf9d3",
+        "name": "Piece o' Cake (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13319",
+    "title": "Pigs in Space starring Miss Piggy",
+    "hashes": [
+      {
+        "md5": "8e4fa8c6ad8d8dce0db8c991c166cdaa",
+        "name": "Pigs in Space - Starring Miss Piggy (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "13213",
+    "title": "Pitfall II: Lost Caverns",
+    "hashes": [
+      {
+        "md5": "6d842c96d5a01967be9680080dd5be54",
+        "name": "Pitfall II - Lost Caverns (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "11191",
+    "title": "Pitfall!",
+    "hashes": [
+      {
+        "md5": "3e90cf23106f2e08b2781e41299de556",
+        "name": "Pitfall! - Pitfall Harry's Jungle Adventure (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "13145",
+    "title": "Planet Patrol",
+    "hashes": [
+      {
+        "md5": "043f165f384fbea3ea89393597951512",
+        "name": "Planet Patrol (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13069",
+    "title": "Plaque Attack",
+    "hashes": [
+      {
+        "md5": "da4e3396aa2db3bd667f83a1cb9e4a36",
+        "name": "Plaque Attack (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "28208",
+    "title": "Polaris",
+    "hashes": [
+      {
+        "md5": "44f71e70b89dcc7cf39dfd622cfb9a27",
+        "name": "Polaris (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11690",
+    "title": "Pole Position",
+    "hashes": [
+      {
+        "md5": "a4ff39d513b993159911efe01ac12eba",
+        "name": "Pole Position (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "13073",
+    "title": "Pooyan",
+    "hashes": [
+      {
+        "md5": "4799a40b6e889370b7ee55c17ba65141",
+        "name": "Pooyan (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13012",
+    "title": "Popeye",
+    "hashes": [
+      {
+        "md5": "c7f13ef38f61ee2367ada94fdcc6d206",
+        "name": "Popeye (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "12765",
+    "title": "Pressure Cooker",
+    "hashes": [
+      {
+        "md5": "97d079315c09796ff6d95a06e4b70171",
+        "name": "Pressure Cooker (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "16260",
+    "title": "Private Eye",
+    "hashes": [
+      {
+        "md5": "ef3a4f64b6494ba770862768caf04b86",
+        "name": "Private Eye (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11786",
+    "title": "Q*Bert",
+    "hashes": [
+      {
+        "md5": "484b0076816a104875e00467d431c2d2",
+        "name": "Q-bert (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "17326",
+    "title": "Q*bert's Qubes",
+    "hashes": [
+      {
+        "md5": "517592e6e0c71731019c0cebc2ce044f",
+        "name": "Q-bert's Qubes (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13155",
+    "title": "Rabbit Transit",
+    "hashes": [
+      {
+        "md5": "fb4ca865abc02d66e39651bd9ade140a",
+        "name": "Rabbit Transit (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16261",
+    "title": "Radar Lock",
+    "hashes": [
+      {
+        "md5": "baf4ce885aa281fd31711da9b9795485",
+        "name": "Radar Lock (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13223",
+    "title": "Raiders of the Lost Ark",
+    "hashes": [
+      {
+        "md5": "f724d3dd2471ed4cf5f191dbb724b69f",
+        "name": "Raiders of the Lost Ark (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "13031",
+    "title": "Rampage!",
+    "hashes": [
+      {
+        "md5": "5e1b4629426f4992cf3b2905a696e1a7",
+        "name": "Rampage! (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "31773",
+    "title": "Raumpatrouille",
+    "hashes": [
+      {
+        "md5": "ca50cc4b21b0155255e066fcd6396331",
+        "name": "Raumpatrouille (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17240",
+    "title": "Reactor",
+    "hashes": [
+      {
+        "md5": "9f8fad4badcd7be61bbd2bcaeef3c58f",
+        "name": "Reactor (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16263",
+    "title": "RealSports Baseball",
+    "hashes": [
+      {
+        "md5": "eb634650c3912132092b7aee540bbce3",
+        "name": "RealSports Baseball (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16350",
+    "title": "RealSports Volleyball",
+    "hashes": [
+      {
+        "md5": "aed0b7bd64cc384f85fdea33e28daf3b",
+        "name": "RealSports Volleyball (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "13408",
+    "title": "Revenge of the Beefsteak Tomatoes",
+    "hashes": [
+      {
+        "md5": "4f64d6d0694d9b7a1ed7b0cb0b83e759",
+        "name": "Revenge of the Beefsteak Tomatoes (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33181",
+    "title": "Riddle of the Sphinx",
+    "hashes": [
+      {
+        "md5": "a995b6cbdb1f0433abc74050808590e6",
+        "name": "Riddle of the Sphinx (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28209",
+    "title": "River Patrol",
+    "hashes": [
+      {
+        "md5": "31512cdfadfd82bfb6f196e3b0fd83cd",
+        "name": "River Patrol (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11688",
+    "title": "River Raid",
+    "hashes": [
+      {
+        "md5": "393948436d1f4cc3192410bb918f9724",
+        "name": "River Raid (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "12901",
+    "title": "River Raid II",
+    "hashes": [
+      {
+        "md5": "ab56f1b2542a05bebc4fbccfc4803a38",
+        "name": "River Raid II (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13072",
+    "title": "Road Runner",
+    "hashes": [
+      {
+        "md5": "ce5cc62608be2cd3ed8abd844efb8919",
+        "name": "Road Runner (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "16052",
+    "title": "Robin Hood",
+    "hashes": [
+      {
+        "md5": "72a46e0c21f825518b7261c267ab886e",
+        "name": "Robin Hood (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "13315",
+    "title": "Robot Tank",
+    "hashes": [
+      {
+        "md5": "4f618c2429138e0280969193ed6c107e",
+        "name": "Robot Tank (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "16405",
+    "title": "Roc 'n Rope",
+    "hashes": [
+      {
+        "md5": "65bd29e8ab1b847309775b0de6b2e4fe",
+        "name": "Roc 'n Rope (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "11439",
+    "title": "Seaquest",
+    "hashes": [
+      {
+        "md5": "240bfbac5163af4df5ae713985386f92",
+        "name": "Seaquest (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "16264",
+    "title": "Secret Quest",
+    "hashes": [
+      {
+        "md5": "fc24a94d4371c69bc58f5245ada43c44",
+        "name": "Secret Quest (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12848",
+    "title": "Shootin' Gallery",
+    "hashes": [
+      {
+        "md5": "b5a1a189601a785bdb2f02a424080412",
+        "name": "Shootin' Gallery (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16357",
+    "title": "Skate Boardin'",
+    "hashes": [
+      {
+        "md5": "f847fb8dba6c6d66d13724dbe5d95c4d",
+        "name": "Skate Boardin' (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "13142",
+    "title": "Skiing",
+    "hashes": [
+      {
+        "md5": "b76fbadc8ffb1f83e2ca08b6fb4d6c9f",
+        "name": "Skiing (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "26028",
+    "title": "Sky Diver",
+    "hashes": [
+      {
+        "md5": "46c021a3e9e2fd00919ca3dd1a6b76d8",
+        "name": "Sky Diver ~ Dare Diver (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16349",
+    "title": "Sky Jinks",
+    "hashes": [
+      {
+        "md5": "2a0ba55e56e7a596146fa729acf0e109",
+        "name": "Sky Jinks (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16290",
+    "title": "Sky Skipper",
+    "hashes": [
+      {
+        "md5": "3b91c347d8e6427edbe942a7a405290d",
+        "name": "Sky Skipper (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "13333",
+    "title": "Slot Machine",
+    "hashes": [
+      {
+        "md5": "f90b5da189f24d7e1a2117d8c8abc952",
+        "name": "Slot Machine ~ Slots (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13146",
+    "title": "Slot Racers",
+    "hashes": [
+      {
+        "md5": "aed82052f7589df05a3f417bb4e45f0c",
+        "name": "Slot Racers ~ Maze (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "27243",
+    "title": "Smurfs Save the Day",
+    "hashes": [
+      {
+        "md5": "a204cd4fb1944c86e800120706512a64",
+        "name": "Smurfs Save the Day (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28842",
+    "title": "Snail Against Squirrel",
+    "hashes": [
+      {
+        "md5": "898b5467551d32af48a604802407b6e8",
+        "name": "Snail Against Squirrel (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13092",
+    "title": "Sneak 'n Peek",
+    "hashes": [
+      {
+        "md5": "9c6faa4ff7f2ae549bbcb14f582b70e4",
+        "name": "Sneak 'n Peek (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "13075",
+    "title": "Snoopy and the Red Baron",
+    "hashes": [
+      {
+        "md5": "57939b326df86b74ca6404f64f89fce9",
+        "name": "Snoopy and the Red Baron (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "13215",
+    "title": "Solar Fox",
+    "hashes": [
+      {
+        "md5": "947317a89af38a49c4864d6bdd6a91fb",
+        "name": "Solar Fox (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11716",
+    "title": "Solaris",
+    "hashes": [
+      {
+        "md5": "e72eb8d4410152bdcb69e7fba327b420",
+        "name": "Solaris (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18507",
+    "title": "Sorcerer's Apprentice",
+    "hashes": [
+      {
+        "md5": "5f7ae9a7f8d79a3b37e8fc841f65643a",
+        "name": "Sorcerer's Apprentice (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11684",
+    "title": "Space Invaders",
+    "hashes": [
+      {
+        "md5": "72ffbef6504b75e69ee1045af9075f66",
+        "name": "Space Invaders (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "13156",
+    "title": "Space Jockey",
+    "hashes": [
+      {
+        "md5": "6f2aaffaaf53d23a28bf6677b86ac0e3",
+        "name": "Space Jockey (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13216",
+    "title": "Space Shuttle - Journey into Space",
+    "hashes": [
+      {
+        "md5": "5894c9c0c1e7e29f3ab86c6d3f673361",
+        "name": "Space Shuttle - A Journey into Space (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32886",
+    "title": "Space War | Space Combat",
+    "hashes": [
+      {
+        "md5": "a7ef44ccb5b9000caf02df3e6da71a92",
+        "name": "Space War ~ Space Combat (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12723",
+    "title": "Spider Fighter",
+    "hashes": [
+      {
+        "md5": "24d018c4a6de7e5bd19a36f2b879b335",
+        "name": "Spider Fighter (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "3959",
+    "title": "Spider-Man",
+    "hashes": [
+      {
+        "md5": "199eb0b8dce1408f3f7d46411b715ca9",
+        "name": "Spider-Man (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "13683",
+    "title": "Sprint Master",
+    "hashes": [
+      {
+        "md5": "5a8afe5422abbfb0a342fb15afd7415f",
+        "name": "Sprint Master (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13099",
+    "title": "Spy Hunter",
+    "hashes": [
+      {
+        "md5": "3105967f7222cc36a5ac6e5f6e89a0b4",
+        "name": "Spy Hunter (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "14361",
+    "title": "Squeeze Box",
+    "hashes": [
+      {
+        "md5": "ba257438f8a78862a9e014d831143690",
+        "name": "Squeeze Box (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "16367",
+    "title": "Stampede",
+    "hashes": [
+      {
+        "md5": "21d7334e406c2407e69dbddd7cec3583",
+        "name": "Stampede (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "30136",
+    "title": "Star Fox",
+    "hashes": [
+      {
+        "md5": "f526d0c519f5001adb1fc7948bfbb3ce",
+        "name": "Star Fox (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33182",
+    "title": "Star Raiders",
+    "hashes": [
+      {
+        "md5": "cbd981a23c592fb9ab979223bb368cd5",
+        "name": "Star Raiders (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14063",
+    "title": "Star Ship - Outer Space",
+    "hashes": [
+      {
+        "md5": "e363e467f605537f3777ad33e74e113a",
+        "name": "Star Ship ~ Outer Space (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32289",
+    "title": "Star Trek: Strategic Operations Simulator",
+    "hashes": [
+      {
+        "md5": "03c3f7ba4585e349dd12bfa7b34b7729",
+        "name": "Star Trek - Strategic Operations Simulator (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "33183",
+    "title": "Star Voyager",
+    "hashes": [
+      {
+        "md5": "813985a940aa739cc28df19e0edd4722",
+        "name": "Star Voyager (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13337",
+    "title": "Star Wars: Death Star Battle",
+    "hashes": [
+      {
+        "md5": "5336f86f6b982cc925532f2e80aa1e17",
+        "name": "Star Wars - Return of the Jedi - Death Star Battle (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13336",
+    "title": "Star Wars: Jedi Arena",
+    "hashes": [
+      {
+        "md5": "c9f6e521a49a2d15dac56b6ddb3fb4c7",
+        "name": "Star Wars - Jedi Arena (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "13074",
+    "title": "Star Wars: The Arcade Game",
+    "hashes": [
+      {
+        "md5": "6339d28c9a7f92054e70029eb0375837",
+        "name": "Star Wars - The Arcade Game (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13070",
+    "title": "Star Wars: The Empire Strikes Back",
+    "hashes": [
+      {
+        "md5": "3c8e57a246742fa5d59e517134c0b4e6",
+        "name": "Star Wars - The Empire Strikes Back (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "14310",
+    "title": "Stargate | Defender II",
+    "hashes": [
+      {
+        "md5": "0c48e820301251fbb6bcdc89bd3555d9",
+        "name": "Stargate (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30168",
+    "title": "StarMaster",
+    "hashes": [
+      {
+        "md5": "d69559f9c9dc6ef528d841bf9d91b275",
+        "name": "StarMaster (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22536",
+    "title": "Steeplechase (Sears)",
+    "hashes": [
+      {
+        "md5": "656dc247db2871766dffd978c71da80c",
+        "name": "Steeplechase (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "13148",
+    "title": "Strategy X",
+    "hashes": [
+      {
+        "md5": "9333172e3c4992ecf548d3ac1f2553eb",
+        "name": "Strategy X (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13320",
+    "title": "Strawberry Shortcake: Musical Match-Ups",
+    "hashes": [
+      {
+        "md5": "516ffd008057a1d78d007c851e6eff37",
+        "name": "Strawberry Shortcake - Musical Match-Ups (Europe).a26",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e10d2c785aadb42c06390fae0d92f282",
+        "name": "Strawberry Shortcake - Musical Match-Ups (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "14064",
+    "title": "Street Racer: Speed Way II",
+    "hashes": [
+      {
+        "md5": "396f7bc90ab4fa4975f8c74abe4e81f0",
+        "name": "Street Racer ~ Speedway II (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13002",
+    "title": "Super Breakout",
+    "hashes": [
+      {
+        "md5": "8885d0ce11c5b40c3a8a8d9ed28cefef",
+        "name": "Super Breakout (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "14360",
+    "title": "Superman",
+    "hashes": [
+      {
+        "md5": "5de8803a59c36725888346fdc6e7429d",
+        "name": "Superman (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "13086",
+    "title": "Surround",
+    "hashes": [
+      {
+        "md5": "4d7517ae69f95cfbc053be01312b7dba",
+        "name": "Surround ~ Chase (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28127",
+    "title": "Sword of Saros",
+    "hashes": [
+      {
+        "md5": "528400fad9a77fd5ad7fc5fdc2b7d69d",
+        "name": "Sword of Saros (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "24164",
+    "title": "SwordQuest: EarthWorld",
+    "hashes": [
+      {
+        "md5": "5aea9974b975a6a844e6df10d2b861c4",
+        "name": "SwordQuest - EarthWorld (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "24168",
+    "title": "SwordQuest: FireWorld",
+    "hashes": [
+      {
+        "md5": "f9d51a4e5f8b48f68770c89ffd495ed1",
+        "name": "SwordQuest - FireWorld (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "24165",
+    "title": "SwordQuest: WaterWorld",
+    "hashes": [
+      {
+        "md5": "bc5389839857612cfabeb810ba7effdc",
+        "name": "SwordQuest - WaterWorld (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "13103",
+    "title": "Tac Scan",
+    "hashes": [
+      {
+        "md5": "d45ebf130ed9070ea8ebd56176e48a38",
+        "name": "Tac-Scan (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12908",
+    "title": "Tapper",
+    "hashes": [
+      {
+        "md5": "c0d2434348de72fa6edcc6d8e40f28d7",
+        "name": "Tapper (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "11718",
+    "title": "Taz",
+    "hashes": [
+      {
+        "md5": "7574480ae2ab0d282c887e9015fdb54c",
+        "name": "Taz (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "13338",
+    "title": "Tennis",
+    "hashes": [
+      {
+        "md5": "42cdd6a9e42a3639e190722b8ea3fc51",
+        "name": "Tennis (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "13208",
+    "title": "The Activision Decathlon",
+    "hashes": [
+      {
+        "md5": "525f2dfc8b21b0186cff2568e0509bfc",
+        "name": "Activision Decathlon, The (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "883258dcd68cefc6cd4d40b1185116dc",
+        "name": "Activision Decathlon, The (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ede4ab11ca346bd023b2c21d941e0c50",
+        "name": "Activision Decathlon, The (France).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "13139",
+    "title": "The Official Frogger",
+    "hashes": [
+      {
+        "md5": "c73ae5ba5a0a3f3ac77f0a9e14770e73",
+        "name": "Official Frogger, The (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13214",
+    "title": "The Smurfs: Rescue in Gargamel's Castle",
+    "hashes": [
+      {
+        "md5": "3d1e83afdb4265fa2fb84819c9cfd39c",
+        "name": "Smurf - Rescue in Gargamel's Castle (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "13093",
+    "title": "The Texas Chainsaw Massacre",
+    "hashes": [
+      {
+        "md5": "5eeb81292992e057b290a5cd196f155d",
+        "name": "Texas Chainsaw Massacre, The (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "32814",
+    "title": "Thunderground",
+    "hashes": [
+      {
+        "md5": "cf507910d6e74568a68ac949537bccf9",
+        "name": "Thunderground (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13318",
+    "title": "Tooth Protectors",
+    "hashes": [
+      {
+        "md5": "fa2be8125c3c60ab83e1c0fe56922fcb",
+        "name": "Tooth Protectors (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13147",
+    "title": "Towering Inferno",
+    "hashes": [
+      {
+        "md5": "0aa208060d7c140f20571e3341f5a3f8",
+        "name": "Towering Inferno (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "12845",
+    "title": "Track and Field",
+    "hashes": [
+      {
+        "md5": "6ae4dc6d7351dacd1012749ca82f9a56",
+        "name": "Track and Field (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "13153",
+    "title": "Treasure Below",
+    "hashes": [
+      {
+        "md5": "66706459e62514d0c39c3797cbf73ff1",
+        "name": "Treasure Below (Europe).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33184",
+    "title": "Trick Shot",
+    "hashes": [
+      {
+        "md5": "24df052902aa9de21c2b2525eb84a255",
+        "name": "Trick Shot (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13076",
+    "title": "TRON: Deadly Discs",
+    "hashes": [
+      {
+        "md5": "fb27afe896e7c928089307b32e5642ee",
+        "name": "TRON - Deadly Discs (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "13340",
+    "title": "Tunnel Runner",
+    "hashes": [
+      {
+        "md5": "b2737034f974535f5c0c6431ab8caf73",
+        "name": "Tunnel Runner (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "13171",
+    "title": "Turmoil",
+    "hashes": [
+      {
+        "md5": "7a5463545dfb2dcfdafa6074b2f2c15e",
+        "name": "Turmoil (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "13158",
+    "title": "Universal Chaos",
+    "hashes": [
+      {
+        "md5": "81a010abdba1a640f7adf7f84e13d307",
+        "name": "Universal Chaos (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13217",
+    "title": "Vanguard",
+    "hashes": [
+      {
+        "md5": "c6556e082aac04260596b4045bc122de",
+        "name": "Vanguard (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13335",
+    "title": "Venture",
+    "hashes": [
+      {
+        "md5": "3e899eba0ca8cd2972da1ae5479b4f0d",
+        "name": "Venture (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13334",
+    "title": "Video Chess",
+    "hashes": [
+      {
+        "md5": "f0b7db930ca0e548c41a97160b9f6275",
+        "name": "Video Chess (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14065",
+    "title": "Video Olympics",
+    "hashes": [
+      {
+        "md5": "60e0ea3cbe0913d39803477945e9e5ec",
+        "name": "Video Olympics ~ Pong Sports (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13062",
+    "title": "Video Pinball",
+    "hashes": [
+      {
+        "md5": "107cc025334211e6d29da0b6be46aec7",
+        "name": "Video Pinball ~ Arcade Pinball (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "13035",
+    "title": "Wabbit",
+    "hashes": [
+      {
+        "md5": "6041f400b45511aa3a69fab4b8fc8f41",
+        "name": "Wabbit (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11696",
+    "title": "Warlords",
+    "hashes": [
+      {
+        "md5": "cbe5a166550a8129a5e6d374901dffad",
+        "name": "Warlords (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13137",
+    "title": "Wizard of Wor",
+    "hashes": [
+      {
+        "md5": "7e8aa18bc9502eb57daaf5e7c1e94da7",
+        "name": "Wizard of Wor (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13026",
+    "title": "Worm War I",
+    "hashes": [
+      {
+        "md5": "87f020daa98d0132e98e43db7d8fea7e",
+        "name": "Worm War I (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13149",
+    "title": "Xenophobe",
+    "hashes": [
+      {
+        "md5": "eaf744185d5e8def899950ba7c6e7bb5",
+        "name": "Xenophobe (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13025",
+    "title": "Yars' Revenge",
+    "hashes": [
+      {
+        "md5": "c5930d0e8cdae3e037349bfa08e871be",
+        "name": "Yars' Revenge (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "13136",
+    "title": "Z-Tack",
+    "hashes": [
+      {
+        "md5": "c1e6e4e7ef5f146388a090f1c469a2fa",
+        "name": "Z-Tack (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13013",
+    "title": "Zaxxon",
+    "hashes": [
+      {
+        "md5": "eea0da9b987d661264cce69a7c13c3bd",
+        "name": "Zaxxon (USA).a26",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

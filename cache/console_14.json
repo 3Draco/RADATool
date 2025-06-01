@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "24935",
+    "title": "~Hack~ Sonic Pocket Winter",
+    "hashes": [
+      {
+        "md5": "4dc84b9f26cf39f3e8defc361e6c995a",
+        "name": "Sonic The Hedgehog - Pocket Adventure - Sonic Pocket Winter (v1.0) (ValleyBell).ngc",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23731",
+    "title": "~Homebrew~ Another Day in Hell",
+    "hashes": [
+      {
+        "md5": "b66c0335be91d86650e31c5942a69323",
+        "name": "Another Day in Hell (World) (v1.1) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "23744",
+    "title": "~Homebrew~ Blocks",
+    "hashes": [
+      {
+        "md5": "e2b6d75c63b17e18cd02411f6ce1d6e4",
+        "name": "Blocks (World) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "lostlevel",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "23735",
+    "title": "~Homebrew~ BomberMan",
+    "hashes": [
+      {
+        "md5": "3f18507c9aa7e80b9aa75ce9e69de9ed",
+        "name": "Bomberman (World) (v1.1) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23734",
+    "title": "~Homebrew~ Columns",
+    "hashes": [
+      {
+        "md5": "836323995f1dbc3c77343581d8b01b82",
+        "name": "Columns (World) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19896",
+    "title": "~Homebrew~ Diamond Run",
+    "hashes": [
+      {
+        "md5": "0cd4aa9a72ececf14508de6ae6725ed1",
+        "name": "Diamond Run (World) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "lostlevel",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "23742",
+    "title": "~Homebrew~ Dodger",
+    "hashes": [
+      {
+        "md5": "4d66a6bb96afb16a1402d6c6fe4f4b24",
+        "name": "Dodger (World) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23732",
+    "title": "~Homebrew~ DynaMate",
+    "hashes": [
+      {
+        "md5": "7b5687c944b3eaaa829670a48b166666",
+        "name": "DynaMate (World) (v1.1) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23737",
+    "title": "~Homebrew~ Gears of Fate",
+    "hashes": [
+      {
+        "md5": "782c7aec693c95de10e05a268c023ce1",
+        "name": "Gears of Fate (World) (v20090508) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "lostlevel",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "23745",
+    "title": "~Homebrew~ Lights!",
+    "hashes": [
+      {
+        "md5": "1715311acd6bf2717a3b1bf70321d195",
+        "name": "Lights! (World) (v1.1) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "lostlevel",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "23746",
+    "title": "~Homebrew~ Manic Miner",
+    "hashes": [
+      {
+        "md5": "b3fc27e28a2042a6923dce0ad750559a",
+        "name": "Manic Miner Starring Miner Willy (World) (v1.0) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23741",
+    "title": "~Homebrew~ Mines",
+    "hashes": [
+      {
+        "md5": "6594d32d6774b616949a31641799472a",
+        "name": "Mines (World) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "lostlevel",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "23747",
+    "title": "~Homebrew~ Mr. Do!",
+    "hashes": [
+      {
+        "md5": "2ee3331dd1e34020bbafdd91df0ce1bb",
+        "name": "Mr. Do! (World) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "lostlevel",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "23748",
+    "title": "~Homebrew~ Pac-Man",
+    "hashes": [
+      {
+        "md5": "e2173aeabe4bede0f2e958b4214adf40",
+        "name": "Pac-Man (World) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23733",
+    "title": "~Homebrew~ Puzzle Gems",
+    "hashes": [
+      {
+        "md5": "04a35a8f274479a061b88bdeee8ee6d4",
+        "name": "Puzzle Gems (World) (v1.1) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "lostlevel",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "23738",
+    "title": "~Homebrew~ Snake",
+    "hashes": [
+      {
+        "md5": "62029cf9c8af82f4dd13bd0243693d32",
+        "name": "Snake (World) (v1.2) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "lostlevel",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "23736",
+    "title": "~Homebrew~ SOD Chess",
+    "hashes": [
+      {
+        "md5": "a7e02990870e99bde6b3dddc5ef17b86",
+        "name": "SOD Chess (World) (v1.1) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "23743",
+    "title": "~Homebrew~ Thieves",
+    "hashes": [
+      {
+        "md5": "5e9603ffffeaad87c91bf171aa6c833b",
+        "name": "Thieves (World) (v1.0) (Aftermarket) (Unl).ngc",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11583",
+    "title": "Baseball Stars",
+    "hashes": [
+      {
+        "md5": "68ee2d5be4c81348bc499fc29819fd2d",
+        "name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18969",
+    "title": "Baseball Stars Color",
+    "hashes": [
+      {
+        "md5": "6f9f680b659369448f01508501c5a709",
+        "name": "Baseball Stars Color - Pocket Sports Series (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26881",
+    "title": "Big Bang Pro Wrestling",
+    "hashes": [
+      {
+        "md5": "184dc284995dc20ddce599426b9cac7d",
+        "name": "Big Bang Pro Wrestling (Japan) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "11572",
+    "title": "Biomotor Unitron",
+    "hashes": [
+      {
+        "md5": "f4bbe8cf42074b75c8a911bf7b0562d5",
+        "name": "Biomotor Unitron (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "11573",
+    "title": "Bust-A-Move Pocket | Puzzle Bobble Mini",
+    "hashes": [
+      {
+        "md5": "d91fd1c6c941bc2bde4ada3580fe408f",
+        "name": "Bust-A-Move Pocket (USA).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16706",
+    "title": "Cool Boarders Pocket",
+    "hashes": [
+      {
+        "md5": "dc8fa0cedef94fe22a219f2eeca43dc0",
+        "name": "Cool Boarders Pocket (Japan, Europe) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 88,
+      "points": 0
+    }
+  },
+  {
+    "id": "17336",
+    "title": "Cool Cool Jam",
+    "hashes": [
+      {
+        "md5": "a4567e247b16d07e9c9085c5b35bd8c9",
+        "name": "Cool Cool Jam (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11692",
+    "title": "Cotton: Fantastic Night Dreams",
+    "hashes": [
+      {
+        "md5": "5a2a155706a201a1c0227c7fe671256f",
+        "name": "Fantastic Night Dreams - Cotton (Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "13712",
+    "title": "Crush Roller",
+    "hashes": [
+      {
+        "md5": "100f6086bbcd6bccd2ac6f79242f5a87",
+        "name": "Crush Roller (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 59,
+      "points": 0
+    }
+  },
+  {
+    "id": "10297",
+    "title": "Dark Arms",
+    "hashes": [
+      {
+        "md5": "4fb30b1b905ed1f975efb9a8fceb9a62",
+        "name": "Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fe0e58d34d650ae5174ca03d3efc67b0",
+        "name": "Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 82,
+      "points": 0
+    }
+  },
+  {
+    "id": "14396",
+    "title": "Delta Warp",
+    "hashes": [
+      {
+        "md5": "64495ddd898f14e9c89e02179ab6f5e0",
+        "name": "Delta Warp (Japan) (En,Ja) (Save Fix) (RetroHQ).ngc",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "905a97b0100f8ee7080628bfef815a33",
+        "name": "Delta Warp - RetroHQ Fixed (Japan) (En,Ja).ngc",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d4651757a3db5a8e5a5a64c337c6002f",
+        "name": "Delta Warp (Japan) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "17337",
+    "title": "Densetsu no Ogre Battle Gaiden: Zenobia no Ouji",
+    "hashes": [
+      {
+        "md5": "26d0557d8a465aa8f430d5e4d94c679a",
+        "name": "Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29958",
+    "title": "Densha de Go! 2 on NeoGeo Pocket",
+    "hashes": [
+      {
+        "md5": "a816fc06a864ae3fdcbc72656774fc19",
+        "name": "Densha de Go! 2 on NeoGeo Pocket (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29753",
+    "title": "Dive Alert: Becky's Version",
+    "hashes": [
+      {
+        "md5": "c148b30103de704eeed63dfe7a7d6100",
+        "name": "Dive Alert - Becky's Version (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "29754",
+    "title": "Dive Alert: Matt's Version",
+    "hashes": [
+      {
+        "md5": "0c38b2d5d1a2be15d6c15c6b16b7bc98",
+        "name": "Dive Alert - Matt's Version (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18767",
+    "title": "Dynamite Slugger",
+    "hashes": [
+      {
+        "md5": "c84f675a617df14b1a1bf06f02be773d",
+        "name": "Dynamite Slugger (Japan, Europe) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12894",
+    "title": "Evolution: Eternal Dungeons",
+    "hashes": [
+      {
+        "md5": "9c9c2d533be340600ef9f92ed1253dd9",
+        "name": "Evolution - Eternal Dungeons (Europe) (vA1).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13167",
+    "title": "Faselei!",
+    "hashes": [
+      {
+        "md5": "f580078164dc2b8dffb9f38eeec1035d",
+        "name": "Faselei! (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 55,
+      "points": 0
+    }
+  },
+  {
+    "id": "14249",
+    "title": "Fatal Fury F-Contact",
+    "hashes": [
+      {
+        "md5": "690a3397f20e31b2c4a2833f51670245",
+        "name": "Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 72,
+      "points": 0
+    }
+  },
+  {
+    "id": "17338",
+    "title": "Ganbare Neo Poke-kun",
+    "hashes": [
+      {
+        "md5": "99ed127490f9d5d6482d20cc6abc8056",
+        "name": "Ganbare Neo Poke-kun (Kari) (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 81,
+      "points": 0
+    }
+  },
+  {
+    "id": "11570",
+    "title": "Infinity Cure",
+    "hashes": [
+      {
+        "md5": "4bda8b3669c5bbd72266853940d626cb",
+        "name": "Infinity Cure (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "17339",
+    "title": "Kikou Seiki Unitron: Sono Tsuide. Hikari Umareru Chi Yori.",
+    "hashes": [
+      {
+        "md5": "67eda4af4c84c71667d0e0fb7b4c7873",
+        "name": "Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33456",
+    "title": "King of Fighters R-1: Pocket Fighting Series",
+    "hashes": [
+      {
+        "md5": "347d0ef33c889cc826d214caf8475ae0",
+        "name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "14250",
+    "title": "King of Fighters R-2: Pocket Fighting Series",
+    "hashes": [
+      {
+        "md5": "b361ed78f6126f94179dc69fe4c58781",
+        "name": "King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "14270",
+    "title": "Magical Drop Pocket",
+    "hashes": [
+      {
+        "md5": "6acfef5fe57d592ea7321e0e440c4ecf",
+        "name": "Magical Drop Pocket (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ae92cd3536577bd18f03f34b475c26d6",
+        "name": "Magical Drop Pocket (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "14698",
+    "title": "Melon-chan no Seichou Nikki | Melon-chan's Growth Diary",
+    "hashes": [
+      {
+        "md5": "aaea1921109cd82c1faf5008fb72e5fc",
+        "name": "Melon-chan no Seichou Nikki (Japan).ngp",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11691",
+    "title": "Metal Slug: 1st Mission",
+    "hashes": [
+      {
+        "md5": "4d3efef436c67d4f4e031951b97d64c8",
+        "name": "Metal Slug - 1st Mission (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 62,
+      "points": 0
+    }
+  },
+  {
+    "id": "11766",
+    "title": "Metal Slug: 2nd Mission",
+    "hashes": [
+      {
+        "md5": "a58f7c41cd9e6c96cd5b4b477f022570",
+        "name": "Metal Slug - 2nd Mission (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 141,
+      "points": 0
+    }
+  },
+  {
+    "id": "32106",
+    "title": "Neo 21: Pocket Casino Series",
+    "hashes": [
+      {
+        "md5": "a60719b4839dd94bb3a8aa93ce91983d",
+        "name": "Neo 21 - Pocket Casino Series (World).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33476",
+    "title": "Neo Baccarat: Real Casino Series",
+    "hashes": [
+      {
+        "md5": "1018f765f460588d975c9b4e9385a547",
+        "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14251",
+    "title": "Neo Cherry Master Color",
+    "hashes": [
+      {
+        "md5": "279b9bf6ec9b7c473d310cfd6e3cee4d",
+        "name": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14252",
+    "title": "Neo Dragons Wild",
+    "hashes": [
+      {
+        "md5": "f0fdd57f4d1a1470b826082586ead479",
+        "name": "Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26414",
+    "title": "Neo Geo Cup '98 Plus",
+    "hashes": [
+      {
+        "md5": "a6c3369f28558e4a9719dc54d50be713",
+        "name": "NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14253",
+    "title": "Neo Mystery Bonus",
+    "hashes": [
+      {
+        "md5": "cef050e2591435a5c41ff851afa55a82",
+        "name": "Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14254",
+    "title": "Neo Turf Masters",
+    "hashes": [
+      {
+        "md5": "e055837bb0e227c1ddc3e68b0aa89ae9",
+        "name": "Neo Turf Masters (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "20405",
+    "title": "Nige-Ron-Pa",
+    "hashes": [
+      {
+        "md5": "866e717e2c684e073e6d034f5a56f7b7",
+        "name": "Nige-Ron-Pa (Japan) (En) (v0.9) (Loic).ngc",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9c73091689138179323ff48b279f8b1e",
+        "name": "Nige-ron-pa (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 61,
+      "points": 0
+    }
+  },
+  {
+    "id": "13350",
+    "title": "Pac-Man",
+    "hashes": [
+      {
+        "md5": "ac5ad76d5e6614ae576c2c837f0fab1d",
+        "name": "Pac-Man (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "32105",
+    "title": "Pachi-Slot Aruze Oukoku: Porcano 2",
+    "hashes": [
+      {
+        "md5": "8efd3c40988452782e55548f7369a050",
+        "name": "Pachi-slot Aruze Oukoku - Porcano 2 (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "32802",
+    "title": "Pachinko Hisshou Guide - Pocket Parlor",
+    "hashes": [
+      {
+        "md5": "90dd6442d5bb8f6c51f9e0836ba2b428",
+        "name": "Pachinko Hisshou Guide - Pocket Parlor (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "10345",
+    "title": "Picture Puzzle",
+    "hashes": [
+      {
+        "md5": "81d3c10271ad5b09032dd00321b41aa0",
+        "name": "Picture Puzzle (Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 48,
+      "points": 0
+    }
+  },
+  {
+    "id": "25291",
+    "title": "Pocket Reversi",
+    "hashes": [
+      {
+        "md5": "48b11e8772b752db938685639b667e2f",
+        "name": "Pocket Reversi (Europe) (v03).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14255",
+    "title": "Pocket Tennis Color",
+    "hashes": [
+      {
+        "md5": "c7bfc59b4cb593409541d4ccffe083b4",
+        "name": "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "13922",
+    "title": "Puyo Pop",
+    "hashes": [
+      {
+        "md5": "d40dc57b9cc3a30a2400f8cfd8724578",
+        "name": "Puyo Pop (World) (En,Ja) (v06).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14623",
+    "title": "Puzzle Link",
+    "hashes": [
+      {
+        "md5": "df694e1f69ded1df68a4ac52a13fb44a",
+        "name": "Puzzle Link (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14624",
+    "title": "Puzzle Link 2",
+    "hashes": [
+      {
+        "md5": "2a8f9cb76e56000769e08200d8b25182",
+        "name": "Tsunagete Pon! 2 (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9b30216da76c9de87caea93f13977396",
+        "name": "Puzzle Link 2 (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 58,
+      "points": 0
+    }
+  },
+  {
+    "id": "12895",
+    "title": "Rockman: Battle & Fighters",
+    "hashes": [
+      {
+        "md5": "064b9408df8af7beb7890d8317273550",
+        "name": "ngp/rockmanb.7z <Rockman - Battle & Fighters (Jpn)>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1ca3a6b4e23c51bdab70182c3406e73d",
+        "name": "Rockman - Battle & Fighters (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "62ba425e8a32bb953dcf0dc36cdabbf2",
+        "name": "Rockman Battle & Fighters (Japan) (En) (v0.9) (marc_max).ngc",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c71af75c76778b8a2d32a0c6f170736e",
+        "name": "Rockman - Battle & Fighters (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 60,
+      "points": 0
+    }
+  },
+  {
+    "id": "13349",
+    "title": "Samurai Shodown! 2: Pocket Fighting Series",
+    "hashes": [
+      {
+        "md5": "9b11b2632f926301096a40491042a089",
+        "name": "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 105,
+      "points": 0
+    }
+  },
+  {
+    "id": "27735",
+    "title": "Samurai Shodown! Pocket Fighting Series",
+    "hashes": [
+      {
+        "md5": "d13f954b2f1c703bdf857837c24e332e",
+        "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16705",
+    "title": "Shanghai Mini",
+    "hashes": [
+      {
+        "md5": "7c262a2c6390445170d0bf83290c939c",
+        "name": "Shanghai Mini (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 32,
+      "points": 0
+    }
+  },
+  {
+    "id": "13423",
+    "title": "SNK Gals' Fighters",
+    "hashes": [
+      {
+        "md5": "08922d2bdc6c80d56ddf50836ccad77c",
+        "name": "SNK Gals' Fighters (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 67,
+      "points": 0
+    }
+  },
+  {
+    "id": "14397",
+    "title": "SNK vs. Capcom: Card Fighters 2: Expand Edition",
+    "hashes": [
+      {
+        "md5": "3c6c6e42d10b76bbccacf125f5d2b769",
+        "name": "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) (En) (v1-25-17) (CFC2 Translation Team).ngc",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ebc0e8c33d1a5e5be5457ad988233feb",
+        "name": "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 62,
+      "points": 0
+    }
+  },
+  {
+    "id": "14395",
+    "title": "SNK vs. Capcom: Card Fighters' Clash - Capcom and SNK Versions",
+    "hashes": [
+      {
+        "md5": "3bcc1c9ef59a75e3c2e6b49be6b84bab",
+        "name": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "74e8381e94565e21a3197449bb4423bf",
+        "name": "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 43,
+      "points": 0
+    }
+  },
+  {
+    "id": "10236",
+    "title": "SNK vs. Capcom: The Match of the Millennium",
+    "hashes": [
+      {
+        "md5": "d7a3dc19391c754709a330d17710a1dc",
+        "name": "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja) (SvC Unlock Char).ngc",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "dfea3ad9af4a631de6f97d86589b971e",
+        "name": "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 69,
+      "points": 0
+    }
+  },
+  {
+    "id": "11719",
+    "title": "Sonic the Hedgehog: Pocket Adventure",
+    "hashes": [
+      {
+        "md5": "6123e8a783b146bdcdc6a9fa95abb0bd",
+        "name": "Sonic The Hedgehog - Pocket Adventure (World) (En,Ja).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b8a899ae2b0f1dfa0db5417de745a51e",
+        "name": "Sonic The Hedgehog - Pocket Adventure (World).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "31534",
+    "title": "Super Real Mahjong: Premium Collection",
+    "hashes": [
+      {
+        "md5": "07873a332ef8ac5cb5177ee3c304ff2b",
+        "name": "Super Real Mahjong - Premium Collection (Japan).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14271",
+    "title": "The Last Blade: Beyond the Destiny",
+    "hashes": [
+      {
+        "md5": "83fa4cb3c629aa57c12f9cec52c5a53d",
+        "name": "Last Blade, The - Beyond the Destiny (USA, Europe).ngc",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

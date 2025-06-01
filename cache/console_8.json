@@ -1,0 +1,7288 @@
+[
+  {
+    "id": "33559",
+    "title": "~Homebrew~ ~Demo~ Special Ninja Squad",
+    "hashes": [
+      {
+        "md5": "2c020898a17617fc16b24538a0978c57",
+        "name": "Special Ninja Squad (World) (v1.1 Demo) (Aftermarket) (Vectrex28).pce",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18084",
+    "title": "~Homebrew~ Atlantean",
+    "hashes": [
+      {
+        "md5": "29abb6671fc4a4217473cd955cb76ae8",
+        "name": "Atlantean (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "33531",
+    "title": "~Homebrew~ Beer Girl Stadium",
+    "hashes": [
+      {
+        "md5": "079eb8aa7d6bd34168e6f2d299b271ba",
+        "name": "Beer Girl Stadium (World) (v0.1) (Proto) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30047",
+    "title": "~Homebrew~ Billy's Bad Day",
+    "hashes": [
+      {
+        "md5": "0aa6c271c63a5b243be2ba9528b1d89b",
+        "name": "Billy's Bad Day (World) (Digital) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25857",
+    "title": "~Homebrew~ Bootskell",
+    "hashes": [
+      {
+        "md5": "ad91b6b2727497f7cc103f41589f77be",
+        "name": "Bootskell (World) (v2023-01-11) (Aftermarket) (Unl) (Inufuto).pce",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22754",
+    "title": "~Homebrew~ Dinoforce",
+    "hashes": [
+      {
+        "md5": "649d21db47c5aca68687793cd97f4cc2",
+        "name": "Dinoforce (Japan) (En) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "20488",
+    "title": "~Homebrew~ HuZERO: Caravan Edition",
+    "hashes": [
+      {
+        "md5": "b14e14493c7c45b8d61c160236ac0f85",
+        "name": "HuZERO (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "33547",
+    "title": "~Homebrew~ Jurl: PC Engine Edition",
+    "hashes": [
+      {
+        "md5": "5b9020290130831902682d2b5cda656a",
+        "name": "Jurl - PC Engine Edition (World) (v0.98) (Aftermarket) (Tonsomo).pce",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33162",
+    "title": "~Homebrew~ Mai Nurse",
+    "hashes": [
+      {
+        "md5": "4eebe752ce86bd26cbf2243ba13474b4",
+        "name": "Mai Nurse (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro",
+          "itchio",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13669",
+    "title": "~Homebrew~ Maria",
+    "hashes": [
+      {
+        "md5": "de25a604c8f59525ef061ac5bb3567bd",
+        "name": "Maria (World) (Aftermarket) (Unl)",
+        "labels": [
+          "nointro",
+          "itchio",
+          "homebrew"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "18611",
+    "title": "~Homebrew~ Mega Man 2",
+    "hashes": [
+      {
+        "md5": "83079124c8efce1eee4c3a34a89441a5",
+        "name": "Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 70,
+      "points": 0
+    }
+  },
+  {
+    "id": "18643",
+    "title": "~Homebrew~ Mega Man 2 [Subset - Bonus]",
+    "hashes": [
+      {
+        "md5": "e68b97f12b236e7b827dc77f98d29cd5",
+        "name": "Mega Man 2 [Subset - Bonus].pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 6,
+      "points": 0
+    }
+  },
+  {
+    "id": "28326",
+    "title": "~Homebrew~ Nantettatte Engine",
+    "hashes": [
+      {
+        "md5": "a8264f87f8c2a9a97fe46c2fa3249deb",
+        "name": "Nantettatte Engine (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "29148",
+    "title": "~Homebrew~ Neuras",
+    "hashes": [
+      {
+        "md5": "956b2b117c8925821334eac54a6319c8",
+        "name": "Neuras (World) (v2023-01-11) (Aftermarket) (Unl) (Inufuto).pce",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26878",
+    "title": "~Homebrew~ Reflectron",
+    "hashes": [
+      {
+        "md5": "40540be45e4f802344cfcb9f43b527b0",
+        "name": "Reflectron (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 7,
+      "points": 0
+    }
+  },
+  {
+    "id": "18085",
+    "title": "~Homebrew~ Santatlantean",
+    "hashes": [
+      {
+        "md5": "12c9cb92855185a15b315435ec8eadf7",
+        "name": "Santatlantean (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "33558",
+    "title": "~Homebrew~ Stun Pong",
+    "hashes": [
+      {
+        "md5": "54d028a70ba8ec197e5223622627039e",
+        "name": "Stun Pong (World) (v1.0) (Aftermarket) (bjorn-nah).pce",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33560",
+    "title": "~Homebrew~ Tales of the Unemployed",
+    "hashes": [
+      {
+        "md5": "f84cbc63312669f05a6294e665766b71",
+        "name": "Tales of the Unemployed - Party Version (World) (v1.0) (Aftermarket) (bjorn-nah).pce",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "25183",
+    "title": "~Homebrew~ The Great Fumo Binning",
+    "hashes": [
+      {
+        "md5": "de60a6746244d36a1bc9b8cc0abc481b",
+        "name": "Great Fumo Binning, The (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 9,
+      "points": 0
+    }
+  },
+  {
+    "id": "33561",
+    "title": "~Homebrew~ Timefend",
+    "hashes": [
+      {
+        "md5": "c60cd42acc28ff78981fa70c7fa51a30",
+        "name": "Timefend (World) (v1.0) (Aftermarket) (bjorn-nah).pce",
+        "labels": [
+          "homebrew",
+          "itchio",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14467",
+    "title": "~Homebrew~ Tongueman's Logic",
+    "hashes": [
+      {
+        "md5": "15107f07c3b7a65a7e784add44349961",
+        "name": "Tongueman's Logic (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "2480d1a5475973b3032f164ae857c7f1",
+        "name": "pce/tongueman.7z <Tongueman's Logic>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "33553",
+    "title": "~Homebrew~ UWOL: Quest for Money",
+    "hashes": [
+      {
+        "md5": "75caf42af0f5eeec3b949604fd9b83e4",
+        "name": "UWOL - Quest for Money (World) (v1.1) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16971",
+    "title": "~Prototype~ Off the Wall",
+    "hashes": [
+      {
+        "md5": "f4049602c39974b15bd682b1425edbc8",
+        "name": "Off the Wall (USA) (Proto).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "26136",
+    "title": "~Prototype~ TV Sports Baseball",
+    "hashes": [
+      {
+        "md5": "9561486f27c94d8a326f0d321ad4f65b",
+        "name": "TV Sports Baseball (USA) (Proto).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33551",
+    "title": "~Unlicensed~ ~Demo~ Strife Sisters",
+    "hashes": [
+      {
+        "md5": "aacf2cc8f0766ccbd2739837da972c22",
+        "name": "Strife Sisters (World) (Demo) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33554",
+    "title": "~Unlicensed~ ~Prototype~ Wolleyball in Wonderland",
+    "hashes": [
+      {
+        "md5": "83a1b9addd8f25bba63979b431485fa7",
+        "name": "Wolleyball in Wonderland (World) (Proto) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13666",
+    "title": "~Unlicensed~ AV Poker: World Gambler",
+    "hashes": [
+      {
+        "md5": "d395beb4a1e3fc80831870995b169358",
+        "name": "AV Poker - World Gambler (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33529",
+    "title": "~Unlicensed~ Barbarian",
+    "hashes": [
+      {
+        "md5": "f4af6f9cdf01349901a2ffaa4a59e244",
+        "name": "Barbarian (World) (Atari ST) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b9106d1ff43db1a5f8d6412cb2d8bc94",
+        "name": "Barbarian (World) (Amiga 500) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "72effc4876108125a9fe9876f01689ea",
+        "name": "Barbarian (World) (Amstrad CPC) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "eb7761d3250eb7497f6153a19c3b9e32",
+        "name": "Barbarian (World) (Commodore 64) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "751165b44d86d487657312a7d78efde2",
+        "name": "Barbarian (World) (ZX Spectrum) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13670",
+    "title": "~Unlicensed~ Bodycon Quest II",
+    "hashes": [
+      {
+        "md5": "ac341b143c8a35a9efd5e8d3c803e543",
+        "name": "Bodycon Quest II (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33533",
+    "title": "~Unlicensed~ Bug Hunt",
+    "hashes": [
+      {
+        "md5": "c72dbc8a0f06ddd26b4d4e8bae0dc70f",
+        "name": "Bug Hunt (World) (NEO Coding Compo 2013) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33536",
+    "title": "~Unlicensed~ Crash",
+    "hashes": [
+      {
+        "md5": "a8ec2c386abeda4e3a995ae7d030d1b0",
+        "name": "Crash (World) (v1.01) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33537",
+    "title": "~Unlicensed~ Death Sword",
+    "hashes": [
+      {
+        "md5": "bc935ecf69f266cfb6bda359be4fd6b7",
+        "name": "Death Sword (World) (PC) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "eb9f3b4bbed489673e10e5887189048d",
+        "name": "Death Sword (World) (Apple II) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33538",
+    "title": "~Unlicensed~ Humpball",
+    "hashes": [
+      {
+        "md5": "26c3a2897a6793d053c64be877aa7721",
+        "name": "Humpball (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33539",
+    "title": "~Unlicensed~ Idol Hanafuda Fan Club",
+    "hashes": [
+      {
+        "md5": "b218d95cc1b2e827be76282d726c6244",
+        "name": "Idol Hanafuda Fan Club (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33540",
+    "title": "~Unlicensed~ Island Adventure",
+    "hashes": [
+      {
+        "md5": "90fd84b5d43b1e70786158fa3a7f0d2c",
+        "name": "Island Adventure (World) (NEO Coding Compo 2012) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33541",
+    "title": "~Unlicensed~ Kyuukyoku Mahjong - Idol Graphic",
+    "hashes": [
+      {
+        "md5": "4c7d1e7dc7d5aaee62d3b5a01309d848",
+        "name": "Kyuukyoku Mahjong - Idol Graphic (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33542",
+    "title": "~Unlicensed~ Kyuukyoku Mahjong II - Super Idol Graphic",
+    "hashes": [
+      {
+        "md5": "eb104b94d861322d0e13604a69d3d0ea",
+        "name": "Kyuukyoku Mahjong II - Super Idol Graphic (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9565",
+    "title": "~Unlicensed~ Lady Sword: Ryakudatsusareta 10-nin no Otome",
+    "hashes": [
+      {
+        "md5": "71c5cffeab1cb60a04b5e77a338117ac",
+        "name": "Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6b56d548b740cdbbc2993b5a8f03ffd4",
+        "name": "Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 35,
+      "points": 0
+    }
+  },
+  {
+    "id": "33543",
+    "title": "~Unlicensed~ Loop 2",
+    "hashes": [
+      {
+        "md5": "e122ac32a89a51cdea81836d5853f921",
+        "name": "Loop 2 (World) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33548",
+    "title": "~Unlicensed~ Meteor Blaster DX",
+    "hashes": [
+      {
+        "md5": "f1e29d8f21577cd8482cdf31a0d3d272",
+        "name": "Meteor Blaster DX (World) (v1.01) (Aftermarket) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33556",
+    "title": "~Unlicensed~ PC Pachi-Slot: Idol Gambler",
+    "hashes": [
+      {
+        "md5": "9424caffd567e880aea512dc823aca22",
+        "name": "PC Pachi-Slot - Idol Gambler (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33549",
+    "title": "~Unlicensed~ Quiz Toukou Shashin",
+    "hashes": [
+      {
+        "md5": "5351d1043b5212ab01c3e19ba817a03c",
+        "name": "Quiz Toukou Shashin (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7388",
+    "title": "~Unlicensed~ Strip Fighter II",
+    "hashes": [
+      {
+        "md5": "cff035e7d00159ad0879df71e9aa25ca",
+        "name": "Strip Fighter II (Japan) (Unl).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "11624",
+    "title": "~Z~ A Cheated ROM [PCE]",
+    "hashes": [
+      {
+        "md5": "0851f99824c5aa1530dbb3952ace014f",
+        "name": "Kung Fu, The (J) [p1][t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "1c8fbf4d22ea502f74918c4da569db69",
+        "name": "Kung Fu, The (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3062fa0b775a5f6a9e2f6d4550358a31",
+        "name": "Side Arms - Hyper Dyne (Tai Sang) (J) [p1][t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "322080f9de972b1bc4adbc7e6dc10273",
+        "name": "Dragon Spirit (U) [h1][t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "349723c9d056121a3e0395aa252ca3c3",
+        "name": "Paranoia (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4e03eb95c338ff86d5232d796251c3fb",
+        "name": "Gradius (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5847c07c4cd1933e09c565384567200b",
+        "name": "Xevious - Fardraut Densetsu (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6d17761d0e28d6831276a4399190093e",
+        "name": "Paranoia (J) [a3][t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7673f8421442b0278a14ab75b2e61e9a",
+        "name": "R-Type Part-2 (Tai Sang Version) (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7859a0a98d767e2ab72c0093724e6326",
+        "name": "Dragon Spirit (U) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7b8ee897cb1b7a3a6b88ac31d5e2729c",
+        "name": "Galaga '90 (U) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "aa8004caff10278ebfed6b743fa169f0",
+        "name": "Armed Formation F (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ac82ff47faf733ec763932ad60f12f9b",
+        "name": "Kung Fu, The (J) [b2][t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cb6e00632a9d088e371c8e5b79526373",
+        "name": "Side Arms - Hyper Dyne (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "dcb317a0f9c884e96b262aaf29382160",
+        "name": "Kung Fu, The (J) [b1][t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e4cfa68f669e66145001e8c32d9f186f",
+        "name": "Kyuukyoku Tiger (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f4ea7c961d38fcc14d15e165cfee52f6",
+        "name": "Gunhed (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ff40b635526c5054c2f96a7c5278dd76",
+        "name": "R-Type (Tai Sang Version) (J) [t1].pce",
+        "labels": [
+          "goodtools"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6205",
+    "title": "1941: Counter Attack",
+    "hashes": [
+      {
+        "md5": "30686dba4795521174658de2492e0046",
+        "name": "1941 - Counter Attack (Japan).sgx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "28683",
+    "title": "1941: Counter Attack [Subset - Multi]",
+    "hashes": [
+      {
+        "md5": "a1294ee85e9962aaaa2eae1dddffd5ea",
+        "name": "1941 - Counter Attack [Subset - Multi].sgx",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "6799",
+    "title": "1943 Kai",
+    "hashes": [
+      {
+        "md5": "42cfdf8495ce8338d83c73b38ae274b6",
+        "name": "1943 Kai (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "7178",
+    "title": "21 Emon: Mezase Hotel Ou!!",
+    "hashes": [
+      {
+        "md5": "86e3ed839f053bb99ebf1760439c3a3c",
+        "name": "21 Emon - Mezase Hotel Ou!! (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2269",
+    "title": "Aero Blasters",
+    "hashes": [
+      {
+        "md5": "3d3b872d9031fa3227d68f2239b00b82",
+        "name": "Aero Blasters (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b2b62baab5fefafc5db6538720b503c3",
+        "name": "Aero Blasters (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "2151",
+    "title": "After Burner II",
+    "hashes": [
+      {
+        "md5": "ac0cdee014e725e428fde5774751ff8d",
+        "name": "After Burner II (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2270",
+    "title": "Air Zonk",
+    "hashes": [
+      {
+        "md5": "406bec60ffca9ac151a793969b0c10c6",
+        "name": "Air Zonk (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "14312",
+    "title": "Aldynes: The Mission Code for Rage Crisis",
+    "hashes": [
+      {
+        "md5": "8ce21667658ef9c025ad007f65147c6d",
+        "name": "Aldynes - The Misson Code for Rage Crisis (Japan).sgx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "2271",
+    "title": "Alien Crush",
+    "hashes": [
+      {
+        "md5": "0088d1d20861490677edb147d2de60bd",
+        "name": "Alien Crush (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b79b937168344378a03c58b20c2df304",
+        "name": "tg16/acrush.7z <Alien Crush>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "33530",
+    "title": "All Star Power League",
+    "hashes": [
+      {
+        "md5": "e5e1031c335221d57ad025fe9e61e698",
+        "name": "All Star Power League (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2317",
+    "title": "Andre Panza: Kickboxing",
+    "hashes": [
+      {
+        "md5": "307403e27f10ccd6cf191f9dda26b77a",
+        "name": "tg16/panzakb.7z <Panza Kick Boxing>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f9fdabcefa6e69aba547b1a5113a133f",
+        "name": "Andre Panza Kick Boxing (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "2146",
+    "title": "Aoi Blink | Blue Blink",
+    "hashes": [
+      {
+        "md5": "f1a8431d75e05812590d0f23135eecaa",
+        "name": "Aoi Blink (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13662",
+    "title": "Appare! Gateball",
+    "hashes": [
+      {
+        "md5": "3f2f9b623fb76e272561a6db1ea0f875",
+        "name": "Appare! Gateball (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "18736",
+    "title": "Armed F",
+    "hashes": [
+      {
+        "md5": "c9efecc5c9854bfe79db25cd01614802",
+        "name": "Armed F (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13663",
+    "title": "Artist Tool",
+    "hashes": [
+      {
+        "md5": "549d32279281af79c104f51a3c603628",
+        "name": "Artist Tool (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7801",
+    "title": "Atomic Robo-Kid Special",
+    "hashes": [
+      {
+        "md5": "548ca5eb135f526f3a2837f5259d795f",
+        "name": "Atomic Robo-Kid Special (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2272",
+    "title": "Ballistix",
+    "hashes": [
+      {
+        "md5": "9610910760ed0c034961866ceb7d4e23",
+        "name": "Ballistix (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13664",
+    "title": "Bari Bari Densetsu",
+    "hashes": [
+      {
+        "md5": "539eb9333d3e39f597786288872917dc",
+        "name": "Bari Bari Densetsu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13665",
+    "title": "Barunba",
+    "hashes": [
+      {
+        "md5": "a39fba5fe056ae0fb25ded19f1cdaeed",
+        "name": "Barunba (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2600",
+    "title": "Batman",
+    "hashes": [
+      {
+        "md5": "6c35cbaf97b7285a9373b9ae9f553411",
+        "name": "Batman (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "5558",
+    "title": "Battle Ace",
+    "hashes": [
+      {
+        "md5": "fc0053c0c050353b87886b1b89349168",
+        "name": "Battle Ace (Japan).sgx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8472",
+    "title": "Battle Lode Runner",
+    "hashes": [
+      {
+        "md5": "52ac9b2e9f552558b8658cabae4639a3",
+        "name": "Battle Lode Runner (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2273",
+    "title": "Battle Royale",
+    "hashes": [
+      {
+        "md5": "beb2b4486ed8a66f0df10e260bdc5224",
+        "name": "Battle Royale (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "13667",
+    "title": "Benkei Gaiden",
+    "hashes": [
+      {
+        "md5": "41e5131613fd41b9cab87191cee474a5",
+        "name": "Benkei Gaiden (Japan) (Wii Virtual Console).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "fe54ee82279992cef3aeb14aa3f795d9",
+        "name": "Benkei Gaiden (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13668",
+    "title": "Bikkuriman World",
+    "hashes": [
+      {
+        "md5": "7822065caf6c6b5cd8f16189915b4e21",
+        "name": "Bikkuriman World (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7a13bd257402efafff3c33d9ba7d4ae4",
+        "name": "Bikkuriman World (Japan) (En) (v1.0) (Demiforce).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "560da2c998c293b4c4769d4f570eb011",
+        "name": "Bikkuriman World (Japan) (Fr) (v1.02) (Raph99).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "19e6202eb43ac2aaac5492a5ecfb23ff",
+        "name": "Bikkuriman World (Japan) (El) (Unknown).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "2274",
+    "title": "Blazing Lazers | Gunhed",
+    "hashes": [
+      {
+        "md5": "3878ce81ce2cd9831095a27be0843664",
+        "name": "tg16/blazlazr.7z <Blazing Lazers>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3c2f85fc7898de73a7c789033d22b8f5",
+        "name": "Blazing Lazers (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 74,
+      "points": 0
+    }
+  },
+  {
+    "id": "2334",
+    "title": "Blodia | Timeball",
+    "hashes": [
+      {
+        "md5": "5ea85e345f3970ec6edf45da758121a0",
+        "name": "Timeball (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2275",
+    "title": "Bloody Wolf",
+    "hashes": [
+      {
+        "md5": "f19869d1823a28e8472452baf697cf56",
+        "name": "Bloody Wolf (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 55,
+      "points": 0
+    }
+  },
+  {
+    "id": "2276",
+    "title": "Bomberman",
+    "hashes": [
+      {
+        "md5": "22945308eb41396f39c00444be9f251f",
+        "name": "Bomberman (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 56,
+      "points": 0
+    }
+  },
+  {
+    "id": "2277",
+    "title": "Bomberman '93",
+    "hashes": [
+      {
+        "md5": "17a08fca7468a24039f1a6c97015807f",
+        "name": "Bomberman '93 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "453807383295c0871db04ec47179f2f9",
+        "name": "pce/bombmn93.7z <Bomberman '93>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "795321485b7d58701cd5b661d6ad636a",
+        "name": "Bomberman '93 (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f1cf6a5ab58a417aa7d5403d1a138ac2",
+        "name": "tg16/bombmn93.7z <Bomberman '93>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 60,
+      "points": 0
+    }
+  },
+  {
+    "id": "33535",
+    "title": "Bomberman '93 [Subset - Special Version (Multi)]",
+    "hashes": [
+      {
+        "md5": "8930d24e64be677b898423a295b2bde0",
+        "name": "Bomberman '93 - Special Version (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7205",
+    "title": "Bomberman '94",
+    "hashes": [
+      {
+        "md5": "31a21937e7bda97ee54fd49f2475b6d3",
+        "name": "Bomberman '94 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 68,
+      "points": 0
+    }
+  },
+  {
+    "id": "33532",
+    "title": "Bomberman [Subset - Users Battle]",
+    "hashes": [
+      {
+        "md5": "dccedf6d85ea5cf9c37c1c963b328735",
+        "name": "Bomberman - Users Battle (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2278",
+    "title": "Bonk III: Bonk's Big Adventure",
+    "hashes": [
+      {
+        "md5": "f4922bc12ac5c46c29d18d21e34f910f",
+        "name": "Bonk 3 - Bonk's Big Adventure (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "2279",
+    "title": "Bonk's Adventure",
+    "hashes": [
+      {
+        "md5": "3aa21326050c489ea867de05dd6cb7e5",
+        "name": "Bonk's Adventure (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 48,
+      "points": 0
+    }
+  },
+  {
+    "id": "2280",
+    "title": "Bonk's Revenge",
+    "hashes": [
+      {
+        "md5": "4db83789bd1597b9c2e423124ef5d98d",
+        "name": "tg16/bonk2.7z <Bonk's Revenge>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "dd97fe7e1572fe65fcb44e2757764b16",
+        "name": "Bonk's Revenge (USA) (Alt 2).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "13671",
+    "title": "Bouken Danshaku Don: The Lost Sunheart",
+    "hashes": [
+      {
+        "md5": "85e073902278ac45b52adfec1ab1535a",
+        "name": "Bouken Danshaku Don - The Lost Sunheart (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2281",
+    "title": "Boxyboy",
+    "hashes": [
+      {
+        "md5": "c316ad2e57400feaf16fcaff67935b00",
+        "name": "Boxyboy (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 50,
+      "points": 0
+    }
+  },
+  {
+    "id": "2282",
+    "title": "Bravoman",
+    "hashes": [
+      {
+        "md5": "f60f3d46b7fab6060c3be9aad2103558",
+        "name": "Bravoman (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13672",
+    "title": "Break In",
+    "hashes": [
+      {
+        "md5": "ccf0795c95150fc3246926312fecf842",
+        "name": "Break In (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12906",
+    "title": "Bubblegum Crash!: Knight Sabers 2034",
+    "hashes": [
+      {
+        "md5": "4675116aa55dcf17f6311142d43808ec",
+        "name": "Bubblegum Crash! - Knight Sabers 2034 (Japan) (En) (v1.0) (Dave Shadoff, filler, Tomaitheous).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8aa27a2cdc063b278e063166a168a307",
+        "name": "Bubblegum Crash! - Knight Sabers 2034 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13673",
+    "title": "Bullfight Ring no Hasha",
+    "hashes": [
+      {
+        "md5": "7a48865eddcc5ef4bd998a5bfea05ae4",
+        "name": "Bull Fight - Ring no Hasha (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13674",
+    "title": "Burning Angels",
+    "hashes": [
+      {
+        "md5": "214a55e19aed90a0095ca0d65894b7d3",
+        "name": "Burning Angels (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "13236",
+    "title": "Busou Keiji: Cyber Cross",
+    "hashes": [
+      {
+        "md5": "d11ceaccd53d005329febde8683192c7",
+        "name": "Busou Keiji - Cyber Cross (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2283",
+    "title": "Cadash",
+    "hashes": [
+      {
+        "md5": "617a4254c05e88145110718951039e61",
+        "name": "Cadash (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 49,
+      "points": 0
+    }
+  },
+  {
+    "id": "24081",
+    "title": "Cadash [Subset - Multi]",
+    "hashes": [
+      {
+        "md5": "8622865b2a79e82758533d956e647a91",
+        "name": "Cadash (USA) [Subset - Multi].pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 49,
+      "points": 0
+    }
+  },
+  {
+    "id": "22748",
+    "title": "Champion Wrestler",
+    "hashes": [
+      {
+        "md5": "337b0aa40e3c133b6242aa0b71a4fd20",
+        "name": "Champion Wrestler (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16968",
+    "title": "Champions Forever Boxing",
+    "hashes": [
+      {
+        "md5": "fcd3e7f105514b61ff25dc3477f8b138",
+        "name": "Champions Forever Boxing (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2284",
+    "title": "Chew Man Fu",
+    "hashes": [
+      {
+        "md5": "ff32565f935af07372e1dfd0ac7fbe78",
+        "name": "Chew-Man-Fu (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 78,
+      "points": 0
+    }
+  },
+  {
+    "id": "33534",
+    "title": "Chibi Maruko-chan - Quiz de Piihyara",
+    "hashes": [
+      {
+        "md5": "0d1e37aa94d82ef48f94f11f04fe7db1",
+        "name": "Chibi Maruko-chan - Quiz de Piihyara (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22749",
+    "title": "Chikudenya Toubei: Kubikiri Yakata Yori",
+    "hashes": [
+      {
+        "md5": "230232534784e6b36c0e8b5df1572cbc",
+        "name": "Chikudenya Toubei - Kubikiri Yakata Yori (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2285",
+    "title": "China Warrior | The Kung Fu",
+    "hashes": [
+      {
+        "md5": "60bb0116b706fc30a76840ed0b5da458",
+        "name": "China Warrior (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "97df44641bf65728d1df5cfff39b72e4",
+        "name": "tg16/chinawar.7z <China Warrior>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "16393",
+    "title": "Circus Lido",
+    "hashes": [
+      {
+        "md5": "bb10ab1d4e671e4c4adf7674acd7115f",
+        "name": "Circus Lido (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9171",
+    "title": "City Hunter",
+    "hashes": [
+      {
+        "md5": "32a6a97aa9e69fa8091bfda374609922",
+        "name": "City Hunter (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2260",
+    "title": "Columns",
+    "hashes": [
+      {
+        "md5": "6e0c2c5ebb0caf13a4ba59b653ab55ef",
+        "name": "pce/columns.7z <Columns>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a3a1be9fc3baef5e7bc6554962aea55b",
+        "name": "Columns (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "7902",
+    "title": "Coryoon: Child of Dragon",
+    "hashes": [
+      {
+        "md5": "a02c4e74d78c7e02f1ff1dbf13aca711",
+        "name": "Coryoon - Child of Dragon (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "2286",
+    "title": "Cratermaze",
+    "hashes": [
+      {
+        "md5": "653c1be1f0f5e032bc3ec6b4e2823b98",
+        "name": "Cratermaze (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "5206",
+    "title": "Cross Wiber: Cyber Combat Police",
+    "hashes": [
+      {
+        "md5": "abf5d536a648dd2dd2281580eea8c2d5",
+        "name": "Cross Wiber - Cyber Combat Police (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2287",
+    "title": "Cyber Core",
+    "hashes": [
+      {
+        "md5": "c16b1aee2d7023b410dd5e513c4aec0b",
+        "name": "Cyber-Core (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "22751",
+    "title": "Cyber Dodge",
+    "hashes": [
+      {
+        "md5": "cbc880d19c5a996d58d8a8d9c468d31b",
+        "name": "Cyber Dodge (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13675",
+    "title": "Cyber Knight",
+    "hashes": [
+      {
+        "md5": "dad257d4984635f70580b10f1ae1b75c",
+        "name": "Cyber Knight (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22752",
+    "title": "Daichi-kun Crisis: Do Natural",
+    "hashes": [
+      {
+        "md5": "4a1f595eec378e553506fcfdca5a2c8a",
+        "name": "Daichi-kun Crisis - Do Natural (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9212",
+    "title": "Daimakaimura",
+    "hashes": [
+      {
+        "md5": "6d9ff6f70608166c88fd2553d44ca17a",
+        "name": "Daimakaimura (Japan).sgx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 48,
+      "points": 0
+    }
+  },
+  {
+    "id": "18738",
+    "title": "Daisenpuu",
+    "hashes": [
+      {
+        "md5": "677302bdec15a9c56ef6b7aade125fad",
+        "name": "Daisenpuu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "5768",
+    "title": "Darius Alpha",
+    "hashes": [
+      {
+        "md5": "c87135a6af3344c9316fe06fccbcfd97",
+        "name": "Darius Alpha (Japan) (SG Enhanced).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "9271",
+    "title": "Darius Plus",
+    "hashes": [
+      {
+        "md5": "3274eee61dae966e15822558940e5d4d",
+        "name": "Darius Plus (Japan) (SG Enhanced).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2288",
+    "title": "Darkwing Duck",
+    "hashes": [
+      {
+        "md5": "d2a603fad8df15b3c617b7e8b24e8606",
+        "name": "Darkwing Duck (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "16969",
+    "title": "Davis Cup Tennis",
+    "hashes": [
+      {
+        "md5": "b45d198d7895d10e41f308427dab6b3f",
+        "name": "Davis Cup Tennis (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2289",
+    "title": "Dead Moon",
+    "hashes": [
+      {
+        "md5": "47e3d20a759659e30cef20aaaa5731b0",
+        "name": "Dead Moon (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "2290",
+    "title": "Deep Blue",
+    "hashes": [
+      {
+        "md5": "ae3165e430f12fd57de382ab34e16dee",
+        "name": "Deep Blue (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "18338",
+    "title": "Detana!! TwinBee",
+    "hashes": [
+      {
+        "md5": "c42ad354e906d5a4741349002b94b9c2",
+        "name": "Detana!! TwinBee (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2291",
+    "title": "Devil's Crush: Naxat Pinball",
+    "hashes": [
+      {
+        "md5": "84b0df00a7fb6dae64739c9dd4842130",
+        "name": "tg16/devlcrsh.7z <Devil's Crush - Naxat Pinball>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "92fbe89d4c87bf283dbfbeac69a64e6e",
+        "name": "Devil's Crush (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 52,
+      "points": 0
+    }
+  },
+  {
+    "id": "12821",
+    "title": "Die Hard",
+    "hashes": [
+      {
+        "md5": "45195abbbdaff8dd8d8c521b84f1698d",
+        "name": "Die Hard (Japan) (En) (Spinner 8) (1.0).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "487029035f0d6c434cbc412fca951dab",
+        "name": "pce/diehard.7z <Die Hard>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7dd298a6e9f2abce6f85d262ec37f483",
+        "name": "Die Hard (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9a0de117840a3aa9baf7c7e7eb5546c8",
+        "name": "Die Hard (Japan) (Es) (Wave) (1.1).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bccc45446bdcc231d8edb4475c4eceb1",
+        "name": "Die Hard (Japan) (Pt) (Patryck) (1.0).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "22753",
+    "title": "Digital Champ: Battle Boxing",
+    "hashes": [
+      {
+        "md5": "ac5290f448ee230ff9337b437557af52",
+        "name": "Digital Champ (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22755",
+    "title": "Don Doko Don!",
+    "hashes": [
+      {
+        "md5": "5d27b090b2e630a30b60341cb47606a7",
+        "name": "Don Doko Don! (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28011",
+    "title": "Doraemon: Meikyuu Daisakusen",
+    "hashes": [
+      {
+        "md5": "77cf3e53c5e4fbef73087893cdeec84f",
+        "name": "Doraemon - Meikyuu Daisakusen (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22756",
+    "title": "Doraemon: Nobita no Dorabian Night",
+    "hashes": [
+      {
+        "md5": "14813eff2b436fa5eb1c3e95e99993a9",
+        "name": "Doraemon - Nobita no Dorabian Night (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "2292",
+    "title": "Double Dungeons",
+    "hashes": [
+      {
+        "md5": "0a459d74f0545f4538705276422be34e",
+        "name": "Dragon Spirit (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5ba010cd617c6f2b0f6e926fd4ef8a42",
+        "name": "Double Dungeons (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "13235",
+    "title": "Download",
+    "hashes": [
+      {
+        "md5": "10de08141486e768e6743d9a1c2c57f4",
+        "name": "Down Load (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "22757",
+    "title": "Dragon Egg!",
+    "hashes": [
+      {
+        "md5": "51fefc9b576f23ab0245baeb64a7ab17",
+        "name": "Dragon Egg! (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 23,
+      "points": 0
+    }
+  },
+  {
+    "id": "14219",
+    "title": "Dragon Saber: After Story of Dragon Spirit",
+    "hashes": [
+      {
+        "md5": "a8dbe74d6cb012951478202e3b5ea08a",
+        "name": "Dragon Saber (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "2242",
+    "title": "Dragon Spirit",
+    "hashes": [
+      {
+        "md5": "1fe13078c7aba4ef0777d5a470d56986",
+        "name": "Dragon Spirit (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "82ed74509cfd2e32dacd2f05d0caf16c",
+        "name": "tg16/dspirit.7z <Dragon Spirit>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 41,
+      "points": 0
+    }
+  },
+  {
+    "id": "2293",
+    "title": "Dragon's Curse",
+    "hashes": [
+      {
+        "md5": "1d7fbd0f8aed6c7fe2cd2e66a17973fc",
+        "name": "Dragon's Curse (USA) (Fr) (Raph99) (0.99).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "35a1e82ff6b15c20f05fe5f02b8aa0a4",
+        "name": "tg16/dragcrse.7z <Dragon's Curse>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "55153240fe1d0076c4f759b82f2d7e3e",
+        "name": "Dragon's Curse (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 44,
+      "points": 0
+    }
+  },
+  {
+    "id": "2294",
+    "title": "Drop Off",
+    "hashes": [
+      {
+        "md5": "7df6342574ed3e0241029a11f1f5c4da",
+        "name": "Drop Off (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "12826",
+    "title": "Druaga no Tou | The Tower of Druaga",
+    "hashes": [
+      {
+        "md5": "8da3885d9c6674f33cf9bac28905d249",
+        "name": "Tower of Druaga, The (Japan) (En) (Procyon) (1.1).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "da7fa7e120ca1d6c0817bd557ec034d2",
+        "name": "pce/druaga.7z <The Tower of Druaga>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "df4fa7ddc1a4e8cc29dc67e700b2a55a",
+        "name": "Tower of Druaga, The (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "2295",
+    "title": "Dungeon Explorer",
+    "hashes": [
+      {
+        "md5": "a07c43bea439c8c904bc4908737af5c5",
+        "name": "Dungeon Explorer (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 38,
+      "points": 0
+    }
+  },
+  {
+    "id": "2314",
+    "title": "Dungeons & Dragons: Order of the Griffon",
+    "hashes": [
+      {
+        "md5": "30fa2b6c1083e1b382fcaa2cac782e08",
+        "name": "Dungeons & Dragons - Order of the Griffon (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13409",
+    "title": "Energy",
+    "hashes": [
+      {
+        "md5": "b928568fd7258f90b5ac410c7f65c48c",
+        "name": "Energy (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7fc06f2e3131c1cfcddff6c69d54b8b9",
+        "name": "Energy (Japan) (En) (v1.01) (onionzoo, cabbage).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "13281",
+    "title": "Eternal City: Toshi Tenso Keikaku",
+    "hashes": [
+      {
+        "md5": "07c06f305051862e381589d43978b1e9",
+        "name": "Eternal City - Toshi Tensou Keikaku (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22758",
+    "title": "F-1 Dream",
+    "hashes": [
+      {
+        "md5": "eca0a8c5e5aba1b3044036ca1e6db2b3",
+        "name": "F-1 Dream (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22759",
+    "title": "F-1 Pilot: You're King of Kings",
+    "hashes": [
+      {
+        "md5": "81aee6771f89d1f04ddecc7c4405773d",
+        "name": "F-1 Pilot - You're King of Kings (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19165",
+    "title": "F1 Circus",
+    "hashes": [
+      {
+        "md5": "abe73a499d4006e3906e97c7d31fb4cc",
+        "name": "F1 Circus (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19166",
+    "title": "F1 Circus '91",
+    "hashes": [
+      {
+        "md5": "7b301f38b70f607a4fd43f5a56a00445",
+        "name": "F1 Circus '91 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19167",
+    "title": "F1 Circus '92: The Speed of Sound",
+    "hashes": [
+      {
+        "md5": "3fc53a0d8981eb60867d0876c0554e02",
+        "name": "F1 Circus '92 - The Speed of Sound (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22760",
+    "title": "F1 Triple Battle",
+    "hashes": [
+      {
+        "md5": "e6cfec9aa8d327b80c01ce40348101ab",
+        "name": "F1 Triple Battle (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "5951",
+    "title": "Falcon",
+    "hashes": [
+      {
+        "md5": "23ece73eac29304b0300cebcf52841a4",
+        "name": "Falcon (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2296",
+    "title": "Fantasy Zone",
+    "hashes": [
+      {
+        "md5": "0c5fc299491c50c2d2f532308597a159",
+        "name": "Fantasy Zone (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22761",
+    "title": "Fighting Run",
+    "hashes": [
+      {
+        "md5": "0c04100ec80cb330d8deade60f4fbb24",
+        "name": "Fighting Run (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18739",
+    "title": "Final Blaster",
+    "hashes": [
+      {
+        "md5": "b0fe98f3f2a7ce5407353bb5d3207db8",
+        "name": "Final Blaster (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2297",
+    "title": "Final Lap Twin",
+    "hashes": [
+      {
+        "md5": "70ea7c2d63fcc6a9719a85bba9cebc04",
+        "name": "Final Lap Twin (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 78,
+      "points": 0
+    }
+  },
+  {
+    "id": "15684",
+    "title": "Final Match Tennis",
+    "hashes": [
+      {
+        "md5": "595364eede949021345f1f7735e64355",
+        "name": "Final Match Tennis (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8f7cac9be3e6d02035b0df0f215172cb",
+        "name": "pce/finalmt.7z <Final Match Tennis>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e161b34d6bcdbcfe582f943b2eef5715",
+        "name": "Final Match Tennis (Japan) (En) (tAz-07) (1.2).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 39,
+      "points": 0
+    }
+  },
+  {
+    "id": "7554",
+    "title": "Final Soldier",
+    "hashes": [
+      {
+        "md5": "fe5b3f899f0ee5994508f259bbb74cfe",
+        "name": "Final Soldier (Japan) (En).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "14925",
+    "title": "Fire Pro Wrestling 3: Legend Bout",
+    "hashes": [
+      {
+        "md5": "4977af10c5295122b48252d0d7f0b5d9",
+        "name": "Fire Pro Wrestling 3 - Legend Bout (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14923",
+    "title": "Fire Pro Wrestling: 2nd Bout",
+    "hashes": [
+      {
+        "md5": "742a4ee10354b85a2439a09ea097a3ec",
+        "name": "Fire Pro Wrestling 2 - 2nd Bout (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "11641",
+    "title": "Fire Pro Wrestling: Combination Tag",
+    "hashes": [
+      {
+        "md5": "2092c615674a9cb9f92b3ebbee9958d6",
+        "name": "Fire Pro Wrestling - Combination Tag (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22762",
+    "title": "Formation Soccer: Human Cup '90",
+    "hashes": [
+      {
+        "md5": "229eadd97abff922f2e3911f91f6a871",
+        "name": "Formation Soccer - Human Cup '90 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22763",
+    "title": "Formation Soccer: On J League",
+    "hashes": [
+      {
+        "md5": "df9c47bd8b3558f4d3e830dcbb74ed1c",
+        "name": "Formation Soccer - On J League (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7193",
+    "title": "Fushigi no Yume no Alice",
+    "hashes": [
+      {
+        "md5": "3e0cd9af31efe11acf733fb15dc31131",
+        "name": "Fushigi no Yume no Alice (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "4ed3f4820b238d5c1cb49dcaf24f382a",
+        "name": "Fushigi no Yume no Alice (English Translation) v1.0",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "14216",
+    "title": "Gai Flame",
+    "hashes": [
+      {
+        "md5": "1f82d7ccd607138a06bdcb17055e35e1",
+        "name": "Gai Flame (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13312",
+    "title": "Gaia no Monshou | Crest of Gaia",
+    "hashes": [
+      {
+        "md5": "a2b1c24c8701e930ae9cf0b48d0873ce",
+        "name": "Gaia no Monshou (Japan) (En) (v1.3) (D).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2298",
+    "title": "Galaga '88 | Galaga '90",
+    "hashes": [
+      {
+        "md5": "94814db23e163dbfc7d7505170e145c2",
+        "name": "Galaga '90 (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "22764",
+    "title": "Ganbare! Golf Boys",
+    "hashes": [
+      {
+        "md5": "fcf8bdc8f67f284a841caddd82d8b3e6",
+        "name": "Ganbare! Golf Boys (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16374",
+    "title": "Gekibo: Gekisha Boy",
+    "hashes": [
+      {
+        "md5": "355f281d002a139a05525264a28fb526",
+        "name": "Gekisha Boy (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9dcb79c53d21c5d3eff36ca6a92df81c",
+        "name": "Gekisha Boy (Japan) (En) (v1.0) (LaytonLoztew).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "5109",
+    "title": "Genji Tsushin Agedama",
+    "hashes": [
+      {
+        "md5": "4a0cee3266259ccf437181dd37116a5f",
+        "name": "pce/genjitsu.7z <Genji Tsuushin Agedama>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e194791e1c3d709c7fff4b8c808b65ab",
+        "name": "Genji Tsuushin Agedama (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "22765",
+    "title": "Genpei Toumaden",
+    "hashes": [
+      {
+        "md5": "c3357cc104feb0686ede96b099a2de2d",
+        "name": "Genpei Toumaden (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 29,
+      "points": 0
+    }
+  },
+  {
+    "id": "2299",
+    "title": "Ghost Manor",
+    "hashes": [
+      {
+        "md5": "2f2d4d92c14ba5770edd5f449507aac8",
+        "name": "Ghost Manor (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14455",
+    "title": "Gokuraku! Chuuka Taisen",
+    "hashes": [
+      {
+        "md5": "144eb9109d75c8fd1fa09a20bde6a6cd",
+        "name": "Gokuraku! Chuuka Taisen (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "153353cc3062d510602442f320ed38c1",
+        "name": "pce/chukatai.7z <Gokuraku! Chuka Taisen>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 10,
+      "points": 0
+    }
+  },
+  {
+    "id": "17335",
+    "title": "Gomola Speed",
+    "hashes": [
+      {
+        "md5": "58418c0db028885a2f49abf4993f2b0e",
+        "name": "Gomola Speed (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 16,
+      "points": 0
+    }
+  },
+  {
+    "id": "8979",
+    "title": "Gradius",
+    "hashes": [
+      {
+        "md5": "16fe78b1630a790bee6755e3c850a366",
+        "name": "Gradius (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bff0dffcbc2c3add3bf0b670d2a137b0",
+        "name": "pce/gradius.7z <Gradius>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 57,
+      "points": 0
+    }
+  },
+  {
+    "id": "2410",
+    "title": "Gunboat",
+    "hashes": [
+      {
+        "md5": "58daff928a279867cd0629185d2c0733",
+        "name": "Gunboat (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18754",
+    "title": "Gunhed: Special Version",
+    "hashes": [
+      {
+        "md5": "cf91d85fa31a2baf459c65addaa4326e",
+        "name": "Gunhed - Special Version (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18740",
+    "title": "Hana Taaka Daka!",
+    "hashes": [
+      {
+        "md5": "38cddbab28df38cb8d3f447e6b2bea7c",
+        "name": "Hana Taaka Daka! (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18741",
+    "title": "Hanii in the Sky",
+    "hashes": [
+      {
+        "md5": "015b8a761e1c3a8d0d474ef7e1063a55",
+        "name": "Hanii in the Sky (Japan) (En) (v1.0) (filler, cabbage).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 32,
+      "points": 0
+    }
+  },
+  {
+    "id": "22766",
+    "title": "Hanii on the Road",
+    "hashes": [
+      {
+        "md5": "7f242f75ac7a737b77b3cb388fce52e9",
+        "name": "Hanii on the Road (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22767",
+    "title": "Hatris",
+    "hashes": [
+      {
+        "md5": "03d5882776b8dad0ddceff42a173d493",
+        "name": "Hatris (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18742",
+    "title": "Heavy Unit",
+    "hashes": [
+      {
+        "md5": "fc73cb01460d932319dd3eeff3032951",
+        "name": "Heavy Unit (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22768",
+    "title": "Hisou Kihei X-SERD",
+    "hashes": [
+      {
+        "md5": "29cefd813b21e67bbac653454f48951a",
+        "name": "Hisou Kihei X-SERD (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9955",
+    "title": "Hit the Ice: VHL - The Official Video Hockey League",
+    "hashes": [
+      {
+        "md5": "d2f94b64b528c320d5ee148fe77f05f5",
+        "name": "Hit the Ice - VHL - The Official Video Hockey League (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "22769",
+    "title": "Honoo no Toukyuuji: Dodge Danpei",
+    "hashes": [
+      {
+        "md5": "c257e411cda69c988095166ba5223e4b",
+        "name": "Honoo no Toukyuuji - Dodge Danpei (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2323",
+    "title": "Hyper Dyne Side Arms",
+    "hashes": [
+      {
+        "md5": "a97b9af7e814deb4e4358a466e7cd3c2",
+        "name": "SideArms (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8502",
+    "title": "Image Fight",
+    "hashes": [
+      {
+        "md5": "baf6760fcd3b43540d55afc71f929697",
+        "name": "ImageFight (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2300",
+    "title": "Impossamole",
+    "hashes": [
+      {
+        "md5": "d212a1bbb8d329d05910dc407ca60173",
+        "name": "Impossamole (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7444",
+    "title": "J.J. & Jeff | Kato-chan Ken-chan",
+    "hashes": [
+      {
+        "md5": "6947a3cd6c0969da0252bc3a142765d9",
+        "name": "tg16/jjnjeff.7z <J.J. & Jeff>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b614f91296aaed8afabd4f03f4ee40d1",
+        "name": "J.J. & Jeff (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "23df0b354e83876a94e9c128a7a9eb80",
+        "name": "Kato-chan Ken-chan (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "22770",
+    "title": "J.League Greatest Eleven",
+    "hashes": [
+      {
+        "md5": "cf3c65b99a222a4e72824eadc58c09cd",
+        "name": "J.League Greatest Eleven (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22080",
+    "title": "Jack Nicklaus' Turbo Golf",
+    "hashes": [
+      {
+        "md5": "cf2610a2be004edfa2faa487b81386e3",
+        "name": "Jack Nicklaus' Turbo Golf (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8708",
+    "title": "Jackie Chan's Action Kung Fu",
+    "hashes": [
+      {
+        "md5": "3bd2ca1f224368a5df255b97903ef967",
+        "name": "tg16/jchan.7z <Jackie Chan's Action Kung Fu>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5a8c0f70f333ff03c8eb836eeb5f2ff9",
+        "name": "Jackie Chan's Action Kung Fu (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "730d3d5d8792b0897f534d9a42d9c3a2",
+        "name": "Jackie Chan's Action Kung-Fu (USA) (Ru) (Mario Soft).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 34,
+      "points": 0
+    }
+  },
+  {
+    "id": "5912",
+    "title": "Jaseiken Necromancer",
+    "hashes": [
+      {
+        "md5": "1d7dbc1ecff5f6661bffb6c2cfe1912f",
+        "name": "PC Genjin 2 - Pithecanthropus Computerurus (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12666",
+    "title": "Jigoku Meguri",
+    "hashes": [
+      {
+        "md5": "294f2aa990c9c2c71554a6e3e7c979ef",
+        "name": "Jigoku Meguri (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22772",
+    "title": "Jinmu Denshou",
+    "hashes": [
+      {
+        "md5": "b7bd7bb88393a97bdf6072534177fe7d",
+        "name": "Jinmu Denshou (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22771",
+    "title": "Juuouki",
+    "hashes": [
+      {
+        "md5": "2b47ceea374d6c11471310caec5ccb36",
+        "name": "Juuouki (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "255151e36286918861d8053a0e37e695",
+        "name": "Juuouki (Japan) (Es) (v1.0) (Wave Translations).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "29048",
+    "title": "Juuouki [Subset - Multi]",
+    "hashes": [
+      {
+        "md5": "7fd776176e722e6f3dde27cb090b6a9e",
+        "name": "Juuouki [Subset - Multi].pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "7885",
+    "title": "Kaizou Choujin Shubibinman",
+    "hashes": [
+      {
+        "md5": "8041a028a666cc0adc7a06c20a99d172",
+        "name": "Kaizou Choujin Shubibinman (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7053",
+    "title": "Kattobi! Takuhai-kun",
+    "hashes": [
+      {
+        "md5": "4ddd59aff152e8fc1a4b510c9fedd4e0",
+        "name": "Kattobi! Takuhai-kun (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2301",
+    "title": "Keith Courage in Alpha Zones",
+    "hashes": [
+      {
+        "md5": "e5309b10903ccc3032c2f919e8db7384",
+        "name": "Keith Courage in Alpha Zones (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e86650c9602267f205e446194d990fd4",
+        "name": "tg16/keithcor.7z <Keith Courage in Alpha Zones>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 54,
+      "points": 0
+    }
+  },
+  {
+    "id": "18499",
+    "title": "Kickball",
+    "hashes": [
+      {
+        "md5": "42d164b0ae86ae4dab3fdb7ca9f3bdb2",
+        "name": "KickBall (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "6374",
+    "title": "KiKi KaiKai",
+    "hashes": [
+      {
+        "md5": "0d6de0fee8ef07c96c94275623ce98d1",
+        "name": "pce/kikikai.7z <Kiki KaiKai>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b345329df7acc1938c291440dd1ed5ad",
+        "name": "Kiki Kaikai (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 12,
+      "points": 0
+    }
+  },
+  {
+    "id": "16970",
+    "title": "King of Casino",
+    "hashes": [
+      {
+        "md5": "8f4e92645be8de92e18527b31b4ee67e",
+        "name": "King of Casino (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2302",
+    "title": "Klax",
+    "hashes": [
+      {
+        "md5": "8becf757a68f72a01428d4359165e463",
+        "name": "Klax (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12849",
+    "title": "Knight Rider Special",
+    "hashes": [
+      {
+        "md5": "79d305689a039f99faca0f9348d36e8f",
+        "name": "Knight Rider Special (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22773",
+    "title": "Kore ga Pro Yakyuu '89",
+    "hashes": [
+      {
+        "md5": "b80f7a304c71aa96a51cc6d1505f8b29",
+        "name": "Kore ga Pro Yakyuu '89 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22774",
+    "title": "Kore ga Pro Yakyuu '90",
+    "hashes": [
+      {
+        "md5": "df290c2d9117ac9a402c83dd1fa028e7",
+        "name": "Kore ga Pro Yakyuu '90 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18743",
+    "title": "Kyuukyoku Tiger | Twin Cobra",
+    "hashes": [
+      {
+        "md5": "467c1ee6a921a3bbb4a94fc078f7353d",
+        "name": "Kyuukyoku Tiger (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 59,
+      "points": 0
+    }
+  },
+  {
+    "id": "2303",
+    "title": "Legend of Hero Tonma",
+    "hashes": [
+      {
+        "md5": "adcc100fec026c8b150a9e0d35afa050",
+        "name": "tg16/loht.7z <Legend of Hero Tonma>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cfaa094419809446cabfe739995e22ee",
+        "name": "Legend of Hero Tonma (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "14217",
+    "title": "Lode Runner: Lost Labyrinth",
+    "hashes": [
+      {
+        "md5": "d633712965e5f791136b75bda7f9980b",
+        "name": "Lode Runner - Lost Labyrinth (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22820",
+    "title": "Madou King Granzort",
+    "hashes": [
+      {
+        "md5": "7e1e489c50fc6213196e6dbb704f6671",
+        "name": "Madou King Granzort (Japan).sgx",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2306",
+    "title": "Magical Chase",
+    "hashes": [
+      {
+        "md5": "74d9f1bd96ba2690ed4cb989ebaeb948",
+        "name": "Magical Chase (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "8490d4d444c5faee7015cf653baccfaf",
+        "name": "tg16/magchase.7z <Magical Chase>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 50,
+      "points": 0
+    }
+  },
+  {
+    "id": "33544",
+    "title": "Mahjong Gakuen - Touma Soushirou Toujou",
+    "hashes": [
+      {
+        "md5": "cf8c62e6b9301a01aa4b61b4136c4fcd",
+        "name": "Mahjong Gakuen - Touma Soushirou Toujou (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ea0659c4607948ea54bd5d61799ac1a1",
+        "name": "Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28591",
+    "title": "Mahjong Gokuu Special",
+    "hashes": [
+      {
+        "md5": "937699175649a98430a64c20cb19ae60",
+        "name": "Mahjong Gokuu Special (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33545",
+    "title": "Mahjong Haouden - Kaiser's Quest",
+    "hashes": [
+      {
+        "md5": "79f0b287d9c185416c155616515ec2dc",
+        "name": "Mahjong Haouden - Kaiser's Quest (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33546",
+    "title": "Mahjong Shikaku Retsuden - Mahjong Wars",
+    "hashes": [
+      {
+        "md5": "1fd10aab85dc9ad19cfd491684138db6",
+        "name": "Mahjong Shikaku Retsuden - Mahjong Wars (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8718",
+    "title": "Maison Ikkoku: Omoide no Photograph",
+    "hashes": [
+      {
+        "md5": "9a0a0e759f27f05f674e0830bfd2e835",
+        "name": "Maison Ikkoku (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22775",
+    "title": "Makai Hakkenden Shada",
+    "hashes": [
+      {
+        "md5": "06c9c65e0e1c0669be28cc99ace61f54",
+        "name": "Makai Hakkenden Shada (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6b33184f381d3bfc9870f5ad55b8c78a",
+        "name": "Makai Hakkenden Shada (Japan) (En) (v1.0) (Shubibiman, cabbage).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "22776",
+    "title": "Makai Prince Dorabocchan",
+    "hashes": [
+      {
+        "md5": "31b5597ed22d3d143f98d394ee4593ad",
+        "name": "Makai Prince Dorabocchan (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "29028",
+    "title": "Maniac Pro Wres: Asu e no Tatakai",
+    "hashes": [
+      {
+        "md5": "6fba2dd4c455bb9bafd6892ec204e2bd",
+        "name": "Maniac Pro Wres - Asu e no Tatakai (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19923",
+    "title": "Märchen Maze",
+    "hashes": [
+      {
+        "md5": "887b9fa8296ff3c98839e11cc7039763",
+        "name": "Maerchen Maze (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f34299acd4a789ad51e7b10be3a8947d",
+        "name": "Maerchen Maze (Japan) (En) (v1.1) (MooZ & Shubibiman).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "22777",
+    "title": "Metal Stoker",
+    "hashes": [
+      {
+        "md5": "fdad7cca269ed1a0676df12fa07eae01",
+        "name": "Metal Stoker (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 31,
+      "points": 0
+    }
+  },
+  {
+    "id": "2307",
+    "title": "Military Madness",
+    "hashes": [
+      {
+        "md5": "03d0442df107c97bb04c32de7cb7f5bc",
+        "name": "Military Madness (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e7f686c6767a2ecdc6f4ffdebcfac8b8",
+        "name": "tg16/miltrymd.7z <Military Madness>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 59,
+      "points": 0
+    }
+  },
+  {
+    "id": "17334",
+    "title": "Mizubaku Daibouken",
+    "hashes": [
+      {
+        "md5": "b8074808e85c4d120e9c0acd51426098",
+        "name": "Mizubaku Daibouken (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22778",
+    "title": "Momotarou Densetsu Gaiden: Dai-1-shuu",
+    "hashes": [
+      {
+        "md5": "480423adbfe4e9f50bb26f418dcae490",
+        "name": "Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22779",
+    "title": "Momotarou Densetsu II",
+    "hashes": [
+      {
+        "md5": "4c3f3bbbe5a3f0ab2970adf55a867328",
+        "name": "Momotarou Densetsu II (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22781",
+    "title": "Momotarou Densetsu Turbo",
+    "hashes": [
+      {
+        "md5": "d2ea89603d76856603c85cb4ce7045ff",
+        "name": "Momotarou Densetsu Turbo (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6668",
+    "title": "Momotarou Katsugeki",
+    "hashes": [
+      {
+        "md5": "ec7358edb3672a8aa8850623eec72a71",
+        "name": "Momotarou Katsugeki (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30069",
+    "title": "Monster Pro Wres",
+    "hashes": [
+      {
+        "md5": "ed3f985efd35dcc03ba0d93654a12b40",
+        "name": "Monster Pro Wres (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22782",
+    "title": "Morita Shougi PC",
+    "hashes": [
+      {
+        "md5": "92bb585243a43ec7f881eafc578a2cc3",
+        "name": "Morita Shougi PC (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2308",
+    "title": "Moto Roader",
+    "hashes": [
+      {
+        "md5": "1b10baf9f65c8339a507e382bda5ed44",
+        "name": "Moto Roader (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c4d19abde0fda132c1c4f5dbf20a53e5",
+        "name": "tg16/motoroad.7z <Moto Roader>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 68,
+      "points": 0
+    }
+  },
+  {
+    "id": "22783",
+    "title": "Moto Roader II",
+    "hashes": [
+      {
+        "md5": "61bf2f34550c6f0db25c9f5221ede032",
+        "name": "Moto Roader II (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18744",
+    "title": "Mr. Heli no Daibouken",
+    "hashes": [
+      {
+        "md5": "31867ab522ff7b9937987ec473db0a11",
+        "name": "Battle Chopper (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22784",
+    "title": "Naxat Open",
+    "hashes": [
+      {
+        "md5": "c1555a2d2ac2f92730630d4860cd0745",
+        "name": "Naxat Open (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22785",
+    "title": "Naxat Stadium",
+    "hashes": [
+      {
+        "md5": "7029f280c42ce2a25d435b8b1a3181d3",
+        "name": "Naxat Stadium (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22786",
+    "title": "Nazo no Mascarade",
+    "hashes": [
+      {
+        "md5": "744455d7dcaa4ae0b6b9aa53aade20a3",
+        "name": "Nazo no Mascarade (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22787",
+    "title": "Necros no Yousai",
+    "hashes": [
+      {
+        "md5": "62ee11474eca60aacae8980556bc932f",
+        "name": "Necros no Yousai (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15585",
+    "title": "Nekketsu Koukou Dodgeball-bu: PC Bangai-hen",
+    "hashes": [
+      {
+        "md5": "419545fa5e2587288e8aea87811c152a",
+        "name": "Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "15586",
+    "title": "Nekketsu Koukou Dodgeball-bu: PC Soccer-hen",
+    "hashes": [
+      {
+        "md5": "830e071a0ee4773193444950d235d7ef",
+        "name": "Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2309",
+    "title": "Neutopia",
+    "hashes": [
+      {
+        "md5": "08ae173878d8a3783fa35e80c99a5dc4",
+        "name": "Neutopia (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "524d53d8f6fe5c70e92d1c349a353a2e",
+        "name": "tg16/neutopia.7z <Neutopia>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c7abe50a33a7988f78f68973556a8d82",
+        "name": "pce/neutopia.7z <Neutopia>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "eb0789088fc70be42b2f994c1b66be21",
+        "name": "Neutopia (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 55,
+      "points": 0
+    }
+  },
+  {
+    "id": "2310",
+    "title": "Neutopia II",
+    "hashes": [
+      {
+        "md5": "36678d3ec3b9eb534d9807be79587c8c",
+        "name": "Neutopia II (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 50,
+      "points": 0
+    }
+  },
+  {
+    "id": "2311",
+    "title": "New Adventure Island",
+    "hashes": [
+      {
+        "md5": "254434d0b15618dcff7c88d5ebdde248",
+        "name": "New Adventure Island (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 102,
+      "points": 0
+    }
+  },
+  {
+    "id": "22788",
+    "title": "NHK Taiga Drama: Taiheiki",
+    "hashes": [
+      {
+        "md5": "de11f469adcb4465b49743fd2f1e3250",
+        "name": "NHK Taiga Drama - Taiheiki (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2312",
+    "title": "Night Creatures",
+    "hashes": [
+      {
+        "md5": "e658e63f886560e9c388e2a9ee2eb349",
+        "name": "Night Creatures (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22789",
+    "title": "Niko Niko Pun",
+    "hashes": [
+      {
+        "md5": "29c04086539f0e7b2a3b251e2290dc51",
+        "name": "Niko Niko Pun (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "5515",
+    "title": "Ninja Ryuuken Den",
+    "hashes": [
+      {
+        "md5": "319ec97f9d3ae11e1d76c959421d19bb",
+        "name": "pce/nryukend.7z <Ninja Ryukenden>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "80498e6a60d2cd9aa925f45cbefbff83",
+        "name": "Ninja Ryuukenden (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 80,
+      "points": 0
+    }
+  },
+  {
+    "id": "2313",
+    "title": "Ninja Spirit",
+    "hashes": [
+      {
+        "md5": "7ac403ffd11ddf3e81720b86ddf627af",
+        "name": "pce/saigonin.7z <Saigo no Nindou - Ninja Spirit>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "7ed620b8a4a302dde75f074eabd4ead8",
+        "name": "Saigo no Nindou - Ninja Spirit (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "adecf9e9d9be8a300818ad2cc09d49fe",
+        "name": "Ninja Spirit (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "de4903d9b5b375d93b334ff6e913ee95",
+        "name": "Ninja Spirit (USA) (Es) (Wave) (1.0).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ecae850f720be11410dd81542ff22c56",
+        "name": "tg16/nspirit.7z <Ninja Spirit>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "22790",
+    "title": "Obocchama-kun",
+    "hashes": [
+      {
+        "md5": "4d007608da2f8dd091c2328a66e0f1dd",
+        "name": "Obocchama-kun (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8660",
+    "title": "Operation Wolf",
+    "hashes": [
+      {
+        "md5": "14adf02dd3ab66f20f7b15c69588b777",
+        "name": "Operation Wolf (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2315",
+    "title": "Ordyne",
+    "hashes": [
+      {
+        "md5": "d803eb8f622521e515ff1dd715e725c0",
+        "name": "Ordyne (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 20,
+      "points": 0
+    }
+  },
+  {
+    "id": "22300",
+    "title": "Out Live",
+    "hashes": [
+      {
+        "md5": "ee0ea8ef85d382f444656af31fa0b8e3",
+        "name": "Out Live (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6076",
+    "title": "OutRun",
+    "hashes": [
+      {
+        "md5": "6dbeaf201713b8a2ffd0f2104fde1dfc",
+        "name": "Out Run (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 31,
+      "points": 0
+    }
+  },
+  {
+    "id": "18745",
+    "title": "Override",
+    "hashes": [
+      {
+        "md5": "5c401f3e2ac7ceb85e85bb82cb46be24",
+        "name": "Override (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18746",
+    "title": "P-47 - The Freedom Fighter",
+    "hashes": [
+      {
+        "md5": "bfed2ef7677886467236dc92e09d63c3",
+        "name": "P-47 - The Freedom Fighter (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2316",
+    "title": "Pac-Land",
+    "hashes": [
+      {
+        "md5": "407b7e772f86fbdfd90f1e4ac087c03d",
+        "name": "tg16/pacland.7z <Pac-Land>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5cc45bfe5da979c51417e77bfe221a2b",
+        "name": "Pac-Land (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "28210",
+    "title": "Pachio-kun: Juuban Shoubu",
+    "hashes": [
+      {
+        "md5": "10ded52993405fc37690214ca615008a",
+        "name": "Pachio-kun - Juuban Shoubu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2318",
+    "title": "Parasol Stars: The Story of Bubble Bobble III",
+    "hashes": [
+      {
+        "md5": "dce241d9642866f75810f6ac3e3c6a4d",
+        "name": "Parasol Stars - The Story of Bubble Bobble III (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 32,
+      "points": 0
+    }
+  },
+  {
+    "id": "2189",
+    "title": "Parodius Da!",
+    "hashes": [
+      {
+        "md5": "39f5f51e066e2d7874efcff7d6f394ef",
+        "name": "Parodius Da! - Shinwa kara Owarai e (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 83,
+      "points": 0
+    }
+  },
+  {
+    "id": "22791",
+    "title": "Populous",
+    "hashes": [
+      {
+        "md5": "9d599a43d2c69738f3562f58aeff8828",
+        "name": "Populous (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22792",
+    "title": "Power Drift",
+    "hashes": [
+      {
+        "md5": "c7f4c99ccb9f56ef954f3ccf332ce0db",
+        "name": "Power Drift (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22799",
+    "title": "Power Eleven",
+    "hashes": [
+      {
+        "md5": "7d3343c0e248cac189915ed6def0e81a",
+        "name": "Power Eleven (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18747",
+    "title": "Power Gate",
+    "hashes": [
+      {
+        "md5": "a797c794f8eef6ebbdacd7a3996e7134",
+        "name": "Power Gate (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "14248",
+    "title": "Power Golf",
+    "hashes": [
+      {
+        "md5": "8a524c7491bd6614e9c92bb7117a57f3",
+        "name": "Power Golf (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 44,
+      "points": 0
+    }
+  },
+  {
+    "id": "22795",
+    "title": "Power League '93",
+    "hashes": [
+      {
+        "md5": "d77a24f6fff7183ed377e7753fccefda",
+        "name": "Power League '93 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22793",
+    "title": "Power League 4",
+    "hashes": [
+      {
+        "md5": "d7b057e7c35be8cb7b37084ffe805688",
+        "name": "Power League 4 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22794",
+    "title": "Power League 5",
+    "hashes": [
+      {
+        "md5": "35c4d1d204eed571700d18a46e697f25",
+        "name": "Power League 5 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22796",
+    "title": "Power League II",
+    "hashes": [
+      {
+        "md5": "3cc67e4b750ce2d977580883f3840966",
+        "name": "Power League II (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22797",
+    "title": "Power League III",
+    "hashes": [
+      {
+        "md5": "0c042e30ff15e4608e49f364b5be2233",
+        "name": "Power League III (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28013",
+    "title": "Power Tennis",
+    "hashes": [
+      {
+        "md5": "c40760fa44a7bbe3438c0547541db20d",
+        "name": "Power Tennis (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28255",
+    "title": "Pro Yakyuu World Stadium",
+    "hashes": [
+      {
+        "md5": "f5809c06f9ac594300f41584d44dbc16",
+        "name": "Pro Yakyuu World Stadium (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33557",
+    "title": "Pro Yakyuu World Stadium '91",
+    "hashes": [
+      {
+        "md5": "ab15d6fdc397e66c0946194651d3069f",
+        "name": "Pro Yakyuu World Stadium '91 (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18748",
+    "title": "Psycho Chaser",
+    "hashes": [
+      {
+        "md5": "c21fe0981bf333dbf7b58382f5d309bb",
+        "name": "Psycho Chaser (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2319",
+    "title": "Psychosis | Paranoia",
+    "hashes": [
+      {
+        "md5": "0203c5d45b88a04e8d6c9427b5d61400",
+        "name": "tg16/psychos.7z <Psychosis>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a53f17bc3492e89c391e280e32397450",
+        "name": "Paranoia (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c23ef1ca95a5aa6789c4172ac66d6b5d",
+        "name": "Psychosis (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f37324d7823329e19eb188dd51213a22",
+        "name": "pce/paranoia.7z <Paranoia>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "12824",
+    "title": "Puzzle Boy",
+    "hashes": [
+      {
+        "md5": "6394145312caac816ca44af55dff9533",
+        "name": "Puzzle Boy (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f5b8397f328f51313f812278db362c81",
+        "name": "Puzzle Boy (Japan) (En) (v1.0) (KingMike's Translations).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 55,
+      "points": 0
+    }
+  },
+  {
+    "id": "30920",
+    "title": "Puzzle Boy [Subset - Glitches for Pros]",
+    "hashes": [
+      {
+        "md5": "e1c3ab1163b4ea5c86b75c8993b4d1ea",
+        "name": "Puzzle Boy (Japan) [Subset - Glitches for Pros].pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 3,
+      "points": 0
+    }
+  },
+  {
+    "id": "22798",
+    "title": "Puzznic",
+    "hashes": [
+      {
+        "md5": "a8cdcc33207037a02868f366de6582ea",
+        "name": "Puzznic (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2145",
+    "title": "R-Type",
+    "hashes": [
+      {
+        "md5": "0e0040142b5227f2b85be27364d5ea01",
+        "name": "R-Type (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e979d36123dc30282a5421a24aa639ec",
+        "name": "tg16/rtype.7z <R-Type>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "8557",
+    "title": "Rabio Lepus Special | Rabbit Punch Special",
+    "hashes": [
+      {
+        "md5": "4b942ff45a454222dd4ec1951e75a72c",
+        "name": "Rabio Lepus Special (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "dddb28ed4b10d55c87bdb1eab31ca6d9",
+        "name": "Rabio Lepus Special (Japan) (En) (v1.0) (Diogo Ribeiro).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "22800",
+    "title": "Racing Damashii",
+    "hashes": [
+      {
+        "md5": "b0267ecb483472dac6e3f9f97f625a99",
+        "name": "Racing Damashii (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2320",
+    "title": "Raiden",
+    "hashes": [
+      {
+        "md5": "0130cadd63106052088268befff61278",
+        "name": "pce/raiden.7z <Raiden>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "242eb96324769cb4278ff0a6722b55d9",
+        "name": "tg16/raiden.7z <Raiden>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "42a5e13cbfab0c54d30f8ca6831f62ed",
+        "name": "Raiden (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "5d08e419351cf3ee85e6536070cbb94f",
+        "name": "Raiden (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "9445",
+    "title": "Rastan Saga II",
+    "hashes": [
+      {
+        "md5": "e998693ab9d694eebe66e5942fd5137e",
+        "name": "Rastan Saga II (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18749",
+    "title": "Rock-On",
+    "hashes": [
+      {
+        "md5": "5fc5b7cd7f43f12d7e1eced8368d4296",
+        "name": "Rock-On (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33550",
+    "title": "Ryuukyuu",
+    "hashes": [
+      {
+        "md5": "9cd3662c5386b6f45a9744be79c7fcc5",
+        "name": "Ryuukyuu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13661",
+    "title": "S.C.I.: Special Criminal Investigation",
+    "hashes": [
+      {
+        "md5": "d86284f679e05540de98ed7f90a71fcf",
+        "name": "S.C.I. - Special Criminal Investigation (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22801",
+    "title": "Sadakichi Seven: Hideyoshi no Ougon",
+    "hashes": [
+      {
+        "md5": "0cb043fe940e91d6660927aa6b01e1d9",
+        "name": "Sadakichi Seven - Hideyoshi no Ougon (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "6379",
+    "title": "Salamander",
+    "hashes": [
+      {
+        "md5": "3c60a87ef4f90b20e149330e26253f4d",
+        "name": "Salamander (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a962310295a2abe084acdff41dfaed4c",
+        "name": "pce/salamand.7z <Salamander>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 39,
+      "points": 0
+    }
+  },
+  {
+    "id": "8465",
+    "title": "Samurai Ghost | Genpei Toumaden - Kan no Ni",
+    "hashes": [
+      {
+        "md5": "6e32e0516ea74eb94a4f0bc8bd9dc47c",
+        "name": "Samurai-Ghost (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f6b763e45180bd47a689d03890a82344",
+        "name": "Genpei Toumaden - Kan no Ni (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "22802",
+    "title": "Sekigahara",
+    "hashes": [
+      {
+        "md5": "81752039bb6a399d7228ad42d1eed156",
+        "name": "Sekigahara (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "28012",
+    "title": "Sengoku Mahjong",
+    "hashes": [
+      {
+        "md5": "e099715c2b1e8d392e2bd7f0f9f9388a",
+        "name": "Sengoku Mahjong (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13128",
+    "title": "Shanghai",
+    "hashes": [
+      {
+        "md5": "e35f9e284d7299abaedad7662472d3c6",
+        "name": "Shanghai (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "73d3f8f6f7fc6d28b298fc0c7734a2a6",
+        "name": "Shanghai (Japan) (En) (v0.99) (Dave Shadoff).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 58,
+      "points": 0
+    }
+  },
+  {
+    "id": "6026",
+    "title": "Shinobi",
+    "hashes": [
+      {
+        "md5": "1659d9fa2ed7628d342fd7c7fbe6d439",
+        "name": "Shinobi (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d2f19d15f81de2b1afd90726ca9c8811",
+        "name": "pce/shinobi.7z <Shinobi>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "8742",
+    "title": "Shiryou Sensen: War of the Dead",
+    "hashes": [
+      {
+        "md5": "c0e606b8ecb1c64b01ddd062e54672b7",
+        "name": "Shiryou Sensen - War of the Dead (Japan) (En) (Nebulous Translations) (1.0).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cfd7fc43a9664979685b8e4358e4555f",
+        "name": "Shiryou Sensen - War of the Dead (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ecbd032873e2b30ed0bc25d20505a8ed",
+        "name": "pce/shiryo.7z <Shiryou Sensen>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 55,
+      "points": 0
+    }
+  },
+  {
+    "id": "2322",
+    "title": "ShockMan",
+    "hashes": [
+      {
+        "md5": "57c888f4af792dc4588a2f9dbebea31a",
+        "name": "Shockman (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "9093143f244b56eb4b93d210c9c80f87",
+        "name": "tg16/shockman.7z <Shockman>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "22803",
+    "title": "Shougi Shodan Icchokusen",
+    "hashes": [
+      {
+        "md5": "72e2bc782598841a9e27782046e61219",
+        "name": "Shougi Shodan Icchokusen (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22804",
+    "title": "Shougi Shoshinsha Muyou",
+    "hashes": [
+      {
+        "md5": "a2eb40128f6556368fa076166e7a587d",
+        "name": "Shougi Shoshinsha Muyou (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2324",
+    "title": "Silent Debuggers",
+    "hashes": [
+      {
+        "md5": "46719950684f5148c20730c6fd7df4a0",
+        "name": "Silent Debuggers (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22805",
+    "title": "Sindibad: Chitei no Daimakyuu",
+    "hashes": [
+      {
+        "md5": "ce4a782b15e9944aa1356a2a2ed4fbec",
+        "name": "Sindibad - Chitei no Daimakyuu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2325",
+    "title": "Sinistron",
+    "hashes": [
+      {
+        "md5": "1c5eb68a65115abaccd9479503fd3a2b",
+        "name": "Sinistron (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12643",
+    "title": "Skweek",
+    "hashes": [
+      {
+        "md5": "f411b4693c959657415346655dd062bc",
+        "name": "Skweek (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2326",
+    "title": "Soldier Blade",
+    "hashes": [
+      {
+        "md5": "59d23b7af39ea827eceb1d7e2cc363c0",
+        "name": "Soldier Blade (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e78e5212d85d614060ae31135e4f4bfe",
+        "name": "Soldier Blade (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "5087",
+    "title": "Somer Assault | Mesopotamia",
+    "hashes": [
+      {
+        "md5": "0060840cb54b2db4db8a2927d48c6c54",
+        "name": "Somer Assault (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "8907",
+    "title": "Son Son II",
+    "hashes": [
+      {
+        "md5": "9f446641a2e1794c61624f0a062efae5",
+        "name": "Son Son II (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "471b66578757b269a682e75ba810b1b7",
+        "name": "Son Son II (Japan) (En) (v1.0) (someitalian123).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "16972",
+    "title": "Sonic Spike: World Championship Beach Volleyball",
+    "hashes": [
+      {
+        "md5": "e9a17f9e425cb6cf3e14c83eddd7dc06",
+        "name": "Sonic Spike - World Championship Beach Volleyball (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2327",
+    "title": "Space Harrier",
+    "hashes": [
+      {
+        "md5": "2c476453f2156c7afe10b5ed1fa60955",
+        "name": "Space Harrier (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "91985b2b4da8311db93a24f04478982b",
+        "name": "pce/sharrier.7z <Space Harrier>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a807e75e2cb7aef491d5359a26426f6e",
+        "name": "tg16/sharrier.7z <Space Harrier>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b87aba8faae39f238a8b2176daec96f4",
+        "name": "Space Harrier (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "13129",
+    "title": "Space Invaders: Fukkatsu no Hi",
+    "hashes": [
+      {
+        "md5": "b08a0efb7d780b77e4a7a6f290fe94a4",
+        "name": "Space Invaders - Fukkatsu no Hi (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22806",
+    "title": "Spin Pair",
+    "hashes": [
+      {
+        "md5": "97a2bfd91ce98f2c941a1a6581701ac4",
+        "name": "Spin Pair (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22807",
+    "title": "Spiral Wave",
+    "hashes": [
+      {
+        "md5": "b5640a4df96c2eacf782e1b91cc59add",
+        "name": "Spiral Wave (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "5268",
+    "title": "Splatterhouse",
+    "hashes": [
+      {
+        "md5": "e7fc6d455247c63a7b3fa6a8a090d9b3",
+        "name": "tg16/splatth.7z <Splatterhouse>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ea2eaf7aa11a639d13a6119dd3c3f6dc",
+        "name": "Splatterhouse (Japan) (En).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ee1fe6d4f2ccf49e5086dada57edf5c2",
+        "name": "pce/splatth.7z <Splatterhouse>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f6690ec0f440ced641718d6bc52e3fbd",
+        "name": "Splatterhouse (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "22808",
+    "title": "Stratego",
+    "hashes": [
+      {
+        "md5": "2a55f96d5284f256a6bf9a17a3e2e9aa",
+        "name": "Stratego (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2417",
+    "title": "Street Fighter II: Champion Edition",
+    "hashes": [
+      {
+        "md5": "0d9135be3267876bfec7f588abeda5bb",
+        "name": "Street Fighter II' - Champion Edition (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 107,
+      "points": 0
+    }
+  },
+  {
+    "id": "12490",
+    "title": "Super Metal Crusher",
+    "hashes": [
+      {
+        "md5": "2958e95bb08aec03825f08bb955abdc6",
+        "name": "Super Metal Crusher (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22780",
+    "title": "Super Momotarou Dentetsu",
+    "hashes": [
+      {
+        "md5": "f365369bf476cebccb48f3a38fe39cc6",
+        "name": "Super Momotarou Dentetsu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "14639",
+    "title": "Super Momotarou Dentetsu II",
+    "hashes": [
+      {
+        "md5": "093ace8d5348cc81501ce292a7f34f62",
+        "name": "Super Momotarou Dentetsu II (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2328",
+    "title": "Super Star Soldier",
+    "hashes": [
+      {
+        "md5": "42eff97f4d1a93135ed9c5be516622e1",
+        "name": "tg16/sssoldr.7z <Super Star Soldier>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "bc7d4b0852d04fe49f6e3705b899c5e5",
+        "name": "Super Star Soldier (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "2329",
+    "title": "Super Volleyball",
+    "hashes": [
+      {
+        "md5": "2b31c6c01d779eec5bb19863e3c5af9b",
+        "name": "Super Volleyball (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22809",
+    "title": "Susanoou Densetsu",
+    "hashes": [
+      {
+        "md5": "bdb29558fea5b2e7550087ad79718a4a",
+        "name": "Susanoou Densetsu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2330",
+    "title": "Taito Chase H.Q.",
+    "hashes": [
+      {
+        "md5": "b6098cef5a4729009d446603c650e323",
+        "name": "Chase H.Q. (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 30,
+      "points": 0
+    }
+  },
+  {
+    "id": "22810",
+    "title": "Takeda Shingen",
+    "hashes": [
+      {
+        "md5": "a7c20f8d0359b63c568a1ab6ee560cc0",
+        "name": "Takeda Shingen (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16973",
+    "title": "Takin' It to the Hoop",
+    "hashes": [
+      {
+        "md5": "ffba5f3b04a2faf9a991e8fa3a5d4008",
+        "name": "Takin' It to the Hoop (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2331",
+    "title": "TaleSpin",
+    "hashes": [
+      {
+        "md5": "729f10adbf2b8b90d62ce79a7e48c8d1",
+        "name": "TaleSpin (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "22811",
+    "title": "Tatsu no Ko Fighter",
+    "hashes": [
+      {
+        "md5": "3a12c1ffbf5773f52a6d327cbfe0b214",
+        "name": "Tatsunoko Fighter (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 45,
+      "points": 0
+    }
+  },
+  {
+    "id": "18735",
+    "title": "Tatsujin",
+    "hashes": [
+      {
+        "md5": "0674f72871d7a779d262b519d244e33a",
+        "name": "Tatsujin (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33552",
+    "title": "Ten no Koe Bank",
+    "hashes": [
+      {
+        "md5": "e0047b06dc84cb242cced8c5fa7efafe",
+        "name": "Ten no Koe Bank (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "18750",
+    "title": "Tenseiryuu: Saint Dragon",
+    "hashes": [
+      {
+        "md5": "92857243d4e985f1a58bec9cb2e16d58",
+        "name": "Tenseiryuu - Saint Dragon (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "12506",
+    "title": "Terra Cresta II",
+    "hashes": [
+      {
+        "md5": "64716e1013c5230e25f0249d8e641d5b",
+        "name": "Terra Cresta II - Mandoler no Gyakushuu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2305",
+    "title": "The Legendary Axe",
+    "hashes": [
+      {
+        "md5": "09f944f6c28cf77d17dd668e9cc160f7",
+        "name": "Makyou Densetsu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "0a123d34a3fa9466d35809564c7007aa",
+        "name": "pce/makyoden.7z <Makyou Densetsu>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "aebb01821eea22215eb7ebec67c8fe38",
+        "name": "tg16/legaxe.7z <The Legendary Axe>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f69b506237ce7d05e7f839d2cc96ab5a",
+        "name": "Legendary Axe, The (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 42,
+      "points": 0
+    }
+  },
+  {
+    "id": "2304",
+    "title": "The Legendary Axe II",
+    "hashes": [
+      {
+        "md5": "fbcbb34f678f6f70795bde96d295bc2f",
+        "name": "Legendary Axe II (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "2176",
+    "title": "The NewZealand Story",
+    "hashes": [
+      {
+        "md5": "553dd0a65c0d060290f66c820ca94b1c",
+        "name": "NewZealand Story, The (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "8716",
+    "title": "The Ninja Warriors",
+    "hashes": [
+      {
+        "md5": "cd67ad6c5e69636c63d5cda218471738",
+        "name": "Ninja Warriors, The (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "14220",
+    "title": "Thunder Blade",
+    "hashes": [
+      {
+        "md5": "b4bf32b4d986fa5f53115c3f361a8679",
+        "name": "Thunder Blade (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2332",
+    "title": "Tiger Road",
+    "hashes": [
+      {
+        "md5": "189aec122ac913609c955c7c62aaa2e2",
+        "name": "Tiger Road (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2333",
+    "title": "Time Cruise",
+    "hashes": [
+      {
+        "md5": "28efe8b957a43facba53afe2aec38a69",
+        "name": "Time Cruise (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22812",
+    "title": "Titan",
+    "hashes": [
+      {
+        "md5": "a9f182b617533d24200b4e39b2b311ad",
+        "name": "Titan (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8554",
+    "title": "Toilet Kids",
+    "hashes": [
+      {
+        "md5": "7759f9e0a001483ae1fa2ea2a186e4c1",
+        "name": "Toilet Kids (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "ef73d4d3e1c73f0bdb821c1d1eac53f6",
+        "name": "pce/toiletk.7z <Toilet Kids>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 17,
+      "points": 0
+    }
+  },
+  {
+    "id": "18751",
+    "title": "Toy Shop Boys",
+    "hashes": [
+      {
+        "md5": "982f85207499ecd6530fcd6e18e2061c",
+        "name": "Toy Shop Boys (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2335",
+    "title": "Tricky Kick",
+    "hashes": [
+      {
+        "md5": "8621c1eed634bddc9d232bb303a2c260",
+        "name": "Tricky Kick (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 24,
+      "points": 0
+    }
+  },
+  {
+    "id": "22813",
+    "title": "Tsuppari Oozumou: Heisei Ban",
+    "hashes": [
+      {
+        "md5": "6c75e08df27d78da7e6607782374576d",
+        "name": "Tsuppari Oozumou - Heisei Ban (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22814",
+    "title": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game",
+    "hashes": [
+      {
+        "md5": "191df80c4ead5f5acdb24c7ec2c93331",
+        "name": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2336",
+    "title": "Turrican",
+    "hashes": [
+      {
+        "md5": "52d40c4e0a8435308c22c69a54e4baae",
+        "name": "Turrican (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16974",
+    "title": "TV Sports Basketball",
+    "hashes": [
+      {
+        "md5": "36da17b2e751ec8660bb12f9cb2eb6b2",
+        "name": "TV Sports Basketball (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16975",
+    "title": "TV Sports Football",
+    "hashes": [
+      {
+        "md5": "94dc4d0d2a35a151b01f8a0433b12b12",
+        "name": "TV Sports Football (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16976",
+    "title": "TV Sports Hockey",
+    "hashes": [
+      {
+        "md5": "85b530cc0513f23f1bcced8be7f7e503",
+        "name": "TV Sports Hockey (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "7222",
+    "title": "Valkyrie no Densetsu",
+    "hashes": [
+      {
+        "md5": "c8e415bf9bf74284e51f8d96a22caff5",
+        "name": "Valkyrie no Densetsu (Japan) (En) (v1.0) (cabbage,Shawn Cox).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "f08a37d37a69315652e1a0ec8dbba650",
+        "name": "Valkyrie no Densetsu (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 26,
+      "points": 0
+    }
+  },
+  {
+    "id": "2337",
+    "title": "Veigues: Tactical Gladiator",
+    "hashes": [
+      {
+        "md5": "757754c27f380ce3f574bb861d641247",
+        "name": "Veigues - Tactical Gladiator (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2338",
+    "title": "Victory Run",
+    "hashes": [
+      {
+        "md5": "bc4361c967514ef29293778ad748a6b7",
+        "name": "Victory Run (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "2339",
+    "title": "Vigilante",
+    "hashes": [
+      {
+        "md5": "4333192a22a121772356d3821d445a69",
+        "name": "Vigilante (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "589f7ceb0bd851f6442e53858a0dc51c",
+        "name": "Vigilante (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "a436b36f115a8114141862406c610c6b",
+        "name": "pce/vigilant.7z <Vigilante>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      },
+      {
+        "md5": "e7f9551698c91b7a3ec3c3d840628940",
+        "name": "tg16/vigilant.7z <Vigilante>",
+        "labels": [
+          "fbneo"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 13,
+      "points": 0
+    }
+  },
+  {
+    "id": "5467",
+    "title": "Volfied",
+    "hashes": [
+      {
+        "md5": "998cfe18bf12b235462d21eb6d80c25f",
+        "name": "Volfied (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 54,
+      "points": 0
+    }
+  },
+  {
+    "id": "18752",
+    "title": "W-Ring: The Double Rings",
+    "hashes": [
+      {
+        "md5": "7c5f8476e6b5ec9e56f4b67a00f022e7",
+        "name": "W-Ring - The Double Rings (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "30743",
+    "title": "Wai Wai Mahjong: Yukai na Janyuu-tachi",
+    "hashes": [
+      {
+        "md5": "7b0ed7b884b3d6690c3a586c682f3adc",
+        "name": "Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22815",
+    "title": "Wallaby!!: Usagi no Kuni no Kangaroo Race",
+    "hashes": [
+      {
+        "md5": "597331c0b7cf491d042a055ed1e2ab9e",
+        "name": "Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "21968",
+    "title": "Winning Shot",
+    "hashes": [
+      {
+        "md5": "039fb7644dc73ded9744a1d73fde9e72",
+        "name": "Winning Shot (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8360",
+    "title": "Wonder Momo",
+    "hashes": [
+      {
+        "md5": "367c426ccd7b9ce45e86a836d83d17db",
+        "name": "Wonder Momo (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      },
+      {
+        "md5": "029c30f28af4578ecbff5697ad1e772f",
+        "name": "Wonder Momo (Japan) (En) (v1.0) (Filler,Dave Shadoff,Diogo Ribeiro).pce",
+        "labels": [
+          "nointro",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 40,
+      "points": 0
+    }
+  },
+  {
+    "id": "33555",
+    "title": "World Circuit",
+    "hashes": [
+      {
+        "md5": "f6402df31096393d038585bdeafe44d5",
+        "name": "World Circuit (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16977",
+    "title": "World Class Baseball",
+    "hashes": [
+      {
+        "md5": "b125af2edd2f27e04e693b4b5112fed7",
+        "name": "World Class Baseball (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2340",
+    "title": "World Court Tennis",
+    "hashes": [
+      {
+        "md5": "994d61834e2ee91313b75618ce213971",
+        "name": "World Court Tennis (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "22816",
+    "title": "World Jockey",
+    "hashes": [
+      {
+        "md5": "5614339b28e660212ab596311f4f59d3",
+        "name": "World Jockey (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2341",
+    "title": "World Sports Competition",
+    "hashes": [
+      {
+        "md5": "e413c2a7769831419c4efc9782dc4f97",
+        "name": "World Sports Competition (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 53,
+      "points": 0
+    }
+  },
+  {
+    "id": "13130",
+    "title": "Xevious: Fardraut Saga",
+    "hashes": [
+      {
+        "md5": "4ec600e148ca399c1c1f215949430129",
+        "name": "Xevious - Fardraut Saga (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "2342",
+    "title": "Yo, Bro",
+    "hashes": [
+      {
+        "md5": "8aaad7004680ebede55b2c39af87bb3b",
+        "name": "Yo, Bro (USA).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22817",
+    "title": "You-You Jinsei",
+    "hashes": [
+      {
+        "md5": "e25d51114a230e039f8dd3b761fd23d3",
+        "name": "You-You Jinsei (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8872",
+    "title": "Youkai Douchuuki",
+    "hashes": [
+      {
+        "md5": "cd2c47eaeb842cbcfe2ebcbe5710bf61",
+        "name": "Youkai Douchuuki (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22818",
+    "title": "Zero4 Champ",
+    "hashes": [
+      {
+        "md5": "a755177ecfe1910928fa74d818a10e7c",
+        "name": "Zero4 Champ (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "22819",
+    "title": "Zipang",
+    "hashes": [
+      {
+        "md5": "749a1613022e9efe29dec953c3ecce9f",
+        "name": "Zipang (Japan).pce",
+        "labels": [
+          "nointro"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]

@@ -1,0 +1,1176 @@
+[
+  {
+    "id": "25208",
+    "title": "~Homebrew~ ~Demo~ nCraft",
+    "hashes": [
+      {
+        "md5": "146fb799a7762a32457363b63ab08ac7",
+        "name": "nCraft (World) (Alpha v0.1) (Aftermarket) (gameblabla)",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33467",
+    "title": "~Homebrew~ Anarch",
+    "hashes": [
+      {
+        "md5": "ea1e961a334487bcdca776eb385b8e6d",
+        "name": "Anarch (v1.1) (gameblabla)",
+        "labels": [
+          "github",
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "33468",
+    "title": "~Homebrew~ Cascade FX",
+    "hashes": [
+      {
+        "md5": "75073ceaec9b419146155f39475ab814",
+        "name": "Cascade FX (Alpha 0.3) (gameblabla)",
+        "labels": [
+          "github",
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "19912",
+    "title": "~Homebrew~ Simple Battle FX",
+    "hashes": [
+      {
+        "md5": "3c576145aee0c0b78245bbae4870be8a",
+        "name": "Simple Battle FX (World) (Aftermarket) (gameblabla)",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 8,
+      "points": 0
+    }
+  },
+  {
+    "id": "16462",
+    "title": "~Homebrew~ Soviet Union 2010",
+    "hashes": [
+      {
+        "md5": "770aaf1214a145ba2b1511b0de752a24",
+        "name": "Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)",
+        "labels": [
+          "homebrew",
+          "lostlevel"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 14,
+      "points": 0
+    }
+  },
+  {
+    "id": "16416",
+    "title": "Aa! Megami-sama",
+    "hashes": [
+      {
+        "md5": "9b918078179dea22109aa546e2cde381",
+        "name": "Aa! Megami-sama (Japan) (Disc 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16417",
+    "title": "Akazukin Chacha: Osawagase! Panic Race!",
+    "hashes": [
+      {
+        "md5": "f6a842b53b2af1e4d50df6a99c35e0f9",
+        "name": "Akazukin ChaCha - Osawagase! Panic Race! (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16418",
+    "title": "Albaria no Otome",
+    "hashes": [
+      {
+        "md5": "61000ec612ef5e791664b8ba25498bb2",
+        "name": "Albaria no Otome (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16453",
+    "title": "Angelique Special",
+    "hashes": [
+      {
+        "md5": "fb463c92bbb789de72f8ddd46ad6e155",
+        "name": "Angelique Special (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16420",
+    "title": "Angelique Special 2",
+    "hashes": [
+      {
+        "md5": "40fadc4702c80ed382dcae28e7f5bc6e",
+        "name": "Angelique Special 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16419",
+    "title": "Angelique: Tenkuu no Requiem",
+    "hashes": [
+      {
+        "md5": "26f54bf6370dfa6a70a546770907feed",
+        "name": "Angelique - Tenkuu no Requiem (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "13339",
+    "title": "Battle Heat!",
+    "hashes": [
+      {
+        "md5": "7511f808929b912962e468daba4fe844",
+        "name": "Battle Heat (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 36,
+      "points": 0
+    }
+  },
+  {
+    "id": "16427",
+    "title": "Blue Breaker: Ken yori mo Hohoemi o",
+    "hashes": [
+      {
+        "md5": "48ccd27eba3fb28f9d0ebdc94bbec8f6",
+        "name": "Blue Breaker - Ken yori mo Hohoemi o (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16428",
+    "title": "Boundary Gate: Daughter of Kingdom",
+    "hashes": [
+      {
+        "md5": "f5f2f755754a0441930235c03e7ca2f2",
+        "name": "Boundary Gate - Daughter of Kingdom (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16429",
+    "title": "Can Can Bunny Extra DX",
+    "hashes": [
+      {
+        "md5": "0f0829fe3b2bd4c6bada423a95fee974",
+        "name": "Can Can Bunny Extra DX (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9961",
+    "title": "Chip-chan Kick!",
+    "hashes": [
+      {
+        "md5": "a83a3f08d17c4da8ac8f8e8e370c7b53",
+        "name": "Chip-chan Kick! (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 21,
+      "points": 0
+    }
+  },
+  {
+    "id": "9940",
+    "title": "Choujin Heiki Zeroigar",
+    "hashes": [
+      {
+        "md5": "980b1c05ffa2a6c388d4364f29a758c9",
+        "name": "Choujin Heiki Zeroigar (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "b4aa155ab9b800311efb3d70631189ed",
+        "name": "Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 53,
+      "points": 0
+    }
+  },
+  {
+    "id": "16430",
+    "title": "Comic Road",
+    "hashes": [
+      {
+        "md5": "cfa7fab977b882e5c726ed7c8eec448f",
+        "name": "Comic Road (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16439",
+    "title": "Der Langrisser FX",
+    "hashes": [
+      {
+        "md5": "cb1c2ca718dfa29a5bb74d2aa9352f17",
+        "name": "Langrisser FX, Der (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16431",
+    "title": "Doukyuusei 2",
+    "hashes": [
+      {
+        "md5": "dddbab4d06a2d1d30641adbf914c13b8",
+        "name": "Doukyuusei 2 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "3099",
+    "title": "Dragon Knight 4",
+    "hashes": [
+      {
+        "md5": "7266a6c566f77bf2f39b66782e9ba2cf",
+        "name": "Dragon Knight 4 (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "8112",
+    "title": "Farland Story FX",
+    "hashes": [
+      {
+        "md5": "33ceed42dba0b58bec1e0e1249cd4582",
+        "name": "Farland Story FX (Japan) (En) (v2.0) (Djlpap)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "6be42cbb531a2102b275ccf9e9007322",
+        "name": "Farland Story FX (Japan) (En) (v1.0) (Djlpap)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "7112",
+    "title": "Fire Woman Matoigumi",
+    "hashes": [
+      {
+        "md5": "8383b501d5e967aa7324143b9ac3ee54",
+        "name": "Fire Woman Matoigumi (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16432",
+    "title": "First Kiss Story",
+    "hashes": [
+      {
+        "md5": "1a877f1d6317af9750f77e71e8681033",
+        "name": "First Kiss Story (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16433",
+    "title": "Fushigi no Kuni no Angelique",
+    "hashes": [
+      {
+        "md5": "ffdb69b799989c953ae2053cbde7e87d",
+        "name": "Fushigi no Kuni no Angelique (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16434",
+    "title": "Ginga Ojousama Densetsu Yuna FX: Kanashimi no Selene",
+    "hashes": [
+      {
+        "md5": "d193dee874bafbda2122340bfb7cd715",
+        "name": "Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 18,
+      "points": 0
+    }
+  },
+  {
+    "id": "16435",
+    "title": "Hataraku Shoujo: Tekipaki Working Love FX",
+    "hashes": [
+      {
+        "md5": "bc0ee84cb97fd7f1335c55273e7b89f9",
+        "name": "Hataraku Shoujo - Tekipaki Working Love FX (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16436",
+    "title": "J. B. Harold: Blue Chicago Blues",
+    "hashes": [
+      {
+        "md5": "4eaaad6532c74a9ffdff85a971afe43c",
+        "name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 19,
+      "points": 0
+    }
+  },
+  {
+    "id": "9525",
+    "title": "Kishin Douji Zenki FX: Vajura Fight",
+    "hashes": [
+      {
+        "md5": "75b75e4bb1337e55ba75ac3cefc24844",
+        "name": "Kishin Douji Zenki FX - Vajra Fight (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "16437",
+    "title": "Kokuu Hyouryuu: Nirgends",
+    "hashes": [
+      {
+        "md5": "7c934b048c659fe1440975d7ed23a79e",
+        "name": "Kokuu Hyouryuu - Nirgends (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16438",
+    "title": "Konpeki no Kantai",
+    "hashes": [
+      {
+        "md5": "3f21becda712aafbb043643040f2fab9",
+        "name": "Konpeki no Kantai (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9373",
+    "title": "Last Imperial Prince",
+    "hashes": [
+      {
+        "md5": "b62aad2fb95226bf6ae234a0deb9b53f",
+        "name": "Last Imperial Prince (Japan) (Disc A)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c434170699bfd0273842ce563e9c42e0",
+        "name": "Last Imperial Prince (Japan) (Disc B)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 37,
+      "points": 0
+    }
+  },
+  {
+    "id": "16440",
+    "title": "Lunatic Dawn FX",
+    "hashes": [
+      {
+        "md5": "d1842c9e0e25e13d6475ec27e3363134",
+        "name": "Lunatic Dawn FX (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16442",
+    "title": "Mahjong Gokuu Tenjiku",
+    "hashes": [
+      {
+        "md5": "e8345e33af81b57cf8d69aecb8f4a4a6",
+        "name": "Mahjong Gokuu Tenjiku (Japan) (SABS)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16445",
+    "title": "Makeruna! Makendou Z",
+    "hashes": [
+      {
+        "md5": "759bdf3d8282c84dc79530d0d9340155",
+        "name": "Makeruna! Makendou Z (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16446",
+    "title": "Megami Paradise II",
+    "hashes": [
+      {
+        "md5": "84f44ad234ccb5b89d6e2a2dbe55c691",
+        "name": "Megami Paradise II (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16447",
+    "title": "Minimum Nanonic",
+    "hashes": [
+      {
+        "md5": "17a9ecd3a6569d69307cf668a1a2d675",
+        "name": "Minimum Nanonic (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16448",
+    "title": "Miraculum: The Last Revelation",
+    "hashes": [
+      {
+        "md5": "8f3fd1415e179b17f5ca60cc5b3ecc55",
+        "name": "Miraculum - The Last Revelation (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16449",
+    "title": "Ojousama Sousamou",
+    "hashes": [
+      {
+        "md5": "fdb74cbc009efab136f7fad8a4b99fb1",
+        "name": "Ojousama Sousamou (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16450",
+    "title": "Pachio-kun FX: Maboroshi no Shima Daisakusen",
+    "hashes": [
+      {
+        "md5": "9c79291556d0b54a88c27420eced095a",
+        "name": "Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 28,
+      "points": 0
+    }
+  },
+  {
+    "id": "9786",
+    "title": "Pia Carrot e Youkoso!! We've Been Waiting for You",
+    "hashes": [
+      {
+        "md5": "7112e47698346656e5ba5656e11c0a86",
+        "name": "Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "cdcdafd82876f1fbf532237c05b9e1fe",
+        "name": "Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16454",
+    "title": "Power Dolls FX",
+    "hashes": [
+      {
+        "md5": "1982933e6620687f0bf5b90f7a38dfdc",
+        "name": "Power DoLLS FX (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "16455",
+    "title": "Return to Zork",
+    "hashes": [
+      {
+        "md5": "52edc3b3b0998ff36fd43c55dcdbc968",
+        "name": "Return to Zork (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 47,
+      "points": 0
+    }
+  },
+  {
+    "id": "16456",
+    "title": "Ruruli Ra Rura",
+    "hashes": [
+      {
+        "md5": "2d67b1f38dd790b291b4909d81bba85b",
+        "name": "Ruruli Ra Rura (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "c363414552441e754f484d7fdf6a4381",
+        "name": "Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 25,
+      "points": 0
+    }
+  },
+  {
+    "id": "16457",
+    "title": "Same Game FX",
+    "hashes": [
+      {
+        "md5": "a6ebfd36eb2560d65d611b3b933ffe93",
+        "name": "Same Game FX (Japan) (NEC PC-FXGA)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16458",
+    "title": "Shanghai: Banri no Choujou",
+    "hashes": [
+      {
+        "md5": "b66c6490791269a180ff82097ee762a0",
+        "name": "Shanghai - Banri no Choujou (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 34,
+      "points": 0
+    }
+  },
+  {
+    "id": "16459",
+    "title": "Sotsugyou II FX: Neo Generation",
+    "hashes": [
+      {
+        "md5": "f6a13494f6fd97d46ea7c8a98c221860",
+        "name": "Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16460",
+    "title": "Sotsugyou R: Graduation Real",
+    "hashes": [
+      {
+        "md5": "635819ceb28dbf8ac83be6dc5fa8ce50",
+        "name": "Sotsugyou R - Graduation Real (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16461",
+    "title": "Sparkling Feather",
+    "hashes": [
+      {
+        "md5": "e978edd3c9bc80d66fba693e9f2c77b6",
+        "name": "Sparkling Feather (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16463",
+    "title": "Super Power League FX",
+    "hashes": [
+      {
+        "md5": "8db3639a1aedaecf03bc90a3830dde43",
+        "name": "Super Power League FX (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 47,
+      "points": 0
+    }
+  },
+  {
+    "id": "16464",
+    "title": "Super Real Mahjong P.V FX",
+    "hashes": [
+      {
+        "md5": "de08e432ae7ccfc242587893c7409530",
+        "name": "Super Real Mahjong P.V FX (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 22,
+      "points": 0
+    }
+  },
+  {
+    "id": "16465",
+    "title": "Team Innocent: The Point of No Return - G.C.P.O.SS",
+    "hashes": [
+      {
+        "md5": "3827b255e716ef0670378fb6e0b47fb1",
+        "name": "Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "d81df118af451d20fdf7d70a631cd189",
+        "name": "Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9) (Derek Pascarella)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      },
+      {
+        "md5": "02ebdbd5b1a2193143b45296ea15fbb8",
+        "name": "Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella)",
+        "labels": [
+          "redump",
+          "rapatches"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16466",
+    "title": "Tenchi Muyo! Ryououki FX",
+    "hashes": [
+      {
+        "md5": "635955546939e5cf27575565b51f22ab",
+        "name": "Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "678d7e3ac8afb25d7740b8203b184877",
+        "name": "Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "9995",
+    "title": "Tengai Makyou: Karakuri Kakutoden",
+    "hashes": [
+      {
+        "md5": "8cf787a9459f25def0245b5bcee16bfd",
+        "name": "Tengai Makyou - Dennou Karakuri Kakutouden (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 11,
+      "points": 0
+    }
+  },
+  {
+    "id": "16467",
+    "title": "Tokimeki Card Paradise: Koi no Royal Straight Flush",
+    "hashes": [
+      {
+        "md5": "3e7dbbeaba3a3e2bfe5d8b257b90e1a5",
+        "name": "Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 15,
+      "points": 0
+    }
+  },
+  {
+    "id": "16468",
+    "title": "Tonari no Princess Rolfee!",
+    "hashes": [
+      {
+        "md5": "561dd9280c9241726868b3a20ca38725",
+        "name": "Tonari no Princess Rolfee! (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16469",
+    "title": "Voice Paradise",
+    "hashes": [
+      {
+        "md5": "4d44d927f2db19dfe8b560fc5be20cd9",
+        "name": "Voice Paradise (Japan) (Disc A)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16470",
+    "title": "Wakusei Koukitai: Little Cats",
+    "hashes": [
+      {
+        "md5": "522a4ca8d226c47265f6f774dc9d3b5d",
+        "name": "Wakusei Koukitai - Little Cats (Japan)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16471",
+    "title": "Zen Nihon Joshi Pro Wrestle: Queen of Queens",
+    "hashes": [
+      {
+        "md5": "4491dd9095ab36f782c9018f600ea3c9",
+        "name": "Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "70fab27a9dbba64a14a02baa3afa2d4b",
+        "name": "Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  },
+  {
+    "id": "16472",
+    "title": "Zoku Hatsukoi Monogatari: Shuugaku Ryokou",
+    "hashes": [
+      {
+        "md5": "00ed736264b368c3bf781c73443d92b5",
+        "name": "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      },
+      {
+        "md5": "3c09799b15f7f1cbdc18447c9937dea9",
+        "name": "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2)",
+        "labels": [
+          "redump"
+        ],
+        "status": null
+      }
+    ],
+    "extended_info": {
+      "num_achievements": 0,
+      "points": 0
+    }
+  }
+]
