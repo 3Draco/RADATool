@@ -1,3 +1,6 @@
+<!--START_SECTION:buy-me-a-coffee-->
+<!--END_SECTION:buy-me-a-coffe-->
+
 RADATool
 
 This program connects to the RetroAchievements API to gather data on games per system that have achievements.
